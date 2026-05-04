@@ -127,7 +127,6 @@ function renderCard(article) {
     </h2>
     ${article.alternateTitle ? `<p class="alt">${article.alternateTitle}</p>` : ""}
     <p class="meta">Rating: ${article.rating}</p>
-    <p class="meta">Created: ${createdDate}</p>
     ${article.authors.length ? `<p class="meta">Author: ${article.authors.join(", ")}</p>` : ""}
     <p class="tags">
       ${article.tags.map(tag => `<span>${tag}</span>`).join("")}

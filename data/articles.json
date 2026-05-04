@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-05-04T04:43:36.389Z",
+  "criteria": {
+    "tag": "scp",
+    "ratingBelow": 25,
+    "olderThanMonths": 6,
+    "count": 3
+  },
+  "articles": [
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
+      "title": "SCP-106-KO",
+      "alternateTitle": "Hanging Scroll",
+      "rating": 15,
+      "createdAt": "2022-08-19T09:13:39.000Z",
+      "tags": [
+        "artistic",
+        "extradimensional",
+        "international",
+        "portal",
+        "safe",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
+      "authors": [
+        "Subervos"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7988",
+      "title": "SCP-7988",
+      "alternateTitle": "Mood/luck displacement factors",
+      "rating": 15,
+      "createdAt": "2022-12-06T14:48:00.000Z",
+      "tags": [
+        "empathic",
+        "esoteric-class",
+        "probability",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9229",
+      "title": "SCP-9229",
+      "alternateTitle": "O Sancta Simplicitas!",
+      "rating": 6,
+      "createdAt": "2025-10-04T01:06:28.000Z",
+      "tags": [
+        "9000",
+        "abnormalities",
+        "apocalyptic",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "euclid",
+        "explained",
+        "extraterrestrial",
+        "horror",
+        "language",
+        "mechanical",
+        "moon",
+        "pattern-screamer",
+        "reality-bending",
+        "science-fiction",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:9000contestblackmonday-0/Iapetus_Voyager2_flyby_sequence.jpg",
+      "authors": [
+        "BlackMonday"
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   background: #fff;
-  color: #b01;
+  color: #633;
 }
 
 main {
@@ -56,6 +56,8 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
+  background: #633;
+  color: #eee;
 }
 
 .tags span {

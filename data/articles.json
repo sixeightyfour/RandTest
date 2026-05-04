@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T05:49:37.977Z",
+  "updatedAt": "2026-05-04T10:05:18.685Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8709",
-      "title": "SCP-8709",
-      "alternateTitle": "Pleroma",
-      "rating": 19,
-      "createdAt": "2024-04-12T00:57:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-841-ko",
+      "title": "SCP-841-KO",
+      "alternateTitle": "Antimeme Expert Lee Hanseok",
+      "rating": 21,
+      "createdAt": "2023-02-07T09:19:56.000Z",
       "tags": [
-        "esoteric-class",
-        "k-class-scenario",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8709/LighthouseSCP6888.jpg",
-      "authors": [
-        "Petdoc1991"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6022",
-      "title": "SCP-6022",
-      "alternateTitle": "Of Two Different Natures",
-      "rating": 17,
-      "createdAt": "2021-05-31T13:42:33.000Z",
-      "tags": [
-        "6000",
-        "alive",
-        "animal",
-        "compulsion",
-        "dream",
-        "euclid",
-        "faerie",
-        "fantasy",
-        "forest",
-        "location",
-        "memetic",
-        "microscopic",
-        "mythological",
-        "nameless",
-        "plant",
-        "scp",
-        "snake",
-        "tree",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dark_Forest.jpg",
-      "authors": [
-        "dababyconvertible"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-2304",
-      "title": "SCP-CN-2304",
-      "alternateTitle": "The Sun is Tired of Rising",
-      "rating": 22,
-      "createdAt": "2022-06-12T01:35:08.000Z",
-      "tags": [
+        "computer",
         "international",
-        "k-class-scenario",
-        "ritual",
-        "scp",
-        "sun",
-        "thaumiel"
+        "knowledge",
+        "media",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-841-ko/ee.png",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8511",
+      "title": "SCP-8511",
+      "alternateTitle": "They Don’t Even Have Dental",
+      "rating": 10,
+      "createdAt": "2025-07-10T04:21:01.000Z",
+      "tags": [
+        "alive",
+        "cognitohazard",
+        "doctor-cimmerian",
+        "doctor-gears",
+        "humanoid",
+        "memetic",
+        "mind-affecting",
+        "neutralized",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DouglasLiu",
-        "tetsusquared"
+        "TV_Atlas"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7338",
+      "title": "SCP-7338",
+      "alternateTitle": "“Hang in there, baby!”",
+      "rating": 15,
+      "createdAt": "2023-06-11T21:44:05.000Z",
+      "tags": [
+        "addictive",
+        "artifact",
+        "empathic",
+        "euclid",
+        "mind-affecting",
+        "observational",
+        "plague-doctor",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Juneybugey1"
       ]
     }
   ]

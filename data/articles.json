@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T10:05:18.685Z",
+  "updatedAt": "2026-05-04T17:21:47.936Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-841-ko",
-      "title": "SCP-841-KO",
-      "alternateTitle": "Antimeme Expert Lee Hanseok",
-      "rating": 21,
-      "createdAt": "2023-02-07T09:19:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7883",
+      "title": "SCP-7883",
+      "alternateTitle": "Bailan las Salitreras",
+      "rating": 23,
+      "createdAt": "2023-01-21T01:44:23.000Z",
       "tags": [
-        "computer",
-        "international",
-        "knowledge",
-        "media",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-841-ko/ee.png",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8511",
-      "title": "SCP-8511",
-      "alternateTitle": "They Don’t Even Have Dental",
-      "rating": 10,
-      "createdAt": "2025-07-10T04:21:01.000Z",
-      "tags": [
-        "alive",
-        "cognitohazard",
-        "doctor-cimmerian",
-        "doctor-gears",
+        "art-exchange",
+        "auditory",
+        "city",
+        "ghost",
+        "hallucination",
+        "historical",
         "humanoid",
-        "memetic",
-        "mind-affecting",
-        "neutralized",
-        "sapient",
-        "scp"
+        "intangible",
+        "safe",
+        "scp",
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg/1024px-Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
       "authors": [
-        "TV_Atlas"
+        "Maxyfran73"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7338",
-      "title": "SCP-7338",
-      "alternateTitle": "“Hang in there, baby!”",
-      "rating": 15,
-      "createdAt": "2023-06-11T21:44:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6236",
+      "title": "SCP-6236",
+      "alternateTitle": "A Motel Elevator",
+      "rating": 21,
+      "createdAt": "2021-12-30T03:23:54.000Z",
       "tags": [
-        "addictive",
-        "artifact",
-        "empathic",
+        "building",
         "euclid",
-        "mind-affecting",
-        "observational",
-        "plague-doctor",
-        "scp"
+        "extradimensional",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
+      "authors": [
+        "Inertia_comrade"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-198-it",
+      "title": "SCP-198-IT",
+      "alternateTitle": "The Duck with Balls",
+      "rating": 6,
+      "createdAt": "2025-06-18T12:04:06.000Z",
+      "tags": [
+        "animal",
+        "aquatic",
+        "bird",
+        "euclid",
+        "hostile",
+        "international",
+        "scp",
+        "sexual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Juneybugey1"
+        "DeKoder"
       ]
     }
   ]

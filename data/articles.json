@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T04:43:36.389Z",
+  "updatedAt": "2026-05-04T05:49:37.977Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
-      "title": "SCP-106-KO",
-      "alternateTitle": "Hanging Scroll",
-      "rating": 15,
-      "createdAt": "2022-08-19T09:13:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8709",
+      "title": "SCP-8709",
+      "alternateTitle": "Pleroma",
+      "rating": 19,
+      "createdAt": "2024-04-12T00:57:51.000Z",
       "tags": [
-        "artistic",
-        "extradimensional",
-        "international",
-        "portal",
-        "safe",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
-      "authors": [
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7988",
-      "title": "SCP-7988",
-      "alternateTitle": "Mood/luck displacement factors",
-      "rating": 15,
-      "createdAt": "2022-12-06T14:48:00.000Z",
-      "tags": [
-        "empathic",
         "esoteric-class",
-        "probability",
+        "k-class-scenario",
         "scp",
         "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8709/LighthouseSCP6888.jpg",
       "authors": [
-        "guiness11"
+        "Petdoc1991"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9229",
-      "title": "SCP-9229",
-      "alternateTitle": "O Sancta Simplicitas!",
-      "rating": 6,
-      "createdAt": "2025-10-04T01:06:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6022",
+      "title": "SCP-6022",
+      "alternateTitle": "Of Two Different Natures",
+      "rating": 17,
+      "createdAt": "2021-05-31T13:42:33.000Z",
       "tags": [
-        "9000",
-        "abnormalities",
-        "apocalyptic",
-        "artifact",
-        "biohazard",
-        "body-horror",
+        "6000",
+        "alive",
+        "animal",
+        "compulsion",
+        "dream",
         "euclid",
-        "explained",
-        "extraterrestrial",
-        "horror",
-        "language",
-        "mechanical",
-        "moon",
-        "pattern-screamer",
-        "reality-bending",
-        "science-fiction",
+        "faerie",
+        "fantasy",
+        "forest",
+        "location",
+        "memetic",
+        "microscopic",
+        "mythological",
+        "nameless",
+        "plant",
         "scp",
-        "structure"
+        "snake",
+        "tree",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:9000contestblackmonday-0/Iapetus_Voyager2_flyby_sequence.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dark_Forest.jpg",
       "authors": [
-        "BlackMonday"
+        "dababyconvertible"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-2304",
+      "title": "SCP-CN-2304",
+      "alternateTitle": "The Sun is Tired of Rising",
+      "rating": 22,
+      "createdAt": "2022-06-12T01:35:08.000Z",
+      "tags": [
+        "international",
+        "k-class-scenario",
+        "ritual",
+        "scp",
+        "sun",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DouglasLiu",
+        "tetsusquared"
       ]
     }
   ]

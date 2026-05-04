@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   background: #eee;
-  color: #111;
+  color: #b01;
 }
 
 main {
@@ -27,7 +27,7 @@ h1 {
 }
 
 .card {
-  border: 1px solid #333;
+  border: 1px solid #b01;
   border-radius: 0.75rem;
   padding: 1rem;
   background: #eee;

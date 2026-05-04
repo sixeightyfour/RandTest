@@ -7,10 +7,10 @@ const WIKI_URL = "http://scp-wiki.wikidot.com";
 const TARGET_COUNT = 3;
 
 // Articles pulled per query
-const RANDOMS_PER_QUERY = 30;
+const RANDOMS_PER_QUERY = 10;
 
 // Max number of queries before throwing error
-const MAX_ATTEMPTS = 10;
+const MAX_ATTEMPTS = 30;
 
 // Maximum rating to be displayed
 const MAX_RATING = 25;
@@ -90,13 +90,32 @@ function buildQuery() {
 async function cromRequest(query) {
   const response = await fetch(CROM_ENDPOINT, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "User-Agent": "RandTest GitHub Action"
+    },
     body: JSON.stringify({ query }),
   });
 
-  const json = await response.json();
+  const text = await response.text();
+
+  let json;
+  try {
+    json = JSON.parse(text);
+  } catch {
+    console.error("Crom returned non-JSON response:");
+    console.error("Status:", response.status, response.statusText);
+    console.error("Content-Type:", response.headers.get("content-type"));
+    console.error(text.slice(0, 1000));
+
+    throw new Error(
+      `Crom returned non-JSON response: ${response.status} ${response.statusText}`
+    );
+  }
 
   if (!response.ok || json.errors) {
+    console.error(JSON.stringify(json.errors || json, null, 2));
     throw new Error(json.errors?.[0]?.message || "Crom request failed.");
   }
 

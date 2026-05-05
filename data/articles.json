@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T17:21:47.936Z",
+  "updatedAt": "2026-05-05T01:52:35.142Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7883",
-      "title": "SCP-7883",
-      "alternateTitle": "Bailan las Salitreras",
-      "rating": 23,
-      "createdAt": "2023-01-21T01:44:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8611",
+      "title": "SCP-8611",
+      "alternateTitle": "Communicable Isomerism",
+      "rating": 14,
+      "createdAt": "2025-04-14T00:43:09.000Z",
       "tags": [
-        "art-exchange",
-        "auditory",
-        "city",
-        "ghost",
-        "hallucination",
-        "historical",
-        "humanoid",
-        "intangible",
-        "safe",
+        "body-horror",
+        "contagion",
+        "euclid",
+        "horror",
+        "reality-bending",
+        "sarkic",
         "scp",
-        "visual"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg/1024px-Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8611/MeltedCandles.jpeg/medium.jpg",
       "authors": [
-        "Maxyfran73"
+        "D-Barschina"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6236",
-      "title": "SCP-6236",
-      "alternateTitle": "A Motel Elevator",
-      "rating": 21,
-      "createdAt": "2021-12-30T03:23:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8134",
+      "title": "SCP-8134",
+      "alternateTitle": "Indentured Servitude",
+      "rating": 20,
+      "createdAt": "2025-11-02T11:06:08.000Z",
       "tags": [
-        "building",
+        "esoteric-class",
+        "ethics-committee",
         "euclid",
-        "extradimensional",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
-      "authors": [
-        "Inertia_comrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-198-it",
-      "title": "SCP-198-IT",
-      "alternateTitle": "The Duck with Balls",
-      "rating": 6,
-      "createdAt": "2025-06-18T12:04:06.000Z",
-      "tags": [
-        "animal",
-        "aquatic",
-        "bird",
-        "euclid",
-        "hostile",
-        "international",
-        "scp",
-        "sexual"
+        "fire-suppression-dept",
+        "rewrite",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DeKoder"
+        "SimpleRuins"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
+      "title": "SCP-242-KO",
+      "alternateTitle": "Riventry of Cataclysm",
+      "rating": 19,
+      "createdAt": "2022-11-10T00:23:52.000Z",
+      "tags": [
+        "humanoid",
+        "international",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
+        "sapient",
+        "scp",
+        "thaumiel",
+        "uncontained"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
+      "authors": [
+        "fluxman"
       ]
     }
   ]

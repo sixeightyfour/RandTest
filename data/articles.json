@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T01:52:35.142Z",
+  "updatedAt": "2026-05-05T09:53:08.585Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8611",
-      "title": "SCP-8611",
-      "alternateTitle": "Communicable Isomerism",
-      "rating": 14,
-      "createdAt": "2025-04-14T00:43:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7627",
+      "title": "SCP-7627",
+      "alternateTitle": "Soviet Rail Gun",
+      "rating": 13,
+      "createdAt": "2025-06-15T08:50:46.000Z",
       "tags": [
-        "body-horror",
-        "contagion",
-        "euclid",
-        "horror",
-        "reality-bending",
-        "sarkic",
+        "extraterrestrial",
+        "gravity",
+        "gru-division-p",
+        "neutralized",
+        "pentagram",
         "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8611/MeltedCandles.jpeg/medium.jpg",
-      "authors": [
-        "D-Barschina"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8134",
-      "title": "SCP-8134",
-      "alternateTitle": "Indentured Servitude",
-      "rating": 20,
-      "createdAt": "2025-11-02T11:06:08.000Z",
-      "tags": [
-        "esoteric-class",
-        "ethics-committee",
-        "euclid",
-        "fire-suppression-dept",
-        "rewrite",
-        "scp"
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SimpleRuins"
+        "Nocturned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
-      "title": "SCP-242-KO",
-      "alternateTitle": "Riventry of Cataclysm",
-      "rating": 19,
-      "createdAt": "2022-11-10T00:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8469",
+      "title": "SCP-8469",
+      "alternateTitle": "Justice was Blind",
+      "rating": 18,
+      "createdAt": "2024-09-10T23:03:18.000Z",
       "tags": [
+        "anomalous-event",
+        "cognitohazard",
+        "esoteric-class",
+        "extradimensional",
         "humanoid",
-        "international",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
+        "mind-affecting",
         "sapient",
         "scp",
-        "thaumiel",
+        "sleep",
+        "tactile",
+        "thermodynamic",
         "uncontained"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carl_Rahl_-_Orestes_Pursued_by_the_Furies_%281852%29.jpg",
       "authors": [
-        "fluxman"
+        "N1ght_Scribe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3472",
+      "title": "SCP-3472",
+      "alternateTitle": "Mother Loves her Baby",
+      "rating": 22,
+      "createdAt": "2018-08-03T00:46:45.000Z",
+      "tags": [
+        "artifact",
+        "biohazard",
+        "building",
+        "indestructible",
+        "k-class-scenario",
+        "keter",
+        "light",
+        "mystery",
+        "otherworldly",
+        "romance",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3472/DaughterAnne.jpg",
+      "authors": [
+        "UraniumEmpire"
       ]
     }
   ]

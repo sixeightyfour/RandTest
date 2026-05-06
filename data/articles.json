@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T10:08:21.949Z",
+  "updatedAt": "2026-05-06T17:22:11.861Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7093",
-      "title": "SCP-7093",
-      "alternateTitle": "Luxuriant Soul, Crescent Moon",
-      "rating": 19,
-      "createdAt": "2022-12-21T02:11:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8611",
+      "title": "SCP-8611",
+      "alternateTitle": "Communicable Isomerism",
+      "rating": 14,
+      "createdAt": "2025-04-14T00:43:09.000Z",
+      "tags": [
+        "body-horror",
+        "contagion",
+        "euclid",
+        "horror",
+        "reality-bending",
+        "sarkic",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8611/MeltedCandles.jpeg/medium.jpg",
+      "authors": [
+        "D-Barschina"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8310",
+      "title": "SCP-8310",
+      "alternateTitle": "Macbetholotl",
+      "rating": 22,
+      "createdAt": "2024-11-06T22:28:32.000Z",
       "tags": [
         "alive",
+        "amphibian",
+        "animal",
+        "comedy",
         "euclid",
-        "extremity",
-        "humanoid",
+        "hostile",
         "sapient",
         "scp",
-        "telekinetic"
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/AxolotlBE.jpg",
       "authors": [
-        "azurediamond"
+        "jkdrako"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7438",
-      "title": "SCP-7438",
-      "alternateTitle": "Chicken & Fries",
-      "rating": 24,
-      "createdAt": "2025-04-13T22:08:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5961",
+      "title": "SCP-5961",
+      "alternateTitle": "Under Pressure",
+      "rating": 17,
+      "createdAt": "2022-02-06T09:03:59.000Z",
       "tags": [
-        "adaptive",
-        "document",
-        "food",
-        "observational",
-        "safe",
-        "scp"
+        "aquatic",
+        "biohazard",
+        "co-authored",
+        "fish",
+        "keter",
+        "magnetic",
+        "scp",
+        "transfiguration",
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bathyscaphe_Trieste.jpg/2000px-Bathyscaphe_Trieste.jpg",
       "authors": [
-        "VapidPoem"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8864",
-      "title": "SCP-8864",
-      "alternateTitle": "Traveling Pigeonhole Principle",
-      "rating": 14,
-      "createdAt": "2025-08-13T03:52:28.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "bird",
-        "building",
-        "euclid",
-        "mathematical",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/sasarpillsa/pigeon_tsp.jpg",
-      "authors": [
-        "sasarpillsa"
+        "Abrethe",
+        "AvocadoMilk"
       ]
     }
   ]

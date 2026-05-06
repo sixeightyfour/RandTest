@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T17:13:50.660Z",
+  "updatedAt": "2026-05-06T01:50:54.089Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
-      "title": "SCP-PL-046",
-      "alternateTitle": "Final Girl",
+      "url": "http://scp-wiki.wikidot.com/scp-6878",
+      "title": "SCP-6878",
+      "alternateTitle": "Art-Expon",
       "rating": 19,
-      "createdAt": "2022-07-14T21:10:00.000Z",
+      "createdAt": "2022-02-20T09:05:00.000Z",
       "tags": [
-        "alive",
-        "co-authored",
-        "euclid",
-        "humanoid",
-        "international",
-        "narrative",
-        "parawatch",
-        "s&c-plastics",
-        "sapient",
-        "sarkic",
-        "scp",
-        "sexual"
-      ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
-      "authors": [
-        "EvilAngel413",
-        "Zygard"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7437",
-      "title": "SCP-7437",
-      "alternateTitle": "Phlegethon",
-      "rating": 24,
-      "createdAt": "2023-12-26T02:54:03.000Z",
-      "tags": [
-        "biohazard",
-        "biological",
-        "blood",
-        "ectoentropic",
+        "amorphous",
+        "artistic",
+        "cognitohazard",
+        "inscription",
+        "keter",
         "liquid",
-        "safe",
-        "scp"
+        "mind-affecting",
+        "scp",
+        "sensory",
+        "transfiguration",
+        "uncontained",
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6878/Letter.png",
       "authors": [
-        "KingCasper"
+        "Doctor Zurvan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7304",
-      "title": "SCP-7304",
-      "alternateTitle": "Iltam Zumra Rashputi Elatim",
+      "url": "http://scp-wiki.wikidot.com/scp-2800-j",
+      "title": "SCP-2800-J",
+      "alternateTitle": "Corking the Beast in the Desert",
+      "rating": 23,
+      "createdAt": "2024-01-28T17:59:03.000Z",
+      "tags": [
+        "children-of-the-night",
+        "joke",
+        "k-class-scenario",
+        "keter",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2800-j/CorkBottle.png",
+      "authors": [
+        "Reasonably Psychotic"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3971",
+      "title": "SCP-3971",
+      "alternateTitle": "Utility Closet SB3-117a",
       "rating": 22,
-      "createdAt": "2023-07-09T08:08:59.000Z",
+      "createdAt": "2018-07-15T17:31:51.000Z",
       "tags": [
         "artifact",
-        "building",
         "extradimensional",
-        "inscription",
+        "portal",
         "safe",
-        "scp"
+        "scp",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
       "authors": [
-        "jaboi"
+        "IsaacTalman"
       ]
     }
   ]

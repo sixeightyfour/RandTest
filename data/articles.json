@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T01:50:54.089Z",
+  "updatedAt": "2026-05-06T10:08:21.949Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6878",
-      "title": "SCP-6878",
-      "alternateTitle": "Art-Expon",
+      "url": "http://scp-wiki.wikidot.com/scp-7093",
+      "title": "SCP-7093",
+      "alternateTitle": "Luxuriant Soul, Crescent Moon",
       "rating": 19,
-      "createdAt": "2022-02-20T09:05:00.000Z",
+      "createdAt": "2022-12-21T02:11:44.000Z",
       "tags": [
-        "amorphous",
-        "artistic",
-        "cognitohazard",
-        "inscription",
-        "keter",
-        "liquid",
-        "mind-affecting",
+        "alive",
+        "euclid",
+        "extremity",
+        "humanoid",
+        "sapient",
         "scp",
-        "sensory",
-        "transfiguration",
-        "uncontained",
-        "visual"
+        "telekinetic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6878/Letter.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Doctor Zurvan"
+        "azurediamond"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2800-j",
-      "title": "SCP-2800-J",
-      "alternateTitle": "Corking the Beast in the Desert",
-      "rating": 23,
-      "createdAt": "2024-01-28T17:59:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7438",
+      "title": "SCP-7438",
+      "alternateTitle": "Chicken & Fries",
+      "rating": 24,
+      "createdAt": "2025-04-13T22:08:10.000Z",
       "tags": [
-        "children-of-the-night",
-        "joke",
-        "k-class-scenario",
-        "keter",
-        "scp",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2800-j/CorkBottle.png",
-      "authors": [
-        "Reasonably Psychotic"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3971",
-      "title": "SCP-3971",
-      "alternateTitle": "Utility Closet SB3-117a",
-      "rating": 22,
-      "createdAt": "2018-07-15T17:31:51.000Z",
-      "tags": [
-        "artifact",
-        "extradimensional",
-        "portal",
+        "adaptive",
+        "document",
+        "food",
+        "observational",
         "safe",
-        "scp",
-        "teleportation"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "IsaacTalman"
+        "VapidPoem"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8864",
+      "title": "SCP-8864",
+      "alternateTitle": "Traveling Pigeonhole Principle",
+      "rating": 14,
+      "createdAt": "2025-08-13T03:52:28.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "bird",
+        "building",
+        "euclid",
+        "mathematical",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/sasarpillsa/pigeon_tsp.jpg",
+      "authors": [
+        "sasarpillsa"
       ]
     }
   ]

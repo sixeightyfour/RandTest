@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T17:22:11.861Z",
+  "updatedAt": "2026-05-07T01:55:15.394Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8611",
-      "title": "SCP-8611",
-      "alternateTitle": "Communicable Isomerism",
-      "rating": 14,
-      "createdAt": "2025-04-14T00:43:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7018",
+      "title": "SCP-7018",
+      "alternateTitle": "The Long Winding Road",
+      "rating": 20,
+      "createdAt": "2022-08-01T03:59:07.000Z",
       "tags": [
-        "body-horror",
-        "contagion",
-        "euclid",
-        "horror",
-        "reality-bending",
-        "sarkic",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8611/MeltedCandles.jpeg/medium.jpg",
-      "authors": [
-        "D-Barschina"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8310",
-      "title": "SCP-8310",
-      "alternateTitle": "Macbetholotl",
-      "rating": 22,
-      "createdAt": "2024-11-06T22:28:32.000Z",
-      "tags": [
+        "7000",
         "alive",
-        "amphibian",
-        "animal",
-        "comedy",
+        "chaos-insurgency",
+        "co-authored",
+        "doctor-thereven",
         "euclid",
-        "hostile",
+        "herman-fuller",
+        "humanoid",
+        "light",
+        "marshall-carter-and-dark",
+        "meta",
+        "reality-bending",
         "sapient",
         "scp",
-        "weapon"
+        "serpents-hand",
+        "wandsmen"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/AxolotlBE.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clarice_Brown%2C_19%2C_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston%2C_West_Virginia_-_NARA_-_556470.jpg",
       "authors": [
-        "jkdrako"
+        "Cole 13",
+        "MetalRavioli",
+        "TopDownUnder"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5961",
-      "title": "SCP-5961",
-      "alternateTitle": "Under Pressure",
-      "rating": 17,
-      "createdAt": "2022-02-06T09:03:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8119",
+      "title": "SCP-8119",
+      "alternateTitle": "Lies Behind the Lens",
+      "rating": 21,
+      "createdAt": "2024-08-19T19:16:09.000Z",
       "tags": [
-        "aquatic",
-        "biohazard",
-        "co-authored",
-        "fish",
-        "keter",
-        "magnetic",
+        "are-we-cool-yet",
+        "doctor-kondraki",
+        "photographic",
+        "safe",
         "scp",
-        "transfiguration",
+        "telepathic",
+        "tool",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nikon_F_Cameras.jpg",
+      "authors": [
+        "ClaudeHinton"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8659",
+      "title": "SCP-8659",
+      "alternateTitle": "Broken Colossus",
+      "rating": 14,
+      "createdAt": "2024-12-07T22:26:24.000Z",
+      "tags": [
+        "broken-god",
+        "esoteric-class",
+        "global-occult-coalition",
+        "robotic",
+        "scp",
+        "serpents-hand",
         "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bathyscaphe_Trieste.jpg/2000px-Bathyscaphe_Trieste.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Abrethe",
-        "AvocadoMilk"
+        "Qelper"
       ]
     }
   ]

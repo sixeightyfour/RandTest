@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:14:07.770Z",
+  "updatedAt": "2026-05-07T17:40:45.121Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8167",
-      "title": "SCP-8167",
-      "alternateTitle": "Hot Wheels",
-      "rating": 4,
-      "createdAt": "2025-06-16T02:39:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6053",
+      "title": "SCP-6053",
+      "alternateTitle": "Dead Elysium",
+      "rating": 16,
+      "createdAt": "2021-11-12T21:35:22.000Z",
       "tags": [
-        "abnormalities",
-        "director-bold",
-        "mind-affecting",
+        "cadaver",
+        "extradimensional",
+        "location",
+        "portal",
         "safe",
         "scp",
-        "sleep",
-        "toy",
-        "vehicle"
+        "serpents-hand"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
+      "thumbnailUrl": "",
       "authors": [
-        "Solios"
+        "SynthPanda_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 14,
-      "createdAt": "2022-08-13T02:47:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6148",
+      "title": "SCP-6148",
+      "alternateTitle": "The Trees Have Eyes",
+      "rating": 8,
+      "createdAt": "2022-02-01T06:07:56.000Z",
       "tags": [
-        "biological",
-        "building",
+        "alive",
+        "ectoentropic",
         "euclid",
-        "fifthist",
+        "knowledge",
+        "memory-affecting",
+        "mind-affecting",
+        "narrative",
+        "plant",
+        "scp",
+        "transfiguration",
+        "tree"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Draconocor"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-130",
+      "title": "SCP-PL-130",
+      "alternateTitle": "",
+      "rating": 1,
+      "createdAt": "2025-07-03T07:33:32.000Z",
+      "tags": [
+        "autonomous",
+        "biological",
+        "euclid",
+        "humanoid",
+        "international",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
-      "title": "SCP-PL-273",
-      "alternateTitle": "The Pepsi Fleet",
-      "rating": 21,
-      "createdAt": "2023-06-24T13:25:06.000Z",
-      "tags": [
-        "aquatic",
-        "corporate",
-        "esoteric-class",
-        "from-120s-archives",
-        "gru-division-p",
-        "historical",
-        "international",
-        "marshall-carter-and-dark",
-        "military",
-        "ruprecht-carter",
-        "scp",
-        "simon-pietrykau",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
-      "authors": [
-        "Jasiu06",
-        "KubKac"
+        "IkraZeron"
       ]
     }
   ]

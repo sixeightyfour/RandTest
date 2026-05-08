@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T09:04:33.948Z",
+  "updatedAt": "2026-05-08T17:01:12.332Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8392",
-      "title": "SCP-8392",
-      "alternateTitle": "Together again, and again, and again…",
-      "rating": 19,
-      "createdAt": "2025-09-11T14:47:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1035",
+      "title": "SCP-1035",
+      "alternateTitle": "Decomposition Mitten",
+      "rating": 11,
+      "createdAt": "2011-11-20T16:32:24.000Z",
       "tags": [
-        "bleak",
-        "electromagnetic",
-        "humanoid",
-        "meteorological",
+        "biohazard",
+        "clothing",
+        "contagion",
         "safe",
-        "sapient",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
-      "authors": [
-        "Tiamat Elsen"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7402",
-      "title": "SCP-7402",
-      "alternateTitle": "Alternate Infiltrators",
-      "rating": 18,
-      "createdAt": "2025-02-22T08:44:36.000Z",
-      "tags": [
-        "esoteric-class",
-        "extradimensional",
-        "hostile",
-        "humanoid",
-        "mimetic",
-        "phenomenon",
-        "sapient",
-        "scp",
-        "uncontained"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nullscape"
+        "ed_montague"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-685",
-      "title": "SCP-685",
-      "alternateTitle": "Non-Bottomless Pit",
-      "rating": 17,
-      "createdAt": "2009-03-25T09:35:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3692",
+      "title": "SCP-3692",
+      "alternateTitle": "the notebook",
+      "rating": 5,
+      "createdAt": "2018-06-04T04:02:18.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "geological",
-        "gravity",
+        "compulsion",
+        "document",
+        "meta",
+        "mind-affecting",
+        "neutralized",
         "scp",
-        "subterranean"
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrRoger"
+        "RoseJuno"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6517",
+      "title": "SCP-6517",
+      "alternateTitle": "OstèntAtious towèr",
+      "rating": 15,
+      "createdAt": "2024-10-10T13:23:19.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "cognitohazard",
+        "k-class-scenario",
+        "keter",
+        "memetic",
+        "scp",
+        "self-repairing",
+        "self-replicating",
+        "structure"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6517/Eiffel%20tower",
+      "authors": [
+        "Dr Ch_M"
       ]
     }
   ]

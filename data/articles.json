@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T17:40:45.121Z",
+  "updatedAt": "2026-05-08T02:01:04.793Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6053",
-      "title": "SCP-6053",
-      "alternateTitle": "Dead Elysium",
-      "rating": 16,
-      "createdAt": "2021-11-12T21:35:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5517",
+      "title": "SCP-5517",
+      "alternateTitle": "Mother's Grief",
+      "rating": 24,
+      "createdAt": "2020-07-02T19:11:10.000Z",
       "tags": [
-        "cadaver",
-        "extradimensional",
-        "location",
-        "portal",
-        "safe",
-        "scp",
-        "serpents-hand"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "SynthPanda_"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6148",
-      "title": "SCP-6148",
-      "alternateTitle": "The Trees Have Eyes",
-      "rating": 8,
-      "createdAt": "2022-02-01T06:07:56.000Z",
-      "tags": [
-        "alive",
-        "ectoentropic",
-        "euclid",
-        "knowledge",
-        "memory-affecting",
-        "mind-affecting",
-        "narrative",
-        "plant",
-        "scp",
-        "transfiguration",
-        "tree"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Draconocor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-130",
-      "title": "SCP-PL-130",
-      "alternateTitle": "",
-      "rating": 1,
-      "createdAt": "2025-07-03T07:33:32.000Z",
-      "tags": [
-        "autonomous",
         "biological",
         "euclid",
         "humanoid",
-        "international",
-        "sapient",
+        "plant",
+        "reptile",
+        "sarkic",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5517/deadtree/medium.jpg",
       "authors": [
-        "IkraZeron"
+        "SincereDoomguy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
+      "title": "SCP-2014-UA-EX",
+      "alternateTitle": "SCP-2014-RU",
+      "rating": 10,
+      "createdAt": "2022-05-06T18:05:10.000Z",
+      "tags": [
+        "artifact",
+        "chemical",
+        "euclid",
+        "explained",
+        "historical",
+        "international",
+        "ritual",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "authors": [
+        "Comrade Xander"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8283",
+      "title": "SCP-8283",
+      "alternateTitle": "Carefully with tiptoe, stealing",
+      "rating": 20,
+      "createdAt": "2025-09-14T03:09:41.000Z",
+      "tags": [
+        "chicago-spirit",
+        "clothing",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8283/shoe.jpg",
+      "authors": [
+        "AlienSpaceBat"
       ]
     }
   ]

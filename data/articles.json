@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T02:01:04.793Z",
+  "updatedAt": "2026-05-08T09:04:33.948Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5517",
-      "title": "SCP-5517",
-      "alternateTitle": "Mother's Grief",
-      "rating": 24,
-      "createdAt": "2020-07-02T19:11:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8392",
+      "title": "SCP-8392",
+      "alternateTitle": "Together again, and again, and again…",
+      "rating": 19,
+      "createdAt": "2025-09-11T14:47:28.000Z",
       "tags": [
-        "biological",
-        "euclid",
+        "bleak",
+        "electromagnetic",
         "humanoid",
-        "plant",
-        "reptile",
-        "sarkic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5517/deadtree/medium.jpg",
-      "authors": [
-        "SincereDoomguy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
-      "title": "SCP-2014-UA-EX",
-      "alternateTitle": "SCP-2014-RU",
-      "rating": 10,
-      "createdAt": "2022-05-06T18:05:10.000Z",
-      "tags": [
-        "artifact",
-        "chemical",
-        "euclid",
-        "explained",
-        "historical",
-        "international",
-        "ritual",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
-      "authors": [
-        "Comrade Xander"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8283",
-      "title": "SCP-8283",
-      "alternateTitle": "Carefully with tiptoe, stealing",
-      "rating": 20,
-      "createdAt": "2025-09-14T03:09:41.000Z",
-      "tags": [
-        "chicago-spirit",
-        "clothing",
+        "meteorological",
+        "safe",
+        "sapient",
         "scp",
-        "thaumiel"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8283/shoe.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
       "authors": [
-        "AlienSpaceBat"
+        "Tiamat Elsen"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7402",
+      "title": "SCP-7402",
+      "alternateTitle": "Alternate Infiltrators",
+      "rating": 18,
+      "createdAt": "2025-02-22T08:44:36.000Z",
+      "tags": [
+        "esoteric-class",
+        "extradimensional",
+        "hostile",
+        "humanoid",
+        "mimetic",
+        "phenomenon",
+        "sapient",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Nullscape"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-685",
+      "title": "SCP-685",
+      "alternateTitle": "Non-Bottomless Pit",
+      "rating": 17,
+      "createdAt": "2009-03-25T09:35:30.000Z",
+      "tags": [
+        "euclid",
+        "extradimensional",
+        "geological",
+        "gravity",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrRoger"
       ]
     }
   ]

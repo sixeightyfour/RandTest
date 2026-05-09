@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T17:01:12.332Z",
+  "updatedAt": "2026-05-09T01:54:35.624Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1035",
-      "title": "SCP-1035",
-      "alternateTitle": "Decomposition Mitten",
-      "rating": 11,
-      "createdAt": "2011-11-20T16:32:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8659",
+      "title": "SCP-8659",
+      "alternateTitle": "Broken Colossus",
+      "rating": 14,
+      "createdAt": "2024-12-07T22:26:24.000Z",
       "tags": [
-        "biohazard",
-        "clothing",
-        "contagion",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "ed_montague"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3692",
-      "title": "SCP-3692",
-      "alternateTitle": "the notebook",
-      "rating": 5,
-      "createdAt": "2018-06-04T04:02:18.000Z",
-      "tags": [
-        "compulsion",
-        "document",
-        "meta",
-        "mind-affecting",
-        "neutralized",
+        "broken-god",
+        "esoteric-class",
+        "global-occult-coalition",
+        "robotic",
         "scp",
-        "teleportation"
+        "serpents-hand",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "RoseJuno"
+        "Qelper"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6517",
-      "title": "SCP-6517",
-      "alternateTitle": "OstèntAtious towèr",
-      "rating": 15,
-      "createdAt": "2024-10-10T13:23:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8070",
+      "title": "SCP-8070",
+      "alternateTitle": "Stereoisomerism",
+      "rating": 17,
+      "createdAt": "2024-03-19T03:18:45.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "cognitohazard",
-        "k-class-scenario",
         "keter",
-        "memetic",
+        "phenomenon",
         "scp",
-        "self-repairing",
-        "self-replicating",
-        "structure"
+        "spatial",
+        "teleportation",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6517/Eiffel%20tower",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
       "authors": [
-        "Dr Ch_M"
+        "Dr Talcite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8416",
+      "title": "SCP-8416",
+      "alternateTitle": "The Howling Face's Hiding Places",
+      "rating": 17,
+      "createdAt": "2024-04-16T11:17:56.000Z",
+      "tags": [
+        "acoustic",
+        "antimemetic",
+        "auditory",
+        "autonomous",
+        "cognitohazard",
+        "extraterrestrial",
+        "intangible",
+        "memory-affecting",
+        "moon",
+        "narrative",
+        "observational",
+        "sapient",
+        "scp",
+        "sphere",
+        "thaumiel",
+        "transmission",
+        "uncontained",
+        "vibration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8416/DTBMH4-fin1.jpg",
+      "authors": [
+        "Wildman8"
       ]
     }
   ]

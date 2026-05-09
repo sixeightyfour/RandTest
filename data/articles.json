@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T01:54:35.624Z",
+  "updatedAt": "2026-05-09T09:08:01.781Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8659",
-      "title": "SCP-8659",
-      "alternateTitle": "Broken Colossus",
-      "rating": 14,
-      "createdAt": "2024-12-07T22:26:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4571",
+      "title": "SCP-4571",
+      "alternateTitle": "Curious Creature of the Cold Red Desert",
+      "rating": 15,
+      "createdAt": "2019-02-20T00:08:29.000Z",
       "tags": [
-        "broken-god",
+        "biological",
+        "euclid",
+        "extraterrestrial",
+        "feline",
+        "gravity",
+        "plant",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Ylcomsaw"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7681",
+      "title": "SCP-7681",
+      "alternateTitle": "Illumination à Deux",
+      "rating": 13,
+      "createdAt": "2025-07-30T09:30:42.000Z",
+      "tags": [
+        "body-horror",
+        "compulsion",
         "esoteric-class",
-        "global-occult-coalition",
-        "robotic",
+        "horror",
+        "knowledge",
         "scp",
-        "serpents-hand",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Qelper"
+        "nova_break"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8070",
-      "title": "SCP-8070",
-      "alternateTitle": "Stereoisomerism",
-      "rating": 17,
-      "createdAt": "2024-03-19T03:18:45.000Z",
-      "tags": [
-        "keter",
-        "phenomenon",
-        "scp",
-        "spatial",
-        "teleportation",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8416",
-      "title": "SCP-8416",
-      "alternateTitle": "The Howling Face's Hiding Places",
-      "rating": 17,
-      "createdAt": "2024-04-16T11:17:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5930",
+      "title": "SCP-5930",
+      "alternateTitle": "Just a story",
+      "rating": 20,
+      "createdAt": "2025-01-19T19:24:35.000Z",
       "tags": [
         "acoustic",
-        "antimemetic",
-        "auditory",
-        "autonomous",
-        "cognitohazard",
-        "extraterrestrial",
-        "intangible",
-        "memory-affecting",
-        "moon",
-        "narrative",
-        "observational",
-        "sapient",
+        "animal",
+        "deer",
+        "euclid",
+        "horror",
+        "hostile",
+        "meteorological",
+        "phenomenon",
+        "psychological-horror",
         "scp",
-        "sphere",
-        "thaumiel",
-        "transmission",
-        "uncontained",
-        "vibration"
+        "sensory"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8416/DTBMH4-fin1.jpg",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/brunzell2/Lunndo%CC%88rrsstugan.jpg",
       "authors": [
-        "Wildman8"
+        "Nils Severin"
       ]
     }
   ]

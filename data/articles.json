@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T09:08:01.781Z",
+  "updatedAt": "2026-05-09T16:40:55.598Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4571",
-      "title": "SCP-4571",
-      "alternateTitle": "Curious Creature of the Cold Red Desert",
-      "rating": 15,
-      "createdAt": "2019-02-20T00:08:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8334",
+      "title": "SCP-8334",
+      "alternateTitle": "Benedict Shelly's no good very bad day",
+      "rating": 24,
+      "createdAt": "2025-10-19T01:01:04.000Z",
       "tags": [
-        "biological",
-        "euclid",
-        "extraterrestrial",
-        "feline",
-        "gravity",
-        "plant",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Ylcomsaw"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7681",
-      "title": "SCP-7681",
-      "alternateTitle": "Illumination à Deux",
-      "rating": 13,
-      "createdAt": "2025-07-30T09:30:42.000Z",
-      "tags": [
-        "body-horror",
-        "compulsion",
+        "alive",
+        "black-comedy",
+        "comedy",
         "esoteric-class",
-        "horror",
-        "knowledge",
+        "humanoid",
+        "sapient",
         "scp",
-        "uncontained"
+        "transfiguration",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "nova_break"
+        "ProblemPal"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5930",
-      "title": "SCP-5930",
-      "alternateTitle": "Just a story",
-      "rating": 20,
-      "createdAt": "2025-01-19T19:24:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9750",
+      "title": "SCP-9750",
+      "alternateTitle": "A Message",
+      "rating": 5,
+      "createdAt": "2025-10-26T13:05:56.000Z",
       "tags": [
-        "acoustic",
-        "animal",
-        "deer",
-        "euclid",
-        "horror",
-        "hostile",
-        "meteorological",
-        "phenomenon",
-        "psychological-horror",
+        "chemical",
+        "document",
+        "mind-affecting",
+        "safe",
         "scp",
-        "sensory"
+        "temporal"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/brunzell2/Lunndo%CC%88rrsstugan.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/unique-name/Worn_parchment.jpeg",
       "authors": [
-        "Nils Severin"
+        "UniqueName"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8219",
+      "title": "SCP-8219",
+      "alternateTitle": "LEAF me alone",
+      "rating": 11,
+      "createdAt": "2025-08-20T11:04:58.000Z",
+      "tags": [
+        "absurdism",
+        "bureaucracy",
+        "explained",
+        "keter",
+        "parasitic",
+        "sapient",
+        "scp",
+        "telepathic"
+      ],
+      "thumbnailUrl": "https://katchakid.com/wp-content/uploads/2023/07/leaces-in-pool.jpeg.webp",
+      "authors": [
+        "poltatherian"
       ]
     }
   ]

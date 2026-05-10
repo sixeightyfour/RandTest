@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T09:21:49.349Z",
+  "updatedAt": "2026-05-10T16:42:11.074Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9750",
-      "title": "SCP-9750",
-      "alternateTitle": "A Message",
-      "rating": 5,
-      "createdAt": "2025-10-26T13:05:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-027-de-j",
+      "title": "SCP-027-DE-J",
+      "alternateTitle": "The big bad tap hen",
+      "rating": 10,
+      "createdAt": "2022-05-12T17:19:16.000Z",
       "tags": [
-        "chemical",
-        "document",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/unique-name/Worn_parchment.jpeg",
-      "authors": [
-        "UniqueName"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8583",
-      "title": "SCP-8583",
-      "alternateTitle": "Memory Bank",
-      "rating": 20,
-      "createdAt": "2025-07-15T12:14:19.000Z",
-      "tags": [
-        "currency",
-        "electrical",
-        "exchange",
-        "mechanical",
-        "memory-affecting",
-        "safe",
-        "scp",
-        "toy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "BluebriarArts"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-116-ko",
-      "title": "SCP-116-KO",
-      "alternateTitle": "House Drive",
-      "rating": 21,
-      "createdAt": "2022-10-06T13:43:43.000Z",
-      "tags": [
-        "broken-god",
-        "building",
-        "computer",
-        "electronic",
+        "animal",
+        "bird",
+        "food",
         "international",
-        "maxwellism",
-        "media",
-        "memory-affecting",
+        "joke",
+        "keter",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wikidot.com/local--files/scp-027-de-j/huhn.JPG",
+      "authors": [
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8044",
+      "title": "SCP-8044",
+      "alternateTitle": "My Starling Angel",
+      "rating": 13,
+      "createdAt": "2024-09-29T21:03:23.000Z",
+      "tags": [
+        "bird",
+        "foundation-made",
+        "neutralized",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8044/Bird2.jpg",
+      "authors": [
+        "Savanac"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5892",
+      "title": "SCP-5892",
+      "alternateTitle": "A Loyal Friend Indeed",
+      "rating": 10,
+      "createdAt": "2021-06-05T22:53:57.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "artifact",
+        "canine",
+        "photographic",
         "reality-bending",
         "safe",
-        "scp",
-        "telekinetic"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
       "authors": [
-        "Subervos"
+        "Harry F"
       ]
     }
   ]

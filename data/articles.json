@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T16:40:55.598Z",
+  "updatedAt": "2026-05-10T01:54:35.008Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8334",
-      "title": "SCP-8334",
-      "alternateTitle": "Benedict Shelly's no good very bad day",
-      "rating": 24,
-      "createdAt": "2025-10-19T01:01:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-2626",
+      "title": "SCP-CN-2626",
+      "alternateTitle": "D4C",
+      "rating": 22,
+      "createdAt": "2022-06-12T01:01:51.000Z",
       "tags": [
-        "alive",
-        "black-comedy",
-        "comedy",
+        "asci",
+        "doctor-gears",
         "esoteric-class",
-        "humanoid",
-        "sapient",
-        "scp",
-        "transfiguration",
-        "weapon"
+        "interactive",
+        "international",
+        "meta",
+        "metafiction",
+        "miscommunications",
+        "pataphysics-dept",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki-cn.wdfiles.com/local--files/scp-cn-2626/horm.jpg",
       "authors": [
-        "ProblemPal"
+        "Dr Hormress",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9750",
-      "title": "SCP-9750",
-      "alternateTitle": "A Message",
-      "rating": 5,
-      "createdAt": "2025-10-26T13:05:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3152",
+      "title": "SCP-3152",
+      "alternateTitle": "The Last Love Letter",
+      "rating": 22,
+      "createdAt": "2017-12-08T01:58:15.000Z",
       "tags": [
-        "chemical",
         "document",
-        "mind-affecting",
         "safe",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/unique-name/Worn_parchment.jpeg",
-      "authors": [
-        "UniqueName"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8219",
-      "title": "SCP-8219",
-      "alternateTitle": "LEAF me alone",
-      "rating": 11,
-      "createdAt": "2025-08-20T11:04:58.000Z",
-      "tags": [
-        "absurdism",
-        "bureaucracy",
-        "explained",
-        "keter",
-        "parasitic",
-        "sapient",
         "scp",
         "telepathic"
       ],
-      "thumbnailUrl": "https://katchakid.com/wp-content/uploads/2023/07/leaces-in-pool.jpeg.webp",
+      "thumbnailUrl": "",
       "authors": [
-        "poltatherian"
+        "Doctor Nikki"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7062",
+      "title": "SCP-7062",
+      "alternateTitle": "A Heart Run Dry",
+      "rating": 24,
+      "createdAt": "2022-10-30T19:13:17.000Z",
+      "tags": [
+        "biological",
+        "blood",
+        "neutralized",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Voiiiii"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T02:03:24.072Z",
+  "updatedAt": "2026-05-11T10:52:46.573Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8555",
-      "title": "SCP-8555",
-      "alternateTitle": "Kaleidoscope",
-      "rating": 15,
-      "createdAt": "2024-02-16T19:41:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7437",
+      "title": "SCP-7437",
+      "alternateTitle": "Phlegethon",
+      "rating": 24,
+      "createdAt": "2023-12-26T02:54:03.000Z",
       "tags": [
-        "8000",
-        "extradimensional",
-        "mind-affecting",
-        "portal",
-        "reality-bending",
+        "biohazard",
+        "biological",
+        "blood",
+        "ectoentropic",
+        "liquid",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/kaleidoscope/kaleidoscope.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Resolver"
+        "KingCasper"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7649",
-      "title": "SCP-7649",
-      "alternateTitle": "The Mystery of Storage Unit-07",
-      "rating": 6,
-      "createdAt": "2025-07-12T18:22:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6540",
+      "title": "SCP-6540",
+      "alternateTitle": "Maybe drinking alcohol out of random skulls from the 17th century is a bad idea?",
+      "rating": 23,
+      "createdAt": "2022-01-12T15:34:16.000Z",
       "tags": [
-        "building",
-        "classiccon2025",
-        "director-moose",
-        "extradimensional",
-        "horror",
-        "mystery",
+        "alcohol",
+        "artifact",
+        "cognitohazard",
+        "ectoentropic",
+        "liquid",
+        "safe",
         "scp",
-        "thaumiel"
+        "skeletal",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7649/StorageUnit07/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Comrade Waldo"
+        "SorchaSublime"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6378",
-      "title": "SCP-6378",
-      "alternateTitle": "Set Forever in Stone",
-      "rating": 22,
-      "createdAt": "2022-10-15T05:30:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8697",
+      "title": "SCP-8697",
+      "alternateTitle": "Thine",
+      "rating": 15,
+      "createdAt": "2025-10-22T04:12:18.000Z",
       "tags": [
-        "cadaver",
-        "euclid",
-        "extraterrestrial",
-        "extremity",
+        "alive",
+        "humanoid",
+        "neutralized",
+        "sapient",
         "scp",
-        "self-repairing",
-        "sphere"
+        "subterranean",
+        "surrealism"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
       "authors": [
-        "CuteFish"
+        "Anonymous"
       ]
     }
   ]

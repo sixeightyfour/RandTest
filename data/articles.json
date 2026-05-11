@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T10:52:46.573Z",
+  "updatedAt": "2026-05-11T17:49:00.025Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7437",
-      "title": "SCP-7437",
-      "alternateTitle": "Phlegethon",
-      "rating": 24,
-      "createdAt": "2023-12-26T02:54:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7647",
+      "title": "SCP-7647",
+      "alternateTitle": "Pale Behemoths",
+      "rating": 11,
+      "createdAt": "2025-04-16T18:39:08.000Z",
       "tags": [
-        "biohazard",
-        "biological",
-        "blood",
-        "ectoentropic",
-        "liquid",
-        "safe",
+        "cernunnos",
+        "extradimensional",
+        "invertebrate",
+        "predatory",
+        "scp",
+        "species",
+        "teleportation",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Kaiju Killer"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8248",
+      "title": "SCP-8248",
+      "alternateTitle": "Words Of The Father",
+      "rating": 13,
+      "createdAt": "2025-07-07T00:16:59.000Z",
+      "tags": [
+        "classiccon2025",
+        "euclid",
+        "humanoid",
+        "mystery",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8248/patrick_my-darling.png",
       "authors": [
-        "KingCasper"
+        "DewOnTheGrass"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6540",
-      "title": "SCP-6540",
-      "alternateTitle": "Maybe drinking alcohol out of random skulls from the 17th century is a bad idea?",
-      "rating": 23,
-      "createdAt": "2022-01-12T15:34:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8370",
+      "title": "SCP-8370",
+      "alternateTitle": "Fangs for That",
+      "rating": 8,
+      "createdAt": "2025-06-03T15:22:05.000Z",
       "tags": [
-        "alcohol",
-        "artifact",
-        "cognitohazard",
-        "ectoentropic",
-        "liquid",
-        "safe",
-        "scp",
-        "skeletal",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "SorchaSublime"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8697",
-      "title": "SCP-8697",
-      "alternateTitle": "Thine",
-      "rating": 15,
-      "createdAt": "2025-10-22T04:12:18.000Z",
-      "tags": [
-        "alive",
+        "animal",
+        "extradimensional",
         "humanoid",
-        "neutralized",
+        "mind-affecting",
+        "probability",
+        "safe",
         "sapient",
         "scp",
-        "subterranean",
-        "surrealism"
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Anonymous"
+        "galaxy1220"
       ]
     }
   ]

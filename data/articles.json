@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T16:42:11.074Z",
+  "updatedAt": "2026-05-11T02:03:24.072Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-027-de-j",
-      "title": "SCP-027-DE-J",
-      "alternateTitle": "The big bad tap hen",
-      "rating": 10,
-      "createdAt": "2022-05-12T17:19:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8555",
+      "title": "SCP-8555",
+      "alternateTitle": "Kaleidoscope",
+      "rating": 15,
+      "createdAt": "2024-02-16T19:41:52.000Z",
       "tags": [
-        "animal",
-        "bird",
-        "food",
-        "international",
-        "joke",
-        "keter",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wikidot.com/local--files/scp-027-de-j/huhn.JPG",
-      "authors": [
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8044",
-      "title": "SCP-8044",
-      "alternateTitle": "My Starling Angel",
-      "rating": 13,
-      "createdAt": "2024-09-29T21:03:23.000Z",
-      "tags": [
-        "bird",
-        "foundation-made",
-        "neutralized",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8044/Bird2.jpg",
-      "authors": [
-        "Savanac"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5892",
-      "title": "SCP-5892",
-      "alternateTitle": "A Loyal Friend Indeed",
-      "rating": 10,
-      "createdAt": "2021-06-05T22:53:57.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "artifact",
-        "canine",
-        "photographic",
+        "8000",
+        "extradimensional",
+        "mind-affecting",
+        "portal",
         "reality-bending",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/kaleidoscope/kaleidoscope.png",
       "authors": [
-        "Harry F"
+        "Resolver"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7649",
+      "title": "SCP-7649",
+      "alternateTitle": "The Mystery of Storage Unit-07",
+      "rating": 6,
+      "createdAt": "2025-07-12T18:22:40.000Z",
+      "tags": [
+        "building",
+        "classiccon2025",
+        "director-moose",
+        "extradimensional",
+        "horror",
+        "mystery",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7649/StorageUnit07/medium.jpg",
+      "authors": [
+        "Comrade Waldo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6378",
+      "title": "SCP-6378",
+      "alternateTitle": "Set Forever in Stone",
+      "rating": 22,
+      "createdAt": "2022-10-15T05:30:42.000Z",
+      "tags": [
+        "cadaver",
+        "euclid",
+        "extraterrestrial",
+        "extremity",
+        "scp",
+        "self-repairing",
+        "sphere"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
+      "authors": [
+        "CuteFish"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T17:49:00.025Z",
+  "updatedAt": "2026-05-12T02:00:14.464Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7647",
-      "title": "SCP-7647",
-      "alternateTitle": "Pale Behemoths",
-      "rating": 11,
-      "createdAt": "2025-04-16T18:39:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6127",
+      "title": "SCP-6127",
+      "alternateTitle": "Mariangela",
+      "rating": 23,
+      "createdAt": "2022-06-17T19:13:27.000Z",
       "tags": [
-        "cernunnos",
-        "extradimensional",
-        "invertebrate",
-        "predatory",
-        "scp",
-        "species",
-        "teleportation",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Kaiju Killer"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8248",
-      "title": "SCP-8248",
-      "alternateTitle": "Words Of The Father",
-      "rating": 13,
-      "createdAt": "2025-07-07T00:16:59.000Z",
-      "tags": [
-        "classiccon2025",
+        "alive",
+        "animal",
+        "bird",
         "euclid",
-        "humanoid",
-        "mystery",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8248/patrick_my-darling.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6127/Maria.png",
       "authors": [
-        "DewOnTheGrass"
+        "SynthPanda_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8370",
-      "title": "SCP-8370",
-      "alternateTitle": "Fangs for That",
-      "rating": 8,
-      "createdAt": "2025-06-03T15:22:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/ninth-s-proposal-ii",
+      "title": "Ninth's Proposal II",
+      "alternateTitle": "Wonderful Everyday",
+      "rating": 11,
+      "createdAt": "2023-07-17T10:32:39.000Z",
       "tags": [
-        "animal",
-        "extradimensional",
-        "humanoid",
-        "mind-affecting",
-        "probability",
-        "safe",
-        "sapient",
+        "001-proposal",
+        "apocalyptic",
+        "esoteric-class",
+        "international",
+        "k-class-scenario",
+        "meta",
+        "metafiction",
+        "narrative",
+        "reality-bending",
         "scp",
-        "temporal"
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki-cn.wdfiles.com/local--files/ninth-s-proposal-ii/159699106191.jpg",
       "authors": [
-        "galaxy1220"
+        "la kanro"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9669",
+      "title": "SCP-9669",
+      "alternateTitle": "Difference of Perspective",
+      "rating": 23,
+      "createdAt": "2025-10-03T01:40:34.000Z",
+      "tags": [
+        "9000",
+        "artifact",
+        "chase",
+        "extradimensional",
+        "global-occult-coalition",
+        "nobody",
+        "otherworldly",
+        "safe",
+        "scp",
+        "spy-fiction",
+        "the-administrator"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9669/9kcon-Glasses-Edit.png",
+      "authors": [
+        "Hikarinu"
       ]
     }
   ]

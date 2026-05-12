@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T02:00:14.464Z",
+  "updatedAt": "2026-05-12T10:23:49.632Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6127",
-      "title": "SCP-6127",
-      "alternateTitle": "Mariangela",
-      "rating": 23,
-      "createdAt": "2022-06-17T19:13:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6536",
+      "title": "SCP-6536",
+      "alternateTitle": "The Hubris of Megapenthes",
+      "rating": 18,
+      "createdAt": "2023-11-22T23:20:13.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "bird",
+        "cadaver",
+        "electrical",
         "euclid",
-        "sapient",
+        "indestructible",
+        "radioactive",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6127/Maria.png",
+      "thumbnailUrl": "",
       "authors": [
-        "SynthPanda_"
+        "Baronjoe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/ninth-s-proposal-ii",
-      "title": "Ninth's Proposal II",
-      "alternateTitle": "Wonderful Everyday",
-      "rating": 11,
-      "createdAt": "2023-07-17T10:32:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1463",
+      "title": "SCP-CN-1463",
+      "alternateTitle": "Catgirl Training Plan",
+      "rating": 7,
+      "createdAt": "2022-05-18T23:14:33.000Z",
       "tags": [
-        "001-proposal",
-        "apocalyptic",
-        "esoteric-class",
+        "biological",
+        "feline",
+        "humanoid",
         "international",
-        "k-class-scenario",
-        "meta",
-        "metafiction",
-        "narrative",
-        "reality-bending",
+        "joicl",
+        "mind-affecting",
+        "neutralized",
+        "online",
         "scp",
-        "uncontained"
+        "telepathic"
       ],
-      "thumbnailUrl": "http://scp-wiki-cn.wdfiles.com/local--files/ninth-s-proposal-ii/159699106191.jpg",
+      "thumbnailUrl": "http://scp-int.wikidot.com/local--files/fragment:scp-cn-1463-01/nyan-musu.jpg",
       "authors": [
-        "la kanro"
+        "CaroyalKKaia",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9669",
-      "title": "SCP-9669",
-      "alternateTitle": "Difference of Perspective",
-      "rating": 23,
-      "createdAt": "2025-10-03T01:40:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-736",
+      "title": "SCP-ZH-736",
+      "alternateTitle": "You Can't Go Any further",
+      "rating": 17,
+      "createdAt": "2022-06-11T16:41:03.000Z",
       "tags": [
-        "9000",
-        "artifact",
-        "chase",
-        "extradimensional",
-        "global-occult-coalition",
-        "nobody",
-        "otherworldly",
+        "electronic",
+        "game",
+        "international",
+        "media",
+        "metafiction",
+        "pataphysics-dept",
         "safe",
-        "scp",
-        "spy-fiction",
-        "the-administrator"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9669/9kcon-Glasses-Edit.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-zh-736/{$name}/medium.jpg",
       "authors": [
-        "Hikarinu"
+        "Dr V Valentine"
       ]
     }
   ]

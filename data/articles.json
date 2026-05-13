@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T17:53:10.707Z",
+  "updatedAt": "2026-05-13T02:04:54.967Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,58 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4562",
-      "title": "SCP-4562",
-      "alternateTitle": "Melody of your life",
-      "rating": 17,
-      "createdAt": "2019-10-23T17:28:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8655",
+      "title": "SCP-8655",
+      "alternateTitle": "Multiversal Chatroom Hookup",
+      "rating": 22,
+      "createdAt": "2024-08-10T01:30:00.000Z",
       "tags": [
-        "hallucination",
-        "memory-affecting",
-        "musical",
-        "safe",
+        "euclid",
+        "extradimensional",
+        "online",
+        "otherworldly",
+        "portal",
+        "romance",
         "scp",
-        "tool"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4562/39233817021_da0e3358c1_b.jpg",
-      "authors": [
-        "AgentAX"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7295",
-      "title": "SCP-7295",
-      "alternateTitle": "The 4th Floor",
-      "rating": 10,
-      "createdAt": "2024-01-03T00:34:04.000Z",
-      "tags": [
-        "safe",
-        "scp",
-        "structure"
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TV_Atlas"
+        "TheGhostNobody"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
-      "title": "SCP-703-KO",
-      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
-      "rating": 14,
-      "createdAt": "2024-05-16T09:52:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7k-j",
+      "title": "SCP-7K-J",
+      "alternateTitle": "Upvote/Downvote Coin",
+      "rating": 22,
+      "createdAt": "2022-06-28T14:51:40.000Z",
       "tags": [
+        "co-authored",
+        "comedy",
         "document",
-        "infohazard",
-        "international",
-        "keter",
-        "narrative",
-        "scp",
-        "uncontained"
+        "euclid",
+        "joke",
+        "mathematical",
+        "meta",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7k-j/toss.jpg",
       "authors": [
-        "fluxman"
+        "DodoDevil",
+        "Elenee FishTruck",
+        "Fishish",
+        "GremlinGroup",
+        "LORDXVNV",
+        "R4_EX",
+        "stormbreath"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6258",
+      "title": "SCP-6258",
+      "alternateTitle": "Don't Follow the Light",
+      "rating": 24,
+      "createdAt": "2022-08-15T01:43:09.000Z",
+      "tags": [
+        "antimemetic",
+        "artifact",
+        "intangible",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6258/Box,_jewellery_(51369557639).jpg",
+      "authors": [
+        "Athlonfer"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T10:13:05.225Z",
+  "updatedAt": "2026-05-13T17:54:36.939Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7389",
-      "title": "SCP-7389",
-      "alternateTitle": "SUN/MOON VIOLENCE CYCLE",
-      "rating": 11,
-      "createdAt": "2023-08-15T14:39:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7895",
+      "title": "SCP-7895",
+      "alternateTitle": "Dreaming of Our Hometown",
+      "rating": 22,
+      "createdAt": "2023-02-26T22:55:20.000Z",
       "tags": [
-        "cognitohazard",
-        "compulsion",
-        "euclid",
+        "city",
+        "dream",
+        "keter",
         "memetic",
-        "narrative",
-        "online",
+        "memory-affecting",
         "scp",
-        "visual"
+        "sleep"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7895/runes.jpg",
       "authors": [
-        "f3arofthedark"
+        "Reverend Fox"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7062",
-      "title": "SCP-7062",
-      "alternateTitle": "A Heart Run Dry",
-      "rating": 24,
-      "createdAt": "2022-10-30T19:13:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3793",
+      "title": "SCP-3793",
+      "alternateTitle": "Spectral Punk Drive-By",
+      "rating": 13,
+      "createdAt": "2018-07-27T03:16:05.000Z",
       "tags": [
-        "biological",
-        "blood",
-        "neutralized",
-        "scp"
+        "acoustic",
+        "ectoentropic",
+        "humanoid",
+        "intangible",
+        "media",
+        "musical",
+        "safe",
+        "sapient",
+        "scp",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3793/picture1.jpg",
       "authors": [
-        "Voiiiii"
+        "Xhasqve_Onizpjan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 7,
-      "createdAt": "2019-09-18T20:05:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7916",
+      "title": "SCP-7916",
+      "alternateTitle": "As The World Caves In",
+      "rating": 9,
+      "createdAt": "2024-01-03T15:24:37.000Z",
       "tags": [
-        "action",
-        "artifact",
-        "bleak",
-        "cain",
+        "k-class-scenario",
+        "memory-affecting",
         "neutralized",
+        "parawatch",
         "scp",
-        "temporal",
-        "time-travel"
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaether"
+        "Dr Vikki Lost"
       ]
     }
   ]

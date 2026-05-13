@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T02:04:54.967Z",
+  "updatedAt": "2026-05-13T10:13:05.225Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8655",
-      "title": "SCP-8655",
-      "alternateTitle": "Multiversal Chatroom Hookup",
-      "rating": 22,
-      "createdAt": "2024-08-10T01:30:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7389",
+      "title": "SCP-7389",
+      "alternateTitle": "SUN/MOON VIOLENCE CYCLE",
+      "rating": 11,
+      "createdAt": "2023-08-15T14:39:10.000Z",
       "tags": [
+        "cognitohazard",
+        "compulsion",
         "euclid",
-        "extradimensional",
+        "memetic",
+        "narrative",
         "online",
-        "otherworldly",
-        "portal",
-        "romance",
         "scp",
-        "transmission"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TheGhostNobody"
+        "f3arofthedark"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7k-j",
-      "title": "SCP-7K-J",
-      "alternateTitle": "Upvote/Downvote Coin",
-      "rating": 22,
-      "createdAt": "2022-06-28T14:51:40.000Z",
-      "tags": [
-        "co-authored",
-        "comedy",
-        "document",
-        "euclid",
-        "joke",
-        "mathematical",
-        "meta",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7k-j/toss.jpg",
-      "authors": [
-        "DodoDevil",
-        "Elenee FishTruck",
-        "Fishish",
-        "GremlinGroup",
-        "LORDXVNV",
-        "R4_EX",
-        "stormbreath"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6258",
-      "title": "SCP-6258",
-      "alternateTitle": "Don't Follow the Light",
+      "url": "http://scp-wiki.wikidot.com/scp-7062",
+      "title": "SCP-7062",
+      "alternateTitle": "A Heart Run Dry",
       "rating": 24,
-      "createdAt": "2022-08-15T01:43:09.000Z",
+      "createdAt": "2022-10-30T19:13:17.000Z",
       "tags": [
-        "antimemetic",
-        "artifact",
-        "intangible",
-        "safe",
-        "sapient",
+        "biological",
+        "blood",
+        "neutralized",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6258/Box,_jewellery_(51369557639).jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Athlonfer"
+        "Voiiiii"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4678",
+      "title": "SCP-4678",
+      "alternateTitle": "A Time and Place for Regret",
+      "rating": 7,
+      "createdAt": "2019-09-18T20:05:38.000Z",
+      "tags": [
+        "action",
+        "artifact",
+        "bleak",
+        "cain",
+        "neutralized",
+        "scp",
+        "temporal",
+        "time-travel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Kaether"
       ]
     }
   ]

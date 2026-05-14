@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T10:05:37.471Z",
+  "updatedAt": "2026-05-14T17:30:44.474Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4741",
-      "title": "SCP-4741",
-      "alternateTitle": "Rolling Them Bones",
-      "rating": 24,
-      "createdAt": "2020-01-19T23:35:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-139-it",
+      "title": "SCP-139-IT",
+      "alternateTitle": "Puppets, What a Passion!",
+      "rating": 11,
+      "createdAt": "2023-05-27T18:20:06.000Z",
       "tags": [
-        "acoustic",
-        "artifact",
+        "alagadda",
         "autonomous",
         "ectoentropic",
-        "k-class-scenario",
-        "knowledge",
-        "mechanical",
-        "sapient",
-        "scp",
-        "skeletal",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Underwood_Portable_3_Banks_Greek_kbd_1921.jpg/1200px-Underwood_Portable_3_Banks_Greek_kbd_1921.jpg",
-      "authors": [
-        "SleepSpell"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9786",
-      "title": "SCP-9786",
-      "alternateTitle": "The Purge Room",
-      "rating": 18,
-      "createdAt": "2025-11-05T23:48:45.000Z",
-      "tags": [
-        "autonomous",
-        "building",
-        "humanoid",
-        "mind-affecting",
-        "mystery",
+        "hanged-king",
+        "international",
+        "performance",
         "safe",
-        "scp",
-        "spatial",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
-      "authors": [
-        "jswessler"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8581",
-      "title": "VNP-8581",
-      "alternateTitle": "Double Exposure",
-      "rating": 20,
-      "createdAt": "2025-01-14T17:21:42.000Z",
-      "tags": [
-        "are-we-cool-yet",
-        "bittersweet",
-        "esoteric-class",
-        "gamers-against-weed",
-        "lgbtq",
-        "no-return",
-        "romance",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8581/wren.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Puppet_theater_01.jpg/800px-Puppet_theater_01.jpg?20060220202537",
       "authors": [
-        "AlienSpaceBat"
+        "Roberto Turati"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
+      "title": "SCP-1319-J",
+      "alternateTitle": "Move Britannia",
+      "rating": 18,
+      "createdAt": "2025-03-08T01:49:19.000Z",
+      "tags": [
+        "geological",
+        "island",
+        "joke",
+        "mobile",
+        "neutralized",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
+      "authors": [
+        "JohnDoeMD"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7827",
+      "title": "SCP-7827",
+      "alternateTitle": "Push Back",
+      "rating": 17,
+      "createdAt": "2025-03-31T20:47:13.000Z",
+      "tags": [
+        "hostile",
+        "jewelry",
+        "mobile",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "BoneCandy"
       ]
     }
   ]

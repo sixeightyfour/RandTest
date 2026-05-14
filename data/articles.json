@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T02:07:39.151Z",
+  "updatedAt": "2026-05-14T10:05:37.471Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1548-ko",
-      "title": "SCP-1548-KO",
-      "alternateTitle": "The Loveful Star",
-      "rating": 21,
-      "createdAt": "2025-04-18T05:44:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4741",
+      "title": "SCP-4741",
+      "alternateTitle": "Rolling Them Bones",
+      "rating": 24,
+      "createdAt": "2020-01-19T23:35:08.000Z",
       "tags": [
-        "extraterrestrial",
-        "international",
-        "keter",
-        "scp",
-        "sun"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 7,
-      "createdAt": "2019-09-18T20:05:38.000Z",
-      "tags": [
-        "action",
+        "acoustic",
         "artifact",
-        "bleak",
-        "cain",
-        "neutralized",
+        "autonomous",
+        "ectoentropic",
+        "k-class-scenario",
+        "knowledge",
+        "mechanical",
+        "sapient",
         "scp",
-        "temporal",
-        "time-travel"
+        "skeletal",
+        "thaumiel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Underwood_Portable_3_Banks_Greek_kbd_1921.jpg/1200px-Underwood_Portable_3_Banks_Greek_kbd_1921.jpg",
       "authors": [
-        "Kaether"
+        "SleepSpell"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
-      "title": "SCP-444-KO",
-      "alternateTitle": "",
-      "rating": 14,
-      "createdAt": "2022-05-26T13:35:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9786",
+      "title": "SCP-9786",
+      "alternateTitle": "The Purge Room",
+      "rating": 18,
+      "createdAt": "2025-11-05T23:48:45.000Z",
       "tags": [
-        "cadaver",
-        "cognitohazard",
-        "compulsion",
+        "autonomous",
+        "building",
         "humanoid",
-        "infohazard",
-        "international",
-        "keter",
-        "memetic",
         "mind-affecting",
+        "mystery",
+        "safe",
+        "scp",
+        "spatial",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
+      "authors": [
+        "jswessler"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8581",
+      "title": "VNP-8581",
+      "alternateTitle": "Double Exposure",
+      "rating": 20,
+      "createdAt": "2025-01-14T17:21:42.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "bittersweet",
+        "esoteric-class",
+        "gamers-against-weed",
+        "lgbtq",
+        "no-return",
+        "romance",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8581/wren.jpg",
       "authors": [
-        "lanlanmag",
-        "fluxman"
+        "AlienSpaceBat"
       ]
     }
   ]

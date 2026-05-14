@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T17:54:36.939Z",
+  "updatedAt": "2026-05-14T02:07:39.151Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7895",
-      "title": "SCP-7895",
-      "alternateTitle": "Dreaming of Our Hometown",
-      "rating": 22,
-      "createdAt": "2023-02-26T22:55:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1548-ko",
+      "title": "SCP-1548-KO",
+      "alternateTitle": "The Loveful Star",
+      "rating": 21,
+      "createdAt": "2025-04-18T05:44:07.000Z",
       "tags": [
-        "city",
-        "dream",
+        "extraterrestrial",
+        "international",
         "keter",
-        "memetic",
-        "memory-affecting",
         "scp",
-        "sleep"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7895/runes.jpg",
-      "authors": [
-        "Reverend Fox"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3793",
-      "title": "SCP-3793",
-      "alternateTitle": "Spectral Punk Drive-By",
-      "rating": 13,
-      "createdAt": "2018-07-27T03:16:05.000Z",
-      "tags": [
-        "acoustic",
-        "ectoentropic",
-        "humanoid",
-        "intangible",
-        "media",
-        "musical",
-        "safe",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3793/picture1.jpg",
-      "authors": [
-        "Xhasqve_Onizpjan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7916",
-      "title": "SCP-7916",
-      "alternateTitle": "As The World Caves In",
-      "rating": 9,
-      "createdAt": "2024-01-03T15:24:37.000Z",
-      "tags": [
-        "k-class-scenario",
-        "memory-affecting",
-        "neutralized",
-        "parawatch",
-        "scp",
-        "weapon"
+        "sun"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Vikki Lost"
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4678",
+      "title": "SCP-4678",
+      "alternateTitle": "A Time and Place for Regret",
+      "rating": 7,
+      "createdAt": "2019-09-18T20:05:38.000Z",
+      "tags": [
+        "action",
+        "artifact",
+        "bleak",
+        "cain",
+        "neutralized",
+        "scp",
+        "temporal",
+        "time-travel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Kaether"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
+      "title": "SCP-444-KO",
+      "alternateTitle": "",
+      "rating": 14,
+      "createdAt": "2022-05-26T13:35:39.000Z",
+      "tags": [
+        "cadaver",
+        "cognitohazard",
+        "compulsion",
+        "humanoid",
+        "infohazard",
+        "international",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "lanlanmag",
+        "fluxman"
       ]
     }
   ]

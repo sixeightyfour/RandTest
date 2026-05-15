@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T02:06:02.862Z",
+  "updatedAt": "2026-05-15T10:12:16.805Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7174",
-      "title": "SCP-7174",
-      "alternateTitle": "The Faith to Connect People",
-      "rating": 12,
-      "createdAt": "2023-01-04T19:25:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6116",
+      "title": "SCP-6116",
+      "alternateTitle": "Night at the Museum",
+      "rating": 11,
+      "createdAt": "2021-07-04T03:57:35.000Z",
       "tags": [
-        "coldpostcon",
-        "computer",
-        "foundation-made",
-        "portal",
+        "auditory",
+        "biohazard",
+        "cognitohazard",
+        "compulsion",
+        "musical",
         "safe",
-        "scp",
-        "spatial",
-        "tactical-theology",
-        "transmission"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
       "authors": [
-        "Rigen"
+        "finnah"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
-      "title": "SCP-CN-1169",
-      "alternateTitle": "An Impure Fiction Society",
-      "rating": 8,
-      "createdAt": "2023-06-19T16:07:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9039",
+      "title": "SCP-9039",
+      "alternateTitle": "The Perfect Crime Podcast",
+      "rating": 17,
+      "createdAt": "2025-10-25T20:34:49.000Z",
       "tags": [
-        "esoteric-class",
-        "international",
-        "meta",
-        "metafiction",
-        "narrative",
-        "reality-bending",
+        "auditory",
+        "cognitohazard",
+        "crime-fiction",
+        "euclid",
+        "media",
+        "online",
+        "parawatch",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
+      "authors": [
+        "realsquirrel"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5972",
+      "title": "SCP-5972",
+      "alternateTitle": "Let All the Children Boogie",
+      "rating": 23,
+      "createdAt": "2020-09-16T20:29:17.000Z",
+      "tags": [
+        "acoustic",
+        "euclid",
+        "musical",
         "scp",
-        "temporal",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ninth BB",
-        "la kanro"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7093",
-      "title": "SCP-7093",
-      "alternateTitle": "Luxuriant Soul, Crescent Moon",
-      "rating": 19,
-      "createdAt": "2022-12-21T02:11:44.000Z",
-      "tags": [
-        "alive",
-        "euclid",
-        "extremity",
-        "humanoid",
-        "sapient",
-        "scp",
-        "telekinetic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "azurediamond"
+        "ThisMightBeAuto"
       ]
     }
   ]

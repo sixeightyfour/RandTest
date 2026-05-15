@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T17:30:44.474Z",
+  "updatedAt": "2026-05-15T02:06:02.862Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-139-it",
-      "title": "SCP-139-IT",
-      "alternateTitle": "Puppets, What a Passion!",
-      "rating": 11,
-      "createdAt": "2023-05-27T18:20:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7174",
+      "title": "SCP-7174",
+      "alternateTitle": "The Faith to Connect People",
+      "rating": 12,
+      "createdAt": "2023-01-04T19:25:25.000Z",
       "tags": [
-        "alagadda",
-        "autonomous",
-        "ectoentropic",
-        "hanged-king",
-        "international",
-        "performance",
+        "coldpostcon",
+        "computer",
+        "foundation-made",
+        "portal",
         "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Puppet_theater_01.jpg/800px-Puppet_theater_01.jpg?20060220202537",
-      "authors": [
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
-      "title": "SCP-1319-J",
-      "alternateTitle": "Move Britannia",
-      "rating": 18,
-      "createdAt": "2025-03-08T01:49:19.000Z",
-      "tags": [
-        "geological",
-        "island",
-        "joke",
-        "mobile",
-        "neutralized",
         "scp",
-        "uncontained"
+        "spatial",
+        "tactical-theology",
+        "transmission"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
       "authors": [
-        "JohnDoeMD"
+        "Rigen"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7827",
-      "title": "SCP-7827",
-      "alternateTitle": "Push Back",
-      "rating": 17,
-      "createdAt": "2025-03-31T20:47:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
+      "title": "SCP-CN-1169",
+      "alternateTitle": "An Impure Fiction Society",
+      "rating": 8,
+      "createdAt": "2023-06-19T16:07:16.000Z",
       "tags": [
-        "hostile",
-        "jewelry",
-        "mobile",
-        "safe",
-        "scp"
+        "esoteric-class",
+        "international",
+        "meta",
+        "metafiction",
+        "narrative",
+        "reality-bending",
+        "scp",
+        "temporal",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "BoneCandy"
+        "Ninth BB",
+        "la kanro"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7093",
+      "title": "SCP-7093",
+      "alternateTitle": "Luxuriant Soul, Crescent Moon",
+      "rating": 19,
+      "createdAt": "2022-12-21T02:11:44.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "extremity",
+        "humanoid",
+        "sapient",
+        "scp",
+        "telekinetic"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "azurediamond"
       ]
     }
   ]

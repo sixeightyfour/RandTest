@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T10:12:16.805Z",
+  "updatedAt": "2026-05-15T17:21:37.087Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6116",
-      "title": "SCP-6116",
-      "alternateTitle": "Night at the Museum",
-      "rating": 11,
-      "createdAt": "2021-07-04T03:57:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7927",
+      "title": "SCP-7927",
+      "alternateTitle": "Generational Hate",
+      "rating": 18,
+      "createdAt": "2024-12-09T04:00:24.000Z",
       "tags": [
-        "auditory",
-        "biohazard",
+        "7th-occult-war",
+        "action",
+        "document",
+        "euclid",
+        "fantasy",
+        "historical",
+        "military-fiction",
+        "obskura",
+        "pentagram",
+        "ritual",
+        "scp",
+        "serpents-hand",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
+      "authors": [
+        "USOdysseus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-005-it",
+      "title": "SCP-005-IT",
+      "alternateTitle": "A Dream Place",
+      "rating": 8,
+      "createdAt": "2023-05-08T15:56:40.000Z",
+      "tags": [
         "cognitohazard",
         "compulsion",
-        "musical",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
-      "authors": [
-        "finnah"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9039",
-      "title": "SCP-9039",
-      "alternateTitle": "The Perfect Crime Podcast",
-      "rating": 17,
-      "createdAt": "2025-10-25T20:34:49.000Z",
-      "tags": [
-        "auditory",
-        "cognitohazard",
-        "crime-fiction",
-        "euclid",
-        "media",
-        "online",
-        "parawatch",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
-      "authors": [
-        "realsquirrel"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5972",
-      "title": "SCP-5972",
-      "alternateTitle": "Let All the Children Boogie",
-      "rating": 23,
-      "createdAt": "2020-09-16T20:29:17.000Z",
-      "tags": [
-        "acoustic",
-        "euclid",
-        "musical",
+        "hallucination",
+        "hostile",
+        "international",
+        "keter",
+        "memetic",
+        "mind-affecting",
         "scp",
-        "uncontained"
+        "sleep",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-005-it/005-IT-C",
+      "authors": [
+        "Dottssa_Riba_Nahi",
+        "Roberto Turati"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
+      "title": "SCP-458-KO",
+      "alternateTitle": "News of the Day",
+      "rating": 4,
+      "createdAt": "2022-10-21T12:17:53.000Z",
+      "tags": [
+        "electrical",
+        "international",
+        "polyhedral",
+        "safe",
+        "scp",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ThisMightBeAuto"
+        "Subervos"
       ]
     }
   ]

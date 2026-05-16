@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T09:20:38.603Z",
+  "updatedAt": "2026-05-16T16:44:19.124Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8960",
-      "title": "SCP-8960",
-      "alternateTitle": "And Soon, Embark I. Through a Cascadian Tunnel.",
-      "rating": 11,
-      "createdAt": "2025-01-27T00:09:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8685",
+      "title": "SCP-8685",
+      "alternateTitle": "Sign Today To Have Your Grandpa's Organs Harvested!",
+      "rating": 19,
+      "createdAt": "2024-10-21T11:06:17.000Z",
       "tags": [
+        "biological",
+        "cadaver",
         "extradimensional",
-        "location",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg/960px-Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg?20121001230243",
-      "authors": [
-        "VapidPoem"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7237",
-      "title": "SCP-7237",
-      "alternateTitle": "An 8-Centimeter Ball Bearing",
-      "rating": 7,
-      "createdAt": "2024-07-19T23:15:03.000Z",
-      "tags": [
-        "artifact",
-        "auditory",
-        "chemical",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "mechanical",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Pinoccappuccino"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6876",
-      "title": "SCP-6876",
-      "alternateTitle": "Disgusting",
-      "rating": 1,
-      "createdAt": "2022-08-18T01:43:31.000Z",
-      "tags": [
-        "ghost",
         "humanoid",
-        "in-rewrite",
-        "intangible",
-        "pending",
+        "keter",
         "sapient",
         "scp",
         "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6876/bathroom.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "NDHeckfire"
+        "Not Noodles"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
+      "title": "SCP-CN-1997",
+      "alternateTitle": "When Magic and Science Intersect",
+      "rating": 21,
+      "createdAt": "2022-06-12T00:44:20.000Z",
+      "tags": [
+        "broken-god",
+        "city",
+        "deus-ex-machina",
+        "euclid",
+        "extradimensional",
+        "foundation-made",
+        "hong-shing",
+        "international",
+        "k-class-scenario",
+        "radioactive",
+        "religious",
+        "religious-fiction",
+        "scp",
+        "thaumaturgy",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
+      "authors": [
+        "MScarlet",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6887",
+      "title": "SCP-6887",
+      "alternateTitle": "Remember Us",
+      "rating": 12,
+      "createdAt": "2022-10-25T00:41:51.000Z",
+      "tags": [
+        "artifact",
+        "historical",
+        "portal",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DukeRum"
       ]
     }
   ]

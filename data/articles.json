@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T01:58:13.509Z",
+  "updatedAt": "2026-05-16T09:20:38.603Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4063",
-      "title": "SCP-4063",
-      "alternateTitle": "What Remains",
-      "rating": 20,
-      "createdAt": "2019-01-04T22:40:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8960",
+      "title": "SCP-8960",
+      "alternateTitle": "And Soon, Embark I. Through a Cascadian Tunnel.",
+      "rating": 11,
+      "createdAt": "2025-01-27T00:09:40.000Z",
       "tags": [
-        "cliche2019",
-        "humanoid",
-        "infohazard",
-        "jewelry",
-        "parasitic",
+        "extradimensional",
+        "location",
         "safe",
-        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg/960px-Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg?20121001230243",
       "authors": [
-        "ViaNegativa"
+        "VapidPoem"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5386",
-      "title": "SCP-5386",
-      "alternateTitle": "[PENDING APPROVAL BY ETHICS COMMITTEE]",
-      "rating": 22,
-      "createdAt": "2021-03-24T00:07:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7237",
+      "title": "SCP-7237",
+      "alternateTitle": "An 8-Centimeter Ball Bearing",
+      "rating": 7,
+      "createdAt": "2024-07-19T23:15:03.000Z",
       "tags": [
+        "artifact",
+        "auditory",
+        "chemical",
         "cognitohazard",
-        "esoteric-class",
-        "ethics-committee",
-        "jam-con2021",
-        "memetic",
-        "memory-affecting",
+        "ectoentropic",
+        "hallucination",
+        "mechanical",
+        "safe",
         "scp",
-        "sleep"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "margssentif"
+        "Pinoccappuccino"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7734",
-      "title": "SCP-7734",
-      "alternateTitle": "Do You Really Want Dreams To Come True?",
-      "rating": 5,
-      "createdAt": "2023-07-23T23:11:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6876",
+      "title": "SCP-6876",
+      "alternateTitle": "Disgusting",
+      "rating": 1,
+      "createdAt": "2022-08-18T01:43:31.000Z",
       "tags": [
-        "ectoentropic",
-        "empathic",
-        "euclid",
+        "ghost",
+        "humanoid",
+        "in-rewrite",
+        "intangible",
+        "pending",
+        "sapient",
         "scp",
-        "sculpture",
-        "sleep"
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7734/SCP-7734.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6876/bathroom.jpg",
       "authors": [
-        "DrMindbender"
+        "NDHeckfire"
       ]
     }
   ]

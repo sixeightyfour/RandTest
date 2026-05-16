@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T17:21:37.087Z",
+  "updatedAt": "2026-05-16T01:58:13.509Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7927",
-      "title": "SCP-7927",
-      "alternateTitle": "Generational Hate",
-      "rating": 18,
-      "createdAt": "2024-12-09T04:00:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4063",
+      "title": "SCP-4063",
+      "alternateTitle": "What Remains",
+      "rating": 20,
+      "createdAt": "2019-01-04T22:40:32.000Z",
       "tags": [
-        "7th-occult-war",
-        "action",
-        "document",
-        "euclid",
-        "fantasy",
-        "historical",
-        "military-fiction",
-        "obskura",
-        "pentagram",
-        "ritual",
-        "scp",
-        "serpents-hand",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
-      "authors": [
-        "USOdysseus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-005-it",
-      "title": "SCP-005-IT",
-      "alternateTitle": "A Dream Place",
-      "rating": 8,
-      "createdAt": "2023-05-08T15:56:40.000Z",
-      "tags": [
-        "cognitohazard",
-        "compulsion",
-        "hallucination",
-        "hostile",
-        "international",
-        "keter",
-        "memetic",
-        "mind-affecting",
-        "scp",
-        "sleep",
-        "uncontained",
-        "visual"
-      ],
-      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-005-it/005-IT-C",
-      "authors": [
-        "Dottssa_Riba_Nahi",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
-      "title": "SCP-458-KO",
-      "alternateTitle": "News of the Day",
-      "rating": 4,
-      "createdAt": "2022-10-21T12:17:53.000Z",
-      "tags": [
-        "electrical",
-        "international",
-        "polyhedral",
+        "cliche2019",
+        "humanoid",
+        "infohazard",
+        "jewelry",
+        "parasitic",
         "safe",
-        "scp",
-        "temporal"
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Subervos"
+        "ViaNegativa"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5386",
+      "title": "SCP-5386",
+      "alternateTitle": "[PENDING APPROVAL BY ETHICS COMMITTEE]",
+      "rating": 22,
+      "createdAt": "2021-03-24T00:07:33.000Z",
+      "tags": [
+        "cognitohazard",
+        "esoteric-class",
+        "ethics-committee",
+        "jam-con2021",
+        "memetic",
+        "memory-affecting",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "margssentif"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7734",
+      "title": "SCP-7734",
+      "alternateTitle": "Do You Really Want Dreams To Come True?",
+      "rating": 5,
+      "createdAt": "2023-07-23T23:11:03.000Z",
+      "tags": [
+        "ectoentropic",
+        "empathic",
+        "euclid",
+        "scp",
+        "sculpture",
+        "sleep"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7734/SCP-7734.jpg",
+      "authors": [
+        "DrMindbender"
       ]
     }
   ]

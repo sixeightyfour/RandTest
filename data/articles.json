@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T16:44:19.124Z",
+  "updatedAt": "2026-05-17T02:00:12.697Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8685",
-      "title": "SCP-8685",
-      "alternateTitle": "Sign Today To Have Your Grandpa's Organs Harvested!",
-      "rating": 19,
-      "createdAt": "2024-10-21T11:06:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8872",
+      "title": "SCP-8872",
+      "alternateTitle": "Adventures Of Avalon",
+      "rating": 17,
+      "createdAt": "2024-12-10T06:50:55.000Z",
       "tags": [
-        "biological",
-        "cadaver",
-        "extradimensional",
-        "humanoid",
-        "keter",
-        "sapient",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Not Noodles"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
-      "title": "SCP-CN-1997",
-      "alternateTitle": "When Magic and Science Intersect",
-      "rating": 21,
-      "createdAt": "2022-06-12T00:44:20.000Z",
-      "tags": [
-        "broken-god",
-        "city",
-        "deus-ex-machina",
+        "action",
+        "adventure",
+        "bittersweet",
+        "computer",
+        "electrical",
+        "electronic",
         "euclid",
         "extradimensional",
-        "foundation-made",
-        "hong-shing",
-        "international",
-        "k-class-scenario",
-        "radioactive",
-        "religious",
-        "religious-fiction",
+        "fantasy",
+        "game",
+        "media",
+        "online",
+        "otherworldly",
+        "portal",
         "scp",
-        "thaumaturgy",
-        "uncontained"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8872/scan.jpg",
       "authors": [
-        "MScarlet",
-        "tetsusquared"
+        "ThePhantomMan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 12,
-      "createdAt": "2022-10-25T00:41:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-516-ko-ex",
+      "title": "SCP-516-KO-EX",
+      "alternateTitle": "[DATA REDUCED]",
+      "rating": 11,
+      "createdAt": "2022-10-25T21:49:03.000Z",
       "tags": [
-        "artifact",
-        "historical",
-        "portal",
-        "safe",
+        "explained",
+        "foundation-made",
+        "international",
+        "media",
+        "online",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DukeRum"
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7323",
+      "title": "SCP-7323",
+      "alternateTitle": "What Is It Like to Be a Bird?",
+      "rating": 20,
+      "createdAt": "2023-08-06T07:40:48.000Z",
+      "tags": [
+        "animal",
+        "bird",
+        "cognitohazard",
+        "empathic",
+        "memory-affecting",
+        "mind-affecting",
+        "reanimation",
+        "safe",
+        "scp",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--resized-images/floridapologia/thebird/medium.jpg",
+      "authors": [
+        "floridapologia"
       ]
     }
   ]

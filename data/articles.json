@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T02:00:12.697Z",
+  "updatedAt": "2026-05-17T09:27:02.609Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8872",
-      "title": "SCP-8872",
-      "alternateTitle": "Adventures Of Avalon",
-      "rating": 17,
-      "createdAt": "2024-12-10T06:50:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7325",
+      "title": "SCP-7325",
+      "alternateTitle": "A Testament To My Failures",
+      "rating": 12,
+      "createdAt": "2023-07-29T18:29:59.000Z",
       "tags": [
-        "action",
-        "adventure",
-        "bittersweet",
-        "computer",
-        "electrical",
-        "electronic",
+        "auditory",
+        "building",
+        "clothing",
         "euclid",
-        "extradimensional",
-        "fantasy",
-        "game",
-        "media",
-        "online",
-        "otherworldly",
-        "portal",
+        "liquid",
+        "meteorological",
+        "mind-affecting",
+        "olfactory",
         "scp",
-        "transfiguration"
+        "sensory",
+        "weapon"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8872/scan.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7325/IMG_2252.HEIC/medium.jpg",
       "authors": [
-        "ThePhantomMan"
+        "Fernlom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-516-ko-ex",
-      "title": "SCP-516-KO-EX",
-      "alternateTitle": "[DATA REDUCED]",
-      "rating": 11,
-      "createdAt": "2022-10-25T21:49:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7045",
+      "title": "SCP-7045",
+      "alternateTitle": "\"Is this your tape recorder?\"",
+      "rating": 22,
+      "createdAt": "2022-11-19T05:30:51.000Z",
       "tags": [
-        "explained",
-        "foundation-made",
-        "international",
+        "autonomous",
         "media",
-        "online",
-        "scp"
+        "neutralized",
+        "scp",
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "fluxman"
+        "Jade_Crusader"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7323",
-      "title": "SCP-7323",
-      "alternateTitle": "What Is It Like to Be a Bird?",
-      "rating": 20,
-      "createdAt": "2023-08-06T07:40:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
+      "title": "SCP-057-PT",
+      "alternateTitle": "The Abandoned Hospital",
+      "rating": 16,
+      "createdAt": "2019-10-20T12:37:17.000Z",
       "tags": [
-        "animal",
-        "bird",
-        "cognitohazard",
-        "empathic",
-        "memory-affecting",
-        "mind-affecting",
-        "reanimation",
-        "safe",
+        "building",
+        "humanoid",
+        "international",
+        "keter",
+        "medical",
         "scp",
-        "uncontained",
-        "visual"
+        "teleportation",
+        "transfiguration",
+        "uncontained"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--resized-images/floridapologia/thebird/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "floridapologia"
+        "Alecx Ward",
+        "slashannemoo"
       ]
     }
   ]

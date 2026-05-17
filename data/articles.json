@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T09:27:02.609Z",
+  "updatedAt": "2026-05-17T16:44:49.503Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7325",
-      "title": "SCP-7325",
-      "alternateTitle": "A Testament To My Failures",
-      "rating": 12,
-      "createdAt": "2023-07-29T18:29:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8943",
+      "title": "SCP-8943",
+      "alternateTitle": "Reunited",
+      "rating": 9,
+      "createdAt": "2025-09-11T22:25:48.000Z",
       "tags": [
-        "auditory",
-        "building",
-        "clothing",
         "euclid",
-        "liquid",
-        "meteorological",
-        "mind-affecting",
-        "olfactory",
-        "scp",
-        "sensory",
-        "weapon"
+        "extraterrestrial",
+        "gravity",
+        "moon",
+        "phenomenon",
+        "planet",
+        "post-apocalyptic",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7325/IMG_2252.HEIC/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8943/grey_scale_earth.png",
       "authors": [
-        "Fernlom"
+        "Anonymodesu"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7045",
-      "title": "SCP-7045",
-      "alternateTitle": "\"Is this your tape recorder?\"",
-      "rating": 22,
-      "createdAt": "2022-11-19T05:30:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7465",
+      "title": "SCP-7465",
+      "alternateTitle": "\"Superseded Theories of the Solar System\"",
+      "rating": 8,
+      "createdAt": "2022-10-08T22:37:33.000Z",
       "tags": [
-        "autonomous",
-        "media",
-        "neutralized",
-        "scp",
-        "teleportation"
+        "building",
+        "empathic",
+        "euclid",
+        "hostile",
+        "mind-affecting",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Jade_Crusader"
+        "redredred"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
-      "title": "SCP-057-PT",
-      "alternateTitle": "The Abandoned Hospital",
-      "rating": 16,
-      "createdAt": "2019-10-20T12:37:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7402",
+      "title": "SCP-7402",
+      "alternateTitle": "Alternate Infiltrators",
+      "rating": 18,
+      "createdAt": "2025-02-22T08:44:36.000Z",
       "tags": [
-        "building",
+        "esoteric-class",
+        "extradimensional",
+        "hostile",
         "humanoid",
-        "international",
-        "keter",
-        "medical",
+        "mimetic",
+        "phenomenon",
+        "sapient",
         "scp",
-        "teleportation",
-        "transfiguration",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Alecx Ward",
-        "slashannemoo"
+        "Nullscape"
       ]
     }
   ]

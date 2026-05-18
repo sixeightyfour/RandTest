@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T11:36:44.105Z",
+  "updatedAt": "2026-05-18T17:51:32.285Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,84 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-338-arc",
-      "title": "SCP-338-ARC",
-      "alternateTitle": "Fading Disks",
-      "rating": -1,
-      "createdAt": "2011-04-14T22:01:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7018",
+      "title": "SCP-7018",
+      "alternateTitle": "The Long Winding Road",
+      "rating": 20,
+      "createdAt": "2022-08-01T03:59:07.000Z",
       "tags": [
-        "archived",
-        "ectoentropic",
+        "7000",
+        "alive",
+        "chaos-insurgency",
+        "co-authored",
+        "doctor-thereven",
         "euclid",
-        "indestructible",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Unknown Author"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9039",
-      "title": "SCP-9039",
-      "alternateTitle": "The Perfect Crime Podcast",
-      "rating": 17,
-      "createdAt": "2025-10-25T20:34:49.000Z",
-      "tags": [
-        "auditory",
-        "cognitohazard",
-        "crime-fiction",
-        "euclid",
-        "media",
-        "online",
-        "parawatch",
+        "herman-fuller",
+        "humanoid",
+        "light",
+        "marshall-carter-and-dark",
+        "meta",
+        "reality-bending",
         "sapient",
-        "scp"
+        "scp",
+        "serpents-hand",
+        "wandsmen"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clarice_Brown%2C_19%2C_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston%2C_West_Virginia_-_NARA_-_556470.jpg",
       "authors": [
-        "realsquirrel"
+        "Cole 13",
+        "MetalRavioli",
+        "TopDownUnder"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6758",
-      "title": "SCP-6758",
-      "alternateTitle": "Overture",
-      "rating": 19,
-      "createdAt": "2025-02-13T23:47:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9229",
+      "title": "SCP-9229",
+      "alternateTitle": "O Sancta Simplicitas!",
+      "rating": 7,
+      "createdAt": "2025-10-04T01:06:28.000Z",
       "tags": [
+        "9000",
+        "abnormalities",
+        "apocalyptic",
+        "artifact",
+        "biohazard",
         "body-horror",
-        "cognitohazard",
         "euclid",
-        "homo-sapiens-sidhe",
+        "explained",
+        "extraterrestrial",
         "horror",
-        "memetic",
+        "language",
+        "mechanical",
+        "moon",
+        "pattern-screamer",
+        "reality-bending",
+        "science-fiction",
         "scp",
-        "transfiguration"
+        "structure"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
+      "authors": [
+        "BlackMonday"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8825",
+      "title": "SCP-8825",
+      "alternateTitle": "The Calculator Had One Job",
+      "rating": 5,
+      "createdAt": "2024-12-17T00:53:05.000Z",
+      "tags": [
+        "electronic",
+        "mathematical",
+        "mind-affecting",
+        "probability",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Captain_Wavzies"
+        "AnIntrovertedSCP"
       ]
     }
   ]

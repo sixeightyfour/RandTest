@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T16:44:49.503Z",
+  "updatedAt": "2026-05-18T02:12:32.605Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8943",
-      "title": "SCP-8943",
-      "alternateTitle": "Reunited",
-      "rating": 9,
-      "createdAt": "2025-09-11T22:25:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6823",
+      "title": "SCP-6823",
+      "alternateTitle": "Jupiter Protocol",
+      "rating": 22,
+      "createdAt": "2024-03-01T03:42:55.000Z",
       "tags": [
+        "computer",
         "euclid",
         "extraterrestrial",
-        "gravity",
-        "moon",
-        "phenomenon",
+        "gaseous",
         "planet",
-        "post-apocalyptic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8943/grey_scale_earth.png",
-      "authors": [
-        "Anonymodesu"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7465",
-      "title": "SCP-7465",
-      "alternateTitle": "\"Superseded Theories of the Solar System\"",
-      "rating": 8,
-      "createdAt": "2022-10-08T22:37:33.000Z",
-      "tags": [
-        "building",
-        "empathic",
-        "euclid",
-        "hostile",
-        "mind-affecting",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "redredred"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7402",
-      "title": "SCP-7402",
-      "alternateTitle": "Alternate Infiltrators",
-      "rating": 18,
-      "createdAt": "2025-02-22T08:44:36.000Z",
-      "tags": [
-        "esoteric-class",
-        "extradimensional",
-        "hostile",
-        "humanoid",
-        "mimetic",
-        "phenomenon",
         "sapient",
         "scp",
         "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
       "authors": [
-        "Nullscape"
+        "Vwillow"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7116",
+      "title": "SCP-7116",
+      "alternateTitle": "Frequency Modulation 182.3",
+      "rating": 5,
+      "createdAt": "2023-01-26T11:05:39.000Z",
+      "tags": [
+        "alive",
+        "electronic",
+        "euclid",
+        "hostile",
+        "humanoid",
+        "location",
+        "sapient",
+        "scp",
+        "spatial",
+        "structure",
+        "subterranean",
+        "transmission"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
+      "authors": [
+        "Dr K Parker"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-180",
+      "title": "SCP-PL-180",
+      "alternateTitle": "Those who embark with us",
+      "rating": 23,
+      "createdAt": "2022-08-15T08:15:36.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "canine",
+        "international",
+        "loop",
+        "neutralized",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-pl-180/Alsuq9O.webp",
+      "authors": [
+        "Fedorian"
       ]
     }
   ]

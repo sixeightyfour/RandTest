@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T02:12:32.605Z",
+  "updatedAt": "2026-05-18T11:36:44.105Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6823",
-      "title": "SCP-6823",
-      "alternateTitle": "Jupiter Protocol",
-      "rating": 22,
-      "createdAt": "2024-03-01T03:42:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-338-arc",
+      "title": "SCP-338-ARC",
+      "alternateTitle": "Fading Disks",
+      "rating": -1,
+      "createdAt": "2011-04-14T22:01:39.000Z",
       "tags": [
-        "computer",
+        "archived",
+        "ectoentropic",
         "euclid",
-        "extraterrestrial",
-        "gaseous",
-        "planet",
-        "sapient",
-        "scp",
-        "uncontained"
+        "indestructible",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Vwillow"
+        "Unknown Author"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7116",
-      "title": "SCP-7116",
-      "alternateTitle": "Frequency Modulation 182.3",
-      "rating": 5,
-      "createdAt": "2023-01-26T11:05:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9039",
+      "title": "SCP-9039",
+      "alternateTitle": "The Perfect Crime Podcast",
+      "rating": 17,
+      "createdAt": "2025-10-25T20:34:49.000Z",
       "tags": [
-        "alive",
-        "electronic",
+        "auditory",
+        "cognitohazard",
+        "crime-fiction",
         "euclid",
-        "hostile",
-        "humanoid",
-        "location",
+        "media",
+        "online",
+        "parawatch",
         "sapient",
-        "scp",
-        "spatial",
-        "structure",
-        "subterranean",
-        "transmission"
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
       "authors": [
-        "Dr K Parker"
+        "realsquirrel"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-180",
-      "title": "SCP-PL-180",
-      "alternateTitle": "Those who embark with us",
-      "rating": 23,
-      "createdAt": "2022-08-15T08:15:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6758",
+      "title": "SCP-6758",
+      "alternateTitle": "Overture",
+      "rating": 19,
+      "createdAt": "2025-02-13T23:47:01.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "canine",
-        "international",
-        "loop",
-        "neutralized",
+        "body-horror",
+        "cognitohazard",
+        "euclid",
+        "homo-sapiens-sidhe",
+        "horror",
+        "memetic",
         "scp",
-        "teleportation"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-pl-180/Alsuq9O.webp",
+      "thumbnailUrl": "",
       "authors": [
-        "Fedorian"
+        "Captain_Wavzies"
       ]
     }
   ]

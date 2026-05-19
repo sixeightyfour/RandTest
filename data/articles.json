@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T02:11:21.716Z",
+  "updatedAt": "2026-05-19T10:53:41.608Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3102",
-      "title": "SCP-3102",
-      "alternateTitle": "The Conflagration",
-      "rating": 24,
-      "createdAt": "2017-08-08T01:06:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
+      "title": "SCP-106-KO",
+      "alternateTitle": "Hanging Scroll",
+      "rating": 15,
+      "createdAt": "2022-08-19T09:13:39.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "euclid",
-        "fire",
-        "reptile",
-        "scp",
-        "snake",
-        "thermodynamic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3102/snakes.jpg.jpg",
-      "authors": [
-        "megalan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-116-it",
-      "title": "SCP-116-IT",
-      "alternateTitle": "Fortuituous Legend",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:43:53.000Z",
-      "tags": [
-        "aquatic",
-        "euclid",
+        "artistic",
         "extradimensional",
-        "faerie",
-        "historical",
-        "homo-sapiens-sidhe",
-        "inscription",
         "international",
-        "location",
-        "nameless",
-        "scp"
+        "portal",
+        "safe",
+        "scp",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
       "authors": [
-        "An Average Italian",
-        "Roberto Turati"
+        "Subervos"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5627",
-      "title": "SCP-5627",
-      "alternateTitle": "The Hungry Caterpillar",
+      "url": "http://scp-wiki.wikidot.com/scp-8284",
+      "title": "SCP-8284",
+      "alternateTitle": "You are somewhere else. I am still right here.",
       "rating": 21,
-      "createdAt": "2021-03-30T09:38:38.000Z",
+      "createdAt": "2025-06-05T04:22:23.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "butterfly",
-        "compulsion",
-        "euclid",
-        "gaseous",
-        "hallucination",
-        "insect",
-        "mind-affecting",
-        "parasitic",
-        "scp"
+        "location",
+        "safe",
+        "scp",
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8284/Spooky%20hall.png",
       "authors": [
-        "dunc7five"
+        "AnomalySource"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4375",
+      "title": "SCP-4375",
+      "alternateTitle": "Two Forgetful Men",
+      "rating": 0,
+      "createdAt": "2019-04-29T15:46:06.000Z",
+      "tags": [
+        "ethics-committee",
+        "foundation-made",
+        "foundation-personnel",
+        "global-occult-coalition",
+        "humanoid",
+        "reality-bending",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4375/header.png",
+      "authors": [
+        "kamelen800"
       ]
     }
   ]

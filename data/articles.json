@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T10:53:41.608Z",
+  "updatedAt": "2026-05-19T17:56:07.811Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
-      "title": "SCP-106-KO",
-      "alternateTitle": "Hanging Scroll",
-      "rating": 15,
-      "createdAt": "2022-08-19T09:13:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-232-arc",
+      "title": "SCP-232-ARC",
+      "alternateTitle": "Sumerian Goddess of the Dead",
+      "rating": -19,
+      "createdAt": "2008-07-26T21:07:17.000Z",
       "tags": [
-        "artistic",
-        "extradimensional",
-        "international",
-        "portal",
-        "safe",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
-      "authors": [
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8284",
-      "title": "SCP-8284",
-      "alternateTitle": "You are somewhere else. I am still right here.",
-      "rating": 21,
-      "createdAt": "2025-06-05T04:22:23.000Z",
-      "tags": [
-        "location",
-        "safe",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8284/Spooky%20hall.png",
-      "authors": [
-        "AnomalySource"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4375",
-      "title": "SCP-4375",
-      "alternateTitle": "Two Forgetful Men",
-      "rating": 0,
-      "createdAt": "2019-04-29T15:46:06.000Z",
-      "tags": [
-        "ethics-committee",
-        "foundation-made",
-        "foundation-personnel",
-        "global-occult-coalition",
+        "archaeological",
+        "archived",
+        "auditory",
+        "euclid",
+        "hallucination",
         "humanoid",
-        "reality-bending",
+        "religious",
+        "rewrite",
         "scp",
-        "thaumiel"
+        "sculpture",
+        "shadow",
+        "thermal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4375/header.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-232-arc/SCP-232.jpg",
       "authors": [
-        "kamelen800"
+        "Tara Unknown"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8691",
+      "title": "SCP-8691",
+      "alternateTitle": "WARNING: Smoking can cause a slow and painful death.",
+      "rating": 11,
+      "createdAt": "2025-07-20T22:28:17.000Z",
+      "tags": [
+        "artifact",
+        "chemical",
+        "cognitohazard",
+        "compulsion",
+        "safe",
+        "scp",
+        "toxic"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "lunatunamoona"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8198",
+      "title": "SCP-8198",
+      "alternateTitle": "The Death of Sleep",
+      "rating": 23,
+      "createdAt": "2025-05-10T17:11:08.000Z",
+      "tags": [
+        "apocalyptic",
+        "apollyon",
+        "bleak",
+        "cosmic-horror",
+        "dream",
+        "horror",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "https://imgur.com/VOvw2Ub.png",
+      "authors": [
+        "DrAlexeiKnight"
       ]
     }
   ]

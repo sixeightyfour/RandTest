@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T17:51:32.285Z",
+  "updatedAt": "2026-05-19T02:11:21.716Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,84 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7018",
-      "title": "SCP-7018",
-      "alternateTitle": "The Long Winding Road",
-      "rating": 20,
-      "createdAt": "2022-08-01T03:59:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3102",
+      "title": "SCP-3102",
+      "alternateTitle": "The Conflagration",
+      "rating": 24,
+      "createdAt": "2017-08-08T01:06:34.000Z",
       "tags": [
-        "7000",
         "alive",
-        "chaos-insurgency",
-        "co-authored",
-        "doctor-thereven",
+        "animal",
         "euclid",
-        "herman-fuller",
-        "humanoid",
-        "light",
-        "marshall-carter-and-dark",
-        "meta",
-        "reality-bending",
-        "sapient",
+        "fire",
+        "reptile",
         "scp",
-        "serpents-hand",
-        "wandsmen"
+        "snake",
+        "thermodynamic"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clarice_Brown%2C_19%2C_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston%2C_West_Virginia_-_NARA_-_556470.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3102/snakes.jpg.jpg",
       "authors": [
-        "Cole 13",
-        "MetalRavioli",
-        "TopDownUnder"
+        "megalan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9229",
-      "title": "SCP-9229",
-      "alternateTitle": "O Sancta Simplicitas!",
+      "url": "http://scp-wiki.wikidot.com/scp-116-it",
+      "title": "SCP-116-IT",
+      "alternateTitle": "Fortuituous Legend",
       "rating": 7,
-      "createdAt": "2025-10-04T01:06:28.000Z",
+      "createdAt": "2023-05-06T17:43:53.000Z",
       "tags": [
-        "9000",
-        "abnormalities",
-        "apocalyptic",
-        "artifact",
-        "biohazard",
-        "body-horror",
+        "aquatic",
         "euclid",
-        "explained",
-        "extraterrestrial",
-        "horror",
-        "language",
-        "mechanical",
-        "moon",
-        "pattern-screamer",
-        "reality-bending",
-        "science-fiction",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
-      "authors": [
-        "BlackMonday"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8825",
-      "title": "SCP-8825",
-      "alternateTitle": "The Calculator Had One Job",
-      "rating": 5,
-      "createdAt": "2024-12-17T00:53:05.000Z",
-      "tags": [
-        "electronic",
-        "mathematical",
-        "mind-affecting",
-        "probability",
-        "safe",
+        "extradimensional",
+        "faerie",
+        "historical",
+        "homo-sapiens-sidhe",
+        "inscription",
+        "international",
+        "location",
+        "nameless",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AnIntrovertedSCP"
+        "An Average Italian",
+        "Roberto Turati"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5627",
+      "title": "SCP-5627",
+      "alternateTitle": "The Hungry Caterpillar",
+      "rating": 21,
+      "createdAt": "2021-03-30T09:38:38.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "butterfly",
+        "compulsion",
+        "euclid",
+        "gaseous",
+        "hallucination",
+        "insect",
+        "mind-affecting",
+        "parasitic",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
+      "authors": [
+        "dunc7five"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T10:41:21.183Z",
+  "updatedAt": "2026-05-20T18:09:22.283Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8174",
-      "title": "SCP-8174",
-      "alternateTitle": "The Ark",
+      "url": "http://scp-wiki.wikidot.com/scp-8267",
+      "title": "SCP-8267",
+      "alternateTitle": "Area-85",
       "rating": 18,
-      "createdAt": "2024-12-28T15:01:24.000Z",
+      "createdAt": "2025-07-13T04:01:21.000Z",
       "tags": [
-        "apocalyptic",
-        "bleak",
-        "ectoentropic",
-        "electrical",
-        "foundation-made",
-        "mechanical",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/nilsseverin/Hyundai_ship_engine_under_construction.jpg",
-      "authors": [
-        "Nils Severin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8857",
-      "title": "SCP-8857",
-      "alternateTitle": "Sinus Problems",
-      "rating": 8,
-      "createdAt": "2025-07-30T12:47:06.000Z",
-      "tags": [
-        "arthropod",
-        "euclid",
-        "parasitic",
-        "reproductive",
-        "scp",
-        "species",
-        "toxic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Zale13"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8336",
-      "title": "SCP-8336",
-      "alternateTitle": "A Mosquito's Song",
-      "rating": 15,
-      "createdAt": "2025-07-08T18:50:45.000Z",
-      "tags": [
-        "acoustic",
-        "but-a-dream",
-        "demon",
-        "extradimensional",
+        "aquatic",
+        "artifact",
+        "body-horror",
+        "cadaver",
+        "cephalopod",
+        "chemical",
+        "classiccon2025",
+        "fish",
         "horror",
         "mystery",
-        "neutralized",
-        "psychological-horror",
-        "scp"
+        "reanimation",
+        "safe",
+        "scp",
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "incrediblywackycat"
+        "Inertia_comrade"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5887",
+      "title": "SCP-5887",
+      "alternateTitle": "Evacuation",
+      "rating": 22,
+      "createdAt": "2021-03-31T13:42:05.000Z",
+      "tags": [
+        "alive",
+        "electronic",
+        "extradimensional",
+        "foundation-made",
+        "hostile",
+        "k-class-scenario",
+        "location",
+        "portal",
+        "radioactive",
+        "reptile",
+        "safe",
+        "scp",
+        "spatial"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Rose the Changeling"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2220",
+      "title": "SCP-2220",
+      "alternateTitle": "Halsey's Hammer",
+      "rating": 20,
+      "createdAt": "2014-05-24T18:52:22.000Z",
+      "tags": [
+        "military",
+        "portal",
+        "safe",
+        "scp",
+        "spatial",
+        "teleportation",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2220/lilboy2.jpg",
+      "authors": [
+        "NotoriousMDG"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T02:10:14.564Z",
+  "updatedAt": "2026-05-20T10:41:21.183Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8670",
-      "title": "SCP-8670",
-      "alternateTitle": "An Awful Lullaby",
-      "rating": 8,
-      "createdAt": "2025-07-11T04:28:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8174",
+      "title": "SCP-8174",
+      "alternateTitle": "The Ark",
+      "rating": 18,
+      "createdAt": "2024-12-28T15:01:24.000Z",
       "tags": [
-        "acoustic",
-        "audio",
-        "auditory",
-        "cognitohazard",
-        "media",
-        "memory-affecting",
-        "musical",
-        "safe",
+        "apocalyptic",
+        "bleak",
+        "ectoentropic",
+        "electrical",
+        "foundation-made",
+        "mechanical",
         "scp",
-        "sleep"
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/every-day-your-first-and-last/jingle.png",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/nilsseverin/Hyundai_ship_engine_under_construction.jpg",
       "authors": [
-        "Inactivity"
+        "Nils Severin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8210",
-      "title": "SCP-8210",
-      "alternateTitle": "Super Captain-Man",
-      "rating": 23,
-      "createdAt": "2024-07-14T15:31:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8857",
+      "title": "SCP-8857",
+      "alternateTitle": "Sinus Problems",
+      "rating": 8,
+      "createdAt": "2025-07-30T12:47:06.000Z",
       "tags": [
-        "esoteric-class",
+        "arthropod",
+        "euclid",
+        "parasitic",
+        "reproductive",
         "scp",
-        "superhero",
-        "uncontained"
+        "species",
+        "toxic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Norman Lennock Manne"
+        "Zale13"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
-      "title": "SCP-CN-1997",
-      "alternateTitle": "When Magic and Science Intersect",
-      "rating": 21,
-      "createdAt": "2022-06-12T00:44:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8336",
+      "title": "SCP-8336",
+      "alternateTitle": "A Mosquito's Song",
+      "rating": 15,
+      "createdAt": "2025-07-08T18:50:45.000Z",
       "tags": [
-        "broken-god",
-        "city",
-        "deus-ex-machina",
-        "euclid",
+        "acoustic",
+        "but-a-dream",
+        "demon",
         "extradimensional",
-        "foundation-made",
-        "hong-shing",
-        "international",
-        "k-class-scenario",
-        "radioactive",
-        "religious",
-        "religious-fiction",
-        "scp",
-        "thaumaturgy",
-        "uncontained"
+        "horror",
+        "mystery",
+        "neutralized",
+        "psychological-horror",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
+      "thumbnailUrl": "",
       "authors": [
-        "MScarlet",
-        "tetsusquared"
+        "incrediblywackycat"
       ]
     }
   ]

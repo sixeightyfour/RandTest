@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T17:56:07.811Z",
+  "updatedAt": "2026-05-20T02:10:14.564Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-232-arc",
-      "title": "SCP-232-ARC",
-      "alternateTitle": "Sumerian Goddess of the Dead",
-      "rating": -19,
-      "createdAt": "2008-07-26T21:07:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8670",
+      "title": "SCP-8670",
+      "alternateTitle": "An Awful Lullaby",
+      "rating": 8,
+      "createdAt": "2025-07-11T04:28:17.000Z",
       "tags": [
-        "archaeological",
-        "archived",
+        "acoustic",
+        "audio",
         "auditory",
-        "euclid",
-        "hallucination",
-        "humanoid",
-        "religious",
-        "rewrite",
-        "scp",
-        "sculpture",
-        "shadow",
-        "thermal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-232-arc/SCP-232.jpg",
-      "authors": [
-        "Tara Unknown"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8691",
-      "title": "SCP-8691",
-      "alternateTitle": "WARNING: Smoking can cause a slow and painful death.",
-      "rating": 11,
-      "createdAt": "2025-07-20T22:28:17.000Z",
-      "tags": [
-        "artifact",
-        "chemical",
         "cognitohazard",
-        "compulsion",
+        "media",
+        "memory-affecting",
+        "musical",
         "safe",
-        "scp",
-        "toxic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "lunatunamoona"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8198",
-      "title": "SCP-8198",
-      "alternateTitle": "The Death of Sleep",
-      "rating": 23,
-      "createdAt": "2025-05-10T17:11:08.000Z",
-      "tags": [
-        "apocalyptic",
-        "apollyon",
-        "bleak",
-        "cosmic-horror",
-        "dream",
-        "horror",
         "scp",
         "sleep"
       ],
-      "thumbnailUrl": "https://imgur.com/VOvw2Ub.png",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/every-day-your-first-and-last/jingle.png",
       "authors": [
-        "DrAlexeiKnight"
+        "Inactivity"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8210",
+      "title": "SCP-8210",
+      "alternateTitle": "Super Captain-Man",
+      "rating": 23,
+      "createdAt": "2024-07-14T15:31:14.000Z",
+      "tags": [
+        "esoteric-class",
+        "scp",
+        "superhero",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Norman Lennock Manne"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
+      "title": "SCP-CN-1997",
+      "alternateTitle": "When Magic and Science Intersect",
+      "rating": 21,
+      "createdAt": "2022-06-12T00:44:20.000Z",
+      "tags": [
+        "broken-god",
+        "city",
+        "deus-ex-machina",
+        "euclid",
+        "extradimensional",
+        "foundation-made",
+        "hong-shing",
+        "international",
+        "k-class-scenario",
+        "radioactive",
+        "religious",
+        "religious-fiction",
+        "scp",
+        "thaumaturgy",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
+      "authors": [
+        "MScarlet",
+        "tetsusquared"
       ]
     }
   ]

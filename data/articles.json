@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T10:58:30.173Z",
+  "updatedAt": "2026-05-21T17:50:12.751Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-148-de",
-      "title": "SCP-148-DE",
-      "alternateTitle": "Blue Slime [Level 25]",
-      "rating": 10,
-      "createdAt": "2022-07-23T04:57:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-356-arc",
+      "title": "SCP-356-ARC",
+      "alternateTitle": "Cemetery… Portal?",
+      "rating": -19,
+      "createdAt": "2009-05-01T19:20:05.000Z",
       "tags": [
-        "adaptive",
-        "amorphous",
-        "autonomous",
-        "biological",
-        "ectoentropic",
+        "archived",
         "euclid",
         "humanoid",
-        "international",
-        "liquid",
-        "metamorphic",
-        "mimetic",
-        "sapient",
+        "intangible",
         "scp",
-        "tactile"
-      ],
-      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
-      "authors": [
-        "Einer von Rabe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7371",
-      "title": "SCP-7371",
-      "alternateTitle": "What's In The Box? Our Lord And Saviour",
-      "rating": 17,
-      "createdAt": "2024-03-03T23:27:17.000Z",
-      "tags": [
-        "euclid",
-        "humanoid",
-        "sapient",
-        "scp"
+        "sculpture"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Alberick"
+        "Sensei Le Roof"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4906",
-      "title": "SCP-4906",
-      "alternateTitle": "On the Sixth Month Gale",
-      "rating": 18,
-      "createdAt": "2019-06-02T06:53:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6155",
+      "title": "SCP-6155",
+      "alternateTitle": "Blood Related",
+      "rating": 21,
+      "createdAt": "2021-12-08T02:56:17.000Z",
       "tags": [
         "alive",
-        "animal",
-        "bird",
-        "cetacean",
-        "euclid",
-        "historical",
-        "magnetic",
-        "meteorological",
+        "auditory",
+        "cadaver",
+        "hallucination",
+        "humanoid",
+        "safe",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AKFrost"
+        "Aleph-Null"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9032",
+      "title": "SCP-9032",
+      "alternateTitle": "Chronesthesia II",
+      "rating": 7,
+      "createdAt": "2025-10-04T03:58:16.000Z",
+      "tags": [
+        "9000",
+        "euclid",
+        "mind-affecting",
+        "neutralized",
+        "scp",
+        "sensory",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Resolver"
       ]
     }
   ]

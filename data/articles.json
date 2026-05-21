@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T02:09:31.180Z",
+  "updatedAt": "2026-05-21T10:58:30.173Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7856",
-      "title": "SCP-7856",
-      "alternateTitle": "The Little Engine That Wouldn't",
-      "rating": 16,
-      "createdAt": "2024-04-02T05:09:58.000Z",
-      "tags": [
-        "compulsion",
-        "ghost",
-        "historical",
-        "safe",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
-      "authors": [
-        "MikeDiceWrites"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-187-de",
-      "title": "SCP-187-DE",
-      "alternateTitle": "Mathilda",
+      "url": "http://scp-wiki.wikidot.com/scp-148-de",
+      "title": "SCP-148-DE",
+      "alternateTitle": "Blue Slime [Level 25]",
       "rating": 10,
-      "createdAt": "2022-09-08T17:16:58.000Z",
+      "createdAt": "2022-07-23T04:57:00.000Z",
       "tags": [
+        "adaptive",
+        "amorphous",
+        "autonomous",
+        "biological",
+        "ectoentropic",
         "euclid",
         "humanoid",
-        "intangible",
         "international",
-        "memetic",
-        "mind-affecting",
+        "liquid",
+        "metamorphic",
+        "mimetic",
         "sapient",
-        "scp"
+        "scp",
+        "tactile"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-187-de/Matpix.jpg",
+      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
       "authors": [
         "Einer von Rabe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8171",
-      "title": "SCP-8171",
-      "alternateTitle": "maculate conception",
-      "rating": 16,
-      "createdAt": "2025-04-23T12:10:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7371",
+      "title": "SCP-7371",
+      "alternateTitle": "What's In The Box? Our Lord And Saviour",
+      "rating": 17,
+      "createdAt": "2024-03-03T23:27:17.000Z",
       "tags": [
-        "animal",
-        "body-horror",
-        "horror",
-        "neutralized",
-        "psychological-horror",
-        "rabbit",
-        "sarkic",
+        "euclid",
+        "humanoid",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrate_negative_of_rabbit_on_wooden_bench_with_nest_of_eggs._Additional_nest_of_eggs_on_ground._Location_unknown._%3B_BRCA_Museum_%2823d09360b8bd434b904c0d5173b4a998%29.tif/lossy-page1-2000px-thumbnail.tif.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Civil Western"
+        "Alberick"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4906",
+      "title": "SCP-4906",
+      "alternateTitle": "On the Sixth Month Gale",
+      "rating": 18,
+      "createdAt": "2019-06-02T06:53:28.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "bird",
+        "cetacean",
+        "euclid",
+        "historical",
+        "magnetic",
+        "meteorological",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "AKFrost"
       ]
     }
   ]

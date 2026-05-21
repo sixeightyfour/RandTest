@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T18:09:22.283Z",
+  "updatedAt": "2026-05-21T02:09:31.180Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8267",
-      "title": "SCP-8267",
-      "alternateTitle": "Area-85",
-      "rating": 18,
-      "createdAt": "2025-07-13T04:01:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7856",
+      "title": "SCP-7856",
+      "alternateTitle": "The Little Engine That Wouldn't",
+      "rating": 16,
+      "createdAt": "2024-04-02T05:09:58.000Z",
       "tags": [
-        "aquatic",
-        "artifact",
+        "compulsion",
+        "ghost",
+        "historical",
+        "safe",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
+      "authors": [
+        "MikeDiceWrites"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-187-de",
+      "title": "SCP-187-DE",
+      "alternateTitle": "Mathilda",
+      "rating": 10,
+      "createdAt": "2022-09-08T17:16:58.000Z",
+      "tags": [
+        "euclid",
+        "humanoid",
+        "intangible",
+        "international",
+        "memetic",
+        "mind-affecting",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-187-de/Matpix.jpg",
+      "authors": [
+        "Einer von Rabe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8171",
+      "title": "SCP-8171",
+      "alternateTitle": "maculate conception",
+      "rating": 16,
+      "createdAt": "2025-04-23T12:10:58.000Z",
+      "tags": [
+        "animal",
         "body-horror",
-        "cadaver",
-        "cephalopod",
-        "chemical",
-        "classiccon2025",
-        "fish",
         "horror",
-        "mystery",
-        "reanimation",
-        "safe",
-        "scp",
-        "transfiguration"
+        "neutralized",
+        "psychological-horror",
+        "rabbit",
+        "sarkic",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrate_negative_of_rabbit_on_wooden_bench_with_nest_of_eggs._Additional_nest_of_eggs_on_ground._Location_unknown._%3B_BRCA_Museum_%2823d09360b8bd434b904c0d5173b4a998%29.tif/lossy-page1-2000px-thumbnail.tif.jpg",
       "authors": [
-        "Inertia_comrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5887",
-      "title": "SCP-5887",
-      "alternateTitle": "Evacuation",
-      "rating": 22,
-      "createdAt": "2021-03-31T13:42:05.000Z",
-      "tags": [
-        "alive",
-        "electronic",
-        "extradimensional",
-        "foundation-made",
-        "hostile",
-        "k-class-scenario",
-        "location",
-        "portal",
-        "radioactive",
-        "reptile",
-        "safe",
-        "scp",
-        "spatial"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Rose the Changeling"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2220",
-      "title": "SCP-2220",
-      "alternateTitle": "Halsey's Hammer",
-      "rating": 20,
-      "createdAt": "2014-05-24T18:52:22.000Z",
-      "tags": [
-        "military",
-        "portal",
-        "safe",
-        "scp",
-        "spatial",
-        "teleportation",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2220/lilboy2.jpg",
-      "authors": [
-        "NotoriousMDG"
+        "Civil Western"
       ]
     }
   ]

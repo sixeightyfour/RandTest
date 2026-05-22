@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T17:50:12.751Z",
+  "updatedAt": "2026-05-22T02:12:39.912Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-356-arc",
-      "title": "SCP-356-ARC",
-      "alternateTitle": "Cemetery… Portal?",
-      "rating": -19,
-      "createdAt": "2009-05-01T19:20:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-021-pt",
+      "title": "SCP-021-PT",
+      "alternateTitle": "Theatre of Crystals",
+      "rating": 18,
+      "createdAt": "2018-11-02T18:50:19.000Z",
       "tags": [
-        "archived",
-        "euclid",
         "humanoid",
-        "intangible",
-        "scp",
-        "sculpture"
+        "international",
+        "keter",
+        "performance",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpsandboxbr.wdfiles.com/local--files/slashannemoo/WasserEisbergMeerOzeanAntarktis.png",
       "authors": [
-        "Sensei Le Roof"
+        "slashannemoo",
+        "slashannemoo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6155",
-      "title": "SCP-6155",
-      "alternateTitle": "Blood Related",
-      "rating": 21,
-      "createdAt": "2021-12-08T02:56:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-sga-002",
+      "title": "SCP-SGA-002",
+      "alternateTitle": "Brain Freeze",
+      "rating": 10,
+      "createdAt": "2025-05-21T16:32:53.000Z",
       "tags": [
-        "alive",
-        "auditory",
-        "cadaver",
-        "hallucination",
-        "humanoid",
+        "antimemetic",
+        "food",
+        "gustatory",
+        "international",
         "safe",
-        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Aleph-Null"
+        "MasterTman2"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9032",
-      "title": "SCP-9032",
-      "alternateTitle": "Chronesthesia II",
-      "rating": 7,
-      "createdAt": "2025-10-04T03:58:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6903",
+      "title": "SCP-6903",
+      "alternateTitle": "Just a Mirror",
+      "rating": 16,
+      "createdAt": "2022-03-02T17:58:36.000Z",
       "tags": [
-        "9000",
+        "artifact",
         "euclid",
-        "mind-affecting",
-        "neutralized",
+        "extradimensional",
+        "portal",
         "scp",
-        "sensory",
-        "temporal"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Resolver"
+        "Carl Sagan"
       ]
     }
   ]

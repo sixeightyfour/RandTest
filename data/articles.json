@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T09:43:10.457Z",
+  "updatedAt": "2026-05-23T16:49:41.810Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-289-de",
-      "title": "SCP-289-DE",
-      "alternateTitle": "The Great Bazoo",
-      "rating": 11,
-      "createdAt": "2023-05-10T19:48:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-534",
+      "title": "SCP-CN-534",
+      "alternateTitle": "Mr. Dialect",
+      "rating": 15,
+      "createdAt": "2022-06-12T00:24:40.000Z",
       "tags": [
-        "humanoid",
+        "gamers-against-weed",
+        "infohazard",
         "international",
-        "keter",
+        "knowledge",
+        "language",
+        "meta",
+        "mister",
+        "safe",
         "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
-      "authors": [
-        "Gramlin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4672",
-      "title": "SCP-4672",
-      "alternateTitle": "Meteoric Dog",
-      "rating": 22,
-      "createdAt": "2019-03-10T05:09:51.000Z",
-      "tags": [
-        "animal",
-        "canine",
-        "euclid",
-        "jam-con2019",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mecheon"
+        "The_Reaper_Kindred",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8722",
-      "title": "SCP-8722",
-      "alternateTitle": "Death, Decay, and Ignorance",
-      "rating": 4,
-      "createdAt": "2024-02-19T02:20:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7856",
+      "title": "SCP-7856",
+      "alternateTitle": "The Little Engine That Wouldn't",
+      "rating": 16,
+      "createdAt": "2024-04-02T05:09:58.000Z",
       "tags": [
-        "8000",
-        "alive",
-        "extradimensional",
-        "hallucination",
-        "humanoid",
-        "neutralized",
-        "portal",
-        "predatory",
-        "sapient",
+        "compulsion",
+        "ghost",
+        "historical",
+        "safe",
         "scp",
-        "telepathic",
-        "tree"
+        "vehicle"
       ],
-      "thumbnailUrl": "https://i.imgur.com/FKMufwb.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
       "authors": [
-        "Nostellae"
+        "MikeDiceWrites"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7371",
+      "title": "SCP-7371",
+      "alternateTitle": "What's In The Box? Our Lord And Saviour",
+      "rating": 17,
+      "createdAt": "2024-03-03T23:27:17.000Z",
+      "tags": [
+        "euclid",
+        "humanoid",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Alberick"
       ]
     }
   ]

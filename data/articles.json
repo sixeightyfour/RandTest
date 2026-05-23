@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T17:44:21.297Z",
+  "updatedAt": "2026-05-23T01:59:38.379Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3173",
-      "title": "SCP-3173",
-      "alternateTitle": "Forest Prison",
-      "rating": 19,
-      "createdAt": "2018-03-06T01:37:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7229",
+      "title": "SCP-7229",
+      "alternateTitle": "Telepathic Macaques",
+      "rating": 14,
+      "createdAt": "2025-09-07T19:47:20.000Z",
       "tags": [
-        "amorphous",
-        "forest",
-        "gaseous",
-        "island",
-        "keter",
-        "location",
+        "euclid",
+        "ijamea",
+        "joicl",
+        "marshall-carter-and-dark",
+        "primate",
+        "prometheus",
+        "sapient",
         "scp",
-        "thermodynamic",
-        "tree"
+        "telepathic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3173/forest.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
       "authors": [
-        "Whipple"
+        "Baronjoe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7494",
-      "title": "SCP-7494",
-      "alternateTitle": "Paramemory Paradox",
-      "rating": 4,
-      "createdAt": "2025-01-18T04:51:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9170",
+      "title": "SCP-9170",
+      "alternateTitle": "No. 17 Gorse Avenue",
+      "rating": 6,
+      "createdAt": "2025-10-01T23:17:55.000Z",
       "tags": [
-        "auditory",
-        "hallucination",
-        "light",
+        "9000",
+        "building",
+        "infohazard",
+        "mathematical",
+        "neurological",
         "safe",
-        "sapient",
-        "scp",
-        "sculpture",
-        "telekinetic",
-        "telepathic",
-        "temporal"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Orbalorb"
+        "TeaAndDigestives"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7536",
-      "title": "SCP-7536",
-      "alternateTitle": "Ill Omen",
+      "url": "http://scp-wiki.wikidot.com/scp-8786",
+      "title": "SCP-8786",
+      "alternateTitle": "The Sin In Your Spine",
       "rating": 21,
-      "createdAt": "2025-04-25T18:54:11.000Z",
+      "createdAt": "2025-08-12T21:44:50.000Z",
       "tags": [
         "alive",
-        "animal",
-        "archon",
-        "bird",
-        "cognitohazard",
-        "observational",
-        "predictive",
-        "probability",
-        "scp"
+        "bittersweet",
+        "euclid",
+        "horror",
+        "humanoid",
+        "lgbtq",
+        "parasitic",
+        "scp",
+        "self-repairing",
+        "telekinetic",
+        "worm"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/254/445996477_21c49c43d7_b.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "8bitbreadbox"
+        "voidXout"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T01:59:38.379Z",
+  "updatedAt": "2026-05-23T09:43:10.457Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7229",
-      "title": "SCP-7229",
-      "alternateTitle": "Telepathic Macaques",
-      "rating": 14,
-      "createdAt": "2025-09-07T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-289-de",
+      "title": "SCP-289-DE",
+      "alternateTitle": "The Great Bazoo",
+      "rating": 11,
+      "createdAt": "2023-05-10T19:48:47.000Z",
       "tags": [
-        "euclid",
-        "ijamea",
-        "joicl",
-        "marshall-carter-and-dark",
-        "primate",
-        "prometheus",
+        "humanoid",
+        "international",
+        "keter",
         "sapient",
-        "scp",
-        "telepathic"
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
       "authors": [
-        "Baronjoe"
+        "Gramlin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9170",
-      "title": "SCP-9170",
-      "alternateTitle": "No. 17 Gorse Avenue",
-      "rating": 6,
-      "createdAt": "2025-10-01T23:17:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4672",
+      "title": "SCP-4672",
+      "alternateTitle": "Meteoric Dog",
+      "rating": 22,
+      "createdAt": "2019-03-10T05:09:51.000Z",
       "tags": [
-        "9000",
-        "building",
-        "infohazard",
-        "mathematical",
-        "neurological",
-        "safe",
+        "animal",
+        "canine",
+        "euclid",
+        "jam-con2019",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TeaAndDigestives"
+        "Mecheon"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8786",
-      "title": "SCP-8786",
-      "alternateTitle": "The Sin In Your Spine",
-      "rating": 21,
-      "createdAt": "2025-08-12T21:44:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8722",
+      "title": "SCP-8722",
+      "alternateTitle": "Death, Decay, and Ignorance",
+      "rating": 4,
+      "createdAt": "2024-02-19T02:20:38.000Z",
       "tags": [
+        "8000",
         "alive",
-        "bittersweet",
-        "euclid",
-        "horror",
+        "extradimensional",
+        "hallucination",
         "humanoid",
-        "lgbtq",
-        "parasitic",
+        "neutralized",
+        "portal",
+        "predatory",
+        "sapient",
         "scp",
-        "self-repairing",
-        "telekinetic",
-        "worm"
+        "telepathic",
+        "tree"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://i.imgur.com/FKMufwb.png",
       "authors": [
-        "voidXout"
+        "Nostellae"
       ]
     }
   ]

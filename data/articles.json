@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T09:47:41.214Z",
+  "updatedAt": "2026-05-24T16:52:02.487Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-151-it",
-      "title": "SCP-151-IT",
-      "alternateTitle": "The Ideal Panettone",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:51:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6236",
+      "title": "SCP-6236",
+      "alternateTitle": "A Motel Elevator",
+      "rating": 21,
+      "createdAt": "2021-12-30T03:23:54.000Z",
       "tags": [
-        "concept",
-        "international",
-        "pending",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%C3%80tom_de_Thomson.png",
-      "authors": [
-        "Ximon",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9033",
-      "title": "SCP-9033",
-      "alternateTitle": "The Catalogue",
-      "rating": 24,
-      "createdAt": "2025-09-20T16:10:43.000Z",
-      "tags": [
-        "9000",
-        "bureaucracy",
-        "mathematical",
-        "meta",
-        "probability",
+        "building",
+        "euclid",
+        "extradimensional",
         "scp",
-        "thaumiel"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9033/Storage_vault.jpg",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
       "authors": [
-        "UlyssesBark"
+        "Inertia_comrade"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8692",
-      "title": "SCP-8692",
-      "alternateTitle": "Hell's Coming With Me",
-      "rating": 24,
-      "createdAt": "2024-10-22T02:06:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7087",
+      "title": "SCP-7087",
+      "alternateTitle": "Beware the Bioluminescent Abyss",
+      "rating": 14,
+      "createdAt": "2023-04-16T23:17:48.000Z",
       "tags": [
-        "artifact",
-        "city",
-        "demon",
-        "fantasy",
-        "hallucination",
+        "animal",
+        "aquatic",
+        "euclid",
         "mind-affecting",
-        "mystery",
-        "religious",
-        "religious-fiction",
-        "safe",
+        "observational",
         "scp",
-        "telepathic"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8692/Halabiye_Church_Ruins.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
       "authors": [
-        "NothingToAnOcean"
+        "Jarodard"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6378",
+      "title": "SCP-6378",
+      "alternateTitle": "Set Forever in Stone",
+      "rating": 22,
+      "createdAt": "2022-10-15T05:30:42.000Z",
+      "tags": [
+        "cadaver",
+        "euclid",
+        "extraterrestrial",
+        "extremity",
+        "scp",
+        "self-repairing",
+        "sphere"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
+      "authors": [
+        "CuteFish"
       ]
     }
   ]

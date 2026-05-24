@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T16:49:41.810Z",
+  "updatedAt": "2026-05-24T02:08:50.174Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-534",
-      "title": "SCP-CN-534",
-      "alternateTitle": "Mr. Dialect",
-      "rating": 15,
-      "createdAt": "2022-06-12T00:24:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5439",
+      "title": "SCP-5439",
+      "alternateTitle": "Nose Itch",
+      "rating": 21,
+      "createdAt": "2021-09-21T20:36:02.000Z",
       "tags": [
-        "gamers-against-weed",
-        "infohazard",
-        "international",
-        "knowledge",
-        "language",
-        "meta",
-        "mister",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "The_Reaper_Kindred",
-        "tetsusquared"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7856",
-      "title": "SCP-7856",
-      "alternateTitle": "The Little Engine That Wouldn't",
-      "rating": 16,
-      "createdAt": "2024-04-02T05:09:58.000Z",
-      "tags": [
-        "compulsion",
-        "ghost",
-        "historical",
-        "safe",
+        "medical",
+        "mind-affecting",
+        "pending",
         "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
-      "authors": [
-        "MikeDiceWrites"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7371",
-      "title": "SCP-7371",
-      "alternateTitle": "What's In The Box? Our Lord And Saviour",
-      "rating": 17,
-      "createdAt": "2024-03-03T23:27:17.000Z",
-      "tags": [
-        "euclid",
-        "humanoid",
-        "sapient",
-        "scp"
+        "sensory"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Alberick"
+        "Nils Severin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9036",
+      "title": "SCP-9036",
+      "alternateTitle": "Administrative Competence",
+      "rating": 14,
+      "createdAt": "2025-09-21T04:36:25.000Z",
+      "tags": [
+        "9000",
+        "archon",
+        "bureaucracy",
+        "foundation-made",
+        "mystery",
+        "phenomenon",
+        "probability",
+        "religious-fiction",
+        "scp",
+        "tactical-theology",
+        "thaumiel",
+        "the-administrator"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Peter Cohen"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8840",
+      "title": "SCP-8840",
+      "alternateTitle": "First Day on the Job",
+      "rating": 18,
+      "createdAt": "2025-01-26T03:01:36.000Z",
+      "tags": [
+        "adaptive",
+        "chaos-insurgency",
+        "computer",
+        "knowledge",
+        "online",
+        "pending",
+        "scp",
+        "slice-of-life"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
+      "authors": [
+        "Mister_Toasty"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T02:08:50.174Z",
+  "updatedAt": "2026-05-24T09:47:41.214Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5439",
-      "title": "SCP-5439",
-      "alternateTitle": "Nose Itch",
-      "rating": 21,
-      "createdAt": "2021-09-21T20:36:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-151-it",
+      "title": "SCP-151-IT",
+      "alternateTitle": "The Ideal Panettone",
+      "rating": 7,
+      "createdAt": "2023-05-06T17:51:05.000Z",
       "tags": [
-        "medical",
-        "mind-affecting",
+        "concept",
+        "international",
         "pending",
-        "scp",
-        "sensory"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%C3%80tom_de_Thomson.png",
       "authors": [
-        "Nils Severin"
+        "Ximon",
+        "Roberto Turati"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9036",
-      "title": "SCP-9036",
-      "alternateTitle": "Administrative Competence",
-      "rating": 14,
-      "createdAt": "2025-09-21T04:36:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9033",
+      "title": "SCP-9033",
+      "alternateTitle": "The Catalogue",
+      "rating": 24,
+      "createdAt": "2025-09-20T16:10:43.000Z",
       "tags": [
         "9000",
-        "archon",
         "bureaucracy",
-        "foundation-made",
-        "mystery",
-        "phenomenon",
+        "mathematical",
+        "meta",
         "probability",
-        "religious-fiction",
         "scp",
-        "tactical-theology",
-        "thaumiel",
-        "the-administrator"
+        "thaumiel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9033/Storage_vault.jpg",
       "authors": [
-        "Peter Cohen"
+        "UlyssesBark"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8840",
-      "title": "SCP-8840",
-      "alternateTitle": "First Day on the Job",
-      "rating": 18,
-      "createdAt": "2025-01-26T03:01:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8692",
+      "title": "SCP-8692",
+      "alternateTitle": "Hell's Coming With Me",
+      "rating": 24,
+      "createdAt": "2024-10-22T02:06:55.000Z",
       "tags": [
-        "adaptive",
-        "chaos-insurgency",
-        "computer",
-        "knowledge",
-        "online",
-        "pending",
+        "artifact",
+        "city",
+        "demon",
+        "fantasy",
+        "hallucination",
+        "mind-affecting",
+        "mystery",
+        "religious",
+        "religious-fiction",
+        "safe",
         "scp",
-        "slice-of-life"
+        "telepathic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8692/Halabiye_Church_Ruins.jpg",
       "authors": [
-        "Mister_Toasty"
+        "NothingToAnOcean"
       ]
     }
   ]

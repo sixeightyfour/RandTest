@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T16:52:02.487Z",
+  "updatedAt": "2026-05-25T02:28:03.023Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,79 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6236",
-      "title": "SCP-6236",
-      "alternateTitle": "A Motel Elevator",
-      "rating": 21,
-      "createdAt": "2021-12-30T03:23:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9948",
+      "title": "SCP-9948",
+      "alternateTitle": "Constructive Containment",
+      "rating": 23,
+      "createdAt": "2025-11-20T19:23:04.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "extradimensional",
+        "auditory",
+        "autonomous",
+        "global-occult-coalition",
+        "hallucination",
+        "historical",
+        "humanoid",
+        "mind-affecting",
+        "neutralized",
+        "period-piece",
+        "phenomenon",
+        "political",
+        "sapient",
         "scp",
-        "teleportation"
+        "visual"
       ],
-      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
+      "thumbnailUrl": "",
       "authors": [
-        "Inertia_comrade"
+        "whenwerewe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7087",
-      "title": "SCP-7087",
-      "alternateTitle": "Beware the Bioluminescent Abyss",
-      "rating": 14,
-      "createdAt": "2023-04-16T23:17:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-655-fr",
+      "title": "SCP-655-FR",
+      "alternateTitle": "I was isekai'ed against my will: now, it's up to me to save the world!",
+      "rating": 12,
+      "createdAt": "2025-02-08T02:48:34.000Z",
+      "tags": [
+        "biohazard",
+        "esoteric-class",
+        "hallucination",
+        "international",
+        "library",
+        "microscopic",
+        "narrative",
+        "neurological",
+        "parasitic",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-655-fr/siphonophore.jpg",
+      "authors": [
+        "DrCendres",
+        "MasterTman2"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8364",
+      "title": "SCP-8364",
+      "alternateTitle": "Hot Dog",
+      "rating": 19,
+      "createdAt": "2025-04-11T13:50:26.000Z",
       "tags": [
         "animal",
-        "aquatic",
-        "euclid",
-        "mind-affecting",
-        "observational",
+        "canine",
+        "corrosive",
+        "ectoentropic",
+        "fire",
+        "keter",
+        "liquid",
+        "metamorphic",
+        "sapient",
         "scp",
-        "species"
+        "self-repairing"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
       "authors": [
-        "Jarodard"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6378",
-      "title": "SCP-6378",
-      "alternateTitle": "Set Forever in Stone",
-      "rating": 22,
-      "createdAt": "2022-10-15T05:30:42.000Z",
-      "tags": [
-        "cadaver",
-        "euclid",
-        "extraterrestrial",
-        "extremity",
-        "scp",
-        "self-repairing",
-        "sphere"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
-      "authors": [
-        "CuteFish"
+        "Booblesnoot"
       ]
     }
   ]

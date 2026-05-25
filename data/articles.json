@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T02:28:03.023Z",
+  "updatedAt": "2026-05-25T11:42:54.608Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,79 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9948",
-      "title": "SCP-9948",
-      "alternateTitle": "Constructive Containment",
-      "rating": 23,
-      "createdAt": "2025-11-20T19:23:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9950",
+      "title": "SCP-9950",
+      "alternateTitle": "Ideate, Decelerate, Abate.",
+      "rating": 13,
+      "createdAt": "2025-11-17T13:33:17.000Z",
       "tags": [
-        "auditory",
         "autonomous",
-        "global-occult-coalition",
-        "hallucination",
-        "historical",
-        "humanoid",
-        "mind-affecting",
-        "neutralized",
-        "period-piece",
-        "phenomenon",
-        "political",
+        "children-of-the-torch",
+        "concept",
+        "esoteric-class",
+        "extradimensional",
+        "memetic",
+        "noosphere",
+        "parasitic",
         "sapient",
-        "scp",
-        "visual"
+        "sarkic",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "whenwerewe"
+        "poltatherian"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-655-fr",
-      "title": "SCP-655-FR",
-      "alternateTitle": "I was isekai'ed against my will: now, it's up to me to save the world!",
-      "rating": 12,
-      "createdAt": "2025-02-08T02:48:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2681",
+      "title": "SCP-2681",
+      "alternateTitle": "Animal Man",
+      "rating": 24,
+      "createdAt": "2025-07-17T19:21:50.000Z",
       "tags": [
-        "biohazard",
-        "esoteric-class",
-        "hallucination",
-        "international",
-        "library",
-        "microscopic",
-        "narrative",
-        "neurological",
-        "parasitic",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-655-fr/siphonophore.jpg",
-      "authors": [
-        "DrCendres",
-        "MasterTman2"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8364",
-      "title": "SCP-8364",
-      "alternateTitle": "Hot Dog",
-      "rating": 19,
-      "createdAt": "2025-04-11T13:50:26.000Z",
-      "tags": [
+        "alive",
         "animal",
-        "canine",
-        "corrosive",
-        "ectoentropic",
-        "fire",
-        "keter",
-        "liquid",
-        "metamorphic",
+        "bleak",
+        "compulsion",
+        "euclid",
+        "humanoid",
+        "rewrite",
         "sapient",
-        "scp",
-        "self-repairing"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Booblesnoot"
+        "Midgard Serpent",
+        "Uncle Nicolini"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-227-fr",
+      "title": "SCP-227-FR",
+      "alternateTitle": "Horoscomaton",
+      "rating": 15,
+      "createdAt": "2022-05-07T15:06:29.000Z",
+      "tags": [
+        "autonomous",
+        "compulsion",
+        "international",
+        "mechanical",
+        "predictive",
+        "safe",
+        "sapphire",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "http://fondationscp.wikidot.com/local--files/scp-227-fr/Zodiaque2%281%29.jpg",
+      "authors": [
+        "DrGemini",
+        "Prismal"
       ]
     }
   ]

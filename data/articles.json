@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T11:42:54.608Z",
+  "updatedAt": "2026-05-25T17:28:18.014Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9950",
-      "title": "SCP-9950",
-      "alternateTitle": "Ideate, Decelerate, Abate.",
-      "rating": 13,
-      "createdAt": "2025-11-17T13:33:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
+      "title": "SCP-242-KO",
+      "alternateTitle": "Riventry of Cataclysm",
+      "rating": 19,
+      "createdAt": "2022-11-10T00:23:52.000Z",
       "tags": [
-        "autonomous",
-        "children-of-the-torch",
-        "concept",
-        "esoteric-class",
-        "extradimensional",
-        "memetic",
-        "noosphere",
-        "parasitic",
+        "humanoid",
+        "international",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
         "sapient",
-        "sarkic",
-        "scp"
+        "scp",
+        "thaumiel",
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
       "authors": [
-        "poltatherian"
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2681",
-      "title": "SCP-2681",
-      "alternateTitle": "Animal Man",
+      "url": "http://scp-wiki.wikidot.com/scp-8107",
+      "title": "SCP-8107",
+      "alternateTitle": "Dr. Lovelace, Lonely Occlupanologist",
       "rating": 24,
-      "createdAt": "2025-07-17T19:21:50.000Z",
+      "createdAt": "2025-06-25T04:51:20.000Z",
       "tags": [
         "alive",
-        "animal",
+        "artifact",
         "bleak",
-        "compulsion",
-        "euclid",
         "humanoid",
-        "rewrite",
+        "keter",
+        "lgbtq",
+        "pridefest2025",
+        "reality-bending",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8107/DrLovelace.png",
       "authors": [
-        "Midgard Serpent",
-        "Uncle Nicolini"
+        "Zera27"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-227-fr",
-      "title": "SCP-227-FR",
-      "alternateTitle": "Horoscomaton",
-      "rating": 15,
-      "createdAt": "2022-05-07T15:06:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-705-fr",
+      "title": "SCP-705-FR",
+      "alternateTitle": "Icarus Squadron",
+      "rating": 12,
+      "createdAt": "2025-01-30T21:54:07.000Z",
       "tags": [
-        "autonomous",
-        "compulsion",
+        "euclid",
+        "extraterrestrial",
         "international",
-        "mechanical",
-        "predictive",
-        "safe",
-        "sapphire",
+        "satellite",
         "scp",
-        "transfiguration"
+        "vehicle"
       ],
-      "thumbnailUrl": "http://fondationscp.wikidot.com/local--files/scp-227-fr/Zodiaque2%281%29.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "DrGemini",
-        "Prismal"
+        "Sylvelight",
+        "MasterTman2"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T02:07:22.259Z",
+  "updatedAt": "2026-05-26T18:15:40.233Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7465",
-      "title": "SCP-7465",
-      "alternateTitle": "\"Superseded Theories of the Solar System\"",
-      "rating": 8,
-      "createdAt": "2022-10-08T22:37:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6887",
+      "title": "SCP-6887",
+      "alternateTitle": "Remember Us",
+      "rating": 12,
+      "createdAt": "2022-10-25T00:41:51.000Z",
       "tags": [
-        "building",
-        "empathic",
-        "euclid",
-        "hostile",
-        "mind-affecting",
-        "sapient",
+        "artifact",
+        "historical",
+        "portal",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "redredred"
+        "DukeRum"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
-      "title": "SCP-CN-1169",
-      "alternateTitle": "An Impure Fiction Society",
-      "rating": 8,
-      "createdAt": "2023-06-19T16:07:16.000Z",
-      "tags": [
-        "esoteric-class",
-        "international",
-        "meta",
-        "metafiction",
-        "narrative",
-        "reality-bending",
-        "scp",
-        "temporal",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Ninth BB",
-        "la kanro"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7235",
-      "title": "SCP-7235",
-      "alternateTitle": "The Knowledge",
+      "url": "http://scp-wiki.wikidot.com/scp-7611",
+      "title": "SCP-7611",
+      "alternateTitle": "Here I Dreamt I Was an Architect",
       "rating": 12,
-      "createdAt": "2023-04-22T11:42:06.000Z",
+      "createdAt": "2025-04-02T18:03:21.000Z",
       "tags": [
-        "compulsion",
+        "art-exchange",
+        "building",
+        "dream",
+        "extradimensional",
+        "humanoid",
         "keter",
         "reality-bending",
+        "reanimation",
+        "religious",
+        "sapient",
         "scp",
-        "spatial",
-        "temporal"
+        "tactical-theology"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7611/Jen_gets_an_EEG.jpg",
       "authors": [
-        "Unobtainium235"
+        "Diogene_s"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8967",
+      "title": "SCP-8967",
+      "alternateTitle": "BLINKER CHECK",
+      "rating": 6,
+      "createdAt": "2025-09-28T16:11:13.000Z",
+      "tags": [
+        "end-of-death",
+        "extradimensional",
+        "safe",
+        "scp",
+        "teleportation",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8967/Car.1/medium.jpg",
+      "authors": [
+        "ThatHideousStrength"
       ]
     }
   ]

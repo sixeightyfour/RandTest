@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T17:28:18.014Z",
+  "updatedAt": "2026-05-26T02:07:22.259Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
-      "title": "SCP-242-KO",
-      "alternateTitle": "Riventry of Cataclysm",
-      "rating": 19,
-      "createdAt": "2022-11-10T00:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7465",
+      "title": "SCP-7465",
+      "alternateTitle": "\"Superseded Theories of the Solar System\"",
+      "rating": 8,
+      "createdAt": "2022-10-08T22:37:33.000Z",
       "tags": [
-        "humanoid",
-        "international",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
-        "sapient",
-        "scp",
-        "thaumiel",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8107",
-      "title": "SCP-8107",
-      "alternateTitle": "Dr. Lovelace, Lonely Occlupanologist",
-      "rating": 24,
-      "createdAt": "2025-06-25T04:51:20.000Z",
-      "tags": [
-        "alive",
-        "artifact",
-        "bleak",
-        "humanoid",
-        "keter",
-        "lgbtq",
-        "pridefest2025",
-        "reality-bending",
+        "building",
+        "empathic",
+        "euclid",
+        "hostile",
+        "mind-affecting",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8107/DrLovelace.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Zera27"
+        "redredred"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-705-fr",
-      "title": "SCP-705-FR",
-      "alternateTitle": "Icarus Squadron",
-      "rating": 12,
-      "createdAt": "2025-01-30T21:54:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
+      "title": "SCP-CN-1169",
+      "alternateTitle": "An Impure Fiction Society",
+      "rating": 8,
+      "createdAt": "2023-06-19T16:07:16.000Z",
       "tags": [
-        "euclid",
-        "extraterrestrial",
+        "esoteric-class",
         "international",
-        "satellite",
+        "meta",
+        "metafiction",
+        "narrative",
+        "reality-bending",
         "scp",
-        "vehicle"
+        "temporal",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Sylvelight",
-        "MasterTman2"
+        "Ninth BB",
+        "la kanro"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7235",
+      "title": "SCP-7235",
+      "alternateTitle": "The Knowledge",
+      "rating": 12,
+      "createdAt": "2023-04-22T11:42:06.000Z",
+      "tags": [
+        "compulsion",
+        "keter",
+        "reality-bending",
+        "scp",
+        "spatial",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unobtainium235"
       ]
     }
   ]

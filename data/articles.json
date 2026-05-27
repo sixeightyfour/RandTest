@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T02:15:07.004Z",
+  "updatedAt": "2026-05-27T11:29:08.085Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5892",
-      "title": "SCP-5892",
-      "alternateTitle": "A Loyal Friend Indeed",
-      "rating": 10,
-      "createdAt": "2021-06-05T22:53:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8414",
+      "title": "SCP-8414",
+      "alternateTitle": "Wicket Gate",
+      "rating": 3,
+      "createdAt": "2025-01-19T13:29:29.000Z",
       "tags": [
-        "alive",
-        "animal",
+        "building",
+        "euclid",
+        "knowledge",
+        "scp",
+        "tactile",
+        "telepathic"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
+      "authors": [
+        "Pomaranczowa Czapka"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
+      "title": "SCP-2014-UA-EX",
+      "alternateTitle": "SCP-2014-RU",
+      "rating": 10,
+      "createdAt": "2022-05-06T18:05:10.000Z",
+      "tags": [
         "artifact",
-        "canine",
-        "photographic",
-        "reality-bending",
+        "chemical",
+        "euclid",
+        "explained",
+        "historical",
+        "international",
+        "ritual",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "authors": [
+        "Comrade Xander"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1983-jp",
+      "title": "SCP-1983-JP",
+      "alternateTitle": "Remnants of a Dream",
+      "rating": 18,
+      "createdAt": "2023-01-17T20:56:06.000Z",
+      "tags": [
+        "antimemetic",
+        "art-exchange",
+        "building",
+        "infohazard",
+        "international",
+        "meta",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-1983-jp/8583133836_948dee31f0_z.jpg",
       "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7627",
-      "title": "SCP-7627",
-      "alternateTitle": "Soviet Rail Gun",
-      "rating": 13,
-      "createdAt": "2025-06-15T08:50:46.000Z",
-      "tags": [
-        "extraterrestrial",
-        "gravity",
-        "gru-division-p",
-        "neutralized",
-        "pentagram",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nocturned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8844",
-      "title": "SCP-8844",
-      "alternateTitle": "Curse of Khepri",
-      "rating": 23,
-      "createdAt": "2024-06-18T16:44:02.000Z",
-      "tags": [
-        "alien",
-        "archaeological",
-        "extraterrestrial",
-        "keter",
-        "meteorological",
-        "phenomenon",
-        "planet",
-        "religious",
-        "scp"
-      ],
-      "thumbnailUrl": "https://i.imgur.com/Rj8h76J.png",
-      "authors": [
-        "Ampyrsand"
+        "Maxyfran73"
       ]
     }
   ]

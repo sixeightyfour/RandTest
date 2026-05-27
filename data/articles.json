@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T11:29:08.085Z",
+  "updatedAt": "2026-05-27T18:18:51.146Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,80 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8414",
-      "title": "SCP-8414",
-      "alternateTitle": "Wicket Gate",
-      "rating": 3,
-      "createdAt": "2025-01-19T13:29:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
+      "title": "SCP-PL-273",
+      "alternateTitle": "The Pepsi Fleet",
+      "rating": 21,
+      "createdAt": "2023-06-24T13:25:06.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "knowledge",
-        "scp",
-        "tactile",
-        "telepathic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
-      "authors": [
-        "Pomaranczowa Czapka"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
-      "title": "SCP-2014-UA-EX",
-      "alternateTitle": "SCP-2014-RU",
-      "rating": 10,
-      "createdAt": "2022-05-06T18:05:10.000Z",
-      "tags": [
-        "artifact",
-        "chemical",
-        "euclid",
-        "explained",
+        "aquatic",
+        "corporate",
+        "esoteric-class",
+        "from-120s-archives",
+        "gru-division-p",
         "historical",
         "international",
-        "ritual",
-        "scp"
+        "marshall-carter-and-dark",
+        "military",
+        "ruprecht-carter",
+        "scp",
+        "simon-pietrykau",
+        "uncontained",
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
       "authors": [
-        "Comrade Xander"
+        "Jasiu06",
+        "KubKac"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1983-jp",
-      "title": "SCP-1983-JP",
-      "alternateTitle": "Remnants of a Dream",
-      "rating": 18,
-      "createdAt": "2023-01-17T20:56:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8466",
+      "title": "SCP-8466",
+      "alternateTitle": "Zombie",
+      "rating": 19,
+      "createdAt": "2025-07-06T04:44:50.000Z",
       "tags": [
-        "antimemetic",
-        "art-exchange",
+        "autonomous",
         "building",
-        "infohazard",
-        "international",
-        "meta",
+        "city",
+        "classiccon2025",
+        "ethics-committee",
+        "horror",
+        "humanoid",
+        "island",
+        "reanimation",
+        "religious",
         "safe",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-1983-jp/8583133836_948dee31f0_z.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Maxyfran73"
+        "V4Vernacular"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-757",
+      "title": "SCP-CN-757",
+      "alternateTitle": "Tiny World",
+      "rating": 15,
+      "createdAt": "2022-06-12T00:01:52.000Z",
+      "tags": [
+        "antimemetic",
+        "building",
+        "computer",
+        "game",
+        "international",
+        "keter",
+        "memory-affecting",
+        "scp",
+        "telepathic"
+      ],
+      "thumbnailUrl": "http://scpsandboxcn.wikidot.com/local--files/breaddddd/70ceng3.png",
+      "authors": [
+        "breaddddd",
+        "tetsusquared"
       ]
     }
   ]

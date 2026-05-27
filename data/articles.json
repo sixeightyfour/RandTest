@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T18:15:40.233Z",
+  "updatedAt": "2026-05-27T02:15:07.004Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 12,
-      "createdAt": "2022-10-25T00:41:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5892",
+      "title": "SCP-5892",
+      "alternateTitle": "A Loyal Friend Indeed",
+      "rating": 10,
+      "createdAt": "2021-06-05T22:53:57.000Z",
       "tags": [
+        "alive",
+        "animal",
         "artifact",
-        "historical",
-        "portal",
+        "canine",
+        "photographic",
+        "reality-bending",
         "safe",
         "scp"
       ],
+      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7627",
+      "title": "SCP-7627",
+      "alternateTitle": "Soviet Rail Gun",
+      "rating": 13,
+      "createdAt": "2025-06-15T08:50:46.000Z",
+      "tags": [
+        "extraterrestrial",
+        "gravity",
+        "gru-division-p",
+        "neutralized",
+        "pentagram",
+        "scp",
+        "weapon"
+      ],
       "thumbnailUrl": "",
       "authors": [
-        "DukeRum"
+        "Nocturned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7611",
-      "title": "SCP-7611",
-      "alternateTitle": "Here I Dreamt I Was an Architect",
-      "rating": 12,
-      "createdAt": "2025-04-02T18:03:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8844",
+      "title": "SCP-8844",
+      "alternateTitle": "Curse of Khepri",
+      "rating": 23,
+      "createdAt": "2024-06-18T16:44:02.000Z",
       "tags": [
-        "art-exchange",
-        "building",
-        "dream",
-        "extradimensional",
-        "humanoid",
+        "alien",
+        "archaeological",
+        "extraterrestrial",
         "keter",
-        "reality-bending",
-        "reanimation",
+        "meteorological",
+        "phenomenon",
+        "planet",
         "religious",
-        "sapient",
-        "scp",
-        "tactical-theology"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7611/Jen_gets_an_EEG.jpg",
+      "thumbnailUrl": "https://i.imgur.com/Rj8h76J.png",
       "authors": [
-        "Diogene_s"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8967",
-      "title": "SCP-8967",
-      "alternateTitle": "BLINKER CHECK",
-      "rating": 6,
-      "createdAt": "2025-09-28T16:11:13.000Z",
-      "tags": [
-        "end-of-death",
-        "extradimensional",
-        "safe",
-        "scp",
-        "teleportation",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8967/Car.1/medium.jpg",
-      "authors": [
-        "ThatHideousStrength"
+        "Ampyrsand"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T11:29:40.525Z",
+  "updatedAt": "2026-05-28T18:29:22.469Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8167",
-      "title": "SCP-8167",
-      "alternateTitle": "Hot Wheels",
-      "rating": 4,
-      "createdAt": "2025-06-16T02:39:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2859",
+      "title": "SCP-2859",
+      "alternateTitle": "The Space Serpents",
+      "rating": 20,
+      "createdAt": "2017-02-27T21:05:27.000Z",
       "tags": [
-        "abnormalities",
-        "director-bold",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "sleep",
-        "toy",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
-      "authors": [
-        "Solios"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4794",
-      "title": "SCP-4794",
-      "alternateTitle": "The Renegade from Gliese 581",
-      "rating": 24,
-      "createdAt": "2019-06-14T02:27:39.000Z",
-      "tags": [
-        "computer",
-        "electronic",
-        "euclid",
+        "alien",
+        "animal",
         "extraterrestrial",
-        "humanoid",
+        "keter",
+        "mystery",
+        "portal",
+        "science-fiction",
         "scp",
-        "transmission"
+        "snake",
+        "spatial",
+        "species"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Axles126"
+        "toastedraptor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6657",
-      "title": "SCP-6657",
-      "alternateTitle": "Photonic Crystals",
-      "rating": 11,
-      "createdAt": "2024-05-22T12:59:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/acidfrog-s-proposal-internal",
+      "title": "Acidfrog's Proposal",
+      "alternateTitle": "",
+      "rating": 10,
+      "createdAt": "2024-04-15T09:27:25.000Z",
       "tags": [
-        "electromagnetic",
-        "light",
-        "radioactive",
-        "safe",
-        "scp",
-        "tool",
-        "transfiguration"
+        "001-proposal",
+        "building",
+        "international",
+        "neutralized",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr Talcite"
+        "QAZ135",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6538",
+      "title": "SCP-6538",
+      "alternateTitle": "Site-248's Moth-Related Problem",
+      "rating": 13,
+      "createdAt": "2024-01-23T18:11:17.000Z",
+      "tags": [
+        "animal",
+        "butterfly",
+        "euclid",
+        "insect",
+        "scp",
+        "species",
+        "swarm"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wales%2C_United_Kingdom_%28Unsplash_5aTRlZYVCMI%29.jpg",
+      "authors": [
+        "DL_Baryonyx"
       ]
     }
   ]

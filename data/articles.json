@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T01:59:27.707Z",
+  "updatedAt": "2026-05-28T11:29:40.525Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8292",
-      "title": "SCP-8292",
-      "alternateTitle": "A Cure for Stress",
-      "rating": 5,
-      "createdAt": "2025-07-06T08:25:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8167",
+      "title": "SCP-8167",
+      "alternateTitle": "Hot Wheels",
+      "rating": 4,
+      "createdAt": "2025-06-16T02:39:54.000Z",
       "tags": [
-        "bleak",
-        "body-horror",
-        "classiccon2025",
-        "horror",
-        "keter",
-        "medical",
-        "phenomenon",
-        "scp"
+        "abnormalities",
+        "director-bold",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "sleep",
+        "toy",
+        "vehicle"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/medical-vomiting-syndrome/Cloth.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
       "authors": [
-        "Detective_O 1"
+        "Solios"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6589",
-      "title": "SCP-6589",
-      "alternateTitle": "Death of the artist",
-      "rating": 12,
-      "createdAt": "2022-09-04T15:49:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4794",
+      "title": "SCP-4794",
+      "alternateTitle": "The Renegade from Gliese 581",
+      "rating": 24,
+      "createdAt": "2019-06-14T02:27:39.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "cognitohazard",
+        "computer",
+        "electronic",
         "euclid",
-        "memetic",
+        "extraterrestrial",
+        "humanoid",
         "scp",
-        "visual"
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrowningDutchman"
+        "Axles126"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9814",
-      "title": "SCP-9814",
-      "alternateTitle": "Exploding Chair",
-      "rating": 9,
-      "createdAt": "2025-11-20T18:20:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6657",
+      "title": "SCP-6657",
+      "alternateTitle": "Photonic Crystals",
+      "rating": 11,
+      "createdAt": "2024-05-22T12:59:57.000Z",
       "tags": [
-        "artifact",
-        "ectoentropic",
-        "euclid",
-        "marshall-carter-and-dark",
+        "electromagnetic",
+        "light",
+        "radioactive",
+        "safe",
         "scp",
-        "self-repairing"
+        "tool",
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
       "authors": [
-        "TheTearsofCthulhu"
+        "Dr Talcite"
       ]
     }
   ]

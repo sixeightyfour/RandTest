@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T11:19:53.408Z",
+  "updatedAt": "2026-05-29T18:26:32.109Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1278-ko",
-      "title": "SCP-1278-KO",
-      "alternateTitle": "Decotile Space",
-      "rating": 6,
-      "createdAt": "2022-12-11T14:52:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-621-ko",
+      "title": "SCP-621-KO",
+      "alternateTitle": "I will live on ██",
+      "rating": 9,
+      "createdAt": "2022-05-10T07:47:01.000Z",
       "tags": [
-        "building",
-        "international",
-        "loop",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1278-ko/%EA%B1%B4%EB%AC%BC",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7126",
-      "title": "SCP-7126",
-      "alternateTitle": "Dead Ovation",
-      "rating": 11,
-      "createdAt": "2022-09-08T21:05:41.000Z",
-      "tags": [
-        "abnormalities",
         "artifact",
-        "building",
-        "class-of-76",
-        "hanged-king",
-        "performance",
-        "safe",
-        "scp"
+        "extradimensional",
+        "insect",
+        "international",
+        "neutralized",
+        "scp",
+        "structure"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-621-ko/Cresendo.jpeg",
       "authors": [
-        "Quicksilvers"
+        "Subervos"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6259",
-      "title": "SCP-6259",
-      "alternateTitle": "See The Means of Production",
-      "rating": 23,
-      "createdAt": "2022-06-13T14:06:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8254",
+      "title": "SCP-8254",
+      "alternateTitle": "The Human Resource",
+      "rating": 21,
+      "createdAt": "2025-01-01T07:36:48.000Z",
       "tags": [
         "alive",
-        "animal",
-        "aquatic",
-        "euclid",
-        "ocular",
+        "anomalous-event",
+        "foundation-personnel",
+        "humanoid",
+        "memory-affecting",
+        "safe",
         "sapient",
-        "scp",
-        "species"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8254/A_woman_with_personnality_(396421310).jpg",
       "authors": [
-        "J T K C"
+        "ThatGuyThatTime"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-254-de",
+      "title": "SCP-254-DE",
+      "alternateTitle": "The Rain Child",
+      "rating": 15,
+      "createdAt": "2023-11-27T15:49:39.000Z",
+      "tags": [
+        "euclid",
+        "humanoid",
+        "international",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-254-de/Regenkind.jpg",
+      "authors": [
+        "Gramlin",
+        "Evil Santa"
       ]
     }
   ]

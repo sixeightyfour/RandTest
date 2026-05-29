@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T18:29:22.469Z",
+  "updatedAt": "2026-05-29T02:06:18.300Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2859",
-      "title": "SCP-2859",
-      "alternateTitle": "The Space Serpents",
-      "rating": 20,
-      "createdAt": "2017-02-27T21:05:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6392",
+      "title": "SCP-6392",
+      "alternateTitle": "Somebody You May Know",
+      "rating": 21,
+      "createdAt": "2024-11-06T00:13:27.000Z",
       "tags": [
-        "alien",
-        "animal",
-        "extraterrestrial",
-        "keter",
+        "asci",
+        "esoteric-class",
         "mystery",
-        "portal",
-        "science-fiction",
+        "nobody",
+        "raisa",
         "scp",
-        "snake",
-        "spatial",
-        "species"
+        "the-administrator"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
       "authors": [
-        "toastedraptor"
+        "Mechatroniks"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/acidfrog-s-proposal-internal",
-      "title": "Acidfrog's Proposal",
-      "alternateTitle": "",
-      "rating": 10,
-      "createdAt": "2024-04-15T09:27:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8362",
+      "title": "SCP-8362",
+      "alternateTitle": "A Civil War Era Marching Snare",
+      "rating": 7,
+      "createdAt": "2025-05-26T03:53:45.000Z",
       "tags": [
-        "001-proposal",
-        "building",
-        "international",
-        "neutralized",
+        "acoustic",
+        "compulsion",
+        "document",
+        "musical",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Drum%2C_1861-1865_-_North_Carolina_Museum_of_History_-_DSC06014.JPG/960px-Drum%2C_1861-1865_-_North_Carolina_Museum_of_History_-_DSC06014.JPG",
       "authors": [
-        "QAZ135",
-        "fluxman"
+        "greens24"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6538",
-      "title": "SCP-6538",
-      "alternateTitle": "Site-248's Moth-Related Problem",
-      "rating": 13,
-      "createdAt": "2024-01-23T18:11:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5418",
+      "title": "SCP-5418",
+      "alternateTitle": "Sinners Corpse",
+      "rating": 19,
+      "createdAt": "2021-03-21T22:44:21.000Z",
       "tags": [
-        "animal",
-        "butterfly",
-        "euclid",
-        "insect",
+        "cadaver",
+        "reanimation",
+        "religious",
+        "safe",
+        "sapient",
         "scp",
-        "species",
-        "swarm"
+        "skeletal"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wales%2C_United_Kingdom_%28Unsplash_5aTRlZYVCMI%29.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "DL_Baryonyx"
+        "Paradise Found"
       ]
     }
   ]

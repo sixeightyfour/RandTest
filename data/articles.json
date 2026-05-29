@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T02:06:18.300Z",
+  "updatedAt": "2026-05-29T11:19:53.408Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6392",
-      "title": "SCP-6392",
-      "alternateTitle": "Somebody You May Know",
-      "rating": 21,
-      "createdAt": "2024-11-06T00:13:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1278-ko",
+      "title": "SCP-1278-KO",
+      "alternateTitle": "Decotile Space",
+      "rating": 6,
+      "createdAt": "2022-12-11T14:52:24.000Z",
       "tags": [
-        "asci",
-        "esoteric-class",
-        "mystery",
-        "nobody",
-        "raisa",
-        "scp",
-        "the-administrator"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
-      "authors": [
-        "Mechatroniks"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8362",
-      "title": "SCP-8362",
-      "alternateTitle": "A Civil War Era Marching Snare",
-      "rating": 7,
-      "createdAt": "2025-05-26T03:53:45.000Z",
-      "tags": [
-        "acoustic",
-        "compulsion",
-        "document",
-        "musical",
+        "building",
+        "international",
+        "loop",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Drum%2C_1861-1865_-_North_Carolina_Museum_of_History_-_DSC06014.JPG/960px-Drum%2C_1861-1865_-_North_Carolina_Museum_of_History_-_DSC06014.JPG",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1278-ko/%EA%B1%B4%EB%AC%BC",
       "authors": [
-        "greens24"
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5418",
-      "title": "SCP-5418",
-      "alternateTitle": "Sinners Corpse",
-      "rating": 19,
-      "createdAt": "2021-03-21T22:44:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7126",
+      "title": "SCP-7126",
+      "alternateTitle": "Dead Ovation",
+      "rating": 11,
+      "createdAt": "2022-09-08T21:05:41.000Z",
       "tags": [
-        "cadaver",
-        "reanimation",
-        "religious",
+        "abnormalities",
+        "artifact",
+        "building",
+        "class-of-76",
+        "hanged-king",
+        "performance",
         "safe",
-        "sapient",
-        "scp",
-        "skeletal"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Paradise Found"
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6259",
+      "title": "SCP-6259",
+      "alternateTitle": "See The Means of Production",
+      "rating": 23,
+      "createdAt": "2022-06-13T14:06:57.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "aquatic",
+        "euclid",
+        "ocular",
+        "sapient",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "J T K C"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T18:26:32.109Z",
+  "updatedAt": "2026-05-30T02:01:18.194Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-621-ko",
-      "title": "SCP-621-KO",
-      "alternateTitle": "I will live on ██",
-      "rating": 9,
-      "createdAt": "2022-05-10T07:47:01.000Z",
-      "tags": [
-        "artifact",
-        "extradimensional",
-        "insect",
-        "international",
-        "neutralized",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-621-ko/Cresendo.jpeg",
-      "authors": [
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8254",
-      "title": "SCP-8254",
-      "alternateTitle": "The Human Resource",
-      "rating": 21,
-      "createdAt": "2025-01-01T07:36:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3102",
+      "title": "SCP-3102",
+      "alternateTitle": "The Conflagration",
+      "rating": 24,
+      "createdAt": "2017-08-08T01:06:34.000Z",
       "tags": [
         "alive",
-        "anomalous-event",
-        "foundation-personnel",
-        "humanoid",
-        "memory-affecting",
-        "safe",
-        "sapient",
-        "scp"
+        "animal",
+        "euclid",
+        "fire",
+        "reptile",
+        "scp",
+        "snake",
+        "thermodynamic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8254/A_woman_with_personnality_(396421310).jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3102/snakes.jpg.jpg",
       "authors": [
-        "ThatGuyThatTime"
+        "megalan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-254-de",
-      "title": "SCP-254-DE",
-      "alternateTitle": "The Rain Child",
-      "rating": 15,
-      "createdAt": "2023-11-27T15:49:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8189",
+      "title": "SCP-8189",
+      "alternateTitle": "The Well of Life",
+      "rating": 14,
+      "createdAt": "2024-11-22T23:33:06.000Z",
       "tags": [
-        "euclid",
-        "humanoid",
+        "biohazard",
+        "ectoentropic",
+        "extraterrestrial",
+        "memory-affecting",
+        "mind-affecting",
+        "planet",
+        "scp",
+        "ticonderoga",
+        "transfiguration",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
+      "authors": [
+        "CrimsonCatGuy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3423-jp",
+      "title": "SCP-3423-JP",
+      "alternateTitle": "An Uncomplicated Suicide",
+      "rating": 11,
+      "createdAt": "2023-11-20T01:47:53.000Z",
+      "tags": [
+        "biological",
+        "cadaver",
+        "compulsion",
+        "esoteric-class",
+        "infohazard",
         "international",
+        "miscommunications",
+        "neutralized",
+        "reality-bending",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-254-de/Regenkind.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Evil Santa"
+        "KABOOM1103",
+        "AlienSpaceBat",
+        "Maxyfran73"
       ]
     }
   ]

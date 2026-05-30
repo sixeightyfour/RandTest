@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T02:01:18.194Z",
+  "updatedAt": "2026-05-30T09:50:14.300Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3102",
-      "title": "SCP-3102",
-      "alternateTitle": "The Conflagration",
-      "rating": 24,
-      "createdAt": "2017-08-08T01:06:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7460",
+      "title": "SCP-7460",
+      "alternateTitle": "Emperor Of The Puppetshow",
+      "rating": 23,
+      "createdAt": "2023-10-07T16:47:32.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "euclid",
-        "fire",
-        "reptile",
+        "dream",
+        "keter",
+        "nightfall",
+        "rewritable",
         "scp",
-        "snake",
-        "thermodynamic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3102/snakes.jpg.jpg",
-      "authors": [
-        "megalan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8189",
-      "title": "SCP-8189",
-      "alternateTitle": "The Well of Life",
-      "rating": 14,
-      "createdAt": "2024-11-22T23:33:06.000Z",
-      "tags": [
-        "biohazard",
-        "ectoentropic",
-        "extraterrestrial",
-        "memory-affecting",
-        "mind-affecting",
-        "planet",
-        "scp",
-        "ticonderoga",
+        "sleep",
         "transfiguration",
         "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
+      "thumbnailUrl": "",
       "authors": [
-        "CrimsonCatGuy"
+        "BitOddInnit"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3423-jp",
-      "title": "SCP-3423-JP",
-      "alternateTitle": "An Uncomplicated Suicide",
-      "rating": 11,
-      "createdAt": "2023-11-20T01:47:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-650-ko",
+      "title": "SCP-650-KO",
+      "alternateTitle": "The Duty to Stop All Sin and Unhappiness On This World",
+      "rating": 24,
+      "createdAt": "2023-04-18T10:01:36.000Z",
       "tags": [
-        "biological",
-        "cadaver",
-        "compulsion",
-        "esoteric-class",
-        "infohazard",
+        "euclid",
+        "exchange",
         "international",
-        "miscommunications",
-        "neutralized",
-        "reality-bending",
-        "scp"
+        "mimetic",
+        "oneiroi",
+        "reproductive",
+        "sapient",
+        "scp",
+        "sleep",
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-650-ko/frog-2240764_960_720.jpg",
       "authors": [
-        "KABOOM1103",
-        "AlienSpaceBat",
-        "Maxyfran73"
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7513",
+      "title": "SCP-7513",
+      "alternateTitle": "Fuck Aliens!",
+      "rating": 21,
+      "createdAt": "2022-10-23T19:14:57.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "extraterrestrial",
+        "humanoid",
+        "sapient",
+        "scp",
+        "sexual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7513/Forrest.png",
+      "authors": [
+        "Capriccio Farce"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T02:28:53.477Z",
+  "updatedAt": "2026-05-31T16:55:35.530Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-315-de",
-      "title": "SCP-315-DE",
-      "alternateTitle": "Everyone needs to vent sometimes",
-      "rating": 6,
-      "createdAt": "2024-01-06T19:57:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7525",
+      "title": "SCP-7525",
+      "alternateTitle": "The Last Christmas",
+      "rating": 13,
+      "createdAt": "2022-12-01T22:22:52.000Z",
       "tags": [
-        "international",
-        "keter",
-        "mind-affecting",
-        "performance",
-        "poetry",
+        "antimemetic",
+        "christmas",
+        "cognitohazard",
+        "euclid",
+        "musical",
+        "religious",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch"
+        "sortie"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2618",
-      "title": "SCP-2618",
-      "alternateTitle": "This Is How Confidentiality Works, Right?",
-      "rating": 12,
-      "createdAt": "2016-08-05T04:45:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7051",
+      "title": "SCP-7051",
+      "alternateTitle": "Never Truly Alone",
+      "rating": 15,
+      "createdAt": "2022-11-07T19:56:19.000Z",
       "tags": [
-        "electrical",
-        "extradimensional",
-        "safe",
+        "alive",
+        "compulsion",
+        "scp",
+        "species",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Jade_Crusader"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9714",
+      "title": "SCP-9714",
+      "alternateTitle": "Sepulcher by the Sea",
+      "rating": 22,
+      "createdAt": "2025-11-22T01:39:57.000Z",
+      "tags": [
+        "building",
+        "electromagnetic",
+        "gravity",
+        "hallucination",
+        "inscription",
+        "keter",
+        "mind-affecting",
+        "mythological",
         "scp",
         "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2618/warpwand.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%90%D0%BD%D0%B8%D0%B2%D0%B0.jpg",
       "authors": [
-        "Mf99k"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2912-jp",
-      "title": "SCP-2912-JP",
-      "alternateTitle": "Our Broken Mobile Spiritual Broken Gundam",
-      "rating": 22,
-      "createdAt": "2024-07-27T22:59:34.000Z",
-      "tags": [
-        "absurdism",
-        "anderson",
-        "artificial-intelligence",
-        "bittersweet",
-        "broken-god",
-        "chaos-insurgency",
-        "cogwork-orthodoxy",
-        "electrical",
-        "global-occult-coalition",
-        "international",
-        "jude-kriyot",
-        "manhattan-crisis",
-        "nobody",
-        "prometheus",
-        "religious",
-        "robotic",
-        "safe",
-        "scarlet-king",
-        "scp",
-        "shark-punching-center",
-        "thad-xyank",
-        "thaumaturgy",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-2912-jp/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF1.jpg",
-      "authors": [
-        "stengan774",
-        "Uncle Nicolini"
+        "TallShrimp"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T02:38:09.307Z",
+  "updatedAt": "2026-06-01T13:27:27.884Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-116-it",
-      "title": "SCP-116-IT",
-      "alternateTitle": "Fortuituous Legend",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:43:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8825",
+      "title": "SCP-8825",
+      "alternateTitle": "The Calculator Had One Job",
+      "rating": 5,
+      "createdAt": "2024-12-17T00:53:05.000Z",
       "tags": [
-        "aquatic",
-        "euclid",
-        "extradimensional",
-        "faerie",
-        "historical",
-        "homo-sapiens-sidhe",
-        "inscription",
+        "electronic",
+        "mathematical",
+        "mind-affecting",
+        "probability",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "AnIntrovertedSCP"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-sga-009",
+      "title": "SCP-SGA-009",
+      "alternateTitle": "The Big Yellow One's The Sun!",
+      "rating": 9,
+      "createdAt": "2025-05-21T16:24:07.000Z",
+      "tags": [
+        "extraterrestrial",
         "international",
-        "location",
-        "nameless",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "An Average Italian",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3981",
-      "title": "SCP-3981",
-      "alternateTitle": "A Story of Change",
-      "rating": 10,
-      "createdAt": "2023-01-03T06:15:08.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "euclid",
+        "keter",
         "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/ghostbox/tenorman.jpg",
-      "authors": [
-        "DrIrrelevance"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8830",
-      "title": "SCP-8830",
-      "alternateTitle": "Transporter Mishap",
-      "rating": 8,
-      "createdAt": "2025-03-02T11:15:23.000Z",
-      "tags": [
-        "anomalous-event",
-        "chaos-insurgency",
-        "euclid",
-        "extradimensional",
-        "mystery",
-        "scp"
+        "scp",
+        "sun",
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "zolikk"
+        "MasterTman2"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7121",
+      "title": "SCP-7121",
+      "alternateTitle": "come, the pale wind's hound",
+      "rating": 5,
+      "createdAt": "2025-08-23T18:27:11.000Z",
+      "tags": [
+        "extradimensional",
+        "hostile",
+        "keter",
+        "murder-monster",
+        "predatory",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
+      "authors": [
+        "foxgirlknives"
       ]
     }
   ]

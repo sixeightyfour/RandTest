@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T11:56:49.436Z",
+  "updatedAt": "2026-06-02T19:36:12.380Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5924",
-      "title": "SCP-5924",
-      "alternateTitle": "Professional Attachment",
-      "rating": 20,
-      "createdAt": "2020-10-26T23:29:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
+      "title": "SCP-CN-1256",
+      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
+      "rating": 12,
+      "createdAt": "2022-06-10T20:28:50.000Z",
       "tags": [
-        "amorphous",
-        "biological",
-        "mind-affecting",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
-      "authors": [
-        "Blightknell"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7285",
-      "title": "SCP-7285",
-      "alternateTitle": "A simpler time",
-      "rating": 5,
-      "createdAt": "2023-01-20T15:03:37.000Z",
-      "tags": [
-        "alive",
-        "humanoid",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "reality-bending",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
-      "authors": [
-        "guiness11"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3273",
-      "title": "SCP-3273",
-      "alternateTitle": "Self-Performed Brain Editing Manual",
-      "rating": 15,
-      "createdAt": "2018-03-30T23:15:21.000Z",
-      "tags": [
-        "addictive",
-        "artifact",
-        "chemical",
-        "keter",
-        "medical",
-        "neurological",
+        "game",
+        "international",
+        "meta",
+        "metafiction",
         "scp",
-        "sensory"
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Blibby_Blobfish"
+        "Ninth BB",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7068",
+      "title": "SCP-7068",
+      "alternateTitle": "The Endless Art Gallery",
+      "rating": 23,
+      "createdAt": "2022-10-27T22:09:27.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "artistic",
+        "building",
+        "safe",
+        "scp",
+        "spatial"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "_KazuyukiKasuke"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8681",
+      "title": "SCP-8681",
+      "alternateTitle": "Review Request on the PHLOX Highway",
+      "rating": 11,
+      "createdAt": "2025-05-26T05:54:16.000Z",
+      "tags": [
+        "bureaucracy",
+        "corporate",
+        "euclid",
+        "extradimensional",
+        "foundation-made",
+        "intcanoncon2025",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Mang Gwan"
       ]
     }
   ]

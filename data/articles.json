@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T02:36:47.591Z",
+  "updatedAt": "2026-06-02T11:56:49.436Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9034",
-      "title": "SCP-9034",
-      "alternateTitle": "There's A Man-Shaped Hole in God's Heart",
-      "rating": 11,
-      "createdAt": "2025-09-24T22:27:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5924",
+      "title": "SCP-5924",
+      "alternateTitle": "Professional Attachment",
+      "rating": 20,
+      "createdAt": "2020-10-26T23:29:55.000Z",
       "tags": [
-        "7th-occult-war",
-        "9000",
-        "esoteric-class",
-        "extraterrestrial",
-        "humanoid",
-        "mystery",
-        "narrative",
-        "obskura",
-        "period-piece",
+        "amorphous",
+        "biological",
+        "mind-affecting",
+        "safe",
         "sapient",
-        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
+      "authors": [
+        "Blightknell"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7285",
+      "title": "SCP-7285",
+      "alternateTitle": "A simpler time",
+      "rating": 5,
+      "createdAt": "2023-01-20T15:03:37.000Z",
+      "tags": [
+        "alive",
+        "humanoid",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "reality-bending",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
+      "authors": [
+        "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3273",
+      "title": "SCP-3273",
+      "alternateTitle": "Self-Performed Brain Editing Manual",
+      "rating": 15,
+      "createdAt": "2018-03-30T23:15:21.000Z",
+      "tags": [
+        "addictive",
+        "artifact",
+        "chemical",
+        "keter",
+        "medical",
+        "neurological",
         "scp",
-        "spatial",
-        "time-travel"
+        "sensory"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mr Mcguffin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7536",
-      "title": "SCP-7536",
-      "alternateTitle": "Ill Omen",
-      "rating": 21,
-      "createdAt": "2025-04-25T18:54:11.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "archon",
-        "bird",
-        "cognitohazard",
-        "observational",
-        "predictive",
-        "probability",
-        "scp"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/254/445996477_21c49c43d7_b.jpg",
-      "authors": [
-        "8bitbreadbox"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3971",
-      "title": "SCP-3971",
-      "alternateTitle": "Utility Closet SB3-117a",
-      "rating": 22,
-      "createdAt": "2018-07-15T17:31:51.000Z",
-      "tags": [
-        "artifact",
-        "extradimensional",
-        "portal",
-        "safe",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
-      "authors": [
-        "IsaacTalman"
+        "Blibby_Blobfish"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T19:36:12.380Z",
+  "updatedAt": "2026-06-03T02:44:24.889Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
-      "title": "SCP-CN-1256",
-      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
-      "rating": 12,
-      "createdAt": "2022-06-10T20:28:50.000Z",
-      "tags": [
-        "game",
-        "international",
-        "meta",
-        "metafiction",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Ninth BB",
-        "tetsusquared"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7068",
-      "title": "SCP-7068",
-      "alternateTitle": "The Endless Art Gallery",
-      "rating": 23,
-      "createdAt": "2022-10-27T22:09:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8119",
+      "title": "SCP-8119",
+      "alternateTitle": "Lies Behind the Lens",
+      "rating": 21,
+      "createdAt": "2024-08-19T19:16:09.000Z",
       "tags": [
         "are-we-cool-yet",
-        "artistic",
-        "building",
+        "doctor-kondraki",
+        "photographic",
         "safe",
         "scp",
-        "spatial"
+        "telepathic",
+        "tool",
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nikon_F_Cameras.jpg",
       "authors": [
-        "_KazuyukiKasuke"
+        "ClaudeHinton"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8681",
-      "title": "SCP-8681",
-      "alternateTitle": "Review Request on the PHLOX Highway",
-      "rating": 11,
-      "createdAt": "2025-05-26T05:54:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9026",
+      "title": "SCP-9026",
+      "alternateTitle": "Remember, Remember",
+      "rating": 20,
+      "createdAt": "2025-10-03T21:06:56.000Z",
       "tags": [
-        "bureaucracy",
-        "corporate",
-        "euclid",
-        "extradimensional",
-        "foundation-made",
-        "intcanoncon2025",
+        "9000",
+        "adaptive",
+        "bittersweet",
+        "building",
+        "fungus",
+        "knowledge",
+        "memory-affecting",
+        "safe",
+        "scp",
+        "surrealism"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9026/Maria_Woerth_Teixlbucht_Sueduferstrasse_197_Villa_Fichteneck_NW-Ansicht_19042017_7776.jpg",
+      "authors": [
+        "Gunpowdr"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9678",
+      "title": "SCP-9678",
+      "alternateTitle": "Stochastic field disruption",
+      "rating": 8,
+      "createdAt": "2025-09-29T03:18:54.000Z",
+      "tags": [
+        "9000",
+        "keter",
+        "phenomenon",
+        "probability",
         "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mang Gwan"
+        "Dmonist"
       ]
     }
   ]

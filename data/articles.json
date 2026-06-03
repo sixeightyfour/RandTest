@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T02:44:24.889Z",
+  "updatedAt": "2026-06-03T12:29:49.240Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8119",
-      "title": "SCP-8119",
-      "alternateTitle": "Lies Behind the Lens",
-      "rating": 21,
-      "createdAt": "2024-08-19T19:16:09.000Z",
-      "tags": [
-        "are-we-cool-yet",
-        "doctor-kondraki",
-        "photographic",
-        "safe",
-        "scp",
-        "telepathic",
-        "tool",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nikon_F_Cameras.jpg",
-      "authors": [
-        "ClaudeHinton"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9026",
-      "title": "SCP-9026",
-      "alternateTitle": "Remember, Remember",
+      "url": "http://scp-wiki.wikidot.com/scp-9216",
+      "title": "SCP-9216",
+      "alternateTitle": "Das Ungeziefer",
       "rating": 20,
-      "createdAt": "2025-10-03T21:06:56.000Z",
+      "createdAt": "2025-11-13T05:39:28.000Z",
       "tags": [
-        "9000",
-        "adaptive",
-        "bittersweet",
-        "building",
-        "fungus",
-        "knowledge",
-        "memory-affecting",
-        "safe",
+        "alive",
+        "amorphous",
+        "bureaucracy",
+        "humanoid",
+        "maria-jones",
+        "raisa",
+        "sapient",
         "scp",
-        "surrealism"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9026/Maria_Woerth_Teixlbucht_Sueduferstrasse_197_Villa_Fichteneck_NW-Ansicht_19042017_7776.jpg",
-      "authors": [
-        "Gunpowdr"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9678",
-      "title": "SCP-9678",
-      "alternateTitle": "Stochastic field disruption",
-      "rating": 8,
-      "createdAt": "2025-09-29T03:18:54.000Z",
-      "tags": [
-        "9000",
-        "keter",
-        "phenomenon",
-        "probability",
-        "science-fiction",
-        "scp"
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dmonist"
+        "TrophyHusband"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9051",
+      "title": "SCP-9051",
+      "alternateTitle": "Powercreep",
+      "rating": 19,
+      "createdAt": "2025-10-04T00:00:42.000Z",
+      "tags": [
+        "9000",
+        "amorphous",
+        "artifact",
+        "auditory",
+        "hostile",
+        "neutralized",
+        "reality-bending",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/dr-lutwin-s-scp-9000/SCP-9000%20Iteration%201",
+      "authors": [
+        "DrLutwin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
+      "title": "SCP-PL-393",
+      "alternateTitle": "Evidence of the Moon's Presence",
+      "rating": 11,
+      "createdAt": "2023-10-05T17:19:57.000Z",
+      "tags": [
+        "ad-astra",
+        "artistic",
+        "international",
+        "keter",
+        "mind-affecting",
+        "moon",
+        "observational",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
+      "authors": [
+        "KubKac"
       ]
     }
   ]

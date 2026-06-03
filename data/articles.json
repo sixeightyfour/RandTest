@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T12:29:49.240Z",
+  "updatedAt": "2026-06-03T19:40:52.684Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9216",
-      "title": "SCP-9216",
-      "alternateTitle": "Das Ungeziefer",
-      "rating": 20,
-      "createdAt": "2025-11-13T05:39:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
+      "title": "SCP-242-KO",
+      "alternateTitle": "Riventry of Cataclysm",
+      "rating": 19,
+      "createdAt": "2022-11-10T00:23:52.000Z",
       "tags": [
-        "alive",
-        "amorphous",
-        "bureaucracy",
         "humanoid",
-        "maria-jones",
-        "raisa",
+        "international",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
         "sapient",
         "scp",
-        "thaumiel"
+        "thaumiel",
+        "uncontained"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6887",
+      "title": "SCP-6887",
+      "alternateTitle": "Remember Us",
+      "rating": 12,
+      "createdAt": "2022-10-25T00:41:51.000Z",
+      "tags": [
+        "artifact",
+        "historical",
+        "portal",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TrophyHusband"
+        "DukeRum"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9051",
-      "title": "SCP-9051",
-      "alternateTitle": "Powercreep",
-      "rating": 19,
-      "createdAt": "2025-10-04T00:00:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8583",
+      "title": "SCP-8583",
+      "alternateTitle": "Memory Bank",
+      "rating": 21,
+      "createdAt": "2025-07-15T12:14:19.000Z",
       "tags": [
-        "9000",
-        "amorphous",
-        "artifact",
-        "auditory",
-        "hostile",
-        "neutralized",
-        "reality-bending",
-        "scp"
+        "currency",
+        "electrical",
+        "exchange",
+        "mechanical",
+        "memory-affecting",
+        "safe",
+        "scp",
+        "toy"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/dr-lutwin-s-scp-9000/SCP-9000%20Iteration%201",
+      "thumbnailUrl": "",
       "authors": [
-        "DrLutwin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
-      "title": "SCP-PL-393",
-      "alternateTitle": "Evidence of the Moon's Presence",
-      "rating": 11,
-      "createdAt": "2023-10-05T17:19:57.000Z",
-      "tags": [
-        "ad-astra",
-        "artistic",
-        "international",
-        "keter",
-        "mind-affecting",
-        "moon",
-        "observational",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
-      "authors": [
-        "KubKac"
+        "BluebriarArts"
       ]
     }
   ]

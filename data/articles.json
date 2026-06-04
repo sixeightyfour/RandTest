@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T02:39:08.174Z",
+  "updatedAt": "2026-06-04T10:54:11.485Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-026-it",
-      "title": "SCP-026-IT",
-      "alternateTitle": "The Human Leech",
-      "rating": 10,
-      "createdAt": "2022-10-20T10:23:34.000Z",
-      "tags": [
-        "alive",
-        "euclid",
-        "humanoid",
-        "international",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-026-it/026-IT.png",
-      "authors": [
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5362",
-      "title": "SCP-5362",
-      "alternateTitle": "The One with a Thousand Faces",
-      "rating": 22,
-      "createdAt": "2021-06-13T17:29:05.000Z",
-      "tags": [
-        "alive",
-        "euclid",
-        "folklore-dept",
-        "humanoid",
-        "metamorphic",
-        "mimetic",
-        "mind-affecting",
-        "observational",
-        "rodent",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
-      "authors": [
-        "Bread_Tyrant"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7834",
-      "title": "SCP-7834",
-      "alternateTitle": "The Worms in the Walls",
-      "rating": 0,
-      "createdAt": "2023-07-01T01:17:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7087",
+      "title": "SCP-7087",
+      "alternateTitle": "Beware the Bioluminescent Abyss",
+      "rating": 14,
+      "createdAt": "2023-04-16T23:17:48.000Z",
       "tags": [
         "animal",
-        "cognitohazard",
-        "hallucination",
-        "in-rewrite",
-        "inscription",
-        "memetic",
-        "memory-affecting",
-        "safe",
+        "aquatic",
+        "euclid",
+        "mind-affecting",
+        "observational",
         "scp",
-        "visual",
-        "worm"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7834/SCP-7834.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
       "authors": [
-        "InfiniteCosmos"
+        "Jarodard"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8825",
+      "title": "SCP-8825",
+      "alternateTitle": "The Calculator Had One Job",
+      "rating": 5,
+      "createdAt": "2024-12-17T00:53:05.000Z",
+      "tags": [
+        "electronic",
+        "mathematical",
+        "mind-affecting",
+        "probability",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "AnIntrovertedSCP"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5387",
+      "title": "SCP-5387",
+      "alternateTitle": "When Life Gives You Dragonfruits",
+      "rating": 10,
+      "createdAt": "2020-06-22T03:51:25.000Z",
+      "tags": [
+        "acoustic",
+        "alive",
+        "co-authored",
+        "compulsion",
+        "euclid",
+        "exquisite-corpse2020",
+        "food",
+        "inscription",
+        "light",
+        "mind-affecting",
+        "narrative",
+        "plant",
+        "scp",
+        "transmission"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DecoyMesa",
+        "Hover cat"
       ]
     }
   ]

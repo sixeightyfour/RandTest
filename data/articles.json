@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T10:54:11.485Z",
+  "updatedAt": "2026-06-04T18:08:28.153Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7087",
-      "title": "SCP-7087",
-      "alternateTitle": "Beware the Bioluminescent Abyss",
-      "rating": 14,
-      "createdAt": "2023-04-16T23:17:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4552",
+      "title": "SCP-4552",
+      "alternateTitle": "Auguries of Innocence",
+      "rating": 23,
+      "createdAt": "2019-05-19T18:09:06.000Z",
       "tags": [
-        "animal",
-        "aquatic",
-        "euclid",
-        "mind-affecting",
-        "observational",
+        "auditory",
+        "building",
+        "hallucination",
+        "historical",
+        "safe",
         "scp",
-        "species"
+        "tactile",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4552/scp-4552.jpg/small.jpg",
       "authors": [
-        "Jarodard"
+        "SupremeLemonBread"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8825",
-      "title": "SCP-8825",
-      "alternateTitle": "The Calculator Had One Job",
-      "rating": 5,
-      "createdAt": "2024-12-17T00:53:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8415",
+      "title": "SCP-8415",
+      "alternateTitle": "Trust No One",
+      "rating": 11,
+      "createdAt": "2025-08-23T22:11:13.000Z",
       "tags": [
-        "electronic",
-        "mathematical",
-        "mind-affecting",
-        "probability",
-        "safe",
+        "cognitohazard",
+        "keter",
+        "memetic",
+        "mystery",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AnIntrovertedSCP"
+        "Lucas667"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5387",
-      "title": "SCP-5387",
-      "alternateTitle": "When Life Gives You Dragonfruits",
-      "rating": 10,
-      "createdAt": "2020-06-22T03:51:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2618",
+      "title": "SCP-2618",
+      "alternateTitle": "This Is How Confidentiality Works, Right?",
+      "rating": 12,
+      "createdAt": "2016-08-05T04:45:31.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "co-authored",
-        "compulsion",
-        "euclid",
-        "exquisite-corpse2020",
-        "food",
-        "inscription",
-        "light",
-        "mind-affecting",
-        "narrative",
-        "plant",
+        "electrical",
+        "extradimensional",
+        "safe",
         "scp",
-        "transmission"
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2618/warpwand.png",
       "authors": [
-        "DecoyMesa",
-        "Hover cat"
+        "Mf99k"
       ]
     }
   ]

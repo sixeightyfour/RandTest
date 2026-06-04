@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T19:40:52.684Z",
+  "updatedAt": "2026-06-04T02:39:08.174Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
-      "title": "SCP-242-KO",
-      "alternateTitle": "Riventry of Cataclysm",
-      "rating": 19,
-      "createdAt": "2022-11-10T00:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-026-it",
+      "title": "SCP-026-IT",
+      "alternateTitle": "The Human Leech",
+      "rating": 10,
+      "createdAt": "2022-10-20T10:23:34.000Z",
       "tags": [
+        "alive",
+        "euclid",
         "humanoid",
         "international",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
         "sapient",
-        "scp",
-        "thaumiel",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 12,
-      "createdAt": "2022-10-25T00:41:51.000Z",
-      "tags": [
-        "artifact",
-        "historical",
-        "portal",
-        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-026-it/026-IT.png",
       "authors": [
-        "DukeRum"
+        "Subervos"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8583",
-      "title": "SCP-8583",
-      "alternateTitle": "Memory Bank",
-      "rating": 21,
-      "createdAt": "2025-07-15T12:14:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5362",
+      "title": "SCP-5362",
+      "alternateTitle": "The One with a Thousand Faces",
+      "rating": 22,
+      "createdAt": "2021-06-13T17:29:05.000Z",
       "tags": [
-        "currency",
-        "electrical",
-        "exchange",
-        "mechanical",
+        "alive",
+        "euclid",
+        "folklore-dept",
+        "humanoid",
+        "metamorphic",
+        "mimetic",
+        "mind-affecting",
+        "observational",
+        "rodent",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
+      "authors": [
+        "Bread_Tyrant"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7834",
+      "title": "SCP-7834",
+      "alternateTitle": "The Worms in the Walls",
+      "rating": 0,
+      "createdAt": "2023-07-01T01:17:45.000Z",
+      "tags": [
+        "animal",
+        "cognitohazard",
+        "hallucination",
+        "in-rewrite",
+        "inscription",
+        "memetic",
         "memory-affecting",
         "safe",
         "scp",
-        "toy"
+        "visual",
+        "worm"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7834/SCP-7834.png",
       "authors": [
-        "BluebriarArts"
+        "InfiniteCosmos"
       ]
     }
   ]

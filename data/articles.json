@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T02:13:56.139Z",
+  "updatedAt": "2026-06-05T11:17:45.158Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-013-arc",
-      "title": "SCP-013-ARC",
-      "alternateTitle": "The All and Nothing",
-      "rating": -27,
-      "createdAt": "2008-07-25T14:35:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8034",
+      "title": "SCP-8034",
+      "alternateTitle": "A Tongue in the Glovebox",
+      "rating": 24,
+      "createdAt": "2024-03-21T04:28:18.000Z",
       "tags": [
-        "archived",
-        "autonomous",
         "euclid",
+        "sapient",
+        "scp",
+        "teleportation",
+        "vehicle"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "itsbramble!"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9948",
+      "title": "SCP-9948",
+      "alternateTitle": "Constructive Containment",
+      "rating": 24,
+      "createdAt": "2025-11-20T19:23:04.000Z",
+      "tags": [
+        "auditory",
+        "autonomous",
+        "global-occult-coalition",
         "hallucination",
-        "religious",
-        "rewrite",
-        "scp",
-        "sphere",
-        "telepathic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "floridapologia",
-        "Quikngruvn",
-        "Unknown Author"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4276",
-      "title": "SCP-4276",
-      "alternateTitle": "Breathe Thy Devastation",
-      "rating": 21,
-      "createdAt": "2023-05-25T06:50:01.000Z",
-      "tags": [
-        "esoteric-class",
+        "historical",
+        "humanoid",
         "mind-affecting",
-        "reanimation",
+        "neutralized",
+        "period-piece",
+        "phenomenon",
+        "political",
+        "sapient",
         "scp",
-        "structure",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
-      "authors": [
-        "Roufhous"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7295",
-      "title": "SCP-7295",
-      "alternateTitle": "The 4th Floor",
-      "rating": 10,
-      "createdAt": "2024-01-03T00:34:04.000Z",
-      "tags": [
-        "safe",
-        "scp",
-        "structure"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TV_Atlas"
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-dave-j",
+      "title": "Dave D. Dave",
+      "alternateTitle": "Dave D. Dave",
+      "rating": 23,
+      "createdAt": "2025-07-10T02:23:41.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "gamers-against-weed",
+        "humanoid",
+        "joke",
+        "k-class-scenario",
+        "reality-bending",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "whatwenthereagain"
       ]
     }
   ]

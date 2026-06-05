@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T11:17:45.158Z",
+  "updatedAt": "2026-06-05T17:47:06.418Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8034",
-      "title": "SCP-8034",
-      "alternateTitle": "A Tongue in the Glovebox",
-      "rating": 24,
-      "createdAt": "2024-03-21T04:28:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7045",
+      "title": "SCP-7045",
+      "alternateTitle": "\"Is this your tape recorder?\"",
+      "rating": 22,
+      "createdAt": "2022-11-19T05:30:51.000Z",
       "tags": [
-        "euclid",
-        "sapient",
-        "scp",
-        "teleportation",
-        "vehicle"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "itsbramble!"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9948",
-      "title": "SCP-9948",
-      "alternateTitle": "Constructive Containment",
-      "rating": 24,
-      "createdAt": "2025-11-20T19:23:04.000Z",
-      "tags": [
-        "auditory",
         "autonomous",
-        "global-occult-coalition",
-        "hallucination",
-        "historical",
-        "humanoid",
-        "mind-affecting",
+        "media",
         "neutralized",
-        "period-piece",
-        "phenomenon",
-        "political",
-        "sapient",
         "scp",
-        "visual"
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "whenwerewe"
+        "Jade_Crusader"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-dave-j",
-      "title": "Dave D. Dave",
-      "alternateTitle": "Dave D. Dave",
-      "rating": 23,
-      "createdAt": "2025-07-10T02:23:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6340",
+      "title": "SCP-6340",
+      "alternateTitle": "Stubborn Emil",
+      "rating": 7,
+      "createdAt": "2023-08-11T12:01:15.000Z",
       "tags": [
-        "alive",
+        "acoustic",
+        "autonomous",
         "euclid",
-        "gamers-against-weed",
-        "humanoid",
-        "joke",
-        "k-class-scenario",
-        "reality-bending",
         "sapient",
+        "scp",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6340/SCP-6340.jpg",
+      "authors": [
+        "DL_Baryonyx"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6286",
+      "title": "SCP-6286",
+      "alternateTitle": "Love keeps the world turning",
+      "rating": 13,
+      "createdAt": "2022-08-12T17:57:45.000Z",
+      "tags": [
+        "artifact",
+        "esoteric-class",
+        "k-class-scenario",
+        "religious",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2018/10/27/18/35/plumule-3777223_960_720.jpg",
       "authors": [
-        "whatwenthereagain"
+        "Harry F"
       ]
     }
   ]

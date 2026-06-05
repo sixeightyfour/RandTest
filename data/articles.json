@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T18:08:28.153Z",
+  "updatedAt": "2026-06-05T02:13:56.139Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4552",
-      "title": "SCP-4552",
-      "alternateTitle": "Auguries of Innocence",
-      "rating": 23,
-      "createdAt": "2019-05-19T18:09:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-013-arc",
+      "title": "SCP-013-ARC",
+      "alternateTitle": "The All and Nothing",
+      "rating": -27,
+      "createdAt": "2008-07-25T14:35:43.000Z",
       "tags": [
-        "auditory",
-        "building",
+        "archived",
+        "autonomous",
+        "euclid",
         "hallucination",
-        "historical",
-        "safe",
+        "religious",
+        "rewrite",
         "scp",
-        "tactile",
-        "visual"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4552/scp-4552.jpg/small.jpg",
-      "authors": [
-        "SupremeLemonBread"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8415",
-      "title": "SCP-8415",
-      "alternateTitle": "Trust No One",
-      "rating": 11,
-      "createdAt": "2025-08-23T22:11:13.000Z",
-      "tags": [
-        "cognitohazard",
-        "keter",
-        "memetic",
-        "mystery",
-        "scp"
+        "sphere",
+        "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Lucas667"
+        "floridapologia",
+        "Quikngruvn",
+        "Unknown Author"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2618",
-      "title": "SCP-2618",
-      "alternateTitle": "This Is How Confidentiality Works, Right?",
-      "rating": 12,
-      "createdAt": "2016-08-05T04:45:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4276",
+      "title": "SCP-4276",
+      "alternateTitle": "Breathe Thy Devastation",
+      "rating": 21,
+      "createdAt": "2023-05-25T06:50:01.000Z",
       "tags": [
-        "electrical",
-        "extradimensional",
+        "esoteric-class",
+        "mind-affecting",
+        "reanimation",
+        "scp",
+        "structure",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
+      "authors": [
+        "Roufhous"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7295",
+      "title": "SCP-7295",
+      "alternateTitle": "The 4th Floor",
+      "rating": 10,
+      "createdAt": "2024-01-03T00:34:04.000Z",
+      "tags": [
         "safe",
         "scp",
-        "teleportation"
+        "structure"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2618/warpwand.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Mf99k"
+        "TV_Atlas"
       ]
     }
   ]

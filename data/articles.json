@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T02:05:23.722Z",
+  "updatedAt": "2026-06-06T09:53:01.080Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4293",
-      "title": "SCP-4293",
-      "alternateTitle": "In One Man’s Honour, A Dossier Of unBÄRable Solitude",
-      "rating": 23,
-      "createdAt": "2018-10-13T01:56:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7651",
+      "title": "SCP-7651",
+      "alternateTitle": "Serenity Pond",
+      "rating": 10,
+      "createdAt": "2023-08-31T21:39:42.000Z",
+      "tags": [
+        "animal",
+        "antimemetic",
+        "aquatic",
+        "bird",
+        "empathic",
+        "location",
+        "mind-affecting",
+        "neurological",
+        "pentagram",
+        "remixcon2023",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
+      "authors": [
+        "New_to_life"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6309",
+      "title": "SCP-6309",
+      "alternateTitle": "Erase",
+      "rating": 15,
+      "createdAt": "2022-02-13T01:18:55.000Z",
+      "tags": [
+        "meta",
+        "neutralized",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "stop1010"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7281",
+      "title": "SCP-7281",
+      "alternateTitle": "Ocean αγαπώ",
+      "rating": 24,
+      "createdAt": "2023-03-30T06:11:59.000Z",
       "tags": [
         "alive",
+        "aquatic",
+        "auditory",
+        "cognitohazard",
+        "euclid",
+        "fish",
         "hostile",
         "humanoid",
-        "intangible",
-        "k-class-scenario",
-        "keter",
-        "meta",
-        "sapient",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4293/SCP-3924.jpg",
-      "authors": [
-        "Jack Ike"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-066",
-      "title": "SCP-PL-066",
-      "alternateTitle": "Trapdoor in a storeroom",
-      "rating": 24,
-      "createdAt": "2018-10-26T09:10:41.000Z",
-      "tags": [
-        "euclid",
-        "international",
-        "location",
-        "portal",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-pl.wdfiles.com/local--files/scp-pl-066/066.jpg",
-      "authors": [
-        "Dr_Blackpeace",
-        "ZeroStrider"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8394",
-      "title": "SCP-8394",
-      "alternateTitle": "Depends On Your Origin",
-      "rating": 15,
-      "createdAt": "2025-05-26T05:47:17.000Z",
-      "tags": [
-        "euclid",
-        "humanoid",
-        "intcanoncon2025",
-        "interactive",
-        "marshall-carter-and-dark",
-        "reality-bending",
+        "metamorphic",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Truckdriver.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7281/SCP_Image_Final.png",
       "authors": [
-        "Shirley Sterling"
+        "Doctor Zurvan"
       ]
     }
   ]

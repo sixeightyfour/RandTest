@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T17:47:06.418Z",
+  "updatedAt": "2026-06-06T02:05:23.722Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7045",
-      "title": "SCP-7045",
-      "alternateTitle": "\"Is this your tape recorder?\"",
-      "rating": 22,
-      "createdAt": "2022-11-19T05:30:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4293",
+      "title": "SCP-4293",
+      "alternateTitle": "In One Man’s Honour, A Dossier Of unBÄRable Solitude",
+      "rating": 23,
+      "createdAt": "2018-10-13T01:56:17.000Z",
       "tags": [
-        "autonomous",
-        "media",
-        "neutralized",
+        "alive",
+        "hostile",
+        "humanoid",
+        "intangible",
+        "k-class-scenario",
+        "keter",
+        "meta",
+        "sapient",
         "scp",
         "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4293/SCP-3924.jpg",
       "authors": [
-        "Jade_Crusader"
+        "Jack Ike"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6340",
-      "title": "SCP-6340",
-      "alternateTitle": "Stubborn Emil",
-      "rating": 7,
-      "createdAt": "2023-08-11T12:01:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-066",
+      "title": "SCP-PL-066",
+      "alternateTitle": "Trapdoor in a storeroom",
+      "rating": 24,
+      "createdAt": "2018-10-26T09:10:41.000Z",
       "tags": [
-        "acoustic",
-        "autonomous",
         "euclid",
-        "sapient",
-        "scp",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6340/SCP-6340.jpg",
-      "authors": [
-        "DL_Baryonyx"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6286",
-      "title": "SCP-6286",
-      "alternateTitle": "Love keeps the world turning",
-      "rating": 13,
-      "createdAt": "2022-08-12T17:57:45.000Z",
-      "tags": [
-        "artifact",
-        "esoteric-class",
-        "k-class-scenario",
-        "religious",
+        "international",
+        "location",
+        "portal",
         "scp"
       ],
-      "thumbnailUrl": "https://cdn.pixabay.com/photo/2018/10/27/18/35/plumule-3777223_960_720.jpg",
+      "thumbnailUrl": "https://scp-pl.wdfiles.com/local--files/scp-pl-066/066.jpg",
       "authors": [
-        "Harry F"
+        "Dr_Blackpeace",
+        "ZeroStrider"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8394",
+      "title": "SCP-8394",
+      "alternateTitle": "Depends On Your Origin",
+      "rating": 15,
+      "createdAt": "2025-05-26T05:47:17.000Z",
+      "tags": [
+        "euclid",
+        "humanoid",
+        "intcanoncon2025",
+        "interactive",
+        "marshall-carter-and-dark",
+        "reality-bending",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Truckdriver.jpg",
+      "authors": [
+        "Shirley Sterling"
       ]
     }
   ]

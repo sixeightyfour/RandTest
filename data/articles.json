@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T09:53:01.080Z",
+  "updatedAt": "2026-06-06T16:58:08.467Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7651",
-      "title": "SCP-7651",
-      "alternateTitle": "Serenity Pond",
-      "rating": 10,
-      "createdAt": "2023-08-31T21:39:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-005-it",
+      "title": "SCP-005-IT",
+      "alternateTitle": "A Dream Place",
+      "rating": 8,
+      "createdAt": "2023-05-08T15:56:40.000Z",
       "tags": [
-        "animal",
-        "antimemetic",
-        "aquatic",
-        "bird",
-        "empathic",
-        "location",
+        "cognitohazard",
+        "compulsion",
+        "hallucination",
+        "hostile",
+        "international",
+        "keter",
+        "memetic",
         "mind-affecting",
-        "neurological",
-        "pentagram",
-        "remixcon2023",
-        "safe",
-        "scp"
+        "scp",
+        "sleep",
+        "uncontained",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
+      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-005-it/005-IT-C",
       "authors": [
-        "New_to_life"
+        "Dottssa_Riba_Nahi",
+        "Roberto Turati"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6309",
-      "title": "SCP-6309",
-      "alternateTitle": "Erase",
-      "rating": 15,
-      "createdAt": "2022-02-13T01:18:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2392",
+      "title": "SCP-2392",
+      "alternateTitle": "Barrel of Monkeys",
+      "rating": 22,
+      "createdAt": "2016-04-27T07:14:18.000Z",
       "tags": [
-        "meta",
-        "neutralized",
+        "empathic",
+        "entropic",
+        "location",
+        "meteorological",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "stop1010"
+        "Jack Ike"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7281",
-      "title": "SCP-7281",
-      "alternateTitle": "Ocean αγαπώ",
-      "rating": 24,
-      "createdAt": "2023-03-30T06:11:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8449",
+      "title": "SCP-8449",
+      "alternateTitle": "Pyewacket's Missing Socks",
+      "rating": 11,
+      "createdAt": "2025-01-21T09:59:13.000Z",
       "tags": [
-        "alive",
-        "aquatic",
-        "auditory",
-        "cognitohazard",
-        "euclid",
-        "fish",
-        "hostile",
-        "humanoid",
-        "metamorphic",
-        "sapient",
-        "scp"
+        "appliance",
+        "building",
+        "empathic",
+        "extradimensional",
+        "portal",
+        "radioactive",
+        "safe",
+        "scp",
+        "sleep",
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7281/SCP_Image_Final.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8449/Pyewacket_Laundromat.jpg",
       "authors": [
-        "Doctor Zurvan"
+        "Hearthkeeper"
       ]
     }
   ]

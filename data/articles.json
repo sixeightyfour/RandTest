@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T10:21:04.065Z",
+  "updatedAt": "2026-06-07T17:04:22.488Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7627",
-      "title": "SCP-7627",
-      "alternateTitle": "Soviet Rail Gun",
-      "rating": 13,
-      "createdAt": "2025-06-15T08:50:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5157",
+      "title": "SCP-5157",
+      "alternateTitle": "Concerning, to say the least",
+      "rating": 22,
+      "createdAt": "2021-02-21T04:33:56.000Z",
       "tags": [
+        "apollyon",
+        "cupid2021",
         "extraterrestrial",
-        "gravity",
-        "gru-division-p",
-        "neutralized",
-        "pentagram",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nocturned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7456",
-      "title": "SCP-7456",
-      "alternateTitle": "A Bunch of Morons",
-      "rating": 15,
-      "createdAt": "2024-12-16T19:38:22.000Z",
-      "tags": [
-        "alive",
-        "artificial-intelligence",
-        "building",
-        "cognitohazard",
-        "extraterrestrial",
-        "humanoid",
-        "safe",
-        "sapient",
-        "science-fiction",
+        "k-class-scenario",
+        "location",
+        "reality-bending",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5157/erosandpsyche.png",
       "authors": [
-        "Captain_Wavzies"
+        "Diordnas"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3350",
-      "title": "SCP-3350",
-      "alternateTitle": "Shape Up!",
-      "rating": 24,
-      "createdAt": "2017-07-19T13:30:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-456",
+      "title": "SCP-456",
+      "alternateTitle": "Soporific Bedbugs",
+      "rating": 17,
+      "createdAt": "2010-10-15T05:09:16.000Z",
       "tags": [
-        "ectoentropic",
-        "euclid",
-        "media",
-        "medical",
+        "alive",
+        "insect",
+        "neurological",
+        "safe",
         "scp",
-        "transfiguration",
-        "visual"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3350/disk/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
       "authors": [
-        "ColdWare"
+        "eric_h"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-116",
+      "title": "SCP-116",
+      "alternateTitle": "The Brittle Boy",
+      "rating": -39,
+      "createdAt": "2008-07-26T12:12:22.000Z",
+      "tags": [
+        "alive",
+        "body-horror",
+        "euclid",
+        "horror",
+        "humanoid",
+        "in-rewrite",
+        "language",
+        "mind-affecting",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unknown Author"
       ]
     }
   ]

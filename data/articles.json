@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T12:20:48.729Z",
+  "updatedAt": "2026-06-08T18:17:55.997Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3152",
-      "title": "SCP-3152",
-      "alternateTitle": "The Last Love Letter",
-      "rating": 23,
-      "createdAt": "2017-12-08T01:58:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2220",
+      "title": "SCP-2220",
+      "alternateTitle": "Halsey's Hammer",
+      "rating": 20,
+      "createdAt": "2014-05-24T18:52:22.000Z",
       "tags": [
-        "document",
+        "military",
+        "portal",
         "safe",
         "scp",
-        "telepathic"
+        "spatial",
+        "teleportation",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2220/lilboy2.jpg",
+      "authors": [
+        "NotoriousMDG"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-248-de",
+      "title": "SCP-248-DE",
+      "alternateTitle": "Omni fork",
+      "rating": 11,
+      "createdAt": "2022-09-29T15:19:01.000Z",
+      "tags": [
+        "appliance",
+        "international",
+        "safe",
+        "scp",
+        "tool"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Doctor Nikki"
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8692",
-      "title": "SCP-8692",
-      "alternateTitle": "Hell's Coming With Me",
-      "rating": 24,
-      "createdAt": "2024-10-22T02:06:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8556",
+      "title": "SCP-8556",
+      "alternateTitle": "Soul Music",
+      "rating": 17,
+      "createdAt": "2025-10-26T01:38:17.000Z",
       "tags": [
-        "artifact",
-        "city",
-        "demon",
-        "fantasy",
+        "appliance",
+        "auditory",
+        "cognitohazard",
+        "electronic",
         "hallucination",
-        "mind-affecting",
-        "mystery",
-        "religious",
-        "religious-fiction",
         "safe",
-        "scp",
-        "telepathic"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8692/Halabiye_Church_Ruins.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Electronika-508_Video.jpg",
       "authors": [
-        "NothingToAnOcean"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-255-de",
-      "title": "SCP-255-DE",
-      "alternateTitle": "The Perfect Mascot",
-      "rating": 12,
-      "createdAt": "2022-07-23T05:02:05.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "autonomous",
-        "clothing",
-        "empathic",
-        "euclid",
-        "humanoid",
-        "international",
-        "parasitic",
-        "rodent",
-        "sapient",
-        "scp",
-        "self-repairing",
-        "sensory",
-        "telepathic",
-        "toy"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-255-de/SCP-255-DE-Art-1",
-      "authors": [
-        "Einer von Rabe"
+        "TallShrimp"
       ]
     }
   ]

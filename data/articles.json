@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T17:04:22.488Z",
+  "updatedAt": "2026-06-08T02:36:43.173Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5157",
-      "title": "SCP-5157",
-      "alternateTitle": "Concerning, to say the least",
-      "rating": 22,
-      "createdAt": "2021-02-21T04:33:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9250",
+      "title": "SCP-9250",
+      "alternateTitle": "Symphony of Grief No. 1 in G# Minor",
+      "rating": 16,
+      "createdAt": "2025-10-04T03:41:35.000Z",
       "tags": [
-        "apollyon",
-        "cupid2021",
-        "extraterrestrial",
-        "k-class-scenario",
-        "location",
-        "reality-bending",
+        "9000",
+        "audio",
+        "mind-affecting",
+        "musical",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5157/erosandpsyche.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9250/Orchestra/medium.jpg",
       "authors": [
-        "Diordnas"
+        "alexdiflip"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-456",
-      "title": "SCP-456",
-      "alternateTitle": "Soporific Bedbugs",
-      "rating": 17,
-      "createdAt": "2010-10-15T05:09:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7235",
+      "title": "SCP-7235",
+      "alternateTitle": "The Knowledge",
+      "rating": 12,
+      "createdAt": "2023-04-22T11:42:06.000Z",
       "tags": [
-        "alive",
-        "insect",
-        "neurological",
-        "safe",
+        "compulsion",
+        "keter",
+        "reality-bending",
         "scp",
-        "species"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
-      "authors": [
-        "eric_h"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-116",
-      "title": "SCP-116",
-      "alternateTitle": "The Brittle Boy",
-      "rating": -39,
-      "createdAt": "2008-07-26T12:12:22.000Z",
-      "tags": [
-        "alive",
-        "body-horror",
-        "euclid",
-        "horror",
-        "humanoid",
-        "in-rewrite",
-        "language",
-        "mind-affecting",
-        "scp",
-        "transfiguration"
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "Unobtainium235"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8581",
+      "title": "VNP-8581",
+      "alternateTitle": "Double Exposure",
+      "rating": 21,
+      "createdAt": "2025-01-14T17:21:42.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "bittersweet",
+        "esoteric-class",
+        "gamers-against-weed",
+        "lgbtq",
+        "no-return",
+        "romance",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8581/wren.jpg",
+      "authors": [
+        "AlienSpaceBat"
       ]
     }
   ]

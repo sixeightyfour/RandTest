@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T18:17:55.997Z",
+  "updatedAt": "2026-06-09T02:01:18.176Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2220",
-      "title": "SCP-2220",
-      "alternateTitle": "Halsey's Hammer",
-      "rating": 20,
-      "createdAt": "2014-05-24T18:52:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8551",
+      "title": "SCP-8551",
+      "alternateTitle": "32. SCPology",
+      "rating": 9,
+      "createdAt": "2025-07-04T20:12:25.000Z",
       "tags": [
-        "military",
-        "portal",
+        "memetic",
         "safe",
         "scp",
-        "spatial",
-        "teleportation",
-        "vehicle",
-        "weapon"
+        "serpents-hand"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2220/lilboy2.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
       "authors": [
-        "NotoriousMDG"
+        "Drleevezan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-248-de",
-      "title": "SCP-248-DE",
-      "alternateTitle": "Omni fork",
-      "rating": 11,
-      "createdAt": "2022-09-29T15:19:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8830",
+      "title": "SCP-8830",
+      "alternateTitle": "Transporter Mishap",
+      "rating": 8,
+      "createdAt": "2025-03-02T11:15:23.000Z",
       "tags": [
-        "appliance",
-        "international",
-        "safe",
-        "scp",
-        "tool"
+        "anomalous-event",
+        "chaos-insurgency",
+        "euclid",
+        "extradimensional",
+        "mystery",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch"
+        "zolikk"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8556",
-      "title": "SCP-8556",
-      "alternateTitle": "Soul Music",
-      "rating": 17,
-      "createdAt": "2025-10-26T01:38:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8325",
+      "title": "SCP-8325",
+      "alternateTitle": "Why Are There So Many Skips About Santas?",
+      "rating": 19,
+      "createdAt": "2024-12-25T15:33:14.000Z",
       "tags": [
-        "appliance",
-        "auditory",
-        "cognitohazard",
+        "christmas",
+        "cinema",
+        "computer",
         "electronic",
-        "hallucination",
-        "safe",
-        "scp"
+        "esoteric-class",
+        "ethics-committee",
+        "media",
+        "musical",
+        "narrative",
+        "phenomenon",
+        "scp",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Electronika-508_Video.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8325/35mm_reels_and_boxes.jpg",
       "authors": [
-        "TallShrimp"
+        "Pinoccappuccino"
       ]
     }
   ]

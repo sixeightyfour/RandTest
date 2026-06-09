@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T10:51:06.189Z",
+  "updatedAt": "2026-06-09T17:52:01.177Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7203",
-      "title": "SCP-7203",
-      "alternateTitle": "By your bootstraps",
-      "rating": 10,
-      "createdAt": "2023-06-01T15:41:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8240",
+      "title": "SCP-8240",
+      "alternateTitle": "Ad Astra per Commercium",
+      "rating": 15,
+      "createdAt": "2025-03-18T14:04:31.000Z",
       "tags": [
-        "alive",
-        "esoteric-class",
-        "humanoid",
-        "light",
-        "observational",
-        "sapient",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "guiness11"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7237",
-      "title": "SCP-7237",
-      "alternateTitle": "An 8-Centimeter Ball Bearing",
-      "rating": 7,
-      "createdAt": "2024-07-19T23:15:03.000Z",
-      "tags": [
-        "artifact",
-        "auditory",
-        "chemical",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "mechanical",
+        "appliance",
+        "corporate",
+        "electrical",
+        "electronic",
+        "extraterrestrial",
+        "knowledge",
         "safe",
-        "scp",
-        "visual"
+        "science-fiction",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8240/Admiral.png",
       "authors": [
-        "Pinoccappuccino"
+        "D-Barschina"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-140-it",
-      "title": "SCP-140-IT",
-      "alternateTitle": "O.V.R.D.",
-      "rating": 5,
-      "createdAt": "2023-05-25T22:50:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6674",
+      "title": "SCP-6674",
+      "alternateTitle": "Where Are We Going?",
+      "rating": 13,
+      "createdAt": "2023-12-23T20:59:05.000Z",
       "tags": [
-        "city",
-        "historical",
-        "international",
+        "extradimensional",
         "keter",
+        "memetic",
+        "military",
         "scp",
-        "teleportation"
+        "teleportation",
+        "uncontained",
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/B-17F_Radar_Bombing_over_Germany_1943.jpg?width=959&height=210",
       "authors": [
-        "Roberto Turati"
+        "DL_Baryonyx"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8791",
+      "title": "SCP-8791",
+      "alternateTitle": "Walk Like an Egyptian",
+      "rating": 20,
+      "createdAt": "2024-12-28T11:09:09.000Z",
+      "tags": [
+        "afterlife",
+        "art-exchange",
+        "esoteric-class",
+        "religious",
+        "scp",
+        "tactical-theology",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8791/scales.jpg",
+      "authors": [
+        "AlienSpaceBat"
       ]
     }
   ]

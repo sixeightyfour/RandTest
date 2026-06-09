@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T02:01:18.176Z",
+  "updatedAt": "2026-06-09T10:51:06.189Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8551",
-      "title": "SCP-8551",
-      "alternateTitle": "32. SCPology",
-      "rating": 9,
-      "createdAt": "2025-07-04T20:12:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7203",
+      "title": "SCP-7203",
+      "alternateTitle": "By your bootstraps",
+      "rating": 10,
+      "createdAt": "2023-06-01T15:41:44.000Z",
       "tags": [
-        "memetic",
-        "safe",
+        "alive",
+        "esoteric-class",
+        "humanoid",
+        "light",
+        "observational",
+        "sapient",
         "scp",
-        "serpents-hand"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
-      "authors": [
-        "Drleevezan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8830",
-      "title": "SCP-8830",
-      "alternateTitle": "Transporter Mishap",
-      "rating": 8,
-      "createdAt": "2025-03-02T11:15:23.000Z",
-      "tags": [
-        "anomalous-event",
-        "chaos-insurgency",
-        "euclid",
-        "extradimensional",
-        "mystery",
-        "scp"
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "zolikk"
+        "guiness11"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8325",
-      "title": "SCP-8325",
-      "alternateTitle": "Why Are There So Many Skips About Santas?",
-      "rating": 19,
-      "createdAt": "2024-12-25T15:33:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7237",
+      "title": "SCP-7237",
+      "alternateTitle": "An 8-Centimeter Ball Bearing",
+      "rating": 7,
+      "createdAt": "2024-07-19T23:15:03.000Z",
       "tags": [
-        "christmas",
-        "cinema",
-        "computer",
-        "electronic",
-        "esoteric-class",
-        "ethics-committee",
-        "media",
-        "musical",
-        "narrative",
-        "phenomenon",
+        "artifact",
+        "auditory",
+        "chemical",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "mechanical",
+        "safe",
         "scp",
-        "transfiguration"
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8325/35mm_reels_and_boxes.jpg",
+      "thumbnailUrl": "",
       "authors": [
         "Pinoccappuccino"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-140-it",
+      "title": "SCP-140-IT",
+      "alternateTitle": "O.V.R.D.",
+      "rating": 5,
+      "createdAt": "2023-05-25T22:50:51.000Z",
+      "tags": [
+        "city",
+        "historical",
+        "international",
+        "keter",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Roberto Turati"
       ]
     }
   ]

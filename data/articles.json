@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T17:52:01.177Z",
+  "updatedAt": "2026-06-10T02:14:12.304Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -30,44 +30,48 @@
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6674",
-      "title": "SCP-6674",
-      "alternateTitle": "Where Are We Going?",
-      "rating": 13,
-      "createdAt": "2023-12-23T20:59:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4678",
+      "title": "SCP-4678",
+      "alternateTitle": "A Time and Place for Regret",
+      "rating": 8,
+      "createdAt": "2019-09-18T20:05:38.000Z",
       "tags": [
-        "extradimensional",
-        "keter",
-        "memetic",
-        "military",
+        "action",
+        "artifact",
+        "bleak",
+        "cain",
+        "neutralized",
         "scp",
-        "teleportation",
-        "uncontained",
-        "weapon"
+        "temporal",
+        "time-travel"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/B-17F_Radar_Bombing_over_Germany_1943.jpg?width=959&height=210",
+      "thumbnailUrl": "",
       "authors": [
-        "DL_Baryonyx"
+        "Kaether"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8791",
-      "title": "SCP-8791",
-      "alternateTitle": "Walk Like an Egyptian",
-      "rating": 20,
-      "createdAt": "2024-12-28T11:09:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-356",
+      "title": "SCP-USA64-356",
+      "alternateTitle": "Figures on the Shore",
+      "rating": 16,
+      "createdAt": "2025-01-09T13:49:50.000Z",
       "tags": [
-        "afterlife",
         "art-exchange",
+        "bleak",
+        "compulsion",
         "esoteric-class",
-        "religious",
+        "horror",
+        "humanoid",
+        "mind-affecting",
+        "nocturnal",
         "scp",
-        "tactical-theology",
-        "ticonderoga"
+        "self-replicating",
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8791/scales.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-356/dbtw.png",
       "authors": [
-        "AlienSpaceBat"
+        "SynthPanda_"
       ]
     }
   ]

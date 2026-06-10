@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T02:14:12.304Z",
+  "updatedAt": "2026-06-10T11:30:09.849Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8240",
-      "title": "SCP-8240",
-      "alternateTitle": "Ad Astra per Commercium",
-      "rating": 15,
-      "createdAt": "2025-03-18T14:04:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8850",
+      "title": "SCP-8850",
+      "alternateTitle": "Philosophical Zombies",
+      "rating": 20,
+      "createdAt": "2024-11-20T17:57:32.000Z",
       "tags": [
-        "appliance",
-        "corporate",
-        "electrical",
-        "electronic",
-        "extraterrestrial",
-        "knowledge",
-        "safe",
-        "science-fiction",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8240/Admiral.png",
-      "authors": [
-        "D-Barschina"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 8,
-      "createdAt": "2019-09-18T20:05:38.000Z",
-      "tags": [
-        "action",
-        "artifact",
-        "bleak",
-        "cain",
-        "neutralized",
+        "biological",
+        "euclid",
+        "extradimensional",
+        "humanoid",
         "scp",
-        "temporal",
-        "time-travel"
+        "structure"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaether"
+        "jfour"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-356",
-      "title": "SCP-USA64-356",
-      "alternateTitle": "Figures on the Shore",
-      "rating": 16,
-      "createdAt": "2025-01-09T13:49:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8982",
+      "title": "SCP-8982",
+      "alternateTitle": "A Seer's Stupor",
+      "rating": 22,
+      "createdAt": "2025-08-29T22:31:25.000Z",
       "tags": [
-        "art-exchange",
-        "bleak",
-        "compulsion",
-        "esoteric-class",
-        "horror",
+        "alive",
+        "foundation-personnel",
         "humanoid",
-        "mind-affecting",
-        "nocturnal",
+        "predictive",
+        "sapient",
         "scp",
-        "self-replicating",
-        "teleportation"
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-356/dbtw.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8982/homme-age-.jpg",
       "authors": [
-        "SynthPanda_"
+        "AWhiteBoy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6628",
+      "title": "SCP-6628",
+      "alternateTitle": "Some Time Apart",
+      "rating": 14,
+      "createdAt": "2022-09-29T18:51:24.000Z",
+      "tags": [
+        "clockwork",
+        "humanoid",
+        "intangible",
+        "neutralized",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cwazzycwafter"
       ]
     }
   ]

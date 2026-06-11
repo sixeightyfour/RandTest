@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T02:36:26.917Z",
+  "updatedAt": "2026-06-11T12:02:46.744Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-178-it",
-      "title": "SCP-178-IT",
-      "alternateTitle": "Plasmodium draconis",
-      "rating": 18,
-      "createdAt": "2024-06-14T11:49:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5638",
+      "title": "SCP-5638",
+      "alternateTitle": "Bucket of Karkinos",
+      "rating": 24,
+      "createdAt": "2022-03-23T20:08:21.000Z",
       "tags": [
-        "co-authored",
-        "contagion",
-        "dinosaur",
-        "historical",
-        "insect",
-        "international",
-        "keter",
-        "scp",
-        "swarm"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Doctor Fulgrim",
-        "Heck_Tech"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3822",
-      "title": "SCP-3822",
-      "alternateTitle": "Everywhere Yet Nowhere",
-      "rating": 18,
-      "createdAt": "2022-12-28T19:58:43.000Z",
-      "tags": [
-        "ad-astra",
-        "art-exchange",
-        "ectoentropic",
-        "esoteric-class",
-        "extraterrestrial",
-        "scp",
-        "temporal",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "AvocadoMilk"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
-      "title": "SCP-987-ARC",
-      "alternateTitle": "A Window",
-      "rating": -14,
-      "createdAt": "2008-07-26T15:29:02.000Z",
-      "tags": [
-        "archived",
-        "artifact",
-        "cognitohazard",
+        "alive",
+        "animal",
         "euclid",
+        "hostile",
+        "humanoid",
+        "island",
+        "location",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
+      "authors": [
+        "Penguini"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8892",
+      "title": "SCP-8892",
+      "alternateTitle": "A Field of Poppies",
+      "rating": 5,
+      "createdAt": "2025-01-05T04:58:00.000Z",
+      "tags": [
+        "alive",
+        "auditory",
+        "euclid",
+        "historical",
+        "humanoid",
+        "location",
+        "memory-affecting",
+        "observational",
+        "plant",
+        "political",
         "scp",
         "sensory",
+        "tactile",
         "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8892/Poppies/medium.jpg",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8671",
+      "title": "SCP-8671",
+      "alternateTitle": "Der Eiserne Ritter",
+      "rating": 15,
+      "createdAt": "2025-11-26T10:53:46.000Z",
+      "tags": [
+        "global-occult-coalition",
+        "gravity",
+        "mechanical",
+        "safe",
+        "scp",
+        "thaumaturgy",
+        "vehicle",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "SimpleRuins"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T18:24:06.035Z",
+  "updatedAt": "2026-06-11T02:36:26.917Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6347",
-      "title": "SCP-6347",
-      "alternateTitle": "Ularburong",
+      "url": "http://scp-wiki.wikidot.com/scp-178-it",
+      "title": "SCP-178-IT",
+      "alternateTitle": "Plasmodium draconis",
       "rating": 18,
-      "createdAt": "2022-06-21T00:14:28.000Z",
+      "createdAt": "2024-06-14T11:49:20.000Z",
       "tags": [
-        "document",
-        "esoteric-class",
-        "meta",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "cold_Nights"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1983-jp",
-      "title": "SCP-1983-JP",
-      "alternateTitle": "Remnants of a Dream",
-      "rating": 18,
-      "createdAt": "2023-01-17T20:56:06.000Z",
-      "tags": [
-        "antimemetic",
-        "art-exchange",
-        "building",
-        "infohazard",
+        "co-authored",
+        "contagion",
+        "dinosaur",
+        "historical",
+        "insect",
         "international",
-        "meta",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-1983-jp/8583133836_948dee31f0_z.jpg",
-      "authors": [
-        "Maxyfran73"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-043-j",
-      "title": "SCP-043-J",
-      "alternateTitle": "Certainly a pair of Two combat Sticks",
-      "rating": -6,
-      "createdAt": "2025-02-25T19:01:33.000Z",
-      "tags": [
-        "compulsion",
-        "joke",
-        "mind-affecting",
-        "observational",
-        "safe",
+        "keter",
         "scp",
-        "tree",
-        "weapon"
+        "swarm"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Lord Pancake"
+        "Doctor Fulgrim",
+        "Heck_Tech"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3822",
+      "title": "SCP-3822",
+      "alternateTitle": "Everywhere Yet Nowhere",
+      "rating": 18,
+      "createdAt": "2022-12-28T19:58:43.000Z",
+      "tags": [
+        "ad-astra",
+        "art-exchange",
+        "ectoentropic",
+        "esoteric-class",
+        "extraterrestrial",
+        "scp",
+        "temporal",
+        "uncontained",
+        "vehicle"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "AvocadoMilk"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
+      "title": "SCP-987-ARC",
+      "alternateTitle": "A Window",
+      "rating": -14,
+      "createdAt": "2008-07-26T15:29:02.000Z",
+      "tags": [
+        "archived",
+        "artifact",
+        "cognitohazard",
+        "euclid",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unknown Author"
       ]
     }
   ]

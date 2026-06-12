@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T02:32:01.081Z",
+  "updatedAt": "2026-06-12T11:34:34.345Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8258",
-      "title": "SCP-8258",
-      "alternateTitle": "Positive Reinforcement",
-      "rating": 14,
-      "createdAt": "2025-07-13T00:29:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9150",
+      "title": "SCP-9150",
+      "alternateTitle": "Worn Away",
+      "rating": 9,
+      "createdAt": "2025-10-02T12:40:18.000Z",
       "tags": [
-        "auditory",
-        "biological",
-        "classiccon2025",
+        "9000",
+        "esoteric-class",
+        "horror",
+        "memory-affecting",
+        "mystery",
+        "phenomenon",
+        "psychological-horror",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9150/Pharmacology.png",
+      "authors": [
+        "ZeekyBoogyDoog"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6071",
+      "title": "SCP-6071",
+      "alternateTitle": "Before Us",
+      "rating": 18,
+      "createdAt": "2021-10-19T20:24:24.000Z",
+      "tags": [
+        "abnormalities",
+        "building",
+        "cognitohazard",
         "euclid",
-        "fungus",
-        "hallucination",
-        "knowledge",
+        "foundation-made",
         "mind-affecting",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Yuumtah"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-279",
-      "title": "SCP-279",
-      "alternateTitle": "Meandering Man",
-      "rating": 14,
-      "createdAt": "2010-08-27T21:45:56.000Z",
-      "tags": [
-        "euclid",
-        "humanoid",
-        "indestructible",
+        "polyhedral",
         "scp",
-        "tactile",
-        "teleportation",
-        "uncontained"
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://live.staticflickr.com/4129/5072228597_abc9cbd629_b.jpg",
       "authors": [
-        "Mimi_42"
+        "extasis"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5638",
-      "title": "SCP-5638",
-      "alternateTitle": "Bucket of Karkinos",
-      "rating": 24,
-      "createdAt": "2022-03-23T20:08:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7367",
+      "title": "SCP-7367",
+      "alternateTitle": "The Black Plague",
+      "rating": 12,
+      "createdAt": "2025-02-26T23:15:03.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "euclid",
-        "hostile",
-        "humanoid",
-        "island",
-        "location",
-        "sapient",
+        "historical",
+        "memetic",
+        "religious",
+        "safe",
+        "sarkic",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
+      "thumbnailUrl": "",
       "authors": [
-        "Penguini"
+        "Captain_Wavzies"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T02:12:54.394Z",
+  "updatedAt": "2026-06-13T10:21:05.692Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,78 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 14,
-      "createdAt": "2022-08-13T02:47:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6148",
+      "title": "SCP-6148",
+      "alternateTitle": "The Trees Have Eyes",
+      "rating": 7,
+      "createdAt": "2022-02-01T06:07:56.000Z",
       "tags": [
-        "biological",
-        "building",
+        "alive",
+        "ectoentropic",
         "euclid",
-        "fifthist",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8354",
-      "title": "SCP-8354",
-      "alternateTitle": "Something in the Snow",
-      "rating": 11,
-      "createdAt": "2025-02-10T02:16:23.000Z",
-      "tags": [
-        "abnormalities",
-        "safe",
+        "knowledge",
+        "memory-affecting",
+        "mind-affecting",
+        "narrative",
+        "plant",
         "scp",
-        "structure",
-        "subterranean"
+        "transfiguration",
+        "tree"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
+      "thumbnailUrl": "",
       "authors": [
-        "CN Productions"
+        "Draconocor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/protected:scp-2721",
-      "title": "SCP-2721",
-      "alternateTitle": "",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
+      "title": "SCP-PL-046",
+      "alternateTitle": "Final Girl",
       "rating": 20,
-      "createdAt": "2016-07-10T04:06:04.000Z",
+      "createdAt": "2022-07-14T21:10:00.000Z",
       "tags": [
-        "alien",
-        "amorphous",
-        "artistic",
-        "biological",
-        "bones",
+        "alive",
         "co-authored",
         "euclid",
-        "extraterrestrial",
-        "lgbtq",
-        "online",
+        "humanoid",
+        "international",
+        "narrative",
+        "parawatch",
+        "s&c-plastics",
         "sapient",
-        "satellite",
-        "science-fiction",
+        "sarkic",
         "scp",
-        "transmission",
-        "xenofiction"
+        "sexual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-2721/luna.png",
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
       "authors": [
-        "DolphinSlugchugger"
+        "EvilAngel413",
+        "Zygard"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-338",
+      "title": "SCP-PL-338",
+      "alternateTitle": "Marble bandages for my open wounds",
+      "rating": 14,
+      "createdAt": "2024-06-02T19:24:07.000Z",
+      "tags": [
+        "alive",
+        "cadaver",
+        "euclid",
+        "gaseous",
+        "humanoid",
+        "international",
+        "memory-affecting",
+        "parasitic",
+        "scp",
+        "sculpture",
+        "species",
+        "tactile"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Michelangelo%27s_David_-_right_view_2.jpg",
+      "authors": [
+        "KubKac"
       ]
     }
   ]

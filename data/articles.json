@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T17:58:55.064Z",
+  "updatedAt": "2026-06-13T02:12:54.394Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5418",
-      "title": "SCP-5418",
-      "alternateTitle": "Sinners Corpse",
-      "rating": 19,
-      "createdAt": "2021-03-21T22:44:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 14,
+      "createdAt": "2022-08-13T02:47:23.000Z",
       "tags": [
-        "cadaver",
-        "reanimation",
-        "religious",
+        "biological",
+        "building",
+        "euclid",
+        "fifthist",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "authors": [
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8354",
+      "title": "SCP-8354",
+      "alternateTitle": "Something in the Snow",
+      "rating": 11,
+      "createdAt": "2025-02-10T02:16:23.000Z",
+      "tags": [
+        "abnormalities",
         "safe",
-        "sapient",
         "scp",
-        "skeletal"
+        "structure",
+        "subterranean"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
       "authors": [
-        "Paradise Found"
+        "CN Productions"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7988",
-      "title": "SCP-7988",
-      "alternateTitle": "Mood/luck displacement factors",
-      "rating": 15,
-      "createdAt": "2022-12-06T14:48:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/protected:scp-2721",
+      "title": "SCP-2721",
+      "alternateTitle": "",
+      "rating": 20,
+      "createdAt": "2016-07-10T04:06:04.000Z",
       "tags": [
-        "empathic",
-        "esoteric-class",
-        "probability",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "guiness11"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4293",
-      "title": "SCP-4293",
-      "alternateTitle": "In One Man’s Honour, A Dossier Of unBÄRable Solitude",
-      "rating": 23,
-      "createdAt": "2018-10-13T01:56:17.000Z",
-      "tags": [
-        "alive",
-        "hostile",
-        "humanoid",
-        "intangible",
-        "k-class-scenario",
-        "keter",
-        "meta",
+        "alien",
+        "amorphous",
+        "artistic",
+        "biological",
+        "bones",
+        "co-authored",
+        "euclid",
+        "extraterrestrial",
+        "lgbtq",
+        "online",
         "sapient",
+        "satellite",
+        "science-fiction",
         "scp",
-        "teleportation"
+        "transmission",
+        "xenofiction"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4293/SCP-3924.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-2721/luna.png",
       "authors": [
-        "Jack Ike"
+        "DolphinSlugchugger"
       ]
     }
   ]

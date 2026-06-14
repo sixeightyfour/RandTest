@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T17:10:11.121Z",
+  "updatedAt": "2026-06-14T02:35:58.418Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7428",
-      "title": "SCP-7428",
-      "alternateTitle": "The Cage",
-      "rating": 13,
-      "createdAt": "2025-04-17T23:01:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4687",
+      "title": "SCP-4687",
+      "alternateTitle": "the call of the void",
+      "rating": 19,
+      "createdAt": "2020-05-19T14:38:05.000Z",
       "tags": [
-        "broken-god",
-        "extraterrestrial",
+        "alive",
+        "animal",
+        "audio",
+        "cephalopod",
+        "cognitohazard",
+        "compulsion",
         "keter",
         "scp",
-        "spatial",
-        "structure",
-        "transmission",
-        "uncontained"
+        "species"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-4687/scp4687",
       "authors": [
-        "Nocturned"
+        "Haydenhead"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7312",
-      "title": "SCP-7312",
-      "alternateTitle": "For the Honour, for the Faith",
-      "rating": 18,
-      "createdAt": "2022-08-31T02:53:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7214",
+      "title": "SCP-7214",
+      "alternateTitle": "Banality",
+      "rating": 22,
+      "createdAt": "2023-07-14T05:22:04.000Z",
       "tags": [
-        "delta-t",
-        "historical",
-        "narrative",
-        "neutralized",
-        "noosphere",
-        "reality-bending",
-        "religious",
-        "ritual",
+        "acoustic",
+        "electrical",
+        "mind-affecting",
+        "olfactory",
+        "safe",
         "scp",
-        "spatial",
-        "temporal"
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
       "authors": [
-        "Errorban"
+        "TheChunk"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8750",
-      "title": "SCP-8750",
-      "alternateTitle": "Echoes of a Broken Family",
-      "rating": 12,
-      "createdAt": "2024-04-30T04:57:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8737",
+      "title": "SCP-8737",
+      "alternateTitle": "Flowers for Nemo",
+      "rating": 22,
+      "createdAt": "2025-08-22T22:41:03.000Z",
       "tags": [
-        "cadaver",
-        "ghost",
-        "neutralized",
-        "scp"
+        "alive",
+        "animal",
+        "cephalopod",
+        "daevite",
+        "document",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "HunterDog"
+        "Booblesnoot"
       ]
     }
   ]

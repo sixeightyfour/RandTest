@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T02:35:58.418Z",
+  "updatedAt": "2026-06-14T10:43:49.648Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,79 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4687",
-      "title": "SCP-4687",
-      "alternateTitle": "the call of the void",
-      "rating": 19,
-      "createdAt": "2020-05-19T14:38:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6684",
+      "title": "SCP-6684",
+      "alternateTitle": "Rebranded",
+      "rating": 21,
+      "createdAt": "2023-06-19T15:51:05.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "audio",
-        "cephalopod",
-        "cognitohazard",
-        "compulsion",
-        "keter",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-4687/scp4687",
-      "authors": [
-        "Haydenhead"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7214",
-      "title": "SCP-7214",
-      "alternateTitle": "Banality",
-      "rating": 22,
-      "createdAt": "2023-07-14T05:22:04.000Z",
-      "tags": [
-        "acoustic",
-        "electrical",
-        "mind-affecting",
-        "olfactory",
+        "artistic",
+        "blood",
+        "building",
+        "canine",
+        "clothing",
+        "ectoentropic",
+        "marshall-carter-and-dark",
         "safe",
+        "sapient",
         "scp",
         "transfiguration"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
       "authors": [
-        "TheChunk"
+        "Fierce fauna"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8737",
-      "title": "SCP-8737",
-      "alternateTitle": "Flowers for Nemo",
-      "rating": 22,
-      "createdAt": "2025-08-22T22:41:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6927",
+      "title": "SCP-6927",
+      "alternateTitle": "Eurydification",
+      "rating": 16,
+      "createdAt": "2024-02-09T22:56:10.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "cephalopod",
-        "daevite",
-        "document",
-        "mind-affecting",
+        "antimemetic",
+        "ghost",
+        "humanoid",
+        "medical",
+        "memory-affecting",
+        "oneiroi",
+        "parasitic",
+        "reanimation",
         "safe",
+        "sapient",
         "scp",
-        "transfiguration"
+        "sleep"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/SCP%20Reconnected.png",
       "authors": [
-        "Booblesnoot"
+        "Fierce fauna"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-148-de",
+      "title": "SCP-148-DE",
+      "alternateTitle": "Blue Slime [Level 25]",
+      "rating": 10,
+      "createdAt": "2022-07-23T04:57:00.000Z",
+      "tags": [
+        "adaptive",
+        "amorphous",
+        "autonomous",
+        "biological",
+        "ectoentropic",
+        "euclid",
+        "humanoid",
+        "international",
+        "liquid",
+        "metamorphic",
+        "mimetic",
+        "sapient",
+        "scp",
+        "tactile"
+      ],
+      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
+      "authors": [
+        "Einer von Rabe"
       ]
     }
   ]

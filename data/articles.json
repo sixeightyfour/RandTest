@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T10:43:49.648Z",
+  "updatedAt": "2026-06-14T17:08:10.175Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,79 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6684",
-      "title": "SCP-6684",
-      "alternateTitle": "Rebranded",
+      "url": "http://scp-wiki.wikidot.com/scp-4551",
+      "title": "SCP-4551",
+      "alternateTitle": "Bell for a Funeral…",
       "rating": 21,
-      "createdAt": "2023-06-19T15:51:05.000Z",
+      "createdAt": "2019-05-27T00:55:02.000Z",
+      "tags": [
+        "acoustic",
+        "artifact",
+        "hallucination",
+        "historical",
+        "inscription",
+        "memory-affecting",
+        "religious",
+        "ritual",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4551/20190926_154116.jpg",
+      "authors": [
+        "Amelia Wright"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
+      "title": "SCP-106-KO",
+      "alternateTitle": "Hanging Scroll",
+      "rating": 15,
+      "createdAt": "2022-08-19T09:13:39.000Z",
       "tags": [
         "artistic",
-        "blood",
-        "building",
-        "canine",
-        "clothing",
-        "ectoentropic",
-        "marshall-carter-and-dark",
+        "extradimensional",
+        "international",
+        "portal",
         "safe",
-        "sapient",
         "scp",
-        "transfiguration"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
       "authors": [
-        "Fierce fauna"
+        "Subervos"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6927",
-      "title": "SCP-6927",
-      "alternateTitle": "Eurydification",
-      "rating": 16,
-      "createdAt": "2024-02-09T22:56:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8373",
+      "title": "SCP-8373",
+      "alternateTitle": "Adoration for None",
+      "rating": 18,
+      "createdAt": "2025-07-13T03:54:23.000Z",
       "tags": [
-        "antimemetic",
-        "ghost",
-        "humanoid",
-        "medical",
-        "memory-affecting",
-        "oneiroi",
-        "parasitic",
-        "reanimation",
-        "safe",
-        "sapient",
-        "scp",
-        "sleep"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/SCP%20Reconnected.png",
-      "authors": [
-        "Fierce fauna"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-148-de",
-      "title": "SCP-148-DE",
-      "alternateTitle": "Blue Slime [Level 25]",
-      "rating": 10,
-      "createdAt": "2022-07-23T04:57:00.000Z",
-      "tags": [
-        "adaptive",
-        "amorphous",
-        "autonomous",
-        "biological",
-        "ectoentropic",
+        "classiccon2025",
         "euclid",
         "humanoid",
-        "international",
-        "liquid",
-        "metamorphic",
-        "mimetic",
-        "sapient",
+        "light",
+        "mystery",
+        "phenomenon",
+        "plant",
         "scp",
-        "tactile"
+        "thaumaturgy",
+        "transfiguration"
       ],
-      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bioluminescent_bacteria_-_Flickr_-_Rob_Cruickshank.jpg",
       "authors": [
-        "Einer von Rabe"
+        "Rhys Tanner"
       ]
     }
   ]

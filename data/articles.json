@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T13:46:03.354Z",
+  "updatedAt": "2026-06-15T19:37:40.360Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6395",
-      "title": "SCP-6395",
-      "alternateTitle": "Thoughts are Overrated",
-      "rating": 20,
-      "createdAt": "2022-04-18T21:12:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8661",
+      "title": "SCP-8661",
+      "alternateTitle": "Twelve Corpses and an Unlit Cigarette",
+      "rating": 15,
+      "createdAt": "2025-07-05T09:50:42.000Z",
       "tags": [
-        "alive",
-        "euclid",
-        "hive-mind",
-        "humanoid",
+        "ectoentropic",
+        "gustatory",
         "mind-affecting",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
-      "authors": [
-        "Ruskied"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6669",
-      "title": "SCP-6669",
-      "alternateTitle": "Endlessly Fucking Space",
-      "rating": 24,
-      "createdAt": "2021-05-25T23:23:15.000Z",
-      "tags": [
-        "6000",
-        "artifact",
-        "bacteria",
-        "biohazard",
-        "extraterrestrial",
-        "keter",
-        "robotic",
         "scp",
-        "structure"
+        "thaumiel"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6669/updmap.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Rigen"
+        "syuzhet"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7490",
-      "title": "SCP-7490",
-      "alternateTitle": "Have Faith, and Take Some Chances",
-      "rating": 11,
-      "createdAt": "2022-07-30T16:46:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5645",
+      "title": "SCP-5645",
+      "alternateTitle": "The End of Nothing Special",
+      "rating": 14,
+      "createdAt": "2021-03-13T05:52:55.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "euclid",
+        "biological",
+        "cadaver",
         "humanoid",
-        "probability",
-        "sapient",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Strange Matter"
+        "Crashington"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5183",
+      "title": "SCP-5183",
+      "alternateTitle": "Under the Surface",
+      "rating": 15,
+      "createdAt": "2020-08-16T22:45:26.000Z",
+      "tags": [
+        "cognitohazard",
+        "metamorphic",
+        "mind-affecting",
+        "observational",
+        "safe",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Flopmind"
       ]
     }
   ]

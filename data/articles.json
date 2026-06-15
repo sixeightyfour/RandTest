@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T02:41:05.012Z",
+  "updatedAt": "2026-06-15T13:46:03.354Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7387",
-      "title": "SCP-7387",
-      "alternateTitle": "Dookie",
-      "rating": 21,
-      "createdAt": "2023-11-10T17:25:30.000Z",
-      "tags": [
-        "acoustic",
-        "auditory",
-        "mind-affecting",
-        "musical",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
-      "authors": [
-        "IcarusEMBR"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
-      "title": "SCP-002-DE-J",
-      "alternateTitle": "Moldy Hands",
-      "rating": 4,
-      "createdAt": "2023-04-15T10:09:10.000Z",
-      "tags": [
-        "antimemetic",
-        "biohazard",
-        "food",
-        "fungus",
-        "international",
-        "joke",
-        "keter",
-        "moon",
-        "parasitic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6155",
-      "title": "SCP-6155",
-      "alternateTitle": "Blood Related",
-      "rating": 21,
-      "createdAt": "2021-12-08T02:56:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6395",
+      "title": "SCP-6395",
+      "alternateTitle": "Thoughts are Overrated",
+      "rating": 20,
+      "createdAt": "2022-04-18T21:12:52.000Z",
       "tags": [
         "alive",
-        "auditory",
-        "cadaver",
-        "hallucination",
+        "euclid",
+        "hive-mind",
         "humanoid",
-        "safe",
+        "mind-affecting",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
+      "authors": [
+        "Ruskied"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6669",
+      "title": "SCP-6669",
+      "alternateTitle": "Endlessly Fucking Space",
+      "rating": 24,
+      "createdAt": "2021-05-25T23:23:15.000Z",
+      "tags": [
+        "6000",
+        "artifact",
+        "bacteria",
+        "biohazard",
+        "extraterrestrial",
+        "keter",
+        "robotic",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6669/updmap.png",
+      "authors": [
+        "Rigen"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7490",
+      "title": "SCP-7490",
+      "alternateTitle": "Have Faith, and Take Some Chances",
+      "rating": 11,
+      "createdAt": "2022-07-30T16:46:38.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "euclid",
+        "humanoid",
+        "probability",
         "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Aleph-Null"
+        "Strange Matter"
       ]
     }
   ]

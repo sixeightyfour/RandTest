@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:08:10.175Z",
+  "updatedAt": "2026-06-15T02:41:05.012Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4551",
-      "title": "SCP-4551",
-      "alternateTitle": "Bell for a Funeral…",
+      "url": "http://scp-wiki.wikidot.com/scp-7387",
+      "title": "SCP-7387",
+      "alternateTitle": "Dookie",
       "rating": 21,
-      "createdAt": "2019-05-27T00:55:02.000Z",
+      "createdAt": "2023-11-10T17:25:30.000Z",
       "tags": [
         "acoustic",
-        "artifact",
-        "hallucination",
-        "historical",
-        "inscription",
-        "memory-affecting",
-        "religious",
-        "ritual",
+        "auditory",
+        "mind-affecting",
+        "musical",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4551/20190926_154116.jpg",
+      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
       "authors": [
-        "Amelia Wright"
+        "IcarusEMBR"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
-      "title": "SCP-106-KO",
-      "alternateTitle": "Hanging Scroll",
-      "rating": 15,
-      "createdAt": "2022-08-19T09:13:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
+      "title": "SCP-002-DE-J",
+      "alternateTitle": "Moldy Hands",
+      "rating": 4,
+      "createdAt": "2023-04-15T10:09:10.000Z",
       "tags": [
-        "artistic",
-        "extradimensional",
+        "antimemetic",
+        "biohazard",
+        "food",
+        "fungus",
         "international",
-        "portal",
-        "safe",
-        "scp",
-        "teleportation"
+        "joke",
+        "keter",
+        "moon",
+        "parasitic",
+        "scp"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Subervos"
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8373",
-      "title": "SCP-8373",
-      "alternateTitle": "Adoration for None",
-      "rating": 18,
-      "createdAt": "2025-07-13T03:54:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6155",
+      "title": "SCP-6155",
+      "alternateTitle": "Blood Related",
+      "rating": 21,
+      "createdAt": "2021-12-08T02:56:17.000Z",
       "tags": [
-        "classiccon2025",
-        "euclid",
+        "alive",
+        "auditory",
+        "cadaver",
+        "hallucination",
         "humanoid",
-        "light",
-        "mystery",
-        "phenomenon",
-        "plant",
-        "scp",
-        "thaumaturgy",
-        "transfiguration"
+        "safe",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bioluminescent_bacteria_-_Flickr_-_Rob_Cruickshank.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Rhys Tanner"
+        "Aleph-Null"
       ]
     }
   ]

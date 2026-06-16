@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:37:40.360Z",
+  "updatedAt": "2026-06-16T02:43:05.344Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,58 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8661",
-      "title": "SCP-8661",
-      "alternateTitle": "Twelve Corpses and an Unlit Cigarette",
-      "rating": 15,
-      "createdAt": "2025-07-05T09:50:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-086-j",
+      "title": "SCP-086-J",
+      "alternateTitle": "So, like, you know That One Thing?",
+      "rating": 8,
+      "createdAt": "2025-06-12T09:50:46.000Z",
       "tags": [
-        "ectoentropic",
-        "gustatory",
+        "esoteric-class",
+        "infohazard",
+        "joke",
+        "meta",
         "mind-affecting",
-        "scp",
-        "thaumiel"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://ik.imagekit.io/Foogle/IMG_0352.jpeg?updatedAt=1749718932716",
       "authors": [
-        "syuzhet"
+        "JustSomePancakeChef"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5645",
-      "title": "SCP-5645",
-      "alternateTitle": "The End of Nothing Special",
-      "rating": 14,
-      "createdAt": "2021-03-13T05:52:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4672",
+      "title": "SCP-4672",
+      "alternateTitle": "Meteoric Dog",
+      "rating": 23,
+      "createdAt": "2019-03-10T05:09:51.000Z",
       "tags": [
-        "biological",
-        "cadaver",
-        "humanoid",
-        "safe",
+        "animal",
+        "canine",
+        "euclid",
+        "jam-con2019",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Crashington"
+        "Mecheon"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5183",
-      "title": "SCP-5183",
-      "alternateTitle": "Under the Surface",
-      "rating": 15,
-      "createdAt": "2020-08-16T22:45:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-275-de",
+      "title": "SCP-275-DE",
+      "alternateTitle": "Cleaning Robot BEA",
+      "rating": 8,
+      "createdAt": "2022-10-24T16:05:01.000Z",
       "tags": [
-        "cognitohazard",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
-        "safe",
-        "scp",
-        "sensory",
-        "visual"
+        "autonomous",
+        "euclid",
+        "international",
+        "mechanical",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Flopmind"
+        "Gramlin"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:43:05.344Z",
+  "updatedAt": "2026-06-16T12:45:02.712Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,58 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-086-j",
-      "title": "SCP-086-J",
-      "alternateTitle": "So, like, you know That One Thing?",
-      "rating": 8,
-      "createdAt": "2025-06-12T09:50:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4388",
+      "title": "SCP-4388",
+      "alternateTitle": "Rampant OSHA violations",
+      "rating": 19,
+      "createdAt": "2019-03-14T04:33:08.000Z",
       "tags": [
-        "esoteric-class",
-        "infohazard",
-        "joke",
-        "meta",
-        "mind-affecting",
-        "scp"
-      ],
-      "thumbnailUrl": "https://ik.imagekit.io/Foogle/IMG_0352.jpeg?updatedAt=1749718932716",
-      "authors": [
-        "JustSomePancakeChef"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4672",
-      "title": "SCP-4672",
-      "alternateTitle": "Meteoric Dog",
-      "rating": 23,
-      "createdAt": "2019-03-10T05:09:51.000Z",
-      "tags": [
-        "animal",
-        "canine",
+        "ectoentropic",
+        "electrical",
+        "electromagnetic",
+        "electronic",
         "euclid",
-        "jam-con2019",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mecheon"
+        "Palamag"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-275-de",
-      "title": "SCP-275-DE",
-      "alternateTitle": "Cleaning Robot BEA",
-      "rating": 8,
-      "createdAt": "2022-10-24T16:05:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-293",
+      "title": "SCP-293",
+      "alternateTitle": "Obsession",
+      "rating": 16,
+      "createdAt": "2008-12-04T17:52:11.000Z",
       "tags": [
-        "autonomous",
-        "euclid",
-        "international",
-        "mechanical",
-        "scp"
+        "cognitohazard",
+        "intangible",
+        "keter",
+        "phenomenon",
+        "scp",
+        "tactile",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gramlin"
+        "Dr Gears"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7296",
+      "title": "SCP-7296",
+      "alternateTitle": "Sleep Tight",
+      "rating": 21,
+      "createdAt": "2023-07-15T17:14:34.000Z",
+      "tags": [
+        "artifact",
+        "dream",
+        "ghost",
+        "hallucination",
+        "humanoid",
+        "intangible",
+        "memory-affecting",
+        "safe",
+        "sapient",
+        "scp",
+        "sleep",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Lapiz Moon"
       ]
     }
   ]

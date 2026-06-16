@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T12:45:02.712Z",
+  "updatedAt": "2026-06-16T19:27:19.800Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4388",
-      "title": "SCP-4388",
-      "alternateTitle": "Rampant OSHA violations",
-      "rating": 19,
-      "createdAt": "2019-03-14T04:33:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7690",
+      "title": "SCP-7690",
+      "alternateTitle": "Baby Bones",
+      "rating": 20,
+      "createdAt": "2023-01-16T03:20:37.000Z",
       "tags": [
-        "ectoentropic",
-        "electrical",
-        "electromagnetic",
-        "electronic",
+        "alive",
+        "cadaver",
+        "humanoid",
+        "keter",
+        "reproductive",
+        "scp",
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
+      "authors": [
+        "MaskedN00B"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4956",
+      "title": "SCP-4956",
+      "alternateTitle": "Screaming At The Void",
+      "rating": 22,
+      "createdAt": "2020-02-25T18:19:35.000Z",
+      "tags": [
+        "acoustic",
+        "autonomous",
+        "co-authored",
         "euclid",
+        "geological",
+        "historical",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4956/Bulldozer_and_steamroller_during_the_construction_of_Gibraltar_Airport%2C_1941.jpg",
       "authors": [
-        "Palamag"
+        "Anonymous",
+        "gigaslayer105"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-293",
-      "title": "SCP-293",
-      "alternateTitle": "Obsession",
-      "rating": 16,
-      "createdAt": "2008-12-04T17:52:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9786",
+      "title": "SCP-9786",
+      "alternateTitle": "The Purge Room",
+      "rating": 18,
+      "createdAt": "2025-11-05T23:48:45.000Z",
       "tags": [
-        "cognitohazard",
-        "intangible",
-        "keter",
-        "phenomenon",
-        "scp",
-        "tactile",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Dr Gears"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7296",
-      "title": "SCP-7296",
-      "alternateTitle": "Sleep Tight",
-      "rating": 21,
-      "createdAt": "2023-07-15T17:14:34.000Z",
-      "tags": [
-        "artifact",
-        "dream",
-        "ghost",
-        "hallucination",
+        "autonomous",
+        "building",
         "humanoid",
-        "intangible",
-        "memory-affecting",
+        "mind-affecting",
+        "mystery",
         "safe",
-        "sapient",
         "scp",
-        "sleep",
-        "visual"
+        "spatial",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
       "authors": [
-        "Lapiz Moon"
+        "jswessler"
       ]
     }
   ]

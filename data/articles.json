@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T02:40:32.834Z",
+  "updatedAt": "2026-06-17T12:09:27.990Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-031-pt",
-      "title": "SCP-031-PT",
-      "alternateTitle": "Pocket Imp",
-      "rating": 17,
-      "createdAt": "2025-05-12T20:27:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6646",
+      "title": "SCP-6646",
+      "alternateTitle": "Kilroy Is Here",
+      "rating": 22,
+      "createdAt": "2022-11-24T23:23:57.000Z",
       "tags": [
-        "blood",
-        "humanoid",
-        "inscription",
-        "international",
-        "jewelry",
-        "light",
-        "mythological",
-        "reality-bending",
-        "safe",
+        "keter",
+        "memory-affecting",
+        "pattern-screamer",
         "sapient",
-        "scp"
+        "scp",
+        "self-repairing",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plague_equip_poveglia.png",
+      "authors": [
+        "The DVDman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8656",
+      "title": "SCP-8656",
+      "alternateTitle": "Serving Culinary Pleasures",
+      "rating": 23,
+      "createdAt": "2024-11-28T02:34:15.000Z",
+      "tags": [
+        "ambrose-restaurant",
+        "corporate",
+        "extradimensional",
+        "food",
+        "foundation-made",
+        "humanoid",
+        "liquid",
+        "portal",
+        "sapient",
+        "scp",
+        "temporal",
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "22o9L",
-        "Deadcanons"
+        "TheGhostNobody"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1709",
-      "title": "SCP-1709",
-      "alternateTitle": "Ya Śūnyatā Tad Rūpam",
-      "rating": 19,
-      "createdAt": "2025-07-24T16:00:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-685",
+      "title": "SCP-685",
+      "alternateTitle": "Non-Bottomless Pit",
+      "rating": 18,
+      "createdAt": "2009-03-25T09:35:30.000Z",
       "tags": [
-        "co-authored",
-        "keter",
-        "phenomenon",
+        "euclid",
+        "extradimensional",
+        "geological",
+        "gravity",
         "scp",
-        "sculpture",
-        "spatial",
-        "uncontained"
+        "subterranean"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-1709/perfection.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Aftokrator",
-        "Fishish"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7708",
-      "title": "SCP-7708",
-      "alternateTitle": "Autopilot",
-      "rating": 9,
-      "createdAt": "2023-01-06T03:41:16.000Z",
-      "tags": [
-        "artistic",
-        "autonomous",
-        "coldpostcon",
-        "safe",
-        "scp",
-        "tool"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7708/pencil-mugshot.jpg",
-      "authors": [
-        "DoubleDenial"
+        "DrRoger"
       ]
     }
   ]

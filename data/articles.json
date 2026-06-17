@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T12:09:27.990Z",
+  "updatedAt": "2026-06-17T18:08:34.539Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6646",
-      "title": "SCP-6646",
-      "alternateTitle": "Kilroy Is Here",
-      "rating": 22,
-      "createdAt": "2022-11-24T23:23:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6548",
+      "title": "SCP-6548",
+      "alternateTitle": "By the Name of Mine",
+      "rating": 18,
+      "createdAt": "2022-11-09T07:37:42.000Z",
       "tags": [
+        "antimemetic",
+        "auditory",
+        "esterberg",
+        "homo-sapiens-sidhe",
+        "indestructible",
+        "jewelry",
+        "k-class-scenario",
+        "maria-johnston",
+        "mind-affecting",
+        "nameless",
+        "ninth-world",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "tingfeng1999"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5427",
+      "title": "SCP-5427",
+      "alternateTitle": "The White Cliffs Of Dover",
+      "rating": 22,
+      "createdAt": "2021-06-01T20:49:13.000Z",
+      "tags": [
+        "geological",
         "keter",
-        "memory-affecting",
-        "pattern-screamer",
+        "location",
+        "meteorological",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5427/cliffs1.jpg",
+      "authors": [
+        "locomotivefaox"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9924",
+      "title": "SCP-9924",
+      "alternateTitle": "The Mad King's Tomb",
+      "rating": 23,
+      "createdAt": "2025-10-01T00:07:51.000Z",
+      "tags": [
+        "9000",
+        "alive",
+        "euclid",
+        "fantasy",
+        "humanoid",
+        "location",
+        "narrative",
+        "otherworldly",
         "sapient",
         "scp",
-        "self-repairing",
+        "spatial",
         "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plague_equip_poveglia.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-9924-0/SpringRoad/medium.jpg",
       "authors": [
-        "The DVDman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8656",
-      "title": "SCP-8656",
-      "alternateTitle": "Serving Culinary Pleasures",
-      "rating": 23,
-      "createdAt": "2024-11-28T02:34:15.000Z",
-      "tags": [
-        "ambrose-restaurant",
-        "corporate",
-        "extradimensional",
-        "food",
-        "foundation-made",
-        "humanoid",
-        "liquid",
-        "portal",
-        "sapient",
-        "scp",
-        "temporal",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "TheGhostNobody"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-685",
-      "title": "SCP-685",
-      "alternateTitle": "Non-Bottomless Pit",
-      "rating": 18,
-      "createdAt": "2009-03-25T09:35:30.000Z",
-      "tags": [
-        "euclid",
-        "extradimensional",
-        "geological",
-        "gravity",
-        "scp",
-        "subterranean"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DrRoger"
+        "Fireknight"
       ]
     }
   ]

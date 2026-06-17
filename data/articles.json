@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T19:27:19.800Z",
+  "updatedAt": "2026-06-17T02:40:32.834Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7690",
-      "title": "SCP-7690",
-      "alternateTitle": "Baby Bones",
-      "rating": 20,
-      "createdAt": "2023-01-16T03:20:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-031-pt",
+      "title": "SCP-031-PT",
+      "alternateTitle": "Pocket Imp",
+      "rating": 17,
+      "createdAt": "2025-05-12T20:27:14.000Z",
       "tags": [
-        "alive",
-        "cadaver",
+        "blood",
         "humanoid",
-        "keter",
-        "reproductive",
-        "scp",
-        "skeletal",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
-      "authors": [
-        "MaskedN00B"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4956",
-      "title": "SCP-4956",
-      "alternateTitle": "Screaming At The Void",
-      "rating": 22,
-      "createdAt": "2020-02-25T18:19:35.000Z",
-      "tags": [
-        "acoustic",
-        "autonomous",
-        "co-authored",
-        "euclid",
-        "geological",
-        "historical",
+        "inscription",
+        "international",
+        "jewelry",
+        "light",
+        "mythological",
+        "reality-bending",
+        "safe",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4956/Bulldozer_and_steamroller_during_the_construction_of_Gibraltar_Airport%2C_1941.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Anonymous",
-        "gigaslayer105"
+        "22o9L",
+        "Deadcanons"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9786",
-      "title": "SCP-9786",
-      "alternateTitle": "The Purge Room",
-      "rating": 18,
-      "createdAt": "2025-11-05T23:48:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1709",
+      "title": "SCP-1709",
+      "alternateTitle": "Ya Śūnyatā Tad Rūpam",
+      "rating": 19,
+      "createdAt": "2025-07-24T16:00:24.000Z",
       "tags": [
+        "co-authored",
+        "keter",
+        "phenomenon",
+        "scp",
+        "sculpture",
+        "spatial",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-1709/perfection.jpg",
+      "authors": [
+        "Aftokrator",
+        "Fishish"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7708",
+      "title": "SCP-7708",
+      "alternateTitle": "Autopilot",
+      "rating": 9,
+      "createdAt": "2023-01-06T03:41:16.000Z",
+      "tags": [
+        "artistic",
         "autonomous",
-        "building",
-        "humanoid",
-        "mind-affecting",
-        "mystery",
+        "coldpostcon",
         "safe",
         "scp",
-        "spatial",
-        "teleportation"
+        "tool"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7708/pencil-mugshot.jpg",
       "authors": [
-        "jswessler"
+        "DoubleDenial"
       ]
     }
   ]

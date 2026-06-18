@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T02:37:10.903Z",
+  "updatedAt": "2026-06-18T11:44:24.514Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,57 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8750",
-      "title": "SCP-8750",
-      "alternateTitle": "Echoes of a Broken Family",
-      "rating": 14,
-      "createdAt": "2024-04-30T04:57:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2015-jp",
+      "title": "SCP-2015-JP",
+      "alternateTitle": "Falling Dreams",
+      "rating": 7,
+      "createdAt": "2023-08-19T00:28:02.000Z",
       "tags": [
-        "cadaver",
-        "ghost",
-        "neutralized",
-        "scp"
+        "co-authored",
+        "indestructible",
+        "international",
+        "keter",
+        "scp",
+        "sleep",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "HunterDog"
+        "Okaka_Onigiri",
+        "solvex",
+        "AlienSpaceBat",
+        "Maxyfran73"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6798",
-      "title": "SCP-6798",
-      "alternateTitle": "Dental Implant",
-      "rating": 6,
-      "createdAt": "2022-03-16T20:11:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-055-int",
+      "title": "SCP-055-INT",
+      "alternateTitle": "An Empty Bliss",
+      "rating": 13,
+      "createdAt": "2023-02-07T03:21:47.000Z",
       "tags": [
-        "dental",
-        "departmentcon2022",
-        "euclid",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dental_X-rays.JPG",
-      "authors": [
-        "ApocalypticPotato"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-055-ko-j",
-      "title": "SCP-055-KO-J",
-      "alternateTitle": "Is this a Report or an Improv Skit?",
-      "rating": 22,
-      "createdAt": "2024-01-05T09:34:59.000Z",
-      "tags": [
-        "doctor-scranton",
-        "esoteric-class",
+        "co-authored",
         "international",
-        "joke",
-        "meta",
-        "scp"
+        "k-class-scenario",
+        "keter",
+        "memory-affecting",
+        "neurological",
+        "scp",
+        "uncontained"
       ],
-      "thumbnailUrl": "http://scpkosb.wdfiles.com/local--files/draft%3Abangja-3-1bcb/055.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Bangja",
-        "fluxman"
+        "basirskipreader",
+        "Felixou"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8223",
+      "title": "SCP-8223",
+      "alternateTitle": "The Serpent of the Strait",
+      "rating": 21,
+      "createdAt": "2025-08-10T00:33:06.000Z",
+      "tags": [
+        "acoustic",
+        "animal",
+        "aquatic",
+        "bleak",
+        "keter",
+        "meteorological",
+        "scp",
+        "snake",
+        "vibration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8223/StraitSerpent/medium.jpg",
+      "authors": [
+        "P4TR1CK07"
       ]
     }
   ]

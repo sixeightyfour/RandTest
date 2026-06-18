@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T18:08:34.539Z",
+  "updatedAt": "2026-06-18T02:37:10.903Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,57 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6548",
-      "title": "SCP-6548",
-      "alternateTitle": "By the Name of Mine",
-      "rating": 18,
-      "createdAt": "2022-11-09T07:37:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8750",
+      "title": "SCP-8750",
+      "alternateTitle": "Echoes of a Broken Family",
+      "rating": 14,
+      "createdAt": "2024-04-30T04:57:27.000Z",
       "tags": [
-        "antimemetic",
-        "auditory",
-        "esterberg",
-        "homo-sapiens-sidhe",
-        "indestructible",
-        "jewelry",
-        "k-class-scenario",
-        "maria-johnston",
-        "mind-affecting",
-        "nameless",
-        "ninth-world",
-        "safe",
+        "cadaver",
+        "ghost",
+        "neutralized",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "tingfeng1999"
+        "HunterDog"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5427",
-      "title": "SCP-5427",
-      "alternateTitle": "The White Cliffs Of Dover",
-      "rating": 22,
-      "createdAt": "2021-06-01T20:49:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6798",
+      "title": "SCP-6798",
+      "alternateTitle": "Dental Implant",
+      "rating": 6,
+      "createdAt": "2022-03-16T20:11:01.000Z",
       "tags": [
-        "geological",
-        "keter",
-        "location",
-        "meteorological",
+        "dental",
+        "departmentcon2022",
+        "euclid",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5427/cliffs1.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dental_X-rays.JPG",
       "authors": [
-        "locomotivefaox"
+        "ApocalypticPotato"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9924",
-      "title": "SCP-9924",
-      "alternateTitle": "The Mad King's Tomb",
-      "rating": 23,
-      "createdAt": "2025-10-01T00:07:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-055-ko-j",
+      "title": "SCP-055-KO-J",
+      "alternateTitle": "Is this a Report or an Improv Skit?",
+      "rating": 22,
+      "createdAt": "2024-01-05T09:34:59.000Z",
       "tags": [
-        "9000",
-        "alive",
-        "euclid",
-        "fantasy",
-        "humanoid",
-        "location",
-        "narrative",
-        "otherworldly",
-        "sapient",
-        "scp",
-        "spatial",
-        "uncontained"
+        "doctor-scranton",
+        "esoteric-class",
+        "international",
+        "joke",
+        "meta",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-9924-0/SpringRoad/medium.jpg",
+      "thumbnailUrl": "http://scpkosb.wdfiles.com/local--files/draft%3Abangja-3-1bcb/055.png",
       "authors": [
-        "Fireknight"
+        "Bangja",
+        "fluxman"
       ]
     }
   ]

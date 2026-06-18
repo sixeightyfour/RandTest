@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T11:44:24.514Z",
+  "updatedAt": "2026-06-18T18:21:02.033Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2015-jp",
-      "title": "SCP-2015-JP",
-      "alternateTitle": "Falling Dreams",
+      "url": "http://scp-wiki.wikidot.com/scp-8950",
+      "title": "SCP-8950",
+      "alternateTitle": "Itsy",
       "rating": 7,
-      "createdAt": "2023-08-19T00:28:02.000Z",
+      "createdAt": "2024-11-17T23:40:06.000Z",
       "tags": [
-        "co-authored",
-        "indestructible",
-        "international",
-        "keter",
-        "scp",
-        "sleep",
-        "uncontained"
+        "arachnid",
+        "body-horror",
+        "horror",
+        "murder-monster",
+        "mystery",
+        "pending",
+        "phenomenon",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
       "authors": [
-        "Okaka_Onigiri",
-        "solvex",
-        "AlienSpaceBat",
-        "Maxyfran73"
+        "Doctor Scrappy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-055-int",
-      "title": "SCP-055-INT",
-      "alternateTitle": "An Empty Bliss",
-      "rating": 13,
-      "createdAt": "2023-02-07T03:21:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8881-j",
+      "title": "SCP-8881-J",
+      "alternateTitle": "Yellow Car",
+      "rating": 8,
+      "createdAt": "2025-02-25T16:42:34.000Z",
       "tags": [
-        "co-authored",
-        "international",
-        "k-class-scenario",
-        "keter",
-        "memory-affecting",
-        "neurological",
+        "cognitohazard",
+        "compulsion",
+        "joke",
+        "neutralized",
         "scp",
-        "uncontained"
+        "vehicle",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "basirskipreader",
-        "Felixou"
+        "DrJepherreyson333"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8223",
-      "title": "SCP-8223",
-      "alternateTitle": "The Serpent of the Strait",
-      "rating": 21,
-      "createdAt": "2025-08-10T00:33:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7856",
+      "title": "SCP-7856",
+      "alternateTitle": "The Little Engine That Wouldn't",
+      "rating": 16,
+      "createdAt": "2024-04-02T05:09:58.000Z",
       "tags": [
-        "acoustic",
-        "animal",
-        "aquatic",
-        "bleak",
-        "keter",
-        "meteorological",
+        "compulsion",
+        "ghost",
+        "historical",
+        "safe",
         "scp",
-        "snake",
-        "vibration"
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8223/StraitSerpent/medium.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
       "authors": [
-        "P4TR1CK07"
+        "MikeDiceWrites"
       ]
     }
   ]

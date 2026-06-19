@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T11:58:17.823Z",
+  "updatedAt": "2026-06-19T17:46:54.392Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8167",
-      "title": "SCP-8167",
-      "alternateTitle": "Hot Wheels",
-      "rating": 4,
-      "createdAt": "2025-06-16T02:39:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5638",
+      "title": "SCP-5638",
+      "alternateTitle": "Bucket of Karkinos",
+      "rating": 24,
+      "createdAt": "2022-03-23T20:08:21.000Z",
       "tags": [
-        "abnormalities",
-        "director-bold",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "sleep",
-        "toy",
-        "vehicle"
+        "alive",
+        "animal",
+        "euclid",
+        "hostile",
+        "humanoid",
+        "island",
+        "location",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
       "authors": [
-        "Solios"
+        "Penguini"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1035",
-      "title": "SCP-1035",
-      "alternateTitle": "Decomposition Mitten",
-      "rating": 13,
-      "createdAt": "2011-11-20T16:32:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-294-de",
+      "title": "SCP-294-DE",
+      "alternateTitle": "And Then There Were None",
+      "rating": 11,
+      "createdAt": "2022-11-16T15:06:01.000Z",
       "tags": [
-        "biohazard",
-        "clothing",
-        "contagion",
+        "building",
+        "esoteric-class",
+        "humanoid",
+        "international",
+        "mages-academy",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/German_Mansion%2C_ca._1919.jpg",
+      "authors": [
+        "ThePaperMask"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6973",
+      "title": "SCP-6973",
+      "alternateTitle": "SCP-XXXX - A Self-Referential Neural Network",
+      "rating": -55,
+      "createdAt": "2022-06-09T20:31:03.000Z",
+      "tags": [
+        "computer",
+        "electronic",
+        "foundation-made",
+        "in-rewrite",
+        "infohazard",
+        "media",
+        "meta",
         "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ed_montague"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6378",
-      "title": "SCP-6378",
-      "alternateTitle": "Set Forever in Stone",
-      "rating": 22,
-      "createdAt": "2022-10-15T05:30:42.000Z",
-      "tags": [
-        "cadaver",
-        "euclid",
-        "extraterrestrial",
-        "extremity",
-        "scp",
-        "self-repairing",
-        "sphere"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
-      "authors": [
-        "CuteFish"
+        "SamBKing"
       ]
     }
   ]

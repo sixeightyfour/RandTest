@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T18:21:02.033Z",
+  "updatedAt": "2026-06-19T02:53:38.341Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8950",
-      "title": "SCP-8950",
-      "alternateTitle": "Itsy",
-      "rating": 7,
-      "createdAt": "2024-11-17T23:40:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8709",
+      "title": "SCP-8709",
+      "alternateTitle": "Pleroma",
+      "rating": 19,
+      "createdAt": "2024-04-12T00:57:51.000Z",
       "tags": [
-        "arachnid",
-        "body-horror",
-        "horror",
-        "murder-monster",
-        "mystery",
-        "pending",
-        "phenomenon",
-        "scp"
+        "esoteric-class",
+        "k-class-scenario",
+        "scp",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8709/LighthouseSCP6888.jpg",
       "authors": [
-        "Doctor Scrappy"
+        "Petdoc1991"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8881-j",
-      "title": "SCP-8881-J",
-      "alternateTitle": "Yellow Car",
-      "rating": 8,
-      "createdAt": "2025-02-25T16:42:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3419",
+      "title": "SCP-3419",
+      "alternateTitle": "Humants",
+      "rating": 14,
+      "createdAt": "2018-06-14T03:01:47.000Z",
       "tags": [
-        "cognitohazard",
-        "compulsion",
-        "joke",
-        "neutralized",
+        "alive",
+        "hive-mind",
+        "keter",
         "scp",
-        "vehicle",
-        "visual"
+        "tool"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrJepherreyson333"
+        "Choiwel"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7856",
-      "title": "SCP-7856",
-      "alternateTitle": "The Little Engine That Wouldn't",
-      "rating": 16,
-      "createdAt": "2024-04-02T05:09:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8466",
+      "title": "SCP-8466",
+      "alternateTitle": "Zombie",
+      "rating": 20,
+      "createdAt": "2025-07-06T04:44:50.000Z",
       "tags": [
-        "compulsion",
-        "ghost",
-        "historical",
+        "autonomous",
+        "building",
+        "city",
+        "classiccon2025",
+        "ethics-committee",
+        "horror",
+        "humanoid",
+        "island",
+        "reanimation",
+        "religious",
         "safe",
-        "scp",
-        "vehicle"
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Locomotive_BR52-8177-9.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "MikeDiceWrites"
+        "V4Vernacular"
       ]
     }
   ]

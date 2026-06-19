@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T02:53:38.341Z",
+  "updatedAt": "2026-06-19T11:58:17.823Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8709",
-      "title": "SCP-8709",
-      "alternateTitle": "Pleroma",
-      "rating": 19,
-      "createdAt": "2024-04-12T00:57:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8167",
+      "title": "SCP-8167",
+      "alternateTitle": "Hot Wheels",
+      "rating": 4,
+      "createdAt": "2025-06-16T02:39:54.000Z",
       "tags": [
-        "esoteric-class",
-        "k-class-scenario",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8709/LighthouseSCP6888.jpg",
-      "authors": [
-        "Petdoc1991"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3419",
-      "title": "SCP-3419",
-      "alternateTitle": "Humants",
-      "rating": 14,
-      "createdAt": "2018-06-14T03:01:47.000Z",
-      "tags": [
-        "alive",
-        "hive-mind",
-        "keter",
-        "scp",
-        "tool"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Choiwel"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8466",
-      "title": "SCP-8466",
-      "alternateTitle": "Zombie",
-      "rating": 20,
-      "createdAt": "2025-07-06T04:44:50.000Z",
-      "tags": [
-        "autonomous",
-        "building",
-        "city",
-        "classiccon2025",
-        "ethics-committee",
-        "horror",
-        "humanoid",
-        "island",
-        "reanimation",
-        "religious",
+        "abnormalities",
+        "director-bold",
+        "mind-affecting",
         "safe",
-        "sapient",
+        "scp",
+        "sleep",
+        "toy",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
+      "authors": [
+        "Solios"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1035",
+      "title": "SCP-1035",
+      "alternateTitle": "Decomposition Mitten",
+      "rating": 13,
+      "createdAt": "2011-11-20T16:32:24.000Z",
+      "tags": [
+        "biohazard",
+        "clothing",
+        "contagion",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "V4Vernacular"
+        "ed_montague"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6378",
+      "title": "SCP-6378",
+      "alternateTitle": "Set Forever in Stone",
+      "rating": 22,
+      "createdAt": "2022-10-15T05:30:42.000Z",
+      "tags": [
+        "cadaver",
+        "euclid",
+        "extraterrestrial",
+        "extremity",
+        "scp",
+        "self-repairing",
+        "sphere"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
+      "authors": [
+        "CuteFish"
       ]
     }
   ]

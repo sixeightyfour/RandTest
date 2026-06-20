@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:25:25.328Z",
+  "updatedAt": "2026-06-20T17:15:16.333Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3245",
-      "title": "SCP-3245",
-      "alternateTitle": "Mr. Playing Games Is Bad For Your Health",
-      "rating": 24,
-      "createdAt": "2018-02-02T15:47:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8119",
+      "title": "SCP-8119",
+      "alternateTitle": "Lies Behind the Lens",
+      "rating": 22,
+      "createdAt": "2024-08-19T19:16:09.000Z",
       "tags": [
-        "biological",
+        "are-we-cool-yet",
+        "doctor-kondraki",
+        "photographic",
+        "safe",
+        "scp",
+        "telepathic",
+        "tool",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8119/Nikon_F_Cameras.webp",
+      "authors": [
+        "ClaudeHinton"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6949",
+      "title": "SCP-6949",
+      "alternateTitle": "Money Doesn't Grow on Trees",
+      "rating": 18,
+      "createdAt": "2022-04-30T22:42:09.000Z",
+      "tags": [
+        "alive",
+        "currency",
         "euclid",
-        "game",
-        "gamers-against-weed",
-        "herman-fuller",
-        "humanoid",
-        "mister",
-        "rewritable",
-        "sapient",
-        "scp"
+        "plant",
+        "scp",
+        "tree"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Anonymous"
+        "Blue Foot"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8325",
-      "title": "SCP-8325",
-      "alternateTitle": "Why Are There So Many Skips About Santas?",
-      "rating": 19,
-      "createdAt": "2024-12-25T15:33:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8615",
+      "title": "SCP-8615",
+      "alternateTitle": "Light of Lost Hours",
+      "rating": 14,
+      "createdAt": "2025-10-22T03:08:59.000Z",
       "tags": [
-        "christmas",
-        "cinema",
-        "computer",
-        "electronic",
-        "esoteric-class",
-        "ethics-committee",
-        "media",
-        "musical",
-        "narrative",
-        "phenomenon",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8325/35mm_reels_and_boxes.jpg",
-      "authors": [
-        "Pinoccappuccino"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1500",
-      "title": "SCP-CN-1500",
-      "alternateTitle": "pʰoʃma",
-      "rating": 21,
-      "createdAt": "2022-05-05T02:45:42.000Z",
-      "tags": [
-        "compulsion",
-        "historical",
-        "humanoid",
-        "international",
-        "language",
-        "location",
-        "mind-affecting",
+        "artifact",
+        "body-horror",
+        "chemical",
+        "horror",
+        "light",
         "safe",
         "scp",
-        "swarm",
-        "telekinetic",
-        "transfiguration"
+        "temporal"
       ],
-      "thumbnailUrl": "http://scp-wiki-cn.wikidot.com/local--files/scp-cn-1500/eye",
+      "thumbnailUrl": "",
       "authors": [
-        "Hueyacuetzpali",
-        "tetsusquared"
+        "JackEater351"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T17:46:54.392Z",
+  "updatedAt": "2026-06-20T02:14:43.653Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5638",
-      "title": "SCP-5638",
-      "alternateTitle": "Bucket of Karkinos",
-      "rating": 24,
-      "createdAt": "2022-03-23T20:08:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5467",
+      "title": "SCP-5467",
+      "alternateTitle": "An Uncommon Clairvoyant [PENDING]",
+      "rating": 15,
+      "createdAt": "2021-10-10T16:23:04.000Z",
       "tags": [
         "alive",
-        "animal",
         "euclid",
-        "hostile",
+        "extradimensional",
+        "future",
         "humanoid",
-        "island",
-        "location",
+        "indestructible",
         "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
-      "authors": [
-        "Penguini"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-294-de",
-      "title": "SCP-294-DE",
-      "alternateTitle": "And Then There Were None",
-      "rating": 11,
-      "createdAt": "2022-11-16T15:06:01.000Z",
-      "tags": [
-        "building",
-        "esoteric-class",
-        "humanoid",
-        "international",
-        "mages-academy",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/German_Mansion%2C_ca._1919.jpg",
-      "authors": [
-        "ThePaperMask"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6973",
-      "title": "SCP-6973",
-      "alternateTitle": "SCP-XXXX - A Self-Referential Neural Network",
-      "rating": -55,
-      "createdAt": "2022-06-09T20:31:03.000Z",
-      "tags": [
-        "computer",
-        "electronic",
-        "foundation-made",
-        "in-rewrite",
-        "infohazard",
-        "media",
-        "meta",
-        "safe",
-        "scp"
+        "scp",
+        "spatial"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SamBKing"
+        "Dr_Recoil"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9342",
+      "title": "SCP-9342",
+      "alternateTitle": "Retractare",
+      "rating": 10,
+      "createdAt": "2025-10-04T03:57:26.000Z",
+      "tags": [
+        "9000",
+        "esoteric-class",
+        "inscription",
+        "mind-affecting",
+        "mystery",
+        "mythological",
+        "scp",
+        "spatial",
+        "subterranean",
+        "temporal",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9342/doorofdestiny.png",
+      "authors": [
+        "Jack Ike"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-055-ko-j",
+      "title": "SCP-055-KO-J",
+      "alternateTitle": "Is this a Report or an Improv Skit?",
+      "rating": 22,
+      "createdAt": "2024-01-05T09:34:59.000Z",
+      "tags": [
+        "doctor-scranton",
+        "esoteric-class",
+        "international",
+        "joke",
+        "meta",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpkosb.wdfiles.com/local--files/draft%3Abangja-3-1bcb/055.png",
+      "authors": [
+        "Bangja",
+        "fluxman"
       ]
     }
   ]

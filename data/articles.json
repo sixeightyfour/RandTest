@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:14:43.653Z",
+  "updatedAt": "2026-06-20T10:25:25.328Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5467",
-      "title": "SCP-5467",
-      "alternateTitle": "An Uncommon Clairvoyant [PENDING]",
-      "rating": 15,
-      "createdAt": "2021-10-10T16:23:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3245",
+      "title": "SCP-3245",
+      "alternateTitle": "Mr. Playing Games Is Bad For Your Health",
+      "rating": 24,
+      "createdAt": "2018-02-02T15:47:03.000Z",
       "tags": [
-        "alive",
+        "biological",
         "euclid",
-        "extradimensional",
-        "future",
+        "game",
+        "gamers-against-weed",
+        "herman-fuller",
         "humanoid",
-        "indestructible",
+        "mister",
+        "rewritable",
         "sapient",
-        "scp",
-        "spatial"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr_Recoil"
+        "Anonymous"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9342",
-      "title": "SCP-9342",
-      "alternateTitle": "Retractare",
-      "rating": 10,
-      "createdAt": "2025-10-04T03:57:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8325",
+      "title": "SCP-8325",
+      "alternateTitle": "Why Are There So Many Skips About Santas?",
+      "rating": 19,
+      "createdAt": "2024-12-25T15:33:14.000Z",
       "tags": [
-        "9000",
+        "christmas",
+        "cinema",
+        "computer",
+        "electronic",
         "esoteric-class",
-        "inscription",
-        "mind-affecting",
-        "mystery",
-        "mythological",
+        "ethics-committee",
+        "media",
+        "musical",
+        "narrative",
+        "phenomenon",
         "scp",
-        "spatial",
-        "subterranean",
-        "temporal",
-        "thaumaturgy"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9342/doorofdestiny.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8325/35mm_reels_and_boxes.jpg",
       "authors": [
-        "Jack Ike"
+        "Pinoccappuccino"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-055-ko-j",
-      "title": "SCP-055-KO-J",
-      "alternateTitle": "Is this a Report or an Improv Skit?",
-      "rating": 22,
-      "createdAt": "2024-01-05T09:34:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1500",
+      "title": "SCP-CN-1500",
+      "alternateTitle": "pʰoʃma",
+      "rating": 21,
+      "createdAt": "2022-05-05T02:45:42.000Z",
       "tags": [
-        "doctor-scranton",
-        "esoteric-class",
+        "compulsion",
+        "historical",
+        "humanoid",
         "international",
-        "joke",
-        "meta",
-        "scp"
+        "language",
+        "location",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "swarm",
+        "telekinetic",
+        "transfiguration"
       ],
-      "thumbnailUrl": "http://scpkosb.wdfiles.com/local--files/draft%3Abangja-3-1bcb/055.png",
+      "thumbnailUrl": "http://scp-wiki-cn.wikidot.com/local--files/scp-cn-1500/eye",
       "authors": [
-        "Bangja",
-        "fluxman"
+        "Hueyacuetzpali",
+        "tetsusquared"
       ]
     }
   ]

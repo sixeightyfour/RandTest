@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T02:39:26.892Z",
+  "updatedAt": "2026-06-21T10:58:46.229Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1003-ko",
-      "title": "SCP-1003-KO",
-      "alternateTitle": "Our Dream. Our Dream?",
-      "rating": 20,
-      "createdAt": "2022-11-25T18:49:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8414",
+      "title": "SCP-8414",
+      "alternateTitle": "Wicket Gate",
+      "rating": 3,
+      "createdAt": "2025-01-19T13:29:29.000Z",
       "tags": [
-        "antimemetic",
-        "extraterrestrial",
-        "foundation-made",
-        "international",
-        "k-class-scenario",
-        "satellite",
-        "scp",
-        "sleep",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1003-ko/1.jpg",
-      "authors": [
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8374",
-      "title": "SCP-8374",
-      "alternateTitle": "Perfection Changes You",
-      "rating": 11,
-      "createdAt": "2025-08-10T20:20:00.000Z",
-      "tags": [
-        "body-horror",
-        "document",
-        "horror",
-        "mind-affecting",
-        "religious",
-        "religious-fiction",
-        "safe",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Fernlom"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5473",
-      "title": "SCP-5473",
-      "alternateTitle": "Silence Is Bliss",
-      "rating": 20,
-      "createdAt": "2022-02-09T19:26:23.000Z",
-      "tags": [
-        "acoustic",
-        "alive",
-        "antimemetic",
-        "compulsion",
-        "dream",
+        "building",
         "euclid",
-        "humanoid",
-        "location",
-        "mind-affecting",
-        "religious",
-        "sapient",
+        "knowledge",
         "scp",
-        "sleep",
-        "transmission",
-        "uncontained"
+        "tactile",
+        "telepathic"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
+      "authors": [
+        "Pomaranczowa Czapka"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9039",
+      "title": "SCP-9039",
+      "alternateTitle": "The Perfect Crime Podcast",
+      "rating": 17,
+      "createdAt": "2025-10-25T20:34:49.000Z",
+      "tags": [
+        "auditory",
+        "cognitohazard",
+        "crime-fiction",
+        "euclid",
+        "media",
+        "online",
+        "parawatch",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
+      "authors": [
+        "realsquirrel"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
+      "title": "SCP-444-KO",
+      "alternateTitle": "",
+      "rating": 14,
+      "createdAt": "2022-05-26T13:35:39.000Z",
+      "tags": [
+        "cadaver",
+        "cognitohazard",
+        "compulsion",
+        "humanoid",
+        "infohazard",
+        "international",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "torcsandantlers"
+        "lanlanmag",
+        "fluxman"
       ]
     }
   ]

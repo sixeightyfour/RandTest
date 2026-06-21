@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:15:16.333Z",
+  "updatedAt": "2026-06-21T02:39:26.892Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8119",
-      "title": "SCP-8119",
-      "alternateTitle": "Lies Behind the Lens",
-      "rating": 22,
-      "createdAt": "2024-08-19T19:16:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1003-ko",
+      "title": "SCP-1003-KO",
+      "alternateTitle": "Our Dream. Our Dream?",
+      "rating": 20,
+      "createdAt": "2022-11-25T18:49:13.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "doctor-kondraki",
-        "photographic",
-        "safe",
+        "antimemetic",
+        "extraterrestrial",
+        "foundation-made",
+        "international",
+        "k-class-scenario",
+        "satellite",
         "scp",
-        "telepathic",
-        "tool",
-        "visual"
+        "sleep",
+        "thaumiel"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8119/Nikon_F_Cameras.webp",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1003-ko/1.jpg",
       "authors": [
-        "ClaudeHinton"
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6949",
-      "title": "SCP-6949",
-      "alternateTitle": "Money Doesn't Grow on Trees",
-      "rating": 18,
-      "createdAt": "2022-04-30T22:42:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8374",
+      "title": "SCP-8374",
+      "alternateTitle": "Perfection Changes You",
+      "rating": 11,
+      "createdAt": "2025-08-10T20:20:00.000Z",
       "tags": [
-        "alive",
-        "currency",
-        "euclid",
-        "plant",
-        "scp",
-        "tree"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Blue Foot"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8615",
-      "title": "SCP-8615",
-      "alternateTitle": "Light of Lost Hours",
-      "rating": 14,
-      "createdAt": "2025-10-22T03:08:59.000Z",
-      "tags": [
-        "artifact",
         "body-horror",
-        "chemical",
+        "document",
         "horror",
-        "light",
+        "mind-affecting",
+        "religious",
+        "religious-fiction",
         "safe",
         "scp",
-        "temporal"
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "JackEater351"
+        "Fernlom"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5473",
+      "title": "SCP-5473",
+      "alternateTitle": "Silence Is Bliss",
+      "rating": 20,
+      "createdAt": "2022-02-09T19:26:23.000Z",
+      "tags": [
+        "acoustic",
+        "alive",
+        "antimemetic",
+        "compulsion",
+        "dream",
+        "euclid",
+        "humanoid",
+        "location",
+        "mind-affecting",
+        "religious",
+        "sapient",
+        "scp",
+        "sleep",
+        "transmission",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "torcsandantlers"
       ]
     }
   ]

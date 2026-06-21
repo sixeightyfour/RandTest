@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T10:58:46.229Z",
+  "updatedAt": "2026-06-21T17:17:50.863Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8414",
-      "title": "SCP-8414",
-      "alternateTitle": "Wicket Gate",
-      "rating": 3,
-      "createdAt": "2025-01-19T13:29:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5627",
+      "title": "SCP-5627",
+      "alternateTitle": "The Hungry Caterpillar",
+      "rating": 22,
+      "createdAt": "2021-03-30T09:38:38.000Z",
       "tags": [
-        "building",
+        "alive",
+        "animal",
+        "butterfly",
+        "compulsion",
         "euclid",
-        "knowledge",
-        "scp",
-        "tactile",
-        "telepathic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
-      "authors": [
-        "Pomaranczowa Czapka"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9039",
-      "title": "SCP-9039",
-      "alternateTitle": "The Perfect Crime Podcast",
-      "rating": 17,
-      "createdAt": "2025-10-25T20:34:49.000Z",
-      "tags": [
-        "auditory",
-        "cognitohazard",
-        "crime-fiction",
-        "euclid",
-        "media",
-        "online",
-        "parawatch",
-        "sapient",
+        "gaseous",
+        "hallucination",
+        "insect",
+        "mind-affecting",
+        "parasitic",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9039/theperfectpodcastlogo.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
       "authors": [
-        "realsquirrel"
+        "dunc7five"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
-      "title": "SCP-444-KO",
-      "alternateTitle": "",
-      "rating": 14,
-      "createdAt": "2022-05-26T13:35:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8122",
+      "title": "SCP-8122",
+      "alternateTitle": "Venus de Flytrap",
+      "rating": 19,
+      "createdAt": "2025-03-14T03:22:46.000Z",
       "tags": [
-        "cadaver",
+        "broken-masquerade",
         "cognitohazard",
         "compulsion",
-        "humanoid",
-        "infohazard",
-        "international",
+        "metamorphic",
+        "predatory",
+        "safe",
+        "scp",
+        "sculpture"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8122/venus/medium.jpg",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8589",
+      "title": "SCP-8589",
+      "alternateTitle": "End of an Era.",
+      "rating": 8,
+      "createdAt": "2025-07-11T05:20:16.000Z",
+      "tags": [
+        "artifact",
+        "classiccon2025",
+        "compulsion",
         "keter",
         "memetic",
         "mind-affecting",
@@ -68,8 +69,7 @@
       ],
       "thumbnailUrl": "",
       "authors": [
-        "lanlanmag",
-        "fluxman"
+        "cwazzycwafter"
       ]
     }
   ]

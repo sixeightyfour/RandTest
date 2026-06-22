@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:17:50.863Z",
+  "updatedAt": "2026-06-22T02:42:41.476Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5627",
-      "title": "SCP-5627",
-      "alternateTitle": "The Hungry Caterpillar",
-      "rating": 22,
-      "createdAt": "2021-03-30T09:38:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6548",
+      "title": "SCP-6548",
+      "alternateTitle": "By the Name of Mine",
+      "rating": 18,
+      "createdAt": "2022-11-09T07:37:42.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "butterfly",
-        "compulsion",
-        "euclid",
-        "gaseous",
-        "hallucination",
-        "insect",
+        "antimemetic",
+        "auditory",
+        "esterberg",
+        "homo-sapiens-sidhe",
+        "indestructible",
+        "jewelry",
+        "k-class-scenario",
+        "maria-johnston",
         "mind-affecting",
-        "parasitic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
-      "authors": [
-        "dunc7five"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8122",
-      "title": "SCP-8122",
-      "alternateTitle": "Venus de Flytrap",
-      "rating": 19,
-      "createdAt": "2025-03-14T03:22:46.000Z",
-      "tags": [
-        "broken-masquerade",
-        "cognitohazard",
-        "compulsion",
-        "metamorphic",
-        "predatory",
+        "nameless",
+        "ninth-world",
         "safe",
-        "scp",
-        "sculpture"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8122/venus/medium.jpg",
-      "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8589",
-      "title": "SCP-8589",
-      "alternateTitle": "End of an Era.",
-      "rating": 8,
-      "createdAt": "2025-07-11T05:20:16.000Z",
-      "tags": [
-        "artifact",
-        "classiccon2025",
-        "compulsion",
-        "keter",
-        "memetic",
-        "mind-affecting",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cwazzycwafter"
+        "tingfeng1999"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7167",
+      "title": "SCP-7167",
+      "alternateTitle": "The Carcinogenic Metropolis",
+      "rating": 17,
+      "createdAt": "2023-12-29T19:28:43.000Z",
+      "tags": [
+        "auditory",
+        "city",
+        "cognitohazard",
+        "euclid",
+        "mind-affecting",
+        "scp",
+        "self-replicating"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
+      "authors": [
+        "Mr Mcguffin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9149",
+      "title": "SCP-9149",
+      "alternateTitle": "They Always Said His Holiday Spirit Was Contagious",
+      "rating": 12,
+      "createdAt": "2025-12-19T14:04:56.000Z",
+      "tags": [
+        "biohazard",
+        "biological",
+        "christmas",
+        "euclid",
+        "mind-affecting",
+        "scp",
+        "virus"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Budwave34"
       ]
     }
   ]

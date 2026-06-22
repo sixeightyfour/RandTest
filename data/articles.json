@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T02:42:41.476Z",
+  "updatedAt": "2026-06-22T13:26:28.995Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6548",
-      "title": "SCP-6548",
-      "alternateTitle": "By the Name of Mine",
-      "rating": 18,
-      "createdAt": "2022-11-09T07:37:42.000Z",
-      "tags": [
-        "antimemetic",
-        "auditory",
-        "esterberg",
-        "homo-sapiens-sidhe",
-        "indestructible",
-        "jewelry",
-        "k-class-scenario",
-        "maria-johnston",
-        "mind-affecting",
-        "nameless",
-        "ninth-world",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "tingfeng1999"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7167",
-      "title": "SCP-7167",
-      "alternateTitle": "The Carcinogenic Metropolis",
-      "rating": 17,
-      "createdAt": "2023-12-29T19:28:43.000Z",
-      "tags": [
-        "auditory",
-        "city",
-        "cognitohazard",
-        "euclid",
-        "mind-affecting",
-        "scp",
-        "self-replicating"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
-      "authors": [
-        "Mr Mcguffin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9149",
-      "title": "SCP-9149",
-      "alternateTitle": "They Always Said His Holiday Spirit Was Contagious",
+      "url": "http://scp-wiki.wikidot.com/scp-6839",
+      "title": "SCP-6839",
+      "alternateTitle": "The Polar Men",
       "rating": 12,
-      "createdAt": "2025-12-19T14:04:56.000Z",
+      "createdAt": "2024-09-17T01:24:22.000Z",
       "tags": [
-        "biohazard",
-        "biological",
-        "christmas",
+        "children-of-the-night",
         "euclid",
-        "mind-affecting",
+        "humanoid",
+        "metamorphic",
+        "obskura",
+        "sapient",
         "scp",
-        "virus"
+        "species"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Budwave34"
+        "Baronjoe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7203",
+      "title": "SCP-7203",
+      "alternateTitle": "By your bootstraps",
+      "rating": 10,
+      "createdAt": "2023-06-01T15:41:44.000Z",
+      "tags": [
+        "alive",
+        "esoteric-class",
+        "humanoid",
+        "light",
+        "observational",
+        "sapient",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7611",
+      "title": "SCP-7611",
+      "alternateTitle": "Here I Dreamt I Was an Architect",
+      "rating": 13,
+      "createdAt": "2025-04-02T18:03:21.000Z",
+      "tags": [
+        "art-exchange",
+        "building",
+        "dream",
+        "extradimensional",
+        "humanoid",
+        "keter",
+        "reality-bending",
+        "reanimation",
+        "religious",
+        "sapient",
+        "scp",
+        "tactical-theology"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7611/Jen_gets_an_EEG.jpg",
+      "authors": [
+        "Diogene_s"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T19:17:22.830Z",
+  "updatedAt": "2026-06-23T02:09:01.180Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9406",
-      "title": "SCP-9406",
-      "alternateTitle": "Geometrical Mess",
-      "rating": 17,
-      "createdAt": "2025-12-14T20:24:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6648",
+      "title": "SCP-6648",
+      "alternateTitle": "The Worlds End in Lovers Meeting",
+      "rating": 23,
+      "createdAt": "2022-08-26T04:19:32.000Z",
       "tags": [
         "alive",
-        "euclid",
+        "esoteric-class",
+        "extradimensional",
         "humanoid",
-        "language",
-        "mind-affecting",
-        "observational",
+        "k-class-scenario",
         "reality-bending",
         "sapient",
         "scp",
         "temporal"
       ],
-      "thumbnailUrl": "https://image2url.com/images/1765818563499-5b8e98ca-6bd0-469b-b1ad-a56f7c92333b.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6648/Extraterrestrial_Stele_2.png",
       "authors": [
-        "DJfIooo"
+        "tingfeng1999"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9321",
-      "title": "SCP-9321",
-      "alternateTitle": "Man-Made Decay",
-      "rating": 20,
-      "createdAt": "2025-10-04T04:20:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8439",
+      "title": "SCP-8439",
+      "alternateTitle": "Non-Essential Personnel",
+      "rating": 19,
+      "createdAt": "2024-10-23T03:35:19.000Z",
       "tags": [
-        "9000",
-        "alive",
+        "bird",
         "bleak",
-        "building",
-        "corporate",
-        "ethics-committee",
-        "location",
-        "marshall-carter-and-dark",
-        "neutralized",
-        "scp"
+        "hive-mind",
+        "hostile",
+        "keter",
+        "light",
+        "scp",
+        "swarm"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/conversation-starter/actual%20tetrapods",
+      "thumbnailUrl": "https://cdn2.picryl.com/photo/2016/11/15/the-air-traffic-control-tower-sits-near-the-flight-f63d99-1024.jpg",
       "authors": [
-        "Shirley Sterling"
+        "CaptainDan87"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8254",
-      "title": "SCP-8254",
-      "alternateTitle": "The Human Resource",
-      "rating": 21,
-      "createdAt": "2025-01-01T07:36:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8244",
+      "title": "SCP-8244",
+      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
+      "rating": 8,
+      "createdAt": "2025-07-09T18:01:19.000Z",
       "tags": [
-        "alive",
-        "anomalous-event",
-        "foundation-personnel",
-        "humanoid",
-        "memory-affecting",
+        "classiccon2025",
+        "compulsion",
+        "crime-fiction",
+        "horror",
+        "jewelry",
+        "mind-affecting",
+        "mystery",
         "safe",
-        "sapient",
-        "scp"
+        "scp",
+        "toy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8254/A_woman_with_personnality_(396421310).jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "ThatGuyThatTime"
+        "Thopter"
       ]
     }
   ]

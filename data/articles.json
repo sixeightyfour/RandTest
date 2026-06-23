@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T10:53:31.666Z",
+  "updatedAt": "2026-06-23T17:44:35.163Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8224",
-      "title": "SCP-8224",
-      "alternateTitle": "Of Idiots and Wands",
-      "rating": 24,
-      "createdAt": "2024-12-28T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-736",
+      "title": "SCP-ZH-736",
+      "alternateTitle": "You Can't Go Any further",
+      "rating": 18,
+      "createdAt": "2022-06-11T16:41:03.000Z",
       "tags": [
-        "art-exchange",
-        "artifact",
-        "broken-masquerade",
-        "comedy",
-        "safe",
-        "scp",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/art-exchange-gift-for-felixou/Magic_Trick_Wand.png",
-      "authors": [
-        "Nickthebrick1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7087",
-      "title": "SCP-7087",
-      "alternateTitle": "Beware the Bioluminescent Abyss",
-      "rating": 14,
-      "createdAt": "2023-04-16T23:17:48.000Z",
-      "tags": [
-        "animal",
-        "aquatic",
-        "euclid",
-        "mind-affecting",
-        "observational",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
-      "authors": [
-        "Jarodard"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8506",
-      "title": "SCP-8506",
-      "alternateTitle": "Empirical Stairway",
-      "rating": 12,
-      "createdAt": "2025-07-05T22:24:09.000Z",
-      "tags": [
-        "extradimensional",
+        "electronic",
+        "game",
+        "international",
+        "media",
+        "metafiction",
+        "pataphysics-dept",
         "safe",
         "scp"
       ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-zh-736/{$name}/medium.jpg",
+      "authors": [
+        "Dr V Valentine"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8423",
+      "title": "SCP-8423",
+      "alternateTitle": "The Genius Plague",
+      "rating": 10,
+      "createdAt": "2024-06-07T12:11:11.000Z",
+      "tags": [
+        "biohazard",
+        "contagion",
+        "euclid",
+        "fungus",
+        "mind-affecting",
+        "neurological",
+        "parasitic",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox.wikidot.com/local--files/wiki:scp-8422/8423-Map.png",
+      "authors": [
+        "DocMart"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7807",
+      "title": "SCP-7807",
+      "alternateTitle": "Operation Noble Arms",
+      "rating": 5,
+      "createdAt": "2023-12-29T23:51:41.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "bird",
+        "esoteric-class",
+        "ethics-committee",
+        "euclid",
+        "hostile",
+        "predatory",
+        "scp",
+        "species"
+      ],
       "thumbnailUrl": "",
       "authors": [
-        "Unidentifiedgoober"
+        "ESB2109"
       ]
     }
   ]

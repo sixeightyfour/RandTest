@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T02:09:01.180Z",
+  "updatedAt": "2026-06-23T10:53:31.666Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6648",
-      "title": "SCP-6648",
-      "alternateTitle": "The Worlds End in Lovers Meeting",
-      "rating": 23,
-      "createdAt": "2022-08-26T04:19:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8224",
+      "title": "SCP-8224",
+      "alternateTitle": "Of Idiots and Wands",
+      "rating": 24,
+      "createdAt": "2024-12-28T19:47:20.000Z",
       "tags": [
-        "alive",
-        "esoteric-class",
-        "extradimensional",
-        "humanoid",
-        "k-class-scenario",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6648/Extraterrestrial_Stele_2.png",
-      "authors": [
-        "tingfeng1999"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8439",
-      "title": "SCP-8439",
-      "alternateTitle": "Non-Essential Personnel",
-      "rating": 19,
-      "createdAt": "2024-10-23T03:35:19.000Z",
-      "tags": [
-        "bird",
-        "bleak",
-        "hive-mind",
-        "hostile",
-        "keter",
-        "light",
-        "scp",
-        "swarm"
-      ],
-      "thumbnailUrl": "https://cdn2.picryl.com/photo/2016/11/15/the-air-traffic-control-tower-sits-near-the-flight-f63d99-1024.jpg",
-      "authors": [
-        "CaptainDan87"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8244",
-      "title": "SCP-8244",
-      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
-      "rating": 8,
-      "createdAt": "2025-07-09T18:01:19.000Z",
-      "tags": [
-        "classiccon2025",
-        "compulsion",
-        "crime-fiction",
-        "horror",
-        "jewelry",
-        "mind-affecting",
-        "mystery",
+        "art-exchange",
+        "artifact",
+        "broken-masquerade",
+        "comedy",
         "safe",
         "scp",
-        "toy"
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/art-exchange-gift-for-felixou/Magic_Trick_Wand.png",
+      "authors": [
+        "Nickthebrick1"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7087",
+      "title": "SCP-7087",
+      "alternateTitle": "Beware the Bioluminescent Abyss",
+      "rating": 14,
+      "createdAt": "2023-04-16T23:17:48.000Z",
+      "tags": [
+        "animal",
+        "aquatic",
+        "euclid",
+        "mind-affecting",
+        "observational",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7087/Mirage_dragon_2.jpg",
+      "authors": [
+        "Jarodard"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8506",
+      "title": "SCP-8506",
+      "alternateTitle": "Empirical Stairway",
+      "rating": 12,
+      "createdAt": "2025-07-05T22:24:09.000Z",
+      "tags": [
+        "extradimensional",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Thopter"
+        "Unidentifiedgoober"
       ]
     }
   ]

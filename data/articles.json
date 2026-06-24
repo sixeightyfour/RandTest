@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T10:39:56.764Z",
+  "updatedAt": "2026-06-24T17:46:58.818Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7368",
-      "title": "SCP-7368",
-      "alternateTitle": "A Story of Time, Love and Opium",
-      "rating": 10,
-      "createdAt": "2024-02-12T19:31:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7075",
+      "title": "SCP-7075",
+      "alternateTitle": "\"Twins\"",
+      "rating": 6,
+      "createdAt": "2022-07-30T01:42:20.000Z",
       "tags": [
-        "cadaver",
-        "children-of-the-night",
-        "mystery",
-        "neutralized",
-        "religious",
-        "religious-fiction",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "temporal",
-        "thad-xyank",
-        "time-travel"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
-      "authors": [
-        "alanthechair"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5627",
-      "title": "SCP-5627",
-      "alternateTitle": "The Hungry Caterpillar",
-      "rating": 22,
-      "createdAt": "2021-03-30T09:38:38.000Z",
-      "tags": [
+        "7000",
         "alive",
-        "animal",
-        "butterfly",
-        "compulsion",
-        "euclid",
-        "gaseous",
-        "hallucination",
-        "insect",
-        "mind-affecting",
-        "parasitic",
-        "scp"
+        "humanoid",
+        "safe",
+        "sapient",
+        "scp",
+        "telepathic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "dunc7five"
+        "redredred"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7325",
-      "title": "SCP-7325",
-      "alternateTitle": "A Testament To My Failures",
-      "rating": 13,
-      "createdAt": "2023-07-29T18:29:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7633",
+      "title": "SCP-7633",
+      "alternateTitle": "The Nuclear Vault",
+      "rating": 18,
+      "createdAt": "2023-03-17T07:32:12.000Z",
       "tags": [
         "auditory",
         "building",
-        "clothing",
+        "chaos-insurgency",
+        "compulsion",
         "euclid",
-        "liquid",
-        "meteorological",
+        "gustatory",
+        "hallucination",
+        "location",
         "mind-affecting",
+        "neutralized",
         "olfactory",
         "scp",
         "sensory",
-        "weapon"
+        "tactile"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7325/IMG_2252.HEIC/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7633/1599px-Schindler-Bunker_12883100793.jpg",
       "authors": [
-        "Fernlom"
+        "SOMESKYRlMFAN"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2618",
+      "title": "SCP-2618",
+      "alternateTitle": "This Is How Confidentiality Works, Right?",
+      "rating": 14,
+      "createdAt": "2016-08-05T04:45:31.000Z",
+      "tags": [
+        "electrical",
+        "extradimensional",
+        "safe",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2618/warpwand.png",
+      "authors": [
+        "Mf99k"
       ]
     }
   ]

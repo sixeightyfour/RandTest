@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T02:10:50.284Z",
+  "updatedAt": "2026-06-25T10:33:14.617Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
-      "title": "SCP-002-DE-J",
-      "alternateTitle": "Moldy Hands",
-      "rating": 4,
-      "createdAt": "2023-04-15T10:09:10.000Z",
-      "tags": [
-        "antimemetic",
-        "biohazard",
-        "food",
-        "fungus",
-        "international",
-        "joke",
-        "keter",
-        "moon",
-        "parasitic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4666-j",
-      "title": "SCP-4666-J",
-      "alternateTitle": "The Happy Fun Christmas Man!",
-      "rating": 23,
-      "createdAt": "2024-04-10T16:21:52.000Z",
-      "tags": [
-        "christmas",
-        "comedy",
-        "esoteric-class",
-        "joke",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "JamesPond008"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6626",
-      "title": "SCP-6626",
-      "alternateTitle": "A s c e n d",
+      "url": "http://scp-wiki.wikidot.com/scp-8863",
+      "title": "SCP-8863",
+      "alternateTitle": "Femtoorganism",
       "rating": 16,
-      "createdAt": "2022-01-04T19:09:45.000Z",
+      "createdAt": "2025-07-01T22:04:55.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "extradimensional",
-        "religious",
-        "scarlet-king",
-        "scp",
-        "subterranean"
+        "electrical",
+        "humanoid",
+        "keter",
+        "microscopic",
+        "online",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "AgentAX"
+        "OzRose"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-369-fr",
+      "title": "SCP-369-FR",
+      "alternateTitle": "Everything Is Fine Is White",
+      "rating": 18,
+      "createdAt": "2022-12-02T00:33:45.000Z",
+      "tags": [
+        "autonomous",
+        "contagion",
+        "inscription",
+        "intangible",
+        "international",
+        "safe",
+        "scp",
+        "self-replicating"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-369-fr/stickman_mur_c.png",
+      "authors": [
+        "Aloices"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7459",
+      "title": "SCP-7459",
+      "alternateTitle": "A Third Scion To Chase The Sky",
+      "rating": 15,
+      "createdAt": "2022-08-31T19:51:42.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "canine",
+        "keter",
+        "location",
+        "moon",
+        "sapient",
+        "scp",
+        "sun"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "locomotivefaox"
       ]
     }
   ]

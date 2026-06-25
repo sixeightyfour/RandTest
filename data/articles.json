@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:46:58.818Z",
+  "updatedAt": "2026-06-25T02:10:50.284Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7075",
-      "title": "SCP-7075",
-      "alternateTitle": "\"Twins\"",
-      "rating": 6,
-      "createdAt": "2022-07-30T01:42:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
+      "title": "SCP-002-DE-J",
+      "alternateTitle": "Moldy Hands",
+      "rating": 4,
+      "createdAt": "2023-04-15T10:09:10.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "humanoid",
-        "safe",
-        "sapient",
-        "scp",
-        "telepathic"
+        "antimemetic",
+        "biohazard",
+        "food",
+        "fungus",
+        "international",
+        "joke",
+        "keter",
+        "moon",
+        "parasitic",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "redredred"
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7633",
-      "title": "SCP-7633",
-      "alternateTitle": "The Nuclear Vault",
-      "rating": 18,
-      "createdAt": "2023-03-17T07:32:12.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4666-j",
+      "title": "SCP-4666-J",
+      "alternateTitle": "The Happy Fun Christmas Man!",
+      "rating": 23,
+      "createdAt": "2024-04-10T16:21:52.000Z",
       "tags": [
-        "auditory",
+        "christmas",
+        "comedy",
+        "esoteric-class",
+        "joke",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "JamesPond008"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6626",
+      "title": "SCP-6626",
+      "alternateTitle": "A s c e n d",
+      "rating": 16,
+      "createdAt": "2022-01-04T19:09:45.000Z",
+      "tags": [
         "building",
-        "chaos-insurgency",
-        "compulsion",
         "euclid",
-        "gustatory",
-        "hallucination",
-        "location",
-        "mind-affecting",
-        "neutralized",
-        "olfactory",
-        "scp",
-        "sensory",
-        "tactile"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7633/1599px-Schindler-Bunker_12883100793.jpg",
-      "authors": [
-        "SOMESKYRlMFAN"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2618",
-      "title": "SCP-2618",
-      "alternateTitle": "This Is How Confidentiality Works, Right?",
-      "rating": 14,
-      "createdAt": "2016-08-05T04:45:31.000Z",
-      "tags": [
-        "electrical",
         "extradimensional",
-        "safe",
+        "religious",
+        "scarlet-king",
         "scp",
-        "teleportation"
+        "subterranean"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2618/warpwand.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
       "authors": [
-        "Mf99k"
+        "AgentAX"
       ]
     }
   ]

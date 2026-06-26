@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T10:42:54.860Z",
+  "updatedAt": "2026-06-26T17:28:52.271Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
-      "title": "SCP-102-VN",
-      "alternateTitle": "The Thread of Janus",
-      "rating": 24,
-      "createdAt": "2025-05-29T23:54:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-621-ko",
+      "title": "SCP-621-KO",
+      "alternateTitle": "I will live on ██",
+      "rating": 9,
+      "createdAt": "2022-05-10T07:47:01.000Z",
       "tags": [
-        "building",
-        "esoteric-class",
-        "global-occult-coalition",
-        "international",
-        "loop",
-        "meta",
-        "paradox",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
-      "authors": [
-        "Welpermander",
-        "Trackusus",
-        "Welpermander"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7285",
-      "title": "SCP-7285",
-      "alternateTitle": "A simpler time",
-      "rating": 5,
-      "createdAt": "2023-01-20T15:03:37.000Z",
-      "tags": [
-        "alive",
-        "humanoid",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "reality-bending",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
-      "authors": [
-        "guiness11"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8238",
-      "title": "SCP-8238",
-      "alternateTitle": "Hypnagogia",
-      "rating": 14,
-      "createdAt": "2025-03-08T04:44:47.000Z",
-      "tags": [
-        "building",
-        "cadaver",
-        "euclid",
+        "artifact",
         "extradimensional",
-        "gaseous",
-        "hostile",
-        "portal",
-        "prometheus",
-        "publicdomaincon2025",
-        "raisa",
+        "insect",
+        "international",
+        "neutralized",
         "scp",
-        "subterranean"
+        "structure"
       ],
-      "thumbnailUrl": "http://timebox.wikidot.com/local--files/hypnagogia/PromLabFacility.png",
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-621-ko/Cresendo.jpeg",
       "authors": [
-        "Dr Moned"
+        "Subervos"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4072",
+      "title": "SCP-4072",
+      "alternateTitle": "No Hands On Deck",
+      "rating": 20,
+      "createdAt": "2025-10-24T18:31:39.000Z",
+      "tags": [
+        "aquatic",
+        "keter",
+        "scp",
+        "temporal",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4072/boat",
+      "authors": [
+        "DrApricus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8875",
+      "title": "SCP-8875",
+      "alternateTitle": "♈︎♊︎♅♅🜨︎♋︎♊︎♅",
+      "rating": 14,
+      "createdAt": "2025-02-13T16:47:00.000Z",
+      "tags": [
+        "bleak",
+        "cognitohazard",
+        "compulsion",
+        "humanoid",
+        "memetic",
+        "memory-affecting",
+        "neutralized",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DoctorLilithSophia"
       ]
     }
   ]

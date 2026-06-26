@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T02:12:25.446Z",
+  "updatedAt": "2026-06-26T10:42:54.860Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4682",
-      "title": "SCP-4682",
-      "alternateTitle": "Body Dysmorphia Mirror",
-      "rating": 17,
-      "createdAt": "2019-01-10T03:17:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
+      "title": "SCP-102-VN",
+      "alternateTitle": "The Thread of Janus",
+      "rating": 24,
+      "createdAt": "2025-05-29T23:54:34.000Z",
       "tags": [
-        "artifact",
-        "observational",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "TechSorcerer2747"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6648",
-      "title": "SCP-6648",
-      "alternateTitle": "The Worlds End in Lovers Meeting",
-      "rating": 23,
-      "createdAt": "2022-08-26T04:19:32.000Z",
-      "tags": [
-        "alive",
+        "building",
         "esoteric-class",
-        "extradimensional",
-        "humanoid",
-        "k-class-scenario",
-        "reality-bending",
-        "sapient",
+        "global-occult-coalition",
+        "international",
+        "loop",
+        "meta",
+        "paradox",
         "scp",
         "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6648/Extraterrestrial_Stele_2.png",
+      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
       "authors": [
-        "tingfeng1999"
+        "Welpermander",
+        "Trackusus",
+        "Welpermander"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8819",
-      "title": "SCP-8819",
-      "alternateTitle": "The Beaches Where My Mother Grew Up",
-      "rating": 22,
-      "createdAt": "2025-08-24T02:09:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7285",
+      "title": "SCP-7285",
+      "alternateTitle": "A simpler time",
+      "rating": 5,
+      "createdAt": "2023-01-20T15:03:37.000Z",
       "tags": [
+        "alive",
         "humanoid",
-        "intangible",
-        "lgbtq",
-        "ritual",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "reality-bending",
         "safe",
         "sapient",
-        "scp",
-        "thaumaturgy"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
       "authors": [
-        "hi im stel"
+        "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8238",
+      "title": "SCP-8238",
+      "alternateTitle": "Hypnagogia",
+      "rating": 14,
+      "createdAt": "2025-03-08T04:44:47.000Z",
+      "tags": [
+        "building",
+        "cadaver",
+        "euclid",
+        "extradimensional",
+        "gaseous",
+        "hostile",
+        "portal",
+        "prometheus",
+        "publicdomaincon2025",
+        "raisa",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "http://timebox.wikidot.com/local--files/hypnagogia/PromLabFacility.png",
+      "authors": [
+        "Dr Moned"
       ]
     }
   ]

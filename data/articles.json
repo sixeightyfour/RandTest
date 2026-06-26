@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T18:01:57.577Z",
+  "updatedAt": "2026-06-26T02:12:25.446Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9229",
-      "title": "SCP-9229",
-      "alternateTitle": "O Sancta Simplicitas!",
-      "rating": 9,
-      "createdAt": "2025-10-04T01:06:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4682",
+      "title": "SCP-4682",
+      "alternateTitle": "Body Dysmorphia Mirror",
+      "rating": 17,
+      "createdAt": "2019-01-10T03:17:07.000Z",
       "tags": [
-        "9000",
-        "abnormalities",
-        "apocalyptic",
         "artifact",
-        "biohazard",
-        "body-horror",
-        "euclid",
-        "explained",
-        "extraterrestrial",
-        "horror",
-        "language",
-        "mechanical",
-        "moon",
-        "pattern-screamer",
-        "reality-bending",
-        "science-fiction",
+        "observational",
+        "safe",
         "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
-      "authors": [
-        "BlackMonday"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7265",
-      "title": "SCP-7265",
-      "alternateTitle": "Sweet Milk of the Desert",
-      "rating": 14,
-      "createdAt": "2023-08-18T22:21:55.000Z",
-      "tags": [
-        "dream",
-        "euclid",
-        "location",
-        "mind-affecting",
-        "scp"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ivellios Siannodel"
+        "TechSorcerer2747"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-067",
-      "title": "SCP-PL-067",
-      "alternateTitle": "The dog that leapt through time",
-      "rating": 22,
-      "createdAt": "2020-08-15T14:32:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6648",
+      "title": "SCP-6648",
+      "alternateTitle": "The Worlds End in Lovers Meeting",
+      "rating": 23,
+      "createdAt": "2022-08-26T04:19:32.000Z",
       "tags": [
         "alive",
-        "animal",
-        "canine",
-        "international",
-        "keter",
-        "neutralized",
+        "esoteric-class",
+        "extradimensional",
+        "humanoid",
+        "k-class-scenario",
+        "reality-bending",
+        "sapient",
         "scp",
-        "spatial",
         "temporal"
       ],
-      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-pl-067/zE38UCh.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6648/Extraterrestrial_Stele_2.png",
       "authors": [
-        "JosephSolomon",
-        "BlazingPie"
+        "tingfeng1999"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8819",
+      "title": "SCP-8819",
+      "alternateTitle": "The Beaches Where My Mother Grew Up",
+      "rating": 22,
+      "createdAt": "2025-08-24T02:09:41.000Z",
+      "tags": [
+        "humanoid",
+        "intangible",
+        "lgbtq",
+        "ritual",
+        "safe",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "authors": [
+        "hi im stel"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T09:55:31.425Z",
+  "updatedAt": "2026-06-27T16:55:51.732Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7513",
-      "title": "SCP-7513",
-      "alternateTitle": "Fuck Aliens!",
-      "rating": 18,
-      "createdAt": "2022-10-23T19:14:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8384",
+      "title": "SCP-8384",
+      "alternateTitle": "\"I still believe in kindness.\"",
+      "rating": 10,
+      "createdAt": "2025-07-20T19:37:10.000Z",
       "tags": [
-        "alive",
-        "euclid",
+        "anomalous-event",
         "extraterrestrial",
-        "humanoid",
-        "sapient",
+        "gravity",
+        "intangible",
+        "k-class-scenario",
+        "keter",
+        "portal",
+        "radioactive",
+        "scp"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/65535/54504638522_e0bfac9557.jpg",
+      "authors": [
+        "SynEnt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5972",
+      "title": "SCP-5972",
+      "alternateTitle": "Let All the Children Boogie",
+      "rating": 23,
+      "createdAt": "2020-09-16T20:29:17.000Z",
+      "tags": [
+        "acoustic",
+        "euclid",
+        "musical",
         "scp",
-        "sexual"
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7513/Forrest.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Capriccio Farce"
+        "ThisMightBeAuto"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9191",
-      "title": "SCP-9191",
-      "alternateTitle": "Alarm clock of normalcy",
-      "rating": 15,
-      "createdAt": "2025-10-03T15:46:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8496",
+      "title": "SCP-8496",
+      "alternateTitle": "Entrusted",
+      "rating": 11,
+      "createdAt": "2025-08-23T01:51:59.000Z",
       "tags": [
-        "9000",
-        "artifact",
+        "broken-god",
         "esoteric-class",
-        "loop",
-        "mind-affecting",
-        "safe",
-        "science-fiction",
-        "scp"
+        "humanoid",
+        "keter",
+        "scp",
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/fragment:circledot-project-1/alarm-clock-6561371_1280.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "circledot"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8128",
-      "title": "SCP-8128",
-      "alternateTitle": "Old Betty's Bobby",
-      "rating": 18,
-      "createdAt": "2025-04-04T11:57:13.000Z",
-      "tags": [
-        "animal",
-        "cadaver",
-        "feline",
-        "mobile",
-        "neutralized",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8128/Bobby/medium.jpg",
-      "authors": [
-        "pudds"
+        "SynEnt"
       ]
     }
   ]

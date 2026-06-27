@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T02:07:11.934Z",
+  "updatedAt": "2026-06-27T09:55:31.425Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-922-arc",
-      "title": "SCP-922-ARC",
-      "alternateTitle": "Proust's Lunchbox",
-      "rating": -18,
-      "createdAt": "2011-07-20T02:09:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7513",
+      "title": "SCP-7513",
+      "alternateTitle": "Fuck Aliens!",
+      "rating": 18,
+      "createdAt": "2022-10-23T19:14:57.000Z",
       "tags": [
-        "archived",
-        "artifact",
-        "memory-affecting",
-        "mind-affecting",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DrKens"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8460",
-      "title": "SCP-8460",
-      "alternateTitle": "Bielefeld Thought-Contagion, BL-F13 for short",
-      "rating": 13,
-      "createdAt": "2025-03-14T20:50:14.000Z",
-      "tags": [
-        "cognitohazard",
-        "esoteric-class",
-        "foundation-made",
-        "memetic",
-        "memory-affecting",
-        "mind-affecting",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8460/Cmglee_Cambridge_Reality_Checkpoint_Dinky_Door.jpg",
-      "authors": [
-        "Mark Unread"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-333-de",
-      "title": "SCP-333-DE",
-      "alternateTitle": "Bone Seeker",
-      "rating": 11,
-      "createdAt": "2023-01-16T15:03:31.000Z",
-      "tags": [
-        "adaptive",
         "alive",
         "euclid",
-        "fungus",
-        "international",
+        "extraterrestrial",
+        "humanoid",
         "sapient",
         "scp",
-        "self-repairing",
-        "skeletal",
-        "species"
+        "sexual"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wikidot.com/local--files/scp-333-de/Slime.jpeg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7513/Forrest.png",
       "authors": [
-        "Gramlin"
+        "Capriccio Farce"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9191",
+      "title": "SCP-9191",
+      "alternateTitle": "Alarm clock of normalcy",
+      "rating": 15,
+      "createdAt": "2025-10-03T15:46:35.000Z",
+      "tags": [
+        "9000",
+        "artifact",
+        "esoteric-class",
+        "loop",
+        "mind-affecting",
+        "safe",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/fragment:circledot-project-1/alarm-clock-6561371_1280.jpg",
+      "authors": [
+        "circledot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8128",
+      "title": "SCP-8128",
+      "alternateTitle": "Old Betty's Bobby",
+      "rating": 18,
+      "createdAt": "2025-04-04T11:57:13.000Z",
+      "tags": [
+        "animal",
+        "cadaver",
+        "feline",
+        "mobile",
+        "neutralized",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8128/Bobby/medium.jpg",
+      "authors": [
+        "pudds"
       ]
     }
   ]

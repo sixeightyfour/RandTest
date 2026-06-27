@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T17:28:52.271Z",
+  "updatedAt": "2026-06-27T02:07:11.934Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-621-ko",
-      "title": "SCP-621-KO",
-      "alternateTitle": "I will live on ██",
-      "rating": 9,
-      "createdAt": "2022-05-10T07:47:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-922-arc",
+      "title": "SCP-922-ARC",
+      "alternateTitle": "Proust's Lunchbox",
+      "rating": -18,
+      "createdAt": "2011-07-20T02:09:11.000Z",
       "tags": [
+        "archived",
         "artifact",
-        "extradimensional",
-        "insect",
-        "international",
-        "neutralized",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-621-ko/Cresendo.jpeg",
-      "authors": [
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4072",
-      "title": "SCP-4072",
-      "alternateTitle": "No Hands On Deck",
-      "rating": 20,
-      "createdAt": "2025-10-24T18:31:39.000Z",
-      "tags": [
-        "aquatic",
-        "keter",
-        "scp",
-        "temporal",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4072/boat",
-      "authors": [
-        "DrApricus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8875",
-      "title": "SCP-8875",
-      "alternateTitle": "♈︎♊︎♅♅🜨︎♋︎♊︎♅",
-      "rating": 14,
-      "createdAt": "2025-02-13T16:47:00.000Z",
-      "tags": [
-        "bleak",
-        "cognitohazard",
-        "compulsion",
-        "humanoid",
-        "memetic",
         "memory-affecting",
-        "neutralized",
-        "scp",
-        "visual"
+        "mind-affecting",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DoctorLilithSophia"
+        "DrKens"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8460",
+      "title": "SCP-8460",
+      "alternateTitle": "Bielefeld Thought-Contagion, BL-F13 for short",
+      "rating": 13,
+      "createdAt": "2025-03-14T20:50:14.000Z",
+      "tags": [
+        "cognitohazard",
+        "esoteric-class",
+        "foundation-made",
+        "memetic",
+        "memory-affecting",
+        "mind-affecting",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8460/Cmglee_Cambridge_Reality_Checkpoint_Dinky_Door.jpg",
+      "authors": [
+        "Mark Unread"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-333-de",
+      "title": "SCP-333-DE",
+      "alternateTitle": "Bone Seeker",
+      "rating": 11,
+      "createdAt": "2023-01-16T15:03:31.000Z",
+      "tags": [
+        "adaptive",
+        "alive",
+        "euclid",
+        "fungus",
+        "international",
+        "sapient",
+        "scp",
+        "self-repairing",
+        "skeletal",
+        "species"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wikidot.com/local--files/scp-333-de/Slime.jpeg",
+      "authors": [
+        "Gramlin"
       ]
     }
   ]

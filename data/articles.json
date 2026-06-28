@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:55:51.732Z",
+  "updatedAt": "2026-06-28T02:29:06.652Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,43 +8,24 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8384",
-      "title": "SCP-8384",
-      "alternateTitle": "\"I still believe in kindness.\"",
-      "rating": 10,
-      "createdAt": "2025-07-20T19:37:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8459",
+      "title": "SCP-8459",
+      "alternateTitle": "Yes, that SCP Foundation.",
+      "rating": 7,
+      "createdAt": "2025-08-10T12:23:52.000Z",
       "tags": [
-        "anomalous-event",
-        "extraterrestrial",
-        "gravity",
-        "intangible",
-        "k-class-scenario",
-        "keter",
-        "portal",
-        "radioactive",
-        "scp"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/65535/54504638522_e0bfac9557.jpg",
-      "authors": [
-        "SynEnt"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5972",
-      "title": "SCP-5972",
-      "alternateTitle": "Let All the Children Boogie",
-      "rating": 23,
-      "createdAt": "2020-09-16T20:29:17.000Z",
-      "tags": [
-        "acoustic",
-        "euclid",
-        "musical",
+        "alternate-history",
+        "bittersweet",
+        "extradimensional",
+        "future",
+        "media",
+        "safe",
         "scp",
-        "uncontained"
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ThisMightBeAuto"
+        "shiaa"
       ]
     },
     {
@@ -64,6 +45,25 @@
       "thumbnailUrl": "",
       "authors": [
         "SynEnt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8095",
+      "title": "SCP-8095",
+      "alternateTitle": "Calling out Valentine Grahmly",
+      "rating": 21,
+      "createdAt": "2024-06-18T14:25:20.000Z",
+      "tags": [
+        "artificial-intelligence",
+        "illustrated",
+        "neutralized",
+        "online",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/reaction-video:the-foundation-censored-me/Valentine",
+      "authors": [
+        "DianaBerry"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T10:19:45.347Z",
+  "updatedAt": "2026-06-28T16:57:39.921Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7651",
-      "title": "SCP-7651",
-      "alternateTitle": "Serenity Pond",
-      "rating": 10,
-      "createdAt": "2023-08-31T21:39:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8354",
+      "title": "SCP-8354",
+      "alternateTitle": "Something in the Snow",
+      "rating": 11,
+      "createdAt": "2025-02-10T02:16:23.000Z",
       "tags": [
-        "animal",
-        "antimemetic",
-        "aquatic",
-        "bird",
-        "empathic",
-        "location",
-        "mind-affecting",
-        "neurological",
-        "pentagram",
-        "remixcon2023",
+        "abnormalities",
         "safe",
-        "scp"
+        "scp",
+        "structure",
+        "subterranean"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
       "authors": [
-        "New_to_life"
+        "CN Productions"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2859",
-      "title": "SCP-2859",
-      "alternateTitle": "The Space Serpents",
-      "rating": 21,
-      "createdAt": "2017-02-27T21:05:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6517",
+      "title": "SCP-6517",
+      "alternateTitle": "OstèntAtious towèr",
+      "rating": 18,
+      "createdAt": "2024-10-10T13:23:19.000Z",
       "tags": [
-        "alien",
-        "animal",
-        "extraterrestrial",
+        "are-we-cool-yet",
+        "cognitohazard",
+        "k-class-scenario",
         "keter",
-        "mystery",
-        "portal",
-        "science-fiction",
+        "memetic",
         "scp",
-        "snake",
-        "spatial",
-        "species"
+        "self-repairing",
+        "self-replicating",
+        "structure"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6517/Eiffel%20tower",
+      "authors": [
+        "Dr Ch_M"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
+      "title": "SCP-057-PT",
+      "alternateTitle": "The Abandoned Hospital",
+      "rating": 16,
+      "createdAt": "2019-10-20T12:37:17.000Z",
+      "tags": [
+        "building",
+        "humanoid",
+        "international",
+        "keter",
+        "medical",
+        "scp",
+        "teleportation",
+        "transfiguration",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "toastedraptor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7060",
-      "title": "SCP-7060",
-      "alternateTitle": "A Place of No Fortune",
-      "rating": 13,
-      "createdAt": "2022-07-31T23:12:01.000Z",
-      "tags": [
-        "7000",
-        "city",
-        "euclid",
-        "humanoid",
-        "probability",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7060/Site900B.jpg",
-      "authors": [
-        "FluffyDog00"
+        "Alecx Ward",
+        "slashannemoo"
       ]
     }
   ]

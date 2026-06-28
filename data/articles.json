@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T02:29:06.652Z",
+  "updatedAt": "2026-06-28T10:19:45.347Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8459",
-      "title": "SCP-8459",
-      "alternateTitle": "Yes, that SCP Foundation.",
-      "rating": 7,
-      "createdAt": "2025-08-10T12:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7651",
+      "title": "SCP-7651",
+      "alternateTitle": "Serenity Pond",
+      "rating": 10,
+      "createdAt": "2023-08-31T21:39:42.000Z",
       "tags": [
-        "alternate-history",
-        "bittersweet",
-        "extradimensional",
-        "future",
-        "media",
+        "animal",
+        "antimemetic",
+        "aquatic",
+        "bird",
+        "empathic",
+        "location",
+        "mind-affecting",
+        "neurological",
+        "pentagram",
+        "remixcon2023",
         "safe",
-        "scp",
-        "temporal"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
       "authors": [
-        "shiaa"
+        "New_to_life"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8496",
-      "title": "SCP-8496",
-      "alternateTitle": "Entrusted",
-      "rating": 11,
-      "createdAt": "2025-08-23T01:51:59.000Z",
-      "tags": [
-        "broken-god",
-        "esoteric-class",
-        "humanoid",
-        "keter",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "SynEnt"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8095",
-      "title": "SCP-8095",
-      "alternateTitle": "Calling out Valentine Grahmly",
+      "url": "http://scp-wiki.wikidot.com/scp-2859",
+      "title": "SCP-2859",
+      "alternateTitle": "The Space Serpents",
       "rating": 21,
-      "createdAt": "2024-06-18T14:25:20.000Z",
+      "createdAt": "2017-02-27T21:05:27.000Z",
       "tags": [
-        "artificial-intelligence",
-        "illustrated",
-        "neutralized",
-        "online",
+        "alien",
+        "animal",
+        "extraterrestrial",
+        "keter",
+        "mystery",
+        "portal",
+        "science-fiction",
+        "scp",
+        "snake",
+        "spatial",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "toastedraptor"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7060",
+      "title": "SCP-7060",
+      "alternateTitle": "A Place of No Fortune",
+      "rating": 13,
+      "createdAt": "2022-07-31T23:12:01.000Z",
+      "tags": [
+        "7000",
+        "city",
+        "euclid",
+        "humanoid",
+        "probability",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/reaction-video:the-foundation-censored-me/Valentine",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7060/Site900B.jpg",
       "authors": [
-        "DianaBerry"
+        "FluffyDog00"
       ]
     }
   ]

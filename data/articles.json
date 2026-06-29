@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T16:57:39.921Z",
+  "updatedAt": "2026-06-29T02:29:39.168Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8354",
-      "title": "SCP-8354",
-      "alternateTitle": "Something in the Snow",
-      "rating": 11,
-      "createdAt": "2025-02-10T02:16:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-15625-ko-j",
+      "title": "SCP-15625-KO-J",
+      "alternateTitle": "Mx Let Me Out",
+      "rating": 12,
+      "createdAt": "2024-05-22T10:10:57.000Z",
       "tags": [
-        "abnormalities",
-        "safe",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
-      "authors": [
-        "CN Productions"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6517",
-      "title": "SCP-6517",
-      "alternateTitle": "OstèntAtious towèr",
-      "rating": 18,
-      "createdAt": "2024-10-10T13:23:19.000Z",
-      "tags": [
-        "are-we-cool-yet",
-        "cognitohazard",
-        "k-class-scenario",
-        "keter",
-        "memetic",
-        "scp",
-        "self-repairing",
-        "self-replicating",
-        "structure"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6517/Eiffel%20tower",
-      "authors": [
-        "Dr Ch_M"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
-      "title": "SCP-057-PT",
-      "alternateTitle": "The Abandoned Hospital",
-      "rating": 16,
-      "createdAt": "2019-10-20T12:37:17.000Z",
-      "tags": [
-        "building",
+        "alive",
+        "dr-wondertainment",
+        "extradimensional",
         "humanoid",
         "international",
-        "keter",
-        "medical",
+        "joke",
+        "mister",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-15625-ko-j/15625drw.png",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8967",
+      "title": "SCP-8967",
+      "alternateTitle": "BLINKER CHECK",
+      "rating": 7,
+      "createdAt": "2025-09-28T16:11:13.000Z",
+      "tags": [
+        "end-of-death",
+        "extradimensional",
+        "safe",
         "scp",
         "teleportation",
-        "transfiguration",
-        "uncontained"
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8967/Car.1/medium.jpg",
+      "authors": [
+        "ThatHideousStrength"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8850",
+      "title": "SCP-8850",
+      "alternateTitle": "Philosophical Zombies",
+      "rating": 22,
+      "createdAt": "2024-11-20T17:57:32.000Z",
+      "tags": [
+        "biological",
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "scp",
+        "structure"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Alecx Ward",
-        "slashannemoo"
+        "jfour"
       ]
     }
   ]

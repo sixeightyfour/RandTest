@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T12:22:52.639Z",
+  "updatedAt": "2026-06-29T18:02:41.034Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,98 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-176",
-      "title": "SCP-ZH-176",
-      "alternateTitle": "The Great Retreat of the Gulls",
-      "rating": 11,
-      "createdAt": "2023-09-17T10:17:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7083",
+      "title": "SCP-7083",
+      "alternateTitle": "ⱯⱯaondertainment's Wild Hunt",
+      "rating": 24,
+      "createdAt": "2023-05-19T04:07:58.000Z",
       "tags": [
-        "document",
-        "foundation-made",
-        "global-occult-coalition",
-        "international",
+        "action",
+        "alive",
+        "animal",
+        "appliance",
+        "arcadia",
+        "bear",
+        "black-comedy",
+        "bleak",
+        "bovine",
+        "chaos-insurgency",
+        "cognitohazard",
+        "comedy",
+        "compulsion",
+        "currency",
+        "dr-wondertainment",
+        "euclid",
+        "exchange",
+        "extradimensional",
+        "feline",
+        "game",
+        "gamers-against-weed",
+        "goblincon2023",
+        "hostile",
+        "humanoid",
+        "marshall-carter-and-dark",
+        "memory-affecting",
+        "online",
+        "predatory",
+        "reality-bending",
+        "reptile",
+        "sapient",
+        "sarkic",
+        "scp",
+        "snake",
+        "spatial",
+        "teleportation",
+        "transfiguration",
+        "vikander-kneed"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7083/Interior.png",
+      "authors": [
+        "Arclund"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7690",
+      "title": "SCP-7690",
+      "alternateTitle": "Baby Bones",
+      "rating": 20,
+      "createdAt": "2023-01-16T03:20:37.000Z",
+      "tags": [
+        "alive",
+        "cadaver",
+        "humanoid",
         "keter",
-        "meta",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
+        "reproductive",
+        "scp",
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
+      "authors": [
+        "MaskedN00B"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-901-th",
+      "title": "SCP-901-TH",
+      "alternateTitle": "The Giant Head",
+      "rating": 18,
+      "createdAt": "2018-10-08T07:21:10.000Z",
+      "tags": [
+        "artistic",
+        "clothing",
+        "hostile",
+        "humanoid",
+        "international",
+        "mind-affecting",
+        "neurological",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ting129",
-        "Kikunai"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1921",
-      "title": "SCP-CN-1921",
-      "alternateTitle": "A Crawling Seal",
-      "rating": 18,
-      "createdAt": "2024-02-27T04:17:11.000Z",
-      "tags": [
-        "animal",
-        "antimemetic",
-        "aquatic",
-        "concept",
-        "hong-shing",
-        "international",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/mscarlet/seal.jpg",
-      "authors": [
-        "MScarlet"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7476",
-      "title": "SCP-7476",
-      "alternateTitle": "Peeking Ruins the Magic…",
-      "rating": 13,
-      "createdAt": "2024-02-18T01:29:40.000Z",
-      "tags": [
-        "adaptive",
-        "ectoentropic",
-        "mobile",
-        "observational",
-        "phenomenon",
-        "safe",
-        "scp",
-        "spatial"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "twotruegucks"
+        "DrSSS",
+        "Bonneneige"
       ]
     }
   ]

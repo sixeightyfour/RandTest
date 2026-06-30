@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T10:47:53.047Z",
+  "updatedAt": "2026-06-30T17:46:01.989Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,87 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7402",
-      "title": "SCP-7402",
-      "alternateTitle": "Alternate Infiltrators",
-      "rating": 18,
-      "createdAt": "2025-02-22T08:44:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8535",
+      "title": "SCP-8535",
+      "alternateTitle": "The Tarantula",
+      "rating": 15,
+      "createdAt": "2025-03-26T19:34:50.000Z",
       "tags": [
-        "esoteric-class",
-        "extradimensional",
+        "action",
+        "alive",
+        "anderson",
+        "animal",
+        "arachnid",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "chase",
+        "compulsion",
+        "cosmic-horror",
+        "d-11424",
+        "ethics-committee",
+        "global-occult-coalition",
+        "heartwarming",
+        "horror",
         "hostile",
         "humanoid",
-        "mimetic",
-        "phenomenon",
+        "illustrated",
+        "k-class-scenario",
+        "marshall-carter-and-dark",
+        "murder-monster",
+        "mystery",
+        "religious",
+        "reproductive",
+        "safe",
         "sapient",
         "scp",
-        "uncontained"
+        "sculpture",
+        "self-replicating",
+        "slice-of-life",
+        "thaumaturgy",
+        "three-portlands",
+        "transfiguration",
+        "uncontained",
+        "unusual-incidents-unit"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
       "authors": [
-        "Nullscape"
+        "Doctor Scrappy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8881-j",
-      "title": "SCP-8881-J",
-      "alternateTitle": "Yellow Car",
-      "rating": 8,
-      "createdAt": "2025-02-25T16:42:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7276",
+      "title": "SCP-7276",
+      "alternateTitle": "Breathe Thy Hypocrisy.",
+      "rating": 11,
+      "createdAt": "2023-09-11T14:30:07.000Z",
       "tags": [
-        "cognitohazard",
-        "compulsion",
-        "joke",
-        "neutralized",
+        "blood",
+        "safe",
         "scp",
-        "vehicle",
-        "visual"
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7276/KNIFE/medium.jpg",
       "authors": [
-        "DrJepherreyson333"
+        "Roufhous"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-092-vn",
-      "title": "SCP-092-VN",
-      "alternateTitle": "Potpourri",
-      "rating": 12,
-      "createdAt": "2025-05-19T22:50:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1329-ru-ex",
+      "title": "SCP-1329-RU-EX",
+      "alternateTitle": "A Little Big Adventure",
+      "rating": 14,
+      "createdAt": "2020-08-02T20:28:10.000Z",
       "tags": [
-        "anomalous-event",
-        "esoteric-class",
+        "explained",
         "international",
-        "plant",
+        "location",
         "scp",
-        "sleep",
-        "uncontained"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abbott_Fuller_Graves%2C_1913_-_Eastern_Point_Gloucester.jpg",
+      "thumbnailUrl": "http://scp-ru.wdfiles.com/local--files/scp-1329-ru-ex/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.gif",
       "authors": [
-        "KirQ",
-        "dreadfulfakey"
+        "Reherent"
       ]
     }
   ]

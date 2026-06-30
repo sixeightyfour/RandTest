@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T02:13:07.118Z",
+  "updatedAt": "2026-06-30T10:47:53.047Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,84 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-014-int",
-      "title": "SCP-014-INT",
-      "alternateTitle": "A Net of Amnestics",
-      "rating": 19,
-      "createdAt": "2023-02-06T21:39:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7402",
+      "title": "SCP-7402",
+      "alternateTitle": "Alternate Infiltrators",
+      "rating": 18,
+      "createdAt": "2025-02-22T08:44:36.000Z",
       "tags": [
-        "backdoor-soho",
-        "children-of-the-night",
-        "director-gillespie",
-        "doctor-rivera",
         "esoteric-class",
-        "esterberg",
-        "from-120s-archives",
-        "homo-sapiens-sidhe",
-        "international",
-        "marshall-carter-and-dark",
-        "portal",
-        "scp",
-        "spatial",
-        "teleportation",
-        "vehicle",
-        "veil-upon-veil"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Civil Western",
-        "Ethagon"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9776",
-      "title": "SCP-9776",
-      "alternateTitle": "D.C Fleshgait",
-      "rating": 22,
-      "createdAt": "2025-11-28T03:48:38.000Z",
-      "tags": [
-        "absurdism",
-        "alive",
-        "black-comedy",
-        "body-horror",
-        "comedy",
-        "euclid",
-        "historical",
-        "horror",
+        "extradimensional",
+        "hostile",
         "humanoid",
-        "murder-monster",
-        "pentagram",
-        "political",
-        "predatory",
-        "psychological-horror",
-        "reanimation",
+        "mimetic",
+        "phenomenon",
+        "sapient",
         "scp",
-        "unusual-incidents-unit"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9776/George%20Washington%20Fleshgait.jpg",
-      "authors": [
-        "CRAt26"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8615",
-      "title": "SCP-8615",
-      "alternateTitle": "Light of Lost Hours",
-      "rating": 14,
-      "createdAt": "2025-10-22T03:08:59.000Z",
-      "tags": [
-        "artifact",
-        "body-horror",
-        "chemical",
-        "horror",
-        "light",
-        "safe",
-        "scp",
-        "temporal"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "JackEater351"
+        "Nullscape"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8881-j",
+      "title": "SCP-8881-J",
+      "alternateTitle": "Yellow Car",
+      "rating": 8,
+      "createdAt": "2025-02-25T16:42:34.000Z",
+      "tags": [
+        "cognitohazard",
+        "compulsion",
+        "joke",
+        "neutralized",
+        "scp",
+        "vehicle",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrJepherreyson333"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-092-vn",
+      "title": "SCP-092-VN",
+      "alternateTitle": "Potpourri",
+      "rating": 12,
+      "createdAt": "2025-05-19T22:50:13.000Z",
+      "tags": [
+        "anomalous-event",
+        "esoteric-class",
+        "international",
+        "plant",
+        "scp",
+        "sleep",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abbott_Fuller_Graves%2C_1913_-_Eastern_Point_Gloucester.jpg",
+      "authors": [
+        "KirQ",
+        "dreadfulfakey"
       ]
     }
   ]

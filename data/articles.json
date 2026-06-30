@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T18:02:41.034Z",
+  "updatedAt": "2026-06-30T02:13:07.118Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,98 +8,84 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7083",
-      "title": "SCP-7083",
-      "alternateTitle": "ⱯⱯaondertainment's Wild Hunt",
-      "rating": 24,
-      "createdAt": "2023-05-19T04:07:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-014-int",
+      "title": "SCP-014-INT",
+      "alternateTitle": "A Net of Amnestics",
+      "rating": 19,
+      "createdAt": "2023-02-06T21:39:31.000Z",
       "tags": [
-        "action",
-        "alive",
-        "animal",
-        "appliance",
-        "arcadia",
-        "bear",
-        "black-comedy",
-        "bleak",
-        "bovine",
-        "chaos-insurgency",
-        "cognitohazard",
-        "comedy",
-        "compulsion",
-        "currency",
-        "dr-wondertainment",
-        "euclid",
-        "exchange",
-        "extradimensional",
-        "feline",
-        "game",
-        "gamers-against-weed",
-        "goblincon2023",
-        "hostile",
-        "humanoid",
+        "backdoor-soho",
+        "children-of-the-night",
+        "director-gillespie",
+        "doctor-rivera",
+        "esoteric-class",
+        "esterberg",
+        "from-120s-archives",
+        "homo-sapiens-sidhe",
+        "international",
         "marshall-carter-and-dark",
-        "memory-affecting",
-        "online",
-        "predatory",
-        "reality-bending",
-        "reptile",
-        "sapient",
-        "sarkic",
+        "portal",
         "scp",
-        "snake",
         "spatial",
         "teleportation",
-        "transfiguration",
-        "vikander-kneed"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7083/Interior.png",
-      "authors": [
-        "Arclund"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7690",
-      "title": "SCP-7690",
-      "alternateTitle": "Baby Bones",
-      "rating": 20,
-      "createdAt": "2023-01-16T03:20:37.000Z",
-      "tags": [
-        "alive",
-        "cadaver",
-        "humanoid",
-        "keter",
-        "reproductive",
-        "scp",
-        "skeletal",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
-      "authors": [
-        "MaskedN00B"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-901-th",
-      "title": "SCP-901-TH",
-      "alternateTitle": "The Giant Head",
-      "rating": 18,
-      "createdAt": "2018-10-08T07:21:10.000Z",
-      "tags": [
-        "artistic",
-        "clothing",
-        "hostile",
-        "humanoid",
-        "international",
-        "mind-affecting",
-        "neurological",
-        "safe",
-        "scp"
+        "vehicle",
+        "veil-upon-veil"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrSSS",
-        "Bonneneige"
+        "Civil Western",
+        "Ethagon"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9776",
+      "title": "SCP-9776",
+      "alternateTitle": "D.C Fleshgait",
+      "rating": 22,
+      "createdAt": "2025-11-28T03:48:38.000Z",
+      "tags": [
+        "absurdism",
+        "alive",
+        "black-comedy",
+        "body-horror",
+        "comedy",
+        "euclid",
+        "historical",
+        "horror",
+        "humanoid",
+        "murder-monster",
+        "pentagram",
+        "political",
+        "predatory",
+        "psychological-horror",
+        "reanimation",
+        "scp",
+        "unusual-incidents-unit"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9776/George%20Washington%20Fleshgait.jpg",
+      "authors": [
+        "CRAt26"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8615",
+      "title": "SCP-8615",
+      "alternateTitle": "Light of Lost Hours",
+      "rating": 14,
+      "createdAt": "2025-10-22T03:08:59.000Z",
+      "tags": [
+        "artifact",
+        "body-horror",
+        "chemical",
+        "horror",
+        "light",
+        "safe",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "JackEater351"
       ]
     }
   ]

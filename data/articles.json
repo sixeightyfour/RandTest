@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T02:30:09.605Z",
+  "updatedAt": "2026-07-01T11:16:26.227Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3522",
-      "title": "SCP-3522",
-      "alternateTitle": "Black Body",
-      "rating": 24,
-      "createdAt": "2018-08-31T12:15:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8511",
+      "title": "SCP-8511",
+      "alternateTitle": "They Don’t Even Have Dental",
+      "rating": 12,
+      "createdAt": "2025-07-10T04:21:01.000Z",
       "tags": [
         "alive",
-        "electromagnetic",
-        "euclid",
-        "hostile",
+        "cognitohazard",
+        "doctor-cimmerian",
+        "doctor-gears",
         "humanoid",
-        "light",
-        "magnetic",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "JoseDzirehChong"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6083",
-      "title": "SCP-6083",
-      "alternateTitle": "A Pitiable Existence",
-      "rating": 11,
-      "createdAt": "2022-01-05T14:40:40.000Z",
-      "tags": [
-        "alive",
-        "humanoid",
+        "memetic",
         "mind-affecting",
-        "safe",
+        "neutralized",
         "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Tracque_"
+        "TV_Atlas"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
-      "title": "SCP-011-PT",
-      "alternateTitle": "Victoria stella",
-      "rating": 20,
-      "createdAt": "2018-10-17T06:08:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7062",
+      "title": "SCP-7062",
+      "alternateTitle": "A Heart Run Dry",
+      "rating": 24,
+      "createdAt": "2022-10-30T19:13:17.000Z",
       "tags": [
-        "aquatic",
-        "co-authored",
+        "biological",
+        "blood",
+        "neutralized",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Voiiiii"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-066",
+      "title": "SCP-PL-066",
+      "alternateTitle": "Trapdoor in a storeroom",
+      "rating": 24,
+      "createdAt": "2018-10-26T09:10:41.000Z",
+      "tags": [
         "euclid",
         "international",
         "location",
-        "memory-affecting",
-        "mind-affecting",
-        "plant",
+        "portal",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
+      "thumbnailUrl": "https://scp-pl.wdfiles.com/local--files/scp-pl-066/066.jpg",
       "authors": [
-        "Silvacrest",
-        "slashannemoo",
-        "slashannemoo"
+        "Dr_Blackpeace",
+        "ZeroStrider"
       ]
     }
   ]

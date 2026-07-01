@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T17:46:01.989Z",
+  "updatedAt": "2026-07-01T02:30:09.605Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,87 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8535",
-      "title": "SCP-8535",
-      "alternateTitle": "The Tarantula",
-      "rating": 15,
-      "createdAt": "2025-03-26T19:34:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3522",
+      "title": "SCP-3522",
+      "alternateTitle": "Black Body",
+      "rating": 24,
+      "createdAt": "2018-08-31T12:15:57.000Z",
       "tags": [
-        "action",
         "alive",
-        "anderson",
-        "animal",
-        "arachnid",
-        "artifact",
-        "biohazard",
-        "body-horror",
-        "chase",
-        "compulsion",
-        "cosmic-horror",
-        "d-11424",
-        "ethics-committee",
-        "global-occult-coalition",
-        "heartwarming",
-        "horror",
+        "electromagnetic",
+        "euclid",
         "hostile",
         "humanoid",
-        "illustrated",
-        "k-class-scenario",
-        "marshall-carter-and-dark",
-        "murder-monster",
-        "mystery",
-        "religious",
-        "reproductive",
+        "light",
+        "magnetic",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "JoseDzirehChong"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6083",
+      "title": "SCP-6083",
+      "alternateTitle": "A Pitiable Existence",
+      "rating": 11,
+      "createdAt": "2022-01-05T14:40:40.000Z",
+      "tags": [
+        "alive",
+        "humanoid",
+        "mind-affecting",
         "safe",
         "sapient",
-        "scp",
-        "sculpture",
-        "self-replicating",
-        "slice-of-life",
-        "thaumaturgy",
-        "three-portlands",
-        "transfiguration",
-        "uncontained",
-        "unusual-incidents-unit"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
+      "thumbnailUrl": "",
       "authors": [
-        "Doctor Scrappy"
+        "Tracque_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7276",
-      "title": "SCP-7276",
-      "alternateTitle": "Breathe Thy Hypocrisy.",
-      "rating": 11,
-      "createdAt": "2023-09-11T14:30:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
+      "title": "SCP-011-PT",
+      "alternateTitle": "Victoria stella",
+      "rating": 20,
+      "createdAt": "2018-10-17T06:08:07.000Z",
       "tags": [
-        "blood",
-        "safe",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7276/KNIFE/medium.jpg",
-      "authors": [
-        "Roufhous"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1329-ru-ex",
-      "title": "SCP-1329-RU-EX",
-      "alternateTitle": "A Little Big Adventure",
-      "rating": 14,
-      "createdAt": "2020-08-02T20:28:10.000Z",
-      "tags": [
-        "explained",
+        "aquatic",
+        "co-authored",
+        "euclid",
         "international",
         "location",
-        "scp",
-        "teleportation"
+        "memory-affecting",
+        "mind-affecting",
+        "plant",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-ru.wdfiles.com/local--files/scp-1329-ru-ex/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.gif",
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
       "authors": [
-        "Reherent"
+        "Silvacrest",
+        "slashannemoo",
+        "slashannemoo"
       ]
     }
   ]

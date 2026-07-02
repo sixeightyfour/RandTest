@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T10:27:42.740Z",
+  "updatedAt": "2026-07-02T17:25:44.427Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5129",
-      "title": "SCP-5129",
-      "alternateTitle": "The Light, The Heat (In Your Eyes)",
-      "rating": 19,
-      "createdAt": "2021-02-18T15:14:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-232-arc",
+      "title": "SCP-232-ARC",
+      "alternateTitle": "Sumerian Goddess of the Dead",
+      "rating": -19,
+      "createdAt": "2008-07-26T21:07:17.000Z",
       "tags": [
-        "cupid2021",
-        "extradimensional",
-        "location",
-        "meteorological",
+        "archaeological",
+        "archived",
+        "auditory",
+        "euclid",
+        "hallucination",
+        "humanoid",
+        "religious",
+        "rewrite",
+        "scp",
+        "sculpture",
+        "shadow",
+        "thermal"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-232-arc/SCP-232.jpg",
+      "authors": [
+        "Tara Unknown"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7189",
+      "title": "SCP-7189",
+      "alternateTitle": "To Die, Perhaps to Live Again",
+      "rating": 13,
+      "createdAt": "2023-09-01T04:01:00.000Z",
+      "tags": [
+        "animal",
+        "biological",
+        "bird",
+        "invertebrate",
+        "keter",
+        "plant",
+        "predatory",
+        "reanimation",
+        "remixcon2023",
+        "reptile",
+        "sapient",
+        "scp",
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Plilt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3842",
+      "title": "SCP-3842",
+      "alternateTitle": "Life-Emitting Diode",
+      "rating": 14,
+      "createdAt": "2018-02-22T02:11:10.000Z",
+      "tags": [
+        "ectoentropic",
+        "electrical",
+        "electronic",
+        "light",
         "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "VoidLady"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7659",
-      "title": "SCP-7659",
-      "alternateTitle": "The Workplace Crab Bucket",
-      "rating": 15,
-      "createdAt": "2025-07-13T02:05:37.000Z",
-      "tags": [
-        "anomalous-event",
-        "cadaver",
-        "classiccon2025",
-        "corporate",
-        "horror",
-        "humanoid",
-        "neutralized",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Dr Moned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 8,
-      "createdAt": "2019-09-18T20:05:38.000Z",
-      "tags": [
-        "action",
-        "artifact",
-        "bleak",
-        "cain",
-        "neutralized",
-        "scp",
-        "temporal",
-        "time-travel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Kaether"
+        "Axollyon"
       ]
     }
   ]

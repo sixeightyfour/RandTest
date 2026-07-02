@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T17:46:00.145Z",
+  "updatedAt": "2026-07-02T02:09:47.947Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8422",
-      "title": "SCP-8422",
-      "alternateTitle": "Forgotten Foundations",
-      "rating": 14,
-      "createdAt": "2025-12-22T03:33:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7642",
+      "title": "SCP-7642",
+      "alternateTitle": "A Monument To All Your Sins",
+      "rating": 19,
+      "createdAt": "2025-07-17T19:48:38.000Z",
       "tags": [
-        "abnormalities",
+        "daevite",
         "safe",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8422/alcatraz.jpg",
-      "authors": [
-        "CN Productions"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7167",
-      "title": "SCP-7167",
-      "alternateTitle": "The Carcinogenic Metropolis",
-      "rating": 17,
-      "createdAt": "2023-12-29T19:28:43.000Z",
-      "tags": [
-        "auditory",
-        "city",
-        "cognitohazard",
-        "euclid",
-        "mind-affecting",
-        "scp",
-        "self-replicating"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
-      "authors": [
-        "Mr Mcguffin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9191",
-      "title": "SCP-9191",
-      "alternateTitle": "Alarm clock of normalcy",
-      "rating": 15,
-      "createdAt": "2025-10-03T15:46:35.000Z",
-      "tags": [
-        "9000",
-        "artifact",
-        "esoteric-class",
-        "loop",
-        "mind-affecting",
-        "safe",
-        "science-fiction",
+        "sarkic",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/fragment:circledot-project-1/alarm-clock-6561371_1280.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "circledot"
+        "Nocturned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6388",
+      "title": "SCP-6388",
+      "alternateTitle": "It Comes From Outer Space!",
+      "rating": 15,
+      "createdAt": "2022-04-21T02:21:30.000Z",
+      "tags": [
+        "airborne",
+        "alive",
+        "extraterrestrial",
+        "humanoid",
+        "mechanical",
+        "mobile",
+        "neutralized",
+        "sapient",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6388/OuterSpace.jpg",
+      "authors": [
+        "Felixou"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8440",
+      "title": "SCP-8440",
+      "alternateTitle": "Clear as White",
+      "rating": 11,
+      "createdAt": "2024-02-16T00:48:07.000Z",
+      "tags": [
+        "8000",
+        "esoteric-class",
+        "extraterrestrial",
+        "gravity",
+        "humanoid",
+        "light",
+        "mind-affecting",
+        "scp",
+        "sun",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Strange Matter"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T02:09:47.947Z",
+  "updatedAt": "2026-07-02T10:27:42.740Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7642",
-      "title": "SCP-7642",
-      "alternateTitle": "A Monument To All Your Sins",
+      "url": "http://scp-wiki.wikidot.com/scp-5129",
+      "title": "SCP-5129",
+      "alternateTitle": "The Light, The Heat (In Your Eyes)",
       "rating": 19,
-      "createdAt": "2025-07-17T19:48:38.000Z",
+      "createdAt": "2021-02-18T15:14:30.000Z",
       "tags": [
-        "daevite",
+        "cupid2021",
+        "extradimensional",
+        "location",
+        "meteorological",
         "safe",
-        "sarkic",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nocturned"
+        "VoidLady"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6388",
-      "title": "SCP-6388",
-      "alternateTitle": "It Comes From Outer Space!",
+      "url": "http://scp-wiki.wikidot.com/scp-7659",
+      "title": "SCP-7659",
+      "alternateTitle": "The Workplace Crab Bucket",
       "rating": 15,
-      "createdAt": "2022-04-21T02:21:30.000Z",
+      "createdAt": "2025-07-13T02:05:37.000Z",
       "tags": [
-        "airborne",
-        "alive",
-        "extraterrestrial",
+        "anomalous-event",
+        "cadaver",
+        "classiccon2025",
+        "corporate",
+        "horror",
         "humanoid",
-        "mechanical",
-        "mobile",
         "neutralized",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6388/OuterSpace.jpg",
-      "authors": [
-        "Felixou"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8440",
-      "title": "SCP-8440",
-      "alternateTitle": "Clear as White",
-      "rating": 11,
-      "createdAt": "2024-02-16T00:48:07.000Z",
-      "tags": [
-        "8000",
-        "esoteric-class",
-        "extraterrestrial",
-        "gravity",
-        "humanoid",
-        "light",
-        "mind-affecting",
-        "scp",
-        "sun",
-        "uncontained"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Strange Matter"
+        "Dr Moned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4678",
+      "title": "SCP-4678",
+      "alternateTitle": "A Time and Place for Regret",
+      "rating": 8,
+      "createdAt": "2019-09-18T20:05:38.000Z",
+      "tags": [
+        "action",
+        "artifact",
+        "bleak",
+        "cain",
+        "neutralized",
+        "scp",
+        "temporal",
+        "time-travel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Kaether"
       ]
     }
   ]

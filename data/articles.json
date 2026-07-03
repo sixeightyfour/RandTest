@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T17:25:44.427Z",
+  "updatedAt": "2026-07-03T01:53:33.645Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-232-arc",
-      "title": "SCP-232-ARC",
-      "alternateTitle": "Sumerian Goddess of the Dead",
-      "rating": -19,
-      "createdAt": "2008-07-26T21:07:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6518",
+      "title": "SCP-6518",
+      "alternateTitle": "Hell is other People",
+      "rating": 10,
+      "createdAt": "2024-10-16T19:27:19.000Z",
       "tags": [
-        "archaeological",
-        "archived",
-        "auditory",
+        "abnormalities",
+        "building",
+        "cognitohazard",
+        "meta",
+        "narrative",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/hell-is-other-people/Bunker",
+      "authors": [
+        "Nylo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6923",
+      "title": "SCP-6923",
+      "alternateTitle": "Jonah and the W̶h̶a̶l̶e̶ Finnfolk",
+      "rating": 24,
+      "createdAt": "2024-12-30T22:26:53.000Z",
+      "tags": [
+        "art-exchange",
         "euclid",
-        "hallucination",
+        "finnfolk",
+        "fish",
         "humanoid",
-        "religious",
-        "rewrite",
-        "scp",
-        "sculpture",
-        "shadow",
-        "thermal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-232-arc/SCP-232.jpg",
-      "authors": [
-        "Tara Unknown"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7189",
-      "title": "SCP-7189",
-      "alternateTitle": "To Die, Perhaps to Live Again",
-      "rating": 13,
-      "createdAt": "2023-09-01T04:01:00.000Z",
-      "tags": [
-        "animal",
-        "biological",
-        "bird",
-        "invertebrate",
-        "keter",
-        "plant",
-        "predatory",
-        "reanimation",
-        "remixcon2023",
-        "reptile",
+        "illustrated",
         "sapient",
-        "scp",
-        "skeletal",
-        "teleportation"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Plilt"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3842",
-      "title": "SCP-3842",
-      "alternateTitle": "Life-Emitting Diode",
-      "rating": 14,
-      "createdAt": "2018-02-22T02:11:10.000Z",
-      "tags": [
-        "ectoentropic",
-        "electrical",
-        "electronic",
-        "light",
-        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6923/mitherarsteinn.png",
       "authors": [
-        "Axollyon"
+        "Deadcanons"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-149-ko",
+      "title": "SCP-149-KO",
+      "alternateTitle": "CC BY-NC-ND",
+      "rating": 14,
+      "createdAt": "2022-05-12T23:51:48.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "artistic",
+        "cognitohazard",
+        "international",
+        "light",
+        "ocular",
+        "safe",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-149-ko/scp4.png",
+      "authors": [
+        "fluxman"
       ]
     }
   ]

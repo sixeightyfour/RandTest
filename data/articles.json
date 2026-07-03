@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T01:53:33.645Z",
+  "updatedAt": "2026-07-03T10:25:40.747Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6518",
-      "title": "SCP-6518",
-      "alternateTitle": "Hell is other People",
-      "rating": 10,
-      "createdAt": "2024-10-16T19:27:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5532",
+      "title": "SCP-5532",
+      "alternateTitle": "The Town That Once Was",
+      "rating": 14,
+      "createdAt": "2021-03-24T02:54:41.000Z",
       "tags": [
-        "abnormalities",
-        "building",
-        "cognitohazard",
-        "meta",
-        "narrative",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/hell-is-other-people/Bunker",
-      "authors": [
-        "Nylo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6923",
-      "title": "SCP-6923",
-      "alternateTitle": "Jonah and the W̶h̶a̶l̶e̶ Finnfolk",
-      "rating": 24,
-      "createdAt": "2024-12-30T22:26:53.000Z",
-      "tags": [
-        "art-exchange",
-        "euclid",
-        "finnfolk",
-        "fish",
-        "humanoid",
-        "illustrated",
-        "sapient",
+        "city",
+        "jam-con2021",
+        "reality-bending",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6923/mitherarsteinn.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Deadcanons"
+        "Dr Moned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-149-ko",
-      "title": "SCP-149-KO",
-      "alternateTitle": "CC BY-NC-ND",
-      "rating": 14,
-      "createdAt": "2022-05-12T23:51:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7167",
+      "title": "SCP-7167",
+      "alternateTitle": "The Carcinogenic Metropolis",
+      "rating": 17,
+      "createdAt": "2023-12-29T19:28:43.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
+        "auditory",
+        "city",
         "cognitohazard",
-        "international",
-        "light",
-        "ocular",
-        "safe",
+        "euclid",
+        "mind-affecting",
         "scp",
-        "sensory",
-        "visual"
+        "self-replicating"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-149-ko/scp4.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
       "authors": [
-        "fluxman"
+        "Mr Mcguffin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6628",
+      "title": "SCP-6628",
+      "alternateTitle": "Some Time Apart",
+      "rating": 14,
+      "createdAt": "2022-09-29T18:51:24.000Z",
+      "tags": [
+        "clockwork",
+        "humanoid",
+        "intangible",
+        "neutralized",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cwazzycwafter"
       ]
     }
   ]

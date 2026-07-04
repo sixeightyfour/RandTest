@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T09:58:55.431Z",
+  "updatedAt": "2026-07-04T16:52:28.913Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7214",
-      "title": "SCP-7214",
-      "alternateTitle": "Banality",
-      "rating": 22,
-      "createdAt": "2023-07-14T05:22:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8697",
+      "title": "SCP-8697",
+      "alternateTitle": "Thine",
+      "rating": 17,
+      "createdAt": "2025-10-22T04:12:18.000Z",
       "tags": [
-        "acoustic",
-        "electrical",
-        "mind-affecting",
-        "olfactory",
-        "safe",
+        "alive",
+        "humanoid",
+        "neutralized",
+        "sapient",
         "scp",
-        "transfiguration"
+        "subterranean",
+        "surrealism"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
       "authors": [
-        "TheChunk"
+        "Anonymous"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6022",
-      "title": "SCP-6022",
-      "alternateTitle": "Of Two Different Natures",
-      "rating": 19,
-      "createdAt": "2021-05-31T13:42:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7665",
+      "title": "SCP-7665",
+      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
+      "rating": 20,
+      "createdAt": "2023-08-25T10:45:44.000Z",
       "tags": [
-        "6000",
-        "alive",
-        "animal",
-        "compulsion",
-        "dream",
-        "euclid",
-        "faerie",
+        "appliance",
+        "building",
+        "co-authored",
         "fantasy",
         "forest",
-        "location",
-        "memetic",
-        "microscopic",
-        "mythological",
+        "horror",
+        "infohazard",
+        "mystery",
         "nameless",
-        "plant",
-        "scp",
-        "snake",
-        "tree",
-        "visual"
+        "remixcon2023",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dark_Forest.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "dababyconvertible"
+        "Civil Western",
+        "Spacestealth"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8095",
-      "title": "SCP-8095",
-      "alternateTitle": "Calling out Valentine Grahmly",
-      "rating": 21,
-      "createdAt": "2024-06-18T14:25:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/chamomile82-s-proposal",
+      "title": "Chamomile82's Proposal",
+      "alternateTitle": "Endless Requiem",
+      "rating": 9,
+      "createdAt": "2024-04-15T15:04:03.000Z",
       "tags": [
-        "artificial-intelligence",
-        "illustrated",
-        "neutralized",
-        "online",
-        "sapient",
+        "001-proposal",
+        "international",
+        "keter",
+        "loop",
+        "predictive",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/reaction-video:the-foundation-censored-me/Valentine",
+      "thumbnailUrl": "",
       "authors": [
-        "DianaBerry"
+        "Chamomile82",
+        "fluxman"
       ]
     }
   ]

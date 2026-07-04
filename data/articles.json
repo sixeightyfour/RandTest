@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T17:11:53.941Z",
+  "updatedAt": "2026-07-04T01:52:55.100Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3419",
-      "title": "SCP-3419",
-      "alternateTitle": "Humants",
-      "rating": 14,
-      "createdAt": "2018-06-14T03:01:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6923",
+      "title": "SCP-6923",
+      "alternateTitle": "Jonah and the W̶h̶a̶l̶e̶ Finnfolk",
+      "rating": 24,
+      "createdAt": "2024-12-30T22:26:53.000Z",
       "tags": [
-        "alive",
-        "hive-mind",
-        "keter",
-        "scp",
-        "tool"
+        "art-exchange",
+        "euclid",
+        "finnfolk",
+        "fish",
+        "humanoid",
+        "illustrated",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6923/mitherarsteinn.png",
       "authors": [
-        "Choiwel"
+        "Deadcanons"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6841",
-      "title": "SCP-6841",
-      "alternateTitle": "Fourth Eye",
-      "rating": 13,
-      "createdAt": "2024-12-06T16:48:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7512",
+      "title": "SCP-7512",
+      "alternateTitle": "A Pound of Flesh",
+      "rating": 20,
+      "createdAt": "2023-08-26T22:26:24.000Z",
       "tags": [
-        "esoteric-class",
-        "foundation-made",
-        "meta",
-        "paradox",
+        "biological",
+        "cadaver",
+        "remixcon2023",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DreadnoughtGalaxy"
+        "fabuIa"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7871",
-      "title": "SCP-7871",
-      "alternateTitle": "Cracked at Fortnite",
+      "url": "http://scp-wiki.wikidot.com/scp-6544",
+      "title": "SCP-6544",
+      "alternateTitle": "四是",
       "rating": 19,
-      "createdAt": "2024-02-10T15:17:22.000Z",
+      "createdAt": "2022-06-17T10:20:12.000Z",
       "tags": [
-        "alive",
-        "euclid",
+        "biohazard",
+        "historical",
         "humanoid",
-        "sapient",
+        "keter",
         "scp",
-        "sensory",
-        "tactile",
-        "weapon"
+        "subterranean"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaywatty"
+        "Belakey"
       ]
     }
   ]

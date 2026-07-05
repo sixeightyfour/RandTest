@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T16:52:28.913Z",
+  "updatedAt": "2026-07-05T02:00:07.882Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8697",
-      "title": "SCP-8697",
-      "alternateTitle": "Thine",
-      "rating": 17,
-      "createdAt": "2025-10-22T04:12:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7263",
+      "title": "SCP-7263",
+      "alternateTitle": "I Saw the Sunset Over Seceda",
+      "rating": 24,
+      "createdAt": "2024-06-04T17:01:37.000Z",
       "tags": [
-        "alive",
-        "humanoid",
+        "mind-affecting",
         "neutralized",
-        "sapient",
+        "observational",
+        "pridefest2024",
         "scp",
-        "subterranean",
-        "surrealism"
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7263/Sunset.jpg",
       "authors": [
-        "Anonymous"
+        "IndustryStandard"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7665",
-      "title": "SCP-7665",
-      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
-      "rating": 20,
-      "createdAt": "2023-08-25T10:45:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-188-ko",
+      "title": "SCP-188-KO",
+      "alternateTitle": "Heart of the Earth",
+      "rating": 18,
+      "createdAt": "2022-05-12T07:33:21.000Z",
       "tags": [
-        "appliance",
-        "building",
-        "co-authored",
-        "fantasy",
-        "forest",
-        "horror",
-        "infohazard",
-        "mystery",
-        "nameless",
-        "remixcon2023",
+        "gravity",
+        "indestructible",
+        "international",
+        "k-class-scenario",
+        "keter",
+        "mechanical",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-188-ko/scp13.jpg",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5313",
+      "title": "SCP-5313",
+      "alternateTitle": "town of alma",
+      "rating": 23,
+      "createdAt": "2021-03-03T21:46:41.000Z",
+      "tags": [
+        "antimemetic",
+        "biological",
+        "chaos-insurgency",
+        "document",
+        "extradimensional",
+        "location",
+        "portal",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/www-yahoo/Beach_at_Historic_Jamestown_National_Park_-_Stierch.jpg",
       "authors": [
-        "Civil Western",
-        "Spacestealth"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/chamomile82-s-proposal",
-      "title": "Chamomile82's Proposal",
-      "alternateTitle": "Endless Requiem",
-      "rating": 9,
-      "createdAt": "2024-04-15T15:04:03.000Z",
-      "tags": [
-        "001-proposal",
-        "international",
-        "keter",
-        "loop",
-        "predictive",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Chamomile82",
-        "fluxman"
+        "www-yahoo"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T10:02:40.961Z",
+  "updatedAt": "2026-07-05T16:53:48.674Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7072",
-      "title": "SCP-7072",
-      "alternateTitle": "The Stalker",
-      "rating": 16,
-      "createdAt": "2023-12-25T23:16:39.000Z",
-      "tags": [
-        "esoteric-class",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ndheckfire-josh/Lloyd.png",
-      "authors": [
-        "NDHeckfire"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5645",
-      "title": "SCP-5645",
-      "alternateTitle": "The End of Nothing Special",
-      "rating": 14,
-      "createdAt": "2021-03-13T05:52:55.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
-        "humanoid",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Crashington"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7285",
-      "title": "SCP-7285",
-      "alternateTitle": "A simpler time",
-      "rating": 5,
-      "createdAt": "2023-01-20T15:03:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5262",
+      "title": "SCP-5262",
+      "alternateTitle": "It's Brittany Beach!",
+      "rating": 22,
+      "createdAt": "2021-03-22T21:44:46.000Z",
       "tags": [
         "alive",
-        "humanoid",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "reality-bending",
+        "animal",
+        "bird",
+        "jam-con2021",
         "safe",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "guiness11"
+        "Reyas"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7883",
+      "title": "SCP-7883",
+      "alternateTitle": "Bailan las Salitreras",
+      "rating": 23,
+      "createdAt": "2023-01-21T01:44:23.000Z",
+      "tags": [
+        "art-exchange",
+        "auditory",
+        "city",
+        "ghost",
+        "hallucination",
+        "historical",
+        "humanoid",
+        "intangible",
+        "safe",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
+      "authors": [
+        "Maxyfran73"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7208",
+      "title": "SCP-7208",
+      "alternateTitle": "The Dice Always Land",
+      "rating": 23,
+      "createdAt": "2022-07-25T19:05:57.000Z",
+      "tags": [
+        "7000",
+        "concept",
+        "esoteric-class",
+        "k-class-scenario",
+        "meta",
+        "narrative",
+        "predictive",
+        "probability",
+        "reality-bending",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7208/Burning_Ship_Fractal.png",
+      "authors": [
+        "Agent Henson"
       ]
     }
   ]

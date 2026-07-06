@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T02:06:17.225Z",
+  "updatedAt": "2026-07-06T11:54:03.134Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,56 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-078",
-      "title": "SCP-PL-078",
-      "alternateTitle": "Earrings of Instant Meetup",
-      "rating": 20,
-      "createdAt": "2018-10-16T06:15:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9170",
+      "title": "SCP-9170",
+      "alternateTitle": "No. 17 Gorse Avenue",
+      "rating": 6,
+      "createdAt": "2025-10-01T23:17:55.000Z",
       "tags": [
-        "artifact",
-        "international",
+        "9000",
+        "building",
+        "infohazard",
+        "mathematical",
+        "neurological",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "TeaAndDigestives"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6949",
+      "title": "SCP-6949",
+      "alternateTitle": "Money Doesn't Grow on Trees",
+      "rating": 18,
+      "createdAt": "2022-04-30T22:42:09.000Z",
+      "tags": [
+        "alive",
+        "currency",
+        "euclid",
+        "plant",
+        "scp",
+        "tree"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Blue Foot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5823",
+      "title": "SCP-5823",
+      "alternateTitle": "Conservatives and Coal Mines",
+      "rating": 17,
+      "createdAt": "2021-12-17T22:47:36.000Z",
+      "tags": [
+        "biological",
+        "british-occult-service",
+        "humanoid",
         "safe",
         "scp",
-        "teleportation"
+        "self-repairing",
+        "structure",
+        "subterranean"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ZeroStrider",
-        "ZeroStrider"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8415",
-      "title": "SCP-8415",
-      "alternateTitle": "Trust No One",
-      "rating": 11,
-      "createdAt": "2025-08-23T22:11:13.000Z",
-      "tags": [
-        "cognitohazard",
-        "keter",
-        "memetic",
-        "mystery",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Lucas667"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6309",
-      "title": "SCP-6309",
-      "alternateTitle": "Erase",
-      "rating": 14,
-      "createdAt": "2022-02-13T01:18:55.000Z",
-      "tags": [
-        "meta",
-        "neutralized",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "stop1010"
+        "LightlessLantern"
       ]
     }
   ]

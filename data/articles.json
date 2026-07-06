@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T16:53:48.674Z",
+  "updatedAt": "2026-07-06T02:06:17.225Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,56 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5262",
-      "title": "SCP-5262",
-      "alternateTitle": "It's Brittany Beach!",
-      "rating": 22,
-      "createdAt": "2021-03-22T21:44:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-078",
+      "title": "SCP-PL-078",
+      "alternateTitle": "Earrings of Instant Meetup",
+      "rating": 20,
+      "createdAt": "2018-10-16T06:15:44.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "bird",
-        "jam-con2021",
+        "artifact",
+        "international",
         "safe",
-        "sapient",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ZeroStrider",
+        "ZeroStrider"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8415",
+      "title": "SCP-8415",
+      "alternateTitle": "Trust No One",
+      "rating": 11,
+      "createdAt": "2025-08-23T22:11:13.000Z",
+      "tags": [
+        "cognitohazard",
+        "keter",
+        "memetic",
+        "mystery",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Reyas"
+        "Lucas667"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7883",
-      "title": "SCP-7883",
-      "alternateTitle": "Bailan las Salitreras",
-      "rating": 23,
-      "createdAt": "2023-01-21T01:44:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6309",
+      "title": "SCP-6309",
+      "alternateTitle": "Erase",
+      "rating": 14,
+      "createdAt": "2022-02-13T01:18:55.000Z",
       "tags": [
-        "art-exchange",
-        "auditory",
-        "city",
-        "ghost",
-        "hallucination",
-        "historical",
-        "humanoid",
-        "intangible",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
-      "authors": [
-        "Maxyfran73"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7208",
-      "title": "SCP-7208",
-      "alternateTitle": "The Dice Always Land",
-      "rating": 23,
-      "createdAt": "2022-07-25T19:05:57.000Z",
-      "tags": [
-        "7000",
-        "concept",
-        "esoteric-class",
-        "k-class-scenario",
         "meta",
-        "narrative",
-        "predictive",
-        "probability",
-        "reality-bending",
-        "scp",
-        "uncontained"
+        "neutralized",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7208/Burning_Ship_Fractal.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Agent Henson"
+        "stop1010"
       ]
     }
   ]

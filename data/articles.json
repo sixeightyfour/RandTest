@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:01:19.211Z",
+  "updatedAt": "2026-07-07T10:44:24.342Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6148",
-      "title": "SCP-6148",
-      "alternateTitle": "The Trees Have Eyes",
-      "rating": 7,
-      "createdAt": "2022-02-01T06:07:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7465",
+      "title": "SCP-7465",
+      "alternateTitle": "\"Superseded Theories of the Solar System\"",
+      "rating": 8,
+      "createdAt": "2022-10-08T22:37:33.000Z",
       "tags": [
-        "alive",
-        "ectoentropic",
+        "building",
+        "empathic",
         "euclid",
-        "knowledge",
-        "memory-affecting",
+        "hostile",
         "mind-affecting",
-        "narrative",
-        "plant",
-        "scp",
-        "transfiguration",
-        "tree"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Draconocor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8304",
-      "title": "SCP-8304",
-      "alternateTitle": "Death of the Otter",
-      "rating": 22,
-      "createdAt": "2025-12-30T21:29:26.000Z",
-      "tags": [
-        "animal",
-        "are-we-cool-yet",
-        "cadaver",
-        "media",
-        "mind-affecting",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DappledDaspletosaur"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-289-de",
-      "title": "SCP-289-DE",
-      "alternateTitle": "The Great Bazoo",
-      "rating": 11,
-      "createdAt": "2023-05-10T19:48:47.000Z",
-      "tags": [
-        "humanoid",
-        "international",
-        "keter",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Gramlin"
+        "redredred"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7121",
+      "title": "SCP-7121",
+      "alternateTitle": "come, the pale wind's hound",
+      "rating": 6,
+      "createdAt": "2025-08-23T18:27:11.000Z",
+      "tags": [
+        "extradimensional",
+        "hostile",
+        "keter",
+        "murder-monster",
+        "predatory",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
+      "authors": [
+        "foxgirlknives"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8392",
+      "title": "SCP-8392",
+      "alternateTitle": "Together again, and again, and again…",
+      "rating": 22,
+      "createdAt": "2025-09-11T14:47:28.000Z",
+      "tags": [
+        "bleak",
+        "electromagnetic",
+        "humanoid",
+        "meteorological",
+        "safe",
+        "sapient",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
+      "authors": [
+        "Tiamat Elsen"
       ]
     }
   ]

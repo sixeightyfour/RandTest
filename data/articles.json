@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T18:03:30.065Z",
+  "updatedAt": "2026-07-07T02:01:19.211Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8224",
-      "title": "SCP-8224",
-      "alternateTitle": "Of Idiots and Wands",
-      "rating": 24,
-      "createdAt": "2024-12-28T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6148",
+      "title": "SCP-6148",
+      "alternateTitle": "The Trees Have Eyes",
+      "rating": 7,
+      "createdAt": "2022-02-01T06:07:56.000Z",
       "tags": [
-        "art-exchange",
-        "artifact",
-        "broken-masquerade",
-        "comedy",
-        "safe",
+        "alive",
+        "ectoentropic",
+        "euclid",
+        "knowledge",
+        "memory-affecting",
+        "mind-affecting",
+        "narrative",
+        "plant",
         "scp",
-        "thaumaturgy"
+        "transfiguration",
+        "tree"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/art-exchange-gift-for-felixou/Magic_Trick_Wand.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Nickthebrick1"
+        "Draconocor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8950",
-      "title": "SCP-8950",
-      "alternateTitle": "Itsy",
-      "rating": 8,
-      "createdAt": "2024-11-17T23:40:06.000Z",
-      "tags": [
-        "arachnid",
-        "body-horror",
-        "horror",
-        "murder-monster",
-        "mystery",
-        "pending",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
-      "authors": [
-        "Doctor Scrappy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8738",
-      "title": "SCP-8738",
-      "alternateTitle": "Prion Arterial Synthesis",
+      "url": "http://scp-wiki.wikidot.com/scp-8304",
+      "title": "SCP-8304",
+      "alternateTitle": "Death of the Otter",
       "rating": 22,
-      "createdAt": "2025-07-06T10:44:02.000Z",
+      "createdAt": "2025-12-30T21:29:26.000Z",
       "tags": [
-        "antimemetic",
-        "biohazard",
-        "biological",
-        "blood",
-        "classiccon2025",
-        "contagion",
-        "keter",
-        "microscopic",
+        "animal",
+        "are-we-cool-yet",
+        "cadaver",
+        "media",
+        "mind-affecting",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://destinox.wdfiles.com/local--files/prion/imagen_2025-06-29_031734279.png",
+      "thumbnailUrl": "",
       "authors": [
-        "DiexC"
+        "DappledDaspletosaur"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-289-de",
+      "title": "SCP-289-DE",
+      "alternateTitle": "The Great Bazoo",
+      "rating": 11,
+      "createdAt": "2023-05-10T19:48:47.000Z",
+      "tags": [
+        "humanoid",
+        "international",
+        "keter",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
+      "authors": [
+        "Gramlin"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T10:44:24.342Z",
+  "updatedAt": "2026-07-07T17:50:33.136Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7465",
-      "title": "SCP-7465",
-      "alternateTitle": "\"Superseded Theories of the Solar System\"",
-      "rating": 8,
-      "createdAt": "2022-10-08T22:37:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7456",
+      "title": "SCP-7456",
+      "alternateTitle": "A Bunch of Morons",
+      "rating": 15,
+      "createdAt": "2024-12-16T19:38:22.000Z",
       "tags": [
+        "alive",
+        "artificial-intelligence",
         "building",
-        "empathic",
-        "euclid",
-        "hostile",
-        "mind-affecting",
+        "cognitohazard",
+        "extraterrestrial",
+        "humanoid",
+        "safe",
         "sapient",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "redredred"
+        "Captain_Wavzies"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7121",
-      "title": "SCP-7121",
-      "alternateTitle": "come, the pale wind's hound",
-      "rating": 6,
-      "createdAt": "2025-08-23T18:27:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5823",
+      "title": "SCP-5823",
+      "alternateTitle": "Conservatives and Coal Mines",
+      "rating": 17,
+      "createdAt": "2021-12-17T22:47:36.000Z",
       "tags": [
-        "extradimensional",
-        "hostile",
-        "keter",
-        "murder-monster",
-        "predatory",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
-      "authors": [
-        "foxgirlknives"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8392",
-      "title": "SCP-8392",
-      "alternateTitle": "Together again, and again, and again…",
-      "rating": 22,
-      "createdAt": "2025-09-11T14:47:28.000Z",
-      "tags": [
-        "bleak",
-        "electromagnetic",
+        "biological",
+        "british-occult-service",
         "humanoid",
-        "meteorological",
         "safe",
+        "scp",
+        "self-repairing",
+        "structure",
+        "subterranean"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "LightlessLantern"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3580",
+      "title": "SCP-3580",
+      "alternateTitle": "Honor In Blood",
+      "rating": 18,
+      "createdAt": "2024-01-29T16:50:18.000Z",
+      "tags": [
+        "extremity",
+        "hostile",
+        "humanoid",
+        "keter",
         "sapient",
         "scp",
-        "transfiguration"
+        "thaumaturgy",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-3580-0/Prosthetic/medium.jpg",
       "authors": [
-        "Tiamat Elsen"
+        "Roufhous"
       ]
     }
   ]

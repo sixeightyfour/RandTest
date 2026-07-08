@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T01:42:26.073Z",
+  "updatedAt": "2026-07-08T10:06:05.198Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,42 +8,46 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6841",
-      "title": "SCP-6841",
-      "alternateTitle": "Fourth Eye",
-      "rating": 13,
-      "createdAt": "2024-12-06T16:48:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
+      "title": "SCP-011-PT",
+      "alternateTitle": "Victoria stella",
+      "rating": 20,
+      "createdAt": "2018-10-17T06:08:07.000Z",
       "tags": [
-        "esoteric-class",
-        "foundation-made",
-        "meta",
-        "paradox",
+        "aquatic",
+        "co-authored",
+        "euclid",
+        "international",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "plant",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
       "authors": [
-        "DreadnoughtGalaxy"
+        "Silvacrest",
+        "slashannemoo",
+        "slashannemoo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6674",
-      "title": "SCP-6674",
-      "alternateTitle": "Where Are We Going?",
-      "rating": 13,
-      "createdAt": "2023-12-23T20:59:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3971",
+      "title": "SCP-3971",
+      "alternateTitle": "Utility Closet SB3-117a",
+      "rating": 23,
+      "createdAt": "2018-07-15T17:31:51.000Z",
       "tags": [
+        "artifact",
         "extradimensional",
-        "keter",
-        "memetic",
-        "military",
+        "portal",
+        "safe",
         "scp",
-        "teleportation",
-        "uncontained",
-        "weapon"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/B-17F_Radar_Bombing_over_Germany_1943.jpg?width=959&height=210",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
       "authors": [
-        "DL_Baryonyx"
+        "IsaacTalman"
       ]
     },
     {

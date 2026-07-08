@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T10:06:05.198Z",
+  "updatedAt": "2026-07-08T17:18:10.385Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
-      "title": "SCP-011-PT",
-      "alternateTitle": "Victoria stella",
-      "rating": 20,
-      "createdAt": "2018-10-17T06:08:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-3320",
+      "title": "SCP-CN-3320",
+      "alternateTitle": "Step Parents",
+      "rating": 5,
+      "createdAt": "2024-09-10T17:31:24.000Z",
       "tags": [
-        "aquatic",
-        "co-authored",
-        "euclid",
+        "alive",
+        "esoteric-class",
+        "humanoid",
         "international",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "plant",
+        "loop",
+        "reanimation",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
+      "thumbnailUrl": "http://scpsandboxcn.wikidot.com/local--files/jianqiaohehongdezuozheye/%E6%96%87-%E9%A1%B9%E7%9B%AE-CN3320-%E5%AE%B6",
       "authors": [
-        "Silvacrest",
-        "slashannemoo",
-        "slashannemoo"
+        "Mahashi Kazuhiro",
+        "AlienSpaceBat"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3971",
-      "title": "SCP-3971",
-      "alternateTitle": "Utility Closet SB3-117a",
-      "rating": 23,
-      "createdAt": "2018-07-15T17:31:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9027",
+      "title": "SCP-9027",
+      "alternateTitle": "The Beginning Of The End",
+      "rating": 13,
+      "createdAt": "2025-09-26T12:27:53.000Z",
       "tags": [
-        "artifact",
-        "extradimensional",
-        "portal",
+        "9000",
+        "apocalyptic",
+        "bleak",
+        "cognitohazard",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "mystery",
+        "phenomenon",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7818",
+      "title": "SCP-7818",
+      "alternateTitle": "The Promise",
+      "rating": 24,
+      "createdAt": "2023-05-25T00:02:39.000Z",
+      "tags": [
+        "antimemetic",
+        "co-authored",
+        "concept",
+        "goblincon2023",
+        "jewelry",
+        "mind-affecting",
+        "photographic",
         "safe",
-        "scp",
-        "teleportation"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7818/locket/medium.jpg",
       "authors": [
-        "IsaacTalman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
-      "title": "SCP-PL-273",
-      "alternateTitle": "The Pepsi Fleet",
-      "rating": 21,
-      "createdAt": "2023-06-24T13:25:06.000Z",
-      "tags": [
-        "aquatic",
-        "corporate",
-        "esoteric-class",
-        "from-120s-archives",
-        "gru-division-p",
-        "historical",
-        "international",
-        "marshall-carter-and-dark",
-        "military",
-        "ruprecht-carter",
-        "scp",
-        "simon-pietrykau",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
-      "authors": [
-        "Jasiu06",
-        "KubKac"
+        "DianaBerry",
+        "JorgeMtzb",
+        "Marceline_Raynes",
+        "The_Spider_Queen"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T17:50:33.136Z",
+  "updatedAt": "2026-07-08T01:42:26.073Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7456",
-      "title": "SCP-7456",
-      "alternateTitle": "A Bunch of Morons",
-      "rating": 15,
-      "createdAt": "2024-12-16T19:38:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6841",
+      "title": "SCP-6841",
+      "alternateTitle": "Fourth Eye",
+      "rating": 13,
+      "createdAt": "2024-12-06T16:48:54.000Z",
       "tags": [
-        "alive",
-        "artificial-intelligence",
-        "building",
-        "cognitohazard",
-        "extraterrestrial",
-        "humanoid",
-        "safe",
-        "sapient",
-        "science-fiction",
+        "esoteric-class",
+        "foundation-made",
+        "meta",
+        "paradox",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Captain_Wavzies"
+        "DreadnoughtGalaxy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5823",
-      "title": "SCP-5823",
-      "alternateTitle": "Conservatives and Coal Mines",
-      "rating": 17,
-      "createdAt": "2021-12-17T22:47:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6674",
+      "title": "SCP-6674",
+      "alternateTitle": "Where Are We Going?",
+      "rating": 13,
+      "createdAt": "2023-12-23T20:59:05.000Z",
       "tags": [
-        "biological",
-        "british-occult-service",
-        "humanoid",
-        "safe",
-        "scp",
-        "self-repairing",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "LightlessLantern"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3580",
-      "title": "SCP-3580",
-      "alternateTitle": "Honor In Blood",
-      "rating": 18,
-      "createdAt": "2024-01-29T16:50:18.000Z",
-      "tags": [
-        "extremity",
-        "hostile",
-        "humanoid",
+        "extradimensional",
         "keter",
-        "sapient",
+        "memetic",
+        "military",
         "scp",
-        "thaumaturgy",
-        "uncontained"
+        "teleportation",
+        "uncontained",
+        "weapon"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-3580-0/Prosthetic/medium.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/B-17F_Radar_Bombing_over_Germany_1943.jpg?width=959&height=210",
       "authors": [
-        "Roufhous"
+        "DL_Baryonyx"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
+      "title": "SCP-PL-273",
+      "alternateTitle": "The Pepsi Fleet",
+      "rating": 21,
+      "createdAt": "2023-06-24T13:25:06.000Z",
+      "tags": [
+        "aquatic",
+        "corporate",
+        "esoteric-class",
+        "from-120s-archives",
+        "gru-division-p",
+        "historical",
+        "international",
+        "marshall-carter-and-dark",
+        "military",
+        "ruprecht-carter",
+        "scp",
+        "simon-pietrykau",
+        "uncontained",
+        "vehicle"
+      ],
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
+      "authors": [
+        "Jasiu06",
+        "KubKac"
       ]
     }
   ]

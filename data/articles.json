@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T17:18:10.385Z",
+  "updatedAt": "2026-07-09T01:52:57.422Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-3320",
-      "title": "SCP-CN-3320",
-      "alternateTitle": "Step Parents",
-      "rating": 5,
-      "createdAt": "2024-09-10T17:31:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-275-de",
+      "title": "SCP-275-DE",
+      "alternateTitle": "Cleaning Robot BEA",
+      "rating": 8,
+      "createdAt": "2022-10-24T16:05:01.000Z",
       "tags": [
-        "alive",
-        "esoteric-class",
-        "humanoid",
+        "autonomous",
+        "euclid",
         "international",
-        "loop",
-        "reanimation",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpsandboxcn.wikidot.com/local--files/jianqiaohehongdezuozheye/%E6%96%87-%E9%A1%B9%E7%9B%AE-CN3320-%E5%AE%B6",
-      "authors": [
-        "Mahashi Kazuhiro",
-        "AlienSpaceBat"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9027",
-      "title": "SCP-9027",
-      "alternateTitle": "The Beginning Of The End",
-      "rating": 13,
-      "createdAt": "2025-09-26T12:27:53.000Z",
-      "tags": [
-        "9000",
-        "apocalyptic",
-        "bleak",
-        "cognitohazard",
-        "keter",
-        "memetic",
-        "mind-affecting",
-        "mystery",
-        "phenomenon",
+        "mechanical",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Lucas667"
+        "Gramlin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7818",
-      "title": "SCP-7818",
-      "alternateTitle": "The Promise",
-      "rating": 24,
-      "createdAt": "2023-05-25T00:02:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-130",
+      "title": "SCP-PL-130",
+      "alternateTitle": "",
+      "rating": 1,
+      "createdAt": "2025-07-03T07:33:32.000Z",
       "tags": [
-        "antimemetic",
-        "co-authored",
-        "concept",
-        "goblincon2023",
-        "jewelry",
-        "mind-affecting",
-        "photographic",
-        "safe",
+        "autonomous",
+        "biological",
+        "euclid",
+        "humanoid",
+        "international",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7818/locket/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "DianaBerry",
-        "JorgeMtzb",
-        "Marceline_Raynes",
-        "The_Spider_Queen"
+        "IkraZeron"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8819",
+      "title": "SCP-8819",
+      "alternateTitle": "The Beaches Where My Mother Grew Up",
+      "rating": 22,
+      "createdAt": "2025-08-24T02:09:41.000Z",
+      "tags": [
+        "humanoid",
+        "intangible",
+        "lgbtq",
+        "ritual",
+        "safe",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "authors": [
+        "hi im stel"
       ]
     }
   ]

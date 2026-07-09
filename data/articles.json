@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T10:50:28.331Z",
+  "updatedAt": "2026-07-09T17:46:32.334Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8202",
-      "title": "SCP-8202",
-      "alternateTitle": "Enemies from Within",
-      "rating": 17,
-      "createdAt": "2024-08-15T06:53:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5568",
+      "title": "SCP-5568",
+      "alternateTitle": "What Friends Are For",
+      "rating": 20,
+      "createdAt": "2022-03-14T02:45:22.000Z",
       "tags": [
-        "airborne",
-        "biological",
-        "cadaver",
-        "extraterrestrial",
+        "auditory",
+        "euclid",
+        "hallucination",
         "humanoid",
-        "reptile",
-        "safe",
+        "intangible",
+        "sapient",
         "scp",
-        "spatial",
-        "vehicle"
+        "sensory",
+        "tactile",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Delta_Nine"
+        "DesertMoonGW"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7057",
-      "title": "SCP-7057",
-      "alternateTitle": "A Person?",
-      "rating": 24,
-      "createdAt": "2022-09-17T07:34:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8040",
+      "title": "SCP-8040",
+      "alternateTitle": "Diviner's Mug",
+      "rating": 18,
+      "createdAt": "2024-03-13T14:49:58.000Z",
       "tags": [
-        "ethics-committee",
-        "euclid",
-        "extradimensional",
-        "genetic",
-        "humanoid",
-        "metamorphic",
+        "predictive",
+        "safe",
+        "scp",
+        "telekinetic",
+        "tool"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8040/cup-with-coffee.jpg",
+      "authors": [
+        "Dr Talcite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6887",
+      "title": "SCP-6887",
+      "alternateTitle": "Remember Us",
+      "rating": 13,
+      "createdAt": "2022-10-25T00:41:51.000Z",
+      "tags": [
+        "artifact",
+        "historical",
+        "portal",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "FacelessPolarBear"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5930",
-      "title": "SCP-5930",
-      "alternateTitle": "Just a story",
-      "rating": 20,
-      "createdAt": "2025-01-19T19:24:35.000Z",
-      "tags": [
-        "acoustic",
-        "animal",
-        "deer",
-        "euclid",
-        "horror",
-        "hostile",
-        "meteorological",
-        "phenomenon",
-        "psychological-horror",
-        "scp",
-        "sensory"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/brunzell2/Lunndo%CC%88rrsstugan.jpg",
-      "authors": [
-        "Nils Severin"
+        "DukeRum"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T01:52:57.422Z",
+  "updatedAt": "2026-07-09T10:50:28.331Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-275-de",
-      "title": "SCP-275-DE",
-      "alternateTitle": "Cleaning Robot BEA",
-      "rating": 8,
-      "createdAt": "2022-10-24T16:05:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8202",
+      "title": "SCP-8202",
+      "alternateTitle": "Enemies from Within",
+      "rating": 17,
+      "createdAt": "2024-08-15T06:53:43.000Z",
       "tags": [
-        "autonomous",
-        "euclid",
-        "international",
-        "mechanical",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Gramlin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-130",
-      "title": "SCP-PL-130",
-      "alternateTitle": "",
-      "rating": 1,
-      "createdAt": "2025-07-03T07:33:32.000Z",
-      "tags": [
-        "autonomous",
+        "airborne",
         "biological",
-        "euclid",
+        "cadaver",
+        "extraterrestrial",
         "humanoid",
-        "international",
-        "sapient",
+        "reptile",
+        "safe",
+        "scp",
+        "spatial",
+        "vehicle"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Delta_Nine"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7057",
+      "title": "SCP-7057",
+      "alternateTitle": "A Person?",
+      "rating": 24,
+      "createdAt": "2022-09-17T07:34:35.000Z",
+      "tags": [
+        "ethics-committee",
+        "euclid",
+        "extradimensional",
+        "genetic",
+        "humanoid",
+        "metamorphic",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "IkraZeron"
+        "FacelessPolarBear"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8819",
-      "title": "SCP-8819",
-      "alternateTitle": "The Beaches Where My Mother Grew Up",
-      "rating": 22,
-      "createdAt": "2025-08-24T02:09:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5930",
+      "title": "SCP-5930",
+      "alternateTitle": "Just a story",
+      "rating": 20,
+      "createdAt": "2025-01-19T19:24:35.000Z",
       "tags": [
-        "humanoid",
-        "intangible",
-        "lgbtq",
-        "ritual",
-        "safe",
-        "sapient",
+        "acoustic",
+        "animal",
+        "deer",
+        "euclid",
+        "horror",
+        "hostile",
+        "meteorological",
+        "phenomenon",
+        "psychological-horror",
         "scp",
-        "thaumaturgy"
+        "sensory"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/brunzell2/Lunndo%CC%88rrsstugan.jpg",
       "authors": [
-        "hi im stel"
+        "Nils Severin"
       ]
     }
   ]

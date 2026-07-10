@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T01:51:51.961Z",
+  "updatedAt": "2026-07-10T10:43:47.267Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7368",
-      "title": "SCP-7368",
-      "alternateTitle": "A Story of Time, Love and Opium",
-      "rating": 10,
-      "createdAt": "2024-02-12T19:31:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8559",
+      "title": "SCP-8559",
+      "alternateTitle": "Perfectly Illegal",
+      "rating": 17,
+      "createdAt": "2025-09-03T09:26:24.000Z",
       "tags": [
-        "cadaver",
-        "children-of-the-night",
-        "mystery",
-        "neutralized",
-        "religious",
-        "religious-fiction",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "temporal",
-        "thad-xyank",
-        "time-travel"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
-      "authors": [
-        "alanthechair"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8873",
-      "title": "SCP-8873",
-      "alternateTitle": "Lament of the Land",
-      "rating": 15,
-      "createdAt": "2025-07-12T21:28:28.000Z",
-      "tags": [
-        "classiccon2025",
-        "mind-affecting",
-        "neurological",
-        "phenomenon",
-        "plant",
-        "political",
-        "safe",
-        "scp",
-        "surrealism"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8873/scp-8873.png",
-      "authors": [
-        "fairydoctor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6395",
-      "title": "SCP-6395",
-      "alternateTitle": "Thoughts are Overrated",
-      "rating": 20,
-      "createdAt": "2022-04-18T21:12:52.000Z",
-      "tags": [
-        "alive",
+        "cernunnos",
         "euclid",
-        "hive-mind",
-        "humanoid",
-        "mind-affecting",
-        "sapient",
+        "hostile",
+        "legal",
+        "phenomenon",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Ruskied"
+        "Zera27"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8521",
+      "title": "SCP-8521",
+      "alternateTitle": "The Past is Fully Present",
+      "rating": 5,
+      "createdAt": "2025-07-09T01:18:21.000Z",
+      "tags": [
+        "artifact",
+        "classiccon2025",
+        "dream",
+        "horror",
+        "mind-affecting",
+        "neurological",
+        "psychological-horror",
+        "safe",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "LorenZo V"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1017-ko",
+      "title": "SCP-1017-KO",
+      "alternateTitle": "Teeth Change",
+      "rating": 14,
+      "createdAt": "2022-12-11T14:49:39.000Z",
+      "tags": [
+        "dental",
+        "extraterrestrial",
+        "international",
+        "keter",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpkosb.wikidot.com/local--files/draft:sycop-23-5043/Psychodentistry.png",
+      "authors": [
+        "fluxman"
       ]
     }
   ]

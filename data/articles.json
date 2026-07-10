@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T17:46:32.334Z",
+  "updatedAt": "2026-07-10T01:51:51.961Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5568",
-      "title": "SCP-5568",
-      "alternateTitle": "What Friends Are For",
-      "rating": 20,
-      "createdAt": "2022-03-14T02:45:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7368",
+      "title": "SCP-7368",
+      "alternateTitle": "A Story of Time, Love and Opium",
+      "rating": 10,
+      "createdAt": "2024-02-12T19:31:55.000Z",
       "tags": [
-        "auditory",
-        "euclid",
-        "hallucination",
-        "humanoid",
-        "intangible",
+        "cadaver",
+        "children-of-the-night",
+        "mystery",
+        "neutralized",
+        "religious",
+        "religious-fiction",
         "sapient",
+        "science-fiction",
         "scp",
-        "sensory",
-        "tactile",
-        "visual"
+        "temporal",
+        "thad-xyank",
+        "time-travel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
       "authors": [
-        "DesertMoonGW"
+        "alanthechair"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8040",
-      "title": "SCP-8040",
-      "alternateTitle": "Diviner's Mug",
-      "rating": 18,
-      "createdAt": "2024-03-13T14:49:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8873",
+      "title": "SCP-8873",
+      "alternateTitle": "Lament of the Land",
+      "rating": 15,
+      "createdAt": "2025-07-12T21:28:28.000Z",
       "tags": [
-        "predictive",
+        "classiccon2025",
+        "mind-affecting",
+        "neurological",
+        "phenomenon",
+        "plant",
+        "political",
         "safe",
         "scp",
-        "telekinetic",
-        "tool"
+        "surrealism"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8040/cup-with-coffee.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8873/scp-8873.png",
       "authors": [
-        "Dr Talcite"
+        "fairydoctor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 13,
-      "createdAt": "2022-10-25T00:41:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6395",
+      "title": "SCP-6395",
+      "alternateTitle": "Thoughts are Overrated",
+      "rating": 20,
+      "createdAt": "2022-04-18T21:12:52.000Z",
       "tags": [
-        "artifact",
-        "historical",
-        "portal",
-        "safe",
+        "alive",
+        "euclid",
+        "hive-mind",
+        "humanoid",
+        "mind-affecting",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
       "authors": [
-        "DukeRum"
+        "Ruskied"
       ]
     }
   ]

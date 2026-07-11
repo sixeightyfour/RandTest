@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T17:39:40.105Z",
+  "updatedAt": "2026-07-11T01:41:34.556Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,97 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8794",
-      "title": "SCP-8794",
-      "alternateTitle": "Monster Of The Week",
-      "rating": 12,
-      "createdAt": "2024-11-23T21:14:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7057",
+      "title": "SCP-7057",
+      "alternateTitle": "A Person?",
+      "rating": 24,
+      "createdAt": "2022-09-17T07:34:35.000Z",
+      "tags": [
+        "ethics-committee",
+        "euclid",
+        "extradimensional",
+        "genetic",
+        "humanoid",
+        "metamorphic",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "FacelessPolarBear"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7116",
+      "title": "SCP-7116",
+      "alternateTitle": "Frequency Modulation 182.3",
+      "rating": 5,
+      "createdAt": "2023-01-26T11:05:39.000Z",
       "tags": [
         "alive",
-        "building",
-        "forest",
+        "electronic",
+        "euclid",
+        "hostile",
         "humanoid",
-        "keter",
-        "reality-bending",
+        "location",
         "sapient",
         "scp",
-        "self-repairing"
+        "spatial",
+        "structure",
+        "subterranean",
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8794/haus.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
       "authors": [
-        "The Awesomest Man"
+        "Dr K Parker"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-048-arc",
-      "title": "SCP-048-ARC",
-      "alternateTitle": "\"Joey\"",
-      "rating": -61,
-      "createdAt": "2009-01-21T19:01:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8535",
+      "title": "SCP-8535",
+      "alternateTitle": "The Tarantula",
+      "rating": 15,
+      "createdAt": "2025-03-26T19:34:50.000Z",
       "tags": [
+        "action",
         "alive",
+        "anderson",
         "animal",
-        "archived",
-        "canine",
-        "euclid",
-        "neutralized",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Dr Gears"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7512",
-      "title": "SCP-7512",
-      "alternateTitle": "A Pound of Flesh",
-      "rating": 20,
-      "createdAt": "2023-08-26T22:26:24.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
-        "remixcon2023",
+        "arachnid",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "chase",
+        "compulsion",
+        "cosmic-horror",
+        "d-11424",
+        "ethics-committee",
+        "global-occult-coalition",
+        "heartwarming",
+        "horror",
+        "hostile",
+        "humanoid",
+        "illustrated",
+        "k-class-scenario",
+        "marshall-carter-and-dark",
+        "murder-monster",
+        "mystery",
+        "religious",
+        "reproductive",
         "safe",
-        "scp"
+        "sapient",
+        "scp",
+        "sculpture",
+        "self-replicating",
+        "slice-of-life",
+        "thaumaturgy",
+        "three-portlands",
+        "transfiguration",
+        "uncontained",
+        "unusual-incidents-unit"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
       "authors": [
-        "fabuIa"
+        "Doctor Scrappy"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T01:41:34.556Z",
+  "updatedAt": "2026-07-11T09:16:16.525Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,97 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7057",
-      "title": "SCP-7057",
-      "alternateTitle": "A Person?",
-      "rating": 24,
-      "createdAt": "2022-09-17T07:34:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
+      "title": "SCP-242-KO",
+      "alternateTitle": "Riventry of Cataclysm",
+      "rating": 19,
+      "createdAt": "2022-11-10T00:23:52.000Z",
       "tags": [
-        "ethics-committee",
-        "euclid",
-        "extradimensional",
-        "genetic",
         "humanoid",
-        "metamorphic",
-        "scp"
+        "international",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
+        "sapient",
+        "scp",
+        "thaumiel",
+        "uncontained"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3173",
+      "title": "SCP-3173",
+      "alternateTitle": "Forest Prison",
+      "rating": 21,
+      "createdAt": "2018-03-06T01:37:36.000Z",
+      "tags": [
+        "amorphous",
+        "forest",
+        "gaseous",
+        "island",
+        "keter",
+        "location",
+        "scp",
+        "thermodynamic",
+        "tree"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3173/forest.png",
+      "authors": [
+        "Whipple"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7871",
+      "title": "SCP-7871",
+      "alternateTitle": "Cracked at Fortnite",
+      "rating": 19,
+      "createdAt": "2024-02-10T15:17:22.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "humanoid",
+        "sapient",
+        "scp",
+        "sensory",
+        "tactile",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "FacelessPolarBear"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7116",
-      "title": "SCP-7116",
-      "alternateTitle": "Frequency Modulation 182.3",
-      "rating": 5,
-      "createdAt": "2023-01-26T11:05:39.000Z",
-      "tags": [
-        "alive",
-        "electronic",
-        "euclid",
-        "hostile",
-        "humanoid",
-        "location",
-        "sapient",
-        "scp",
-        "spatial",
-        "structure",
-        "subterranean",
-        "transmission"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
-      "authors": [
-        "Dr K Parker"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8535",
-      "title": "SCP-8535",
-      "alternateTitle": "The Tarantula",
-      "rating": 15,
-      "createdAt": "2025-03-26T19:34:50.000Z",
-      "tags": [
-        "action",
-        "alive",
-        "anderson",
-        "animal",
-        "arachnid",
-        "artifact",
-        "biohazard",
-        "body-horror",
-        "chase",
-        "compulsion",
-        "cosmic-horror",
-        "d-11424",
-        "ethics-committee",
-        "global-occult-coalition",
-        "heartwarming",
-        "horror",
-        "hostile",
-        "humanoid",
-        "illustrated",
-        "k-class-scenario",
-        "marshall-carter-and-dark",
-        "murder-monster",
-        "mystery",
-        "religious",
-        "reproductive",
-        "safe",
-        "sapient",
-        "scp",
-        "sculpture",
-        "self-replicating",
-        "slice-of-life",
-        "thaumaturgy",
-        "three-portlands",
-        "transfiguration",
-        "uncontained",
-        "unusual-incidents-unit"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
-      "authors": [
-        "Doctor Scrappy"
+        "Kaywatty"
       ]
     }
   ]

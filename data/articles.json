@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T09:16:16.525Z",
+  "updatedAt": "2026-07-11T16:41:56.316Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
-      "title": "SCP-242-KO",
-      "alternateTitle": "Riventry of Cataclysm",
-      "rating": 19,
-      "createdAt": "2022-11-10T00:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9202",
+      "title": "SCP-9202",
+      "alternateTitle": "The Glass Tree",
+      "rating": 13,
+      "createdAt": "2025-10-03T09:56:34.000Z",
       "tags": [
-        "humanoid",
-        "international",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
-        "sapient",
+        "9000",
+        "apollyon",
+        "archon",
+        "deer-college",
+        "empathic",
+        "fantasy",
+        "mind-affecting",
+        "neurological",
+        "science-fiction",
         "scp",
-        "thaumiel",
-        "uncontained"
+        "thaumaturgy",
+        "three-portlands"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
+      "thumbnailUrl": "",
+      "authors": [
+        "BlueEyedFox_"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
+      "title": "SCP-1994-KO",
+      "alternateTitle": "My Death Shall Be Your Life",
+      "rating": 12,
+      "createdAt": "2022-12-16T16:31:44.000Z",
+      "tags": [
+        "cadaver",
+        "insect",
+        "international",
+        "parasitic",
+        "scp",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "",
       "authors": [
         "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3173",
-      "title": "SCP-3173",
-      "alternateTitle": "Forest Prison",
-      "rating": 21,
-      "createdAt": "2018-03-06T01:37:36.000Z",
-      "tags": [
-        "amorphous",
-        "forest",
-        "gaseous",
-        "island",
-        "keter",
-        "location",
-        "scp",
-        "thermodynamic",
-        "tree"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3173/forest.png",
-      "authors": [
-        "Whipple"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7871",
-      "title": "SCP-7871",
-      "alternateTitle": "Cracked at Fortnite",
-      "rating": 19,
-      "createdAt": "2024-02-10T15:17:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2023-ex",
+      "title": "SCP-2023-EX",
+      "alternateTitle": "Capable Athletes",
+      "rating": 24,
+      "createdAt": "2020-06-22T02:10:57.000Z",
       "tags": [
         "alive",
-        "euclid",
+        "broken-masquerade",
+        "co-authored",
+        "explained",
+        "exquisite-corpse2020",
         "humanoid",
+        "performance",
+        "reality-bending",
         "sapient",
-        "scp",
-        "sensory",
-        "tactile",
-        "weapon"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaywatty"
+        "Ethagon",
+        "Silentwatcher"
       ]
     }
   ]

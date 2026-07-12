@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:43:15.349Z",
+  "updatedAt": "2026-07-12T09:42:06.949Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9029",
-      "title": "SCP-9029",
-      "alternateTitle": "Corpse Cutters",
-      "rating": 22,
-      "createdAt": "2025-10-02T17:54:49.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6971",
+      "title": "SCP-6971",
+      "alternateTitle": "Nuclearity",
+      "rating": 16,
+      "createdAt": "2022-02-19T15:55:38.000Z",
       "tags": [
-        "9000",
         "alive",
-        "animal",
-        "apocalyptic",
-        "body-horror",
-        "contagion",
+        "ectoentropic",
+        "electromagnetic",
         "esoteric-class",
-        "fungus",
-        "horror",
+        "ethics-committee",
         "humanoid",
-        "insect",
-        "scp",
-        "species",
-        "toxic"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/corpse-cutters/Atta_Mexicana.jpeg",
-      "authors": [
-        "UniqueName"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7456",
-      "title": "SCP-7456",
-      "alternateTitle": "A Bunch of Morons",
-      "rating": 15,
-      "createdAt": "2024-12-16T19:38:22.000Z",
-      "tags": [
-        "alive",
-        "artificial-intelligence",
-        "building",
-        "cognitohazard",
-        "extraterrestrial",
-        "humanoid",
-        "safe",
+        "radioactive",
         "sapient",
-        "science-fiction",
-        "scp"
+        "scp",
+        "transmission"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6971/TrojanPlant.jpg",
       "authors": [
-        "Captain_Wavzies"
+        "Sirslash47"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8849",
-      "title": "SCP-8849",
-      "alternateTitle": "Maskirovka",
-      "rating": 17,
-      "createdAt": "2025-03-16T03:32:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1003-ko",
+      "title": "SCP-1003-KO",
+      "alternateTitle": "Our Dream. Our Dream?",
+      "rating": 20,
+      "createdAt": "2022-11-25T18:49:13.000Z",
       "tags": [
-        "anomalous-event",
-        "euclid",
+        "antimemetic",
         "extraterrestrial",
-        "global-occult-coalition",
-        "historical",
-        "military",
-        "obskura",
-        "planet",
-        "science-fiction",
+        "foundation-made",
+        "international",
+        "k-class-scenario",
+        "satellite",
+        "scp",
+        "sleep",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1003-ko/1.jpg",
+      "authors": [
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-zh-610",
+      "title": "SCP-ZH-610",
+      "alternateTitle": "Fulminant Histocarcinoma Vigere",
+      "rating": 8,
+      "createdAt": "2025-01-15T17:50:31.000Z",
+      "tags": [
+        "biological",
+        "ethics-committee",
+        "extremity",
+        "genetic",
+        "humanoid",
+        "international",
+        "keter",
+        "medical",
+        "sarkic",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8849/Maskirovka6.png",
+      "thumbnailUrl": "https://i.imgur.com/HaBunRa.jpg",
       "authors": [
-        "D-Barschina"
+        "Kikunai"
       ]
     }
   ]

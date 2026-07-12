@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T16:41:56.316Z",
+  "updatedAt": "2026-07-12T01:43:15.349Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9202",
-      "title": "SCP-9202",
-      "alternateTitle": "The Glass Tree",
-      "rating": 13,
-      "createdAt": "2025-10-03T09:56:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9029",
+      "title": "SCP-9029",
+      "alternateTitle": "Corpse Cutters",
+      "rating": 22,
+      "createdAt": "2025-10-02T17:54:49.000Z",
       "tags": [
         "9000",
-        "apollyon",
-        "archon",
-        "deer-college",
-        "empathic",
-        "fantasy",
-        "mind-affecting",
-        "neurological",
-        "science-fiction",
-        "scp",
-        "thaumaturgy",
-        "three-portlands"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "BlueEyedFox_"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
-      "title": "SCP-1994-KO",
-      "alternateTitle": "My Death Shall Be Your Life",
-      "rating": 12,
-      "createdAt": "2022-12-16T16:31:44.000Z",
-      "tags": [
-        "cadaver",
+        "alive",
+        "animal",
+        "apocalyptic",
+        "body-horror",
+        "contagion",
+        "esoteric-class",
+        "fungus",
+        "horror",
+        "humanoid",
         "insect",
-        "international",
-        "parasitic",
         "scp",
-        "ticonderoga"
+        "species",
+        "toxic"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/corpse-cutters/Atta_Mexicana.jpeg",
       "authors": [
-        "fluxman"
+        "UniqueName"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2023-ex",
-      "title": "SCP-2023-EX",
-      "alternateTitle": "Capable Athletes",
-      "rating": 24,
-      "createdAt": "2020-06-22T02:10:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7456",
+      "title": "SCP-7456",
+      "alternateTitle": "A Bunch of Morons",
+      "rating": 15,
+      "createdAt": "2024-12-16T19:38:22.000Z",
       "tags": [
         "alive",
-        "broken-masquerade",
-        "co-authored",
-        "explained",
-        "exquisite-corpse2020",
+        "artificial-intelligence",
+        "building",
+        "cognitohazard",
+        "extraterrestrial",
         "humanoid",
-        "performance",
-        "reality-bending",
+        "safe",
         "sapient",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ethagon",
-        "Silentwatcher"
+        "Captain_Wavzies"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8849",
+      "title": "SCP-8849",
+      "alternateTitle": "Maskirovka",
+      "rating": 17,
+      "createdAt": "2025-03-16T03:32:40.000Z",
+      "tags": [
+        "anomalous-event",
+        "euclid",
+        "extraterrestrial",
+        "global-occult-coalition",
+        "historical",
+        "military",
+        "obskura",
+        "planet",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8849/Maskirovka6.png",
+      "authors": [
+        "D-Barschina"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T09:42:06.949Z",
+  "updatedAt": "2026-07-12T16:44:16.110Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6971",
-      "title": "SCP-6971",
-      "alternateTitle": "Nuclearity",
-      "rating": 16,
-      "createdAt": "2022-02-19T15:55:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-287-de",
+      "title": "SCP-287-DE",
+      "alternateTitle": "Interwoven Dreams",
+      "rating": 4,
+      "createdAt": "2023-11-23T16:56:02.000Z",
       "tags": [
+        "airborne",
         "alive",
-        "ectoentropic",
-        "electromagnetic",
-        "esoteric-class",
-        "ethics-committee",
-        "humanoid",
-        "radioactive",
-        "sapient",
+        "animal",
+        "butterfly",
+        "euclid",
+        "insect",
+        "international",
+        "light",
+        "nocturnal",
+        "parasitic",
         "scp",
-        "transmission"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6971/TrojanPlant.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Sirslash47"
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1003-ko",
-      "title": "SCP-1003-KO",
-      "alternateTitle": "Our Dream. Our Dream?",
-      "rating": 20,
-      "createdAt": "2022-11-25T18:49:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-730",
+      "title": "SCP-ZH-730",
+      "alternateTitle": "Commute Route for Type B Personnel",
+      "rating": 6,
+      "createdAt": "2025-01-15T17:46:57.000Z",
       "tags": [
-        "antimemetic",
-        "extraterrestrial",
-        "foundation-made",
         "international",
-        "k-class-scenario",
-        "satellite",
+        "religious",
         "scp",
-        "sleep",
+        "structure",
         "thaumiel"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1003-ko/1.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "fluxman"
+        "Kikunai"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-610",
-      "title": "SCP-ZH-610",
-      "alternateTitle": "Fulminant Histocarcinoma Vigere",
-      "rating": 8,
-      "createdAt": "2025-01-15T17:50:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7945",
+      "title": "SCP-7945",
+      "alternateTitle": "Let there be me",
+      "rating": 9,
+      "createdAt": "2023-09-04T13:04:58.000Z",
       "tags": [
-        "biological",
-        "ethics-committee",
-        "extremity",
-        "genetic",
-        "humanoid",
-        "international",
-        "keter",
-        "medical",
-        "sarkic",
-        "scp"
+        "alive",
+        "animal",
+        "dream",
+        "infohazard",
+        "k-class-scenario",
+        "mind-affecting",
+        "raisa",
+        "reality-bending",
+        "religious",
+        "reproductive",
+        "reptile",
+        "scp",
+        "species",
+        "thaumiel",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://i.imgur.com/HaBunRa.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7945/Gecko.jpg",
       "authors": [
-        "Kikunai"
+        "Dr_Lamas"
       ]
     }
   ]

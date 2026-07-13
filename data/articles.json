@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T16:44:16.110Z",
+  "updatedAt": "2026-07-13T01:46:13.042Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-287-de",
-      "title": "SCP-287-DE",
-      "alternateTitle": "Interwoven Dreams",
-      "rating": 4,
-      "createdAt": "2023-11-23T16:56:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7475",
+      "title": "SCP-7475",
+      "alternateTitle": "Makers of War",
+      "rating": 22,
+      "createdAt": "2023-06-11T11:19:17.000Z",
       "tags": [
-        "airborne",
-        "alive",
-        "animal",
-        "butterfly",
-        "euclid",
-        "insect",
-        "international",
-        "light",
-        "nocturnal",
-        "parasitic",
+        "building",
+        "chaos-insurgency",
+        "empathic",
+        "mechanical",
+        "prometheus",
+        "safe",
         "scp",
-        "species"
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch"
+        "Zer0Ne0phyte"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-730",
-      "title": "SCP-ZH-730",
-      "alternateTitle": "Commute Route for Type B Personnel",
-      "rating": 6,
-      "createdAt": "2025-01-15T17:46:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6623",
+      "title": "SCP-6623",
+      "alternateTitle": "The Wandering City",
+      "rating": 17,
+      "createdAt": "2022-03-17T20:57:08.000Z",
       "tags": [
-        "international",
-        "religious",
+        "city",
+        "departmentcon2022",
+        "extradimensional",
+        "folklore-dept",
+        "historical",
+        "hive-mind",
+        "keter",
+        "knowledge",
+        "pattern-screamer",
+        "sapient",
         "scp",
-        "structure",
-        "thaumiel"
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kikunai"
+        "Dr Moned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7945",
-      "title": "SCP-7945",
-      "alternateTitle": "Let there be me",
-      "rating": 9,
-      "createdAt": "2023-09-04T13:04:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9026",
+      "title": "SCP-9026",
+      "alternateTitle": "Remember, Remember",
+      "rating": 21,
+      "createdAt": "2025-10-03T21:06:56.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "dream",
-        "infohazard",
-        "k-class-scenario",
-        "mind-affecting",
-        "raisa",
-        "reality-bending",
-        "religious",
-        "reproductive",
-        "reptile",
+        "9000",
+        "adaptive",
+        "bittersweet",
+        "building",
+        "fungus",
+        "knowledge",
+        "memory-affecting",
+        "safe",
         "scp",
-        "species",
-        "thaumiel",
-        "transfiguration"
+        "surrealism"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7945/Gecko.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9026/Maria_Woerth_Teixlbucht_Sueduferstrasse_197_Villa_Fichteneck_NW-Ansicht_19042017_7776.jpg",
       "authors": [
-        "Dr_Lamas"
+        "Gunpowdr"
       ]
     }
   ]

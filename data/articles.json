@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T10:48:52.209Z",
+  "updatedAt": "2026-07-13T17:47:47.347Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4580",
-      "title": "SCP-4580",
-      "alternateTitle": "The Seekers of Secrets",
-      "rating": 11,
-      "createdAt": "2019-02-10T06:49:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8781",
+      "title": "SCP-8781",
+      "alternateTitle": "Nematodes in Pain",
+      "rating": 18,
+      "createdAt": "2025-08-21T21:04:06.000Z",
       "tags": [
-        "animal",
-        "biological",
-        "bird",
-        "euclid",
-        "scp",
-        "swarm",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4580/4580.JPG",
-      "authors": [
-        "IAmtheBushman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8780",
-      "title": "SCP-8780",
-      "alternateTitle": "Detonation Man",
-      "rating": 12,
-      "createdAt": "2024-12-15T19:00:24.000Z",
-      "tags": [
-        "aaron-siegel",
         "alive",
-        "alternate-history",
-        "broken-masquerade",
-        "cain",
-        "chaos-insurgency",
-        "doctor-clef",
-        "doctor-light",
-        "ethics-committee",
+        "animal",
+        "autonomous",
+        "euclid",
         "humanoid",
-        "illustrated",
-        "marshall-carter-and-dark",
-        "mystery",
-        "neutralized",
-        "political",
+        "mind-affecting",
+        "parasitic",
         "sapient",
-        "scp"
+        "scp",
+        "skeletal",
+        "worm"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tiran%C3%AB%2C_Albania_January_2023_-_Toptani_Qendra_tregtare_shopping_center_Christmas_tree.jpg/800px-Tiran%C3%AB%2C_Albania_January_2023_-_Toptani_Qendra_tregtare_shopping_center_Christmas_tree.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8781/Enterobius_vermicularis-1.jpg",
       "authors": [
-        "Doctor Scrappy"
+        "Unidentifiedgoober"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8440",
-      "title": "SCP-8440",
-      "alternateTitle": "Clear as White",
-      "rating": 11,
-      "createdAt": "2024-02-16T00:48:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-088-pt",
+      "title": "SCP-088-PT",
+      "alternateTitle": "This machine kills communists",
+      "rating": 15,
+      "createdAt": "2020-08-06T02:54:02.000Z",
       "tags": [
-        "8000",
-        "esoteric-class",
-        "extraterrestrial",
-        "gravity",
+        "ectoentropic",
+        "euclid",
         "humanoid",
-        "light",
-        "mind-affecting",
+        "international",
+        "loop",
+        "sapient",
         "scp",
-        "sun",
-        "uncontained"
+        "self-repairing",
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-pt-br.wdfiles.com/local--files/scp-088-pt/SCP-088-PT.jpg",
       "authors": [
-        "Strange Matter"
+        "Vintner",
+        "slashannemoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7883",
+      "title": "SCP-7883",
+      "alternateTitle": "Bailan las Salitreras",
+      "rating": 23,
+      "createdAt": "2023-01-21T01:44:23.000Z",
+      "tags": [
+        "art-exchange",
+        "auditory",
+        "city",
+        "ghost",
+        "hallucination",
+        "historical",
+        "humanoid",
+        "intangible",
+        "safe",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
+      "authors": [
+        "Maxyfran73"
       ]
     }
   ]

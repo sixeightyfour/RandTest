@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T09:45:42.444Z",
+  "updatedAt": "2026-07-14T17:01:48.666Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4842",
-      "title": "SCP-4842",
-      "alternateTitle": "The Disintegration Loops",
-      "rating": 13,
-      "createdAt": "2019-10-30T21:59:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-097-ko",
+      "title": "SCP-097-KO",
+      "alternateTitle": "Callosamia structura",
+      "rating": 14,
+      "createdAt": "2024-08-21T04:49:41.000Z",
       "tags": [
-        "acoustic",
-        "audio",
-        "ectoentropic",
-        "electronic",
-        "euclid",
-        "media",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Decibelles"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1800-ko",
-      "title": "SCP-1800-KO",
-      "alternateTitle": "Order to Leave Work",
-      "rating": 4,
-      "createdAt": "2024-01-04T23:34:45.000Z",
-      "tags": [
-        "esoteric-class",
+        "adaptive",
+        "alive",
+        "butterfly",
+        "compulsion",
+        "ethics-committee",
+        "hive-mind",
+        "insect",
         "international",
-        "mind-affecting",
-        "scp"
+        "neurological",
+        "parasitic",
+        "predatory",
+        "safe",
+        "scp",
+        "species",
+        "structure",
+        "swarm"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scpko.wdfiles.com/local--files/scp-097-ko/scp-097-ko-imago-male.jpg",
       "authors": [
-        "Bangja",
+        "thd-glasses",
         "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7214",
-      "title": "SCP-7214",
-      "alternateTitle": "Banality",
-      "rating": 22,
-      "createdAt": "2023-07-14T05:22:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7280",
+      "title": "SCP-7280",
+      "alternateTitle": "The Hollow Trooper",
+      "rating": 15,
+      "createdAt": "2022-09-25T07:24:33.000Z",
       "tags": [
-        "acoustic",
-        "electrical",
-        "mind-affecting",
-        "olfactory",
-        "safe",
-        "scp",
-        "transfiguration"
+        "anderson",
+        "euclid",
+        "humanoid",
+        "military",
+        "robotic",
+        "scp"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "TheChunk"
+        "ChocolateChara"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9041",
+      "title": "SCP-9041",
+      "alternateTitle": "Self-Containment Protocol",
+      "rating": 13,
+      "createdAt": "2025-09-20T15:57:59.000Z",
+      "tags": [
+        "9000",
+        "dado",
+        "euclid",
+        "hard-to-destroy-reptile",
+        "historical",
+        "knowledge",
+        "language",
+        "plague-doctor",
+        "reality-bending",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9041/along_river.png",
+      "authors": [
+        "octiron"
       ]
     }
   ]

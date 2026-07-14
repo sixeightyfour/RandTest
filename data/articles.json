@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T17:47:47.347Z",
+  "updatedAt": "2026-07-14T01:22:17.165Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8781",
-      "title": "SCP-8781",
-      "alternateTitle": "Nematodes in Pain",
-      "rating": 18,
-      "createdAt": "2025-08-21T21:04:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6561",
+      "title": "SCP-6561",
+      "alternateTitle": "There Is Nothing Between Light and Dark.",
+      "rating": 20,
+      "createdAt": "2021-11-06T00:00:21.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "autonomous",
-        "euclid",
-        "humanoid",
+        "concept",
+        "keter",
+        "memory-affecting",
         "mind-affecting",
-        "parasitic",
-        "sapient",
-        "scp",
-        "skeletal",
-        "worm"
+        "neutralized",
+        "reality-bending",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8781/Enterobius_vermicularis-1.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Unidentifiedgoober"
+        "D L"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-088-pt",
-      "title": "SCP-088-PT",
-      "alternateTitle": "This machine kills communists",
+      "url": "http://scp-wiki.wikidot.com/scp-7428",
+      "title": "SCP-7428",
+      "alternateTitle": "The Cage",
+      "rating": 13,
+      "createdAt": "2025-04-17T23:01:17.000Z",
+      "tags": [
+        "broken-god",
+        "extraterrestrial",
+        "keter",
+        "scp",
+        "spatial",
+        "structure",
+        "transmission",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Nocturned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7229",
+      "title": "SCP-7229",
+      "alternateTitle": "Telepathic Macaques",
       "rating": 15,
-      "createdAt": "2020-08-06T02:54:02.000Z",
+      "createdAt": "2025-09-07T19:47:20.000Z",
       "tags": [
-        "ectoentropic",
         "euclid",
-        "humanoid",
-        "international",
-        "loop",
+        "ijamea",
+        "joicl",
+        "marshall-carter-and-dark",
+        "primate",
+        "prometheus",
         "sapient",
         "scp",
-        "self-repairing",
-        "weapon"
+        "telepathic"
       ],
-      "thumbnailUrl": "http://scp-pt-br.wdfiles.com/local--files/scp-088-pt/SCP-088-PT.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
       "authors": [
-        "Vintner",
-        "slashannemoo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7883",
-      "title": "SCP-7883",
-      "alternateTitle": "Bailan las Salitreras",
-      "rating": 23,
-      "createdAt": "2023-01-21T01:44:23.000Z",
-      "tags": [
-        "art-exchange",
-        "auditory",
-        "city",
-        "ghost",
-        "hallucination",
-        "historical",
-        "humanoid",
-        "intangible",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
-      "authors": [
-        "Maxyfran73"
+        "Baronjoe"
       ]
     }
   ]

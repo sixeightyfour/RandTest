@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T17:01:48.666Z",
+  "updatedAt": "2026-07-15T01:19:40.287Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-097-ko",
-      "title": "SCP-097-KO",
-      "alternateTitle": "Callosamia structura",
-      "rating": 14,
-      "createdAt": "2024-08-21T04:49:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-185",
+      "title": "SCP-ES-185",
+      "alternateTitle": "Space Swallow",
+      "rating": 4,
+      "createdAt": "2023-07-26T15:31:56.000Z",
       "tags": [
-        "adaptive",
-        "alive",
-        "butterfly",
-        "compulsion",
-        "ethics-committee",
-        "hive-mind",
-        "insect",
+        "foundation-made",
+        "historical",
         "international",
-        "neurological",
-        "parasitic",
-        "predatory",
+        "loop",
+        "mechanical",
+        "media",
+        "military",
         "safe",
         "scp",
-        "species",
-        "structure",
-        "swarm"
+        "temporal",
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scpko.wdfiles.com/local--files/scp-097-ko/scp-097-ko-imago-male.jpg",
+      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
       "authors": [
-        "thd-glasses",
-        "fluxman"
+        "Daman_1985",
+        "AlienSpaceBat"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7280",
-      "title": "SCP-7280",
-      "alternateTitle": "The Hollow Trooper",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-757",
+      "title": "SCP-CN-757",
+      "alternateTitle": "Tiny World",
       "rating": 15,
-      "createdAt": "2022-09-25T07:24:33.000Z",
+      "createdAt": "2022-06-12T00:01:52.000Z",
       "tags": [
-        "anderson",
-        "euclid",
-        "humanoid",
-        "military",
-        "robotic",
-        "scp"
+        "antimemetic",
+        "building",
+        "computer",
+        "game",
+        "international",
+        "keter",
+        "memory-affecting",
+        "scp",
+        "telepathic"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpsandboxcn.wikidot.com/local--files/breaddddd/70ceng3.png",
       "authors": [
-        "ChocolateChara"
+        "breaddddd",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9041",
-      "title": "SCP-9041",
-      "alternateTitle": "Self-Containment Protocol",
-      "rating": 13,
-      "createdAt": "2025-09-20T15:57:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-092-vn",
+      "title": "SCP-092-VN",
+      "alternateTitle": "Potpourri",
+      "rating": 12,
+      "createdAt": "2025-05-19T22:50:13.000Z",
       "tags": [
-        "9000",
-        "dado",
-        "euclid",
-        "hard-to-destroy-reptile",
-        "historical",
-        "knowledge",
-        "language",
-        "plague-doctor",
-        "reality-bending",
-        "science-fiction",
-        "scp"
+        "anomalous-event",
+        "esoteric-class",
+        "international",
+        "plant",
+        "scp",
+        "sleep",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9041/along_river.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abbott_Fuller_Graves%2C_1913_-_Eastern_Point_Gloucester.jpg",
       "authors": [
-        "octiron"
+        "KirQ",
+        "dreadfulfakey"
       ]
     }
   ]

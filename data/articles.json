@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:04:12.862Z",
+  "updatedAt": "2026-07-16T01:29:25.162Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9139-j",
-      "title": "SCP-9139-J",
-      "alternateTitle": "Great Effort!",
-      "rating": 11,
-      "createdAt": "2025-07-13T02:49:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6348",
+      "title": "SCP-6348",
+      "alternateTitle": "Shackleton's Ghost",
+      "rating": 22,
+      "createdAt": "2022-10-15T21:04:55.000Z",
       "tags": [
-        "alive",
-        "antimemetic",
-        "bureaucracy",
-        "comedy",
-        "humanoid",
-        "joke",
+        "airborne",
+        "gaseous",
+        "meteorological",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6348/Mountain.jpg",
       "authors": [
-        "Wynths"
+        "xxRagdoll"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7355",
-      "title": "SCP-7355",
-      "alternateTitle": "Room 305 (Surgery)",
-      "rating": 13,
-      "createdAt": "2023-09-14T16:36:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-295-ko",
+      "title": "SCP-295-KO",
+      "alternateTitle": "Atomic Bombear",
+      "rating": 14,
+      "createdAt": "2024-04-08T21:36:45.000Z",
       "tags": [
-        "building",
-        "ectoentropic",
-        "euclid",
-        "medical",
-        "religious",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "NielleiN"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9711",
-      "title": "SCP-9711",
-      "alternateTitle": "Alternate Foundation Ran By Lobster People",
-      "rating": 20,
-      "createdAt": "2025-11-30T16:02:53.000Z",
-      "tags": [
+        "airborne",
         "alive",
         "animal",
-        "aquatic",
-        "crustacean",
-        "exchange",
+        "bear",
+        "gru-division-p",
+        "international",
+        "metamorphic",
+        "military",
+        "radioactive",
+        "safe",
+        "scp",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-295-ko/scp-295-ko-blueprint.png",
+      "authors": [
+        "thd-glasses",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8697",
+      "title": "SCP-8697",
+      "alternateTitle": "Thine",
+      "rating": 18,
+      "createdAt": "2025-10-22T04:12:18.000Z",
+      "tags": [
+        "alive",
         "humanoid",
-        "keter",
+        "neutralized",
         "sapient",
         "scp",
-        "species",
-        "subterranean"
+        "subterranean",
+        "surrealism"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
       "authors": [
-        "Future Elliotto"
+        "Anonymous"
       ]
     }
   ]

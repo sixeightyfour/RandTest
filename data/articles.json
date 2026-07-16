@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T01:29:25.162Z",
+  "updatedAt": "2026-07-16T09:55:40.367Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6348",
-      "title": "SCP-6348",
-      "alternateTitle": "Shackleton's Ghost",
-      "rating": 22,
-      "createdAt": "2022-10-15T21:04:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9271",
+      "title": "SCP-9271",
+      "alternateTitle": "The Same Place in a Worse World",
+      "rating": 24,
+      "createdAt": "2025-12-28T14:36:34.000Z",
       "tags": [
-        "airborne",
-        "gaseous",
-        "meteorological",
-        "safe",
+        "alive",
+        "art-exchange",
+        "bleak",
+        "esoteric-class",
+        "global-occult-coalition",
+        "humanoid",
+        "meta",
+        "metamorphic",
+        "mind-affecting",
+        "neutralized",
+        "reality-bending",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6348/Mountain.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-9271/letmeout.png",
       "authors": [
-        "xxRagdoll"
+        "whenwerewe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-295-ko",
-      "title": "SCP-295-KO",
-      "alternateTitle": "Atomic Bombear",
-      "rating": 14,
-      "createdAt": "2024-04-08T21:36:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8863",
+      "title": "SCP-8863",
+      "alternateTitle": "Femtoorganism",
+      "rating": 16,
+      "createdAt": "2025-07-01T22:04:55.000Z",
       "tags": [
-        "airborne",
+        "electrical",
+        "humanoid",
+        "keter",
+        "microscopic",
+        "online",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "OzRose"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-180",
+      "title": "SCP-PL-180",
+      "alternateTitle": "Those who embark with us",
+      "rating": 23,
+      "createdAt": "2022-08-15T08:15:36.000Z",
+      "tags": [
         "alive",
         "animal",
-        "bear",
-        "gru-division-p",
+        "canine",
         "international",
-        "metamorphic",
-        "military",
-        "radioactive",
-        "safe",
-        "scp",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-295-ko/scp-295-ko-blueprint.png",
-      "authors": [
-        "thd-glasses",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8697",
-      "title": "SCP-8697",
-      "alternateTitle": "Thine",
-      "rating": 18,
-      "createdAt": "2025-10-22T04:12:18.000Z",
-      "tags": [
-        "alive",
-        "humanoid",
+        "loop",
         "neutralized",
-        "sapient",
         "scp",
-        "subterranean",
-        "surrealism"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8697/9594433118_be1a1944b0_c.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-pl-180/Alsuq9O.webp",
       "authors": [
-        "Anonymous"
+        "Fedorian",
+        "Douglas-MA"
       ]
     }
   ]

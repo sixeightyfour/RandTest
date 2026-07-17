@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T09:45:28.886Z",
+  "updatedAt": "2026-07-17T16:58:22.729Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7968",
-      "title": "SCP-7968",
-      "alternateTitle": "Nonsuch",
-      "rating": 19,
-      "createdAt": "2023-05-19T04:02:59.000Z",
-      "tags": [
-        "alive",
-        "computer",
-        "document",
-        "electronic",
-        "euclid",
-        "goblincon2023",
-        "humanoid",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "UncannyClown"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8830",
-      "title": "SCP-8830",
-      "alternateTitle": "Transporter Mishap",
+      "url": "http://scp-wiki.wikidot.com/scp-7237",
+      "title": "SCP-7237",
+      "alternateTitle": "An 8-Centimeter Ball Bearing",
       "rating": 8,
-      "createdAt": "2025-03-02T11:15:23.000Z",
+      "createdAt": "2024-07-19T23:15:03.000Z",
       "tags": [
-        "anomalous-event",
-        "chaos-insurgency",
-        "euclid",
-        "extradimensional",
-        "mystery",
-        "scp"
+        "artifact",
+        "auditory",
+        "chemical",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "mechanical",
+        "safe",
+        "scp",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "zolikk"
+        "Pinoccappuccino"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4388",
-      "title": "SCP-4388",
-      "alternateTitle": "Rampant OSHA violations",
-      "rating": 20,
-      "createdAt": "2019-03-14T04:33:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
+      "title": "SCP-PL-393",
+      "alternateTitle": "Evidence of the Moon's Presence",
+      "rating": 11,
+      "createdAt": "2023-10-05T17:19:57.000Z",
       "tags": [
-        "ectoentropic",
-        "electrical",
+        "ad-astra",
+        "artistic",
+        "international",
+        "keter",
+        "mind-affecting",
+        "moon",
+        "observational",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
+      "authors": [
+        "KubKac",
+        "KubKac"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-578-arc",
+      "title": "SCP-578-ARC",
+      "alternateTitle": "The Shattered Girl",
+      "rating": 9,
+      "createdAt": "2008-12-03T06:23:38.000Z",
+      "tags": [
+        "archived",
         "electromagnetic",
-        "electronic",
         "euclid",
+        "hostile",
+        "humanoid",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Palamag"
+        "snorlison"
       ]
     }
   ]

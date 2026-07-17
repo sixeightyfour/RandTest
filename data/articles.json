@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T01:43:22.392Z",
+  "updatedAt": "2026-07-17T09:45:28.886Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,91 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8248",
-      "title": "SCP-8248",
-      "alternateTitle": "Words Of The Father",
-      "rating": 14,
-      "createdAt": "2025-07-07T00:16:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7968",
+      "title": "SCP-7968",
+      "alternateTitle": "Nonsuch",
+      "rating": 19,
+      "createdAt": "2023-05-19T04:02:59.000Z",
       "tags": [
-        "classiccon2025",
-        "euclid",
-        "humanoid",
-        "mystery",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8248/patrick_my-darling.png",
-      "authors": [
-        "DewOnTheGrass"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8535",
-      "title": "SCP-8535",
-      "alternateTitle": "The Tarantula",
-      "rating": 15,
-      "createdAt": "2025-03-26T19:34:50.000Z",
-      "tags": [
-        "action",
         "alive",
-        "anderson",
-        "animal",
-        "arachnid",
-        "artifact",
-        "biohazard",
-        "body-horror",
-        "chase",
-        "compulsion",
-        "cosmic-horror",
-        "d-11424",
-        "ethics-committee",
-        "global-occult-coalition",
-        "heartwarming",
-        "horror",
-        "hostile",
-        "humanoid",
-        "illustrated",
-        "k-class-scenario",
-        "marshall-carter-and-dark",
-        "murder-monster",
-        "mystery",
-        "religious",
-        "reproductive",
-        "safe",
-        "sapient",
-        "scp",
-        "sculpture",
-        "self-replicating",
-        "slice-of-life",
-        "thaumaturgy",
-        "three-portlands",
-        "transfiguration",
-        "uncontained",
-        "unusual-incidents-unit"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
-      "authors": [
-        "Doctor Scrappy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-239-de",
-      "title": "SCP-239-DE",
-      "alternateTitle": "USB Jird",
-      "rating": 8,
-      "createdAt": "2022-10-13T18:39:56.000Z",
-      "tags": [
         "computer",
+        "document",
         "electronic",
         "euclid",
-        "international",
-        "rodent",
+        "goblincon2023",
+        "humanoid",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "UncannyClown"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8830",
+      "title": "SCP-8830",
+      "alternateTitle": "Transporter Mishap",
+      "rating": 8,
+      "createdAt": "2025-03-02T11:15:23.000Z",
+      "tags": [
+        "anomalous-event",
+        "chaos-insurgency",
+        "euclid",
+        "extradimensional",
+        "mystery",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "zolikk"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4388",
+      "title": "SCP-4388",
+      "alternateTitle": "Rampant OSHA violations",
+      "rating": 20,
+      "createdAt": "2019-03-14T04:33:08.000Z",
+      "tags": [
+        "ectoentropic",
+        "electrical",
+        "electromagnetic",
+        "electronic",
+        "euclid",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Palamag"
       ]
     }
   ]

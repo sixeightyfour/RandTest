@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T17:02:13.453Z",
+  "updatedAt": "2026-07-17T01:43:22.392Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,91 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6053",
-      "title": "SCP-6053",
-      "alternateTitle": "Dead Elysium",
-      "rating": 16,
-      "createdAt": "2021-11-12T21:35:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8248",
+      "title": "SCP-8248",
+      "alternateTitle": "Words Of The Father",
+      "rating": 14,
+      "createdAt": "2025-07-07T00:16:59.000Z",
       "tags": [
-        "cadaver",
-        "extradimensional",
-        "location",
-        "portal",
+        "classiccon2025",
+        "euclid",
+        "humanoid",
+        "mystery",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8248/patrick_my-darling.png",
+      "authors": [
+        "DewOnTheGrass"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8535",
+      "title": "SCP-8535",
+      "alternateTitle": "The Tarantula",
+      "rating": 15,
+      "createdAt": "2025-03-26T19:34:50.000Z",
+      "tags": [
+        "action",
+        "alive",
+        "anderson",
+        "animal",
+        "arachnid",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "chase",
+        "compulsion",
+        "cosmic-horror",
+        "d-11424",
+        "ethics-committee",
+        "global-occult-coalition",
+        "heartwarming",
+        "horror",
+        "hostile",
+        "humanoid",
+        "illustrated",
+        "k-class-scenario",
+        "marshall-carter-and-dark",
+        "murder-monster",
+        "mystery",
+        "religious",
+        "reproductive",
         "safe",
+        "sapient",
         "scp",
-        "serpents-hand"
+        "sculpture",
+        "self-replicating",
+        "slice-of-life",
+        "thaumaturgy",
+        "three-portlands",
+        "transfiguration",
+        "uncontained",
+        "unusual-incidents-unit"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8535/800px-Brachypelma_edit.webp",
+      "authors": [
+        "Doctor Scrappy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-239-de",
+      "title": "SCP-239-DE",
+      "alternateTitle": "USB Jird",
+      "rating": 8,
+      "createdAt": "2022-10-13T18:39:56.000Z",
+      "tags": [
+        "computer",
+        "electronic",
+        "euclid",
+        "international",
+        "rodent",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SynthPanda_"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-079-it",
-      "title": "SCP-079-IT",
-      "alternateTitle": "Locus Amoenus",
-      "rating": 14,
-      "createdAt": "2022-05-04T19:02:43.000Z",
-      "tags": [
-        "adaptive",
-        "city",
-        "computer",
-        "electronic",
-        "historical",
-        "international",
-        "online",
-        "reality-bending",
-        "safe",
-        "scp",
-        "spatial",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-079-it/oli.webp",
-      "authors": [
-        "ProcastinationTime",
-        "Siddartha Alonne"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-086-j",
-      "title": "SCP-086-J",
-      "alternateTitle": "So, like, you know That One Thing?",
-      "rating": 8,
-      "createdAt": "2025-06-12T09:50:46.000Z",
-      "tags": [
-        "esoteric-class",
-        "infohazard",
-        "joke",
-        "meta",
-        "mind-affecting",
-        "scp"
-      ],
-      "thumbnailUrl": "https://ik.imagekit.io/Foogle/IMG_0352.jpeg?updatedAt=1749718932716",
-      "authors": [
-        "JustSomePancakeChef"
+        "Gramlin",
+        "Karpfisch"
       ]
     }
   ]

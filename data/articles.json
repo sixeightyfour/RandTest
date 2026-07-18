@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T09:14:54.424Z",
+  "updatedAt": "2026-07-18T16:43:08.498Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7174",
-      "title": "SCP-7174",
-      "alternateTitle": "The Faith to Connect People",
-      "rating": 14,
-      "createdAt": "2023-01-04T19:25:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5873",
+      "title": "SCP-5873",
+      "alternateTitle": "Britches of Betrayal",
+      "rating": 23,
+      "createdAt": "2020-03-14T01:35:46.000Z",
       "tags": [
-        "coldpostcon",
-        "computer",
-        "foundation-made",
-        "portal",
-        "safe",
-        "scp",
-        "spatial",
-        "tactical-theology",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
-      "authors": [
-        "Rigen"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-044-de-j",
-      "title": "SCP-044-DE-J",
-      "alternateTitle": "This damn schnapps",
-      "rating": 19,
-      "createdAt": "2022-07-27T16:39:25.000Z",
-      "tags": [
-        "apollyon",
-        "food",
-        "international",
-        "joke",
-        "mind-affecting",
+        "clothing",
+        "cognitohazard",
+        "jam-con2020",
+        "keter",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5873/jeans.jpg",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "Malvarik1"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-257-arc",
-      "title": "SCP-257-ARC",
-      "alternateTitle": "Satyr's Skull",
-      "rating": -38,
-      "createdAt": "2008-08-20T03:20:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8655",
+      "title": "SCP-8655",
+      "alternateTitle": "Multiversal Chatroom Hookup",
+      "rating": 23,
+      "createdAt": "2024-08-10T01:30:00.000Z",
       "tags": [
-        "archived",
-        "humanoid",
-        "keter",
-        "mind-affecting",
-        "neutralized",
+        "euclid",
+        "extradimensional",
+        "online",
+        "otherworldly",
+        "portal",
+        "romance",
         "scp",
-        "skeletal"
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrakeRunner"
+        "TheGhostNobody"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8449",
+      "title": "SCP-8449",
+      "alternateTitle": "Pyewacket's Missing Socks",
+      "rating": 11,
+      "createdAt": "2025-01-21T09:59:13.000Z",
+      "tags": [
+        "appliance",
+        "building",
+        "empathic",
+        "extradimensional",
+        "portal",
+        "radioactive",
+        "safe",
+        "scp",
+        "sleep",
+        "transmission"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8449/Pyewacket_Laundromat.jpg",
+      "authors": [
+        "Hearthkeeper"
       ]
     }
   ]

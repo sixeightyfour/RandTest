@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:58:22.729Z",
+  "updatedAt": "2026-07-18T01:24:11.681Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7237",
-      "title": "SCP-7237",
-      "alternateTitle": "An 8-Centimeter Ball Bearing",
-      "rating": 8,
-      "createdAt": "2024-07-19T23:15:03.000Z",
-      "tags": [
-        "artifact",
-        "auditory",
-        "chemical",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "mechanical",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Pinoccappuccino"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
-      "title": "SCP-PL-393",
-      "alternateTitle": "Evidence of the Moon's Presence",
+      "url": "http://scp-wiki.wikidot.com/scp-8486",
+      "title": "SCP-8486",
+      "alternateTitle": "Extradimensional Cleaning Toothbrush",
       "rating": 11,
-      "createdAt": "2023-10-05T17:19:57.000Z",
+      "createdAt": "2025-08-15T09:07:32.000Z",
       "tags": [
-        "ad-astra",
-        "artistic",
-        "international",
-        "keter",
-        "mind-affecting",
-        "moon",
-        "observational",
-        "scp"
+        "biohazard",
+        "compulsion",
+        "ectoentropic",
+        "euclid",
+        "extradimensional",
+        "indestructible",
+        "scp",
+        "tool"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toothbrush_regurgitated_by_albatross_on_Tern_Island%2C_Hawaii_-_20060614.jpg",
       "authors": [
-        "KubKac",
-        "KubKac"
+        "ExtinctionFox"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-578-arc",
-      "title": "SCP-578-ARC",
-      "alternateTitle": "The Shattered Girl",
-      "rating": 9,
-      "createdAt": "2008-12-03T06:23:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7045",
+      "title": "SCP-7045",
+      "alternateTitle": "\"Is this your tape recorder?\"",
+      "rating": 23,
+      "createdAt": "2022-11-19T05:30:51.000Z",
       "tags": [
-        "archived",
-        "electromagnetic",
-        "euclid",
-        "hostile",
-        "humanoid",
-        "scp"
+        "autonomous",
+        "media",
+        "neutralized",
+        "scp",
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "snorlison"
+        "Jade_Crusader"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5873",
+      "title": "SCP-5873",
+      "alternateTitle": "Britches of Betrayal",
+      "rating": 23,
+      "createdAt": "2020-03-14T01:35:46.000Z",
+      "tags": [
+        "clothing",
+        "cognitohazard",
+        "jam-con2020",
+        "keter",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5873/jeans.jpg",
+      "authors": [
+        "Malvarik1"
       ]
     }
   ]

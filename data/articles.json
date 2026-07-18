@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T01:24:11.681Z",
+  "updatedAt": "2026-07-18T09:14:54.424Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8486",
-      "title": "SCP-8486",
-      "alternateTitle": "Extradimensional Cleaning Toothbrush",
-      "rating": 11,
-      "createdAt": "2025-08-15T09:07:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7174",
+      "title": "SCP-7174",
+      "alternateTitle": "The Faith to Connect People",
+      "rating": 14,
+      "createdAt": "2023-01-04T19:25:25.000Z",
       "tags": [
-        "biohazard",
-        "compulsion",
-        "ectoentropic",
-        "euclid",
-        "extradimensional",
-        "indestructible",
+        "coldpostcon",
+        "computer",
+        "foundation-made",
+        "portal",
+        "safe",
         "scp",
-        "tool"
+        "spatial",
+        "tactical-theology",
+        "transmission"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toothbrush_regurgitated_by_albatross_on_Tern_Island%2C_Hawaii_-_20060614.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
       "authors": [
-        "ExtinctionFox"
+        "Rigen"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7045",
-      "title": "SCP-7045",
-      "alternateTitle": "\"Is this your tape recorder?\"",
-      "rating": 23,
-      "createdAt": "2022-11-19T05:30:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-044-de-j",
+      "title": "SCP-044-DE-J",
+      "alternateTitle": "This damn schnapps",
+      "rating": 19,
+      "createdAt": "2022-07-27T16:39:25.000Z",
       "tags": [
-        "autonomous",
-        "media",
-        "neutralized",
-        "scp",
-        "teleportation"
+        "apollyon",
+        "food",
+        "international",
+        "joke",
+        "mind-affecting",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Jade_Crusader"
+        "Gramlin",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5873",
-      "title": "SCP-5873",
-      "alternateTitle": "Britches of Betrayal",
-      "rating": 23,
-      "createdAt": "2020-03-14T01:35:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-257-arc",
+      "title": "SCP-257-ARC",
+      "alternateTitle": "Satyr's Skull",
+      "rating": -38,
+      "createdAt": "2008-08-20T03:20:50.000Z",
       "tags": [
-        "clothing",
-        "cognitohazard",
-        "jam-con2020",
+        "archived",
+        "humanoid",
         "keter",
-        "scp"
+        "mind-affecting",
+        "neutralized",
+        "scp",
+        "skeletal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5873/jeans.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Malvarik1"
+        "DrakeRunner"
       ]
     }
   ]

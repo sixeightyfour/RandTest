@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T16:43:08.498Z",
+  "updatedAt": "2026-07-19T01:30:14.631Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5873",
-      "title": "SCP-5873",
-      "alternateTitle": "Britches of Betrayal",
+      "url": "http://scp-wiki.wikidot.com/scp-9878",
+      "title": "SCP-9878",
+      "alternateTitle": "Here is the Giver of Gold",
       "rating": 23,
-      "createdAt": "2020-03-14T01:35:46.000Z",
+      "createdAt": "2026-01-16T01:16:06.000Z",
       "tags": [
-        "clothing",
-        "cognitohazard",
-        "jam-con2020",
-        "keter",
-        "scp"
+        "archaeological",
+        "autonomous",
+        "building",
+        "chemical",
+        "document",
+        "food",
+        "historical",
+        "knowledge",
+        "mind-affecting",
+        "religious",
+        "safe",
+        "scp",
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5873/jeans.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-9878/mask.jpg",
       "authors": [
-        "Malvarik1"
+        "whenwerewe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8655",
-      "title": "SCP-8655",
-      "alternateTitle": "Multiversal Chatroom Hookup",
-      "rating": 23,
-      "createdAt": "2024-08-10T01:30:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8469",
+      "title": "SCP-8469",
+      "alternateTitle": "Justice was Blind",
+      "rating": 20,
+      "createdAt": "2024-09-10T23:03:18.000Z",
       "tags": [
-        "euclid",
+        "anomalous-event",
+        "cognitohazard",
+        "esoteric-class",
         "extradimensional",
-        "online",
-        "otherworldly",
-        "portal",
-        "romance",
+        "humanoid",
+        "mind-affecting",
+        "sapient",
         "scp",
-        "transmission"
+        "sleep",
+        "tactile",
+        "thermodynamic",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carl_Rahl_-_Orestes_Pursued_by_the_Furies_%281852%29.jpg",
+      "authors": [
+        "N1ght_Scribe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8497",
+      "title": "SCP-8497",
+      "alternateTitle": "The Foundation Management System",
+      "rating": 7,
+      "createdAt": "2025-08-20T14:07:36.000Z",
+      "tags": [
+        "bureaucracy",
+        "document",
+        "esoteric-class",
+        "media",
+        "predictive",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TheGhostNobody"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8449",
-      "title": "SCP-8449",
-      "alternateTitle": "Pyewacket's Missing Socks",
-      "rating": 11,
-      "createdAt": "2025-01-21T09:59:13.000Z",
-      "tags": [
-        "appliance",
-        "building",
-        "empathic",
-        "extradimensional",
-        "portal",
-        "radioactive",
-        "safe",
-        "scp",
-        "sleep",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8449/Pyewacket_Laundromat.jpg",
-      "authors": [
-        "Hearthkeeper"
+        "AnomalousOracle"
       ]
     }
   ]

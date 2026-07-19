@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T01:30:14.631Z",
+  "updatedAt": "2026-07-19T09:43:36.271Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9878",
-      "title": "SCP-9878",
-      "alternateTitle": "Here is the Giver of Gold",
-      "rating": 23,
-      "createdAt": "2026-01-16T01:16:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-173",
+      "title": "SCP-CN-173",
+      "alternateTitle": "Mr. Custom",
+      "rating": 13,
+      "createdAt": "2023-09-07T22:34:56.000Z",
       "tags": [
-        "archaeological",
-        "autonomous",
-        "building",
-        "chemical",
-        "document",
-        "food",
-        "historical",
-        "knowledge",
-        "mind-affecting",
-        "religious",
-        "safe",
-        "scp",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-9878/mask.jpg",
-      "authors": [
-        "whenwerewe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8469",
-      "title": "SCP-8469",
-      "alternateTitle": "Justice was Blind",
-      "rating": 20,
-      "createdAt": "2024-09-10T23:03:18.000Z",
-      "tags": [
-        "anomalous-event",
-        "cognitohazard",
-        "esoteric-class",
-        "extradimensional",
+        "dr-wondertainment",
+        "euclid",
         "humanoid",
-        "mind-affecting",
+        "indestructible",
+        "international",
+        "metafiction",
+        "mister",
+        "narrative",
         "sapient",
         "scp",
-        "sleep",
-        "tactile",
-        "thermodynamic",
-        "uncontained"
+        "toy",
+        "visual"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carl_Rahl_-_Orestes_Pursued_by_the_Furies_%281852%29.jpg",
+      "thumbnailUrl": "http://scp-wiki-cn.wdfiles.com/local--files/scp-cn-173/1",
       "authors": [
-        "N1ght_Scribe"
+        "Veleafer",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8497",
-      "title": "SCP-8497",
-      "alternateTitle": "The Foundation Management System",
-      "rating": 7,
-      "createdAt": "2025-08-20T14:07:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7223",
+      "title": "SCP-7223",
+      "alternateTitle": "It Came From Their Stars",
+      "rating": 9,
+      "createdAt": "2023-06-10T11:26:53.000Z",
       "tags": [
-        "bureaucracy",
-        "document",
-        "esoteric-class",
-        "media",
-        "predictive",
-        "scp"
+        "euclid",
+        "extraterrestrial",
+        "radioactive",
+        "scp",
+        "structure",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7223/7223_diagram.png",
       "authors": [
-        "AnomalousOracle"
+        "ShudoWolf"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6457",
+      "title": "SCP-6457",
+      "alternateTitle": "Dark Water",
+      "rating": 23,
+      "createdAt": "2022-05-28T03:34:52.000Z",
+      "tags": [
+        "cadaver",
+        "cognitohazard",
+        "compulsion",
+        "concept",
+        "humanoid",
+        "liquid",
+        "location",
+        "meteorological",
+        "safe",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6457/storm-image.jpg",
+      "authors": [
+        "meltedbee"
       ]
     }
   ]

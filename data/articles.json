@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T01:56:10.935Z",
+  "updatedAt": "2026-07-20T10:39:16.086Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6908",
-      "title": "SCP-6908",
-      "alternateTitle": "Stasis",
-      "rating": 24,
-      "createdAt": "2022-03-08T20:51:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
+      "title": "Eberstrom's Proposal-ARC",
+      "alternateTitle": "for SCP-001 - Site-19",
+      "rating": -115,
+      "createdAt": "2008-07-27T10:05:05.000Z",
       "tags": [
-        "compulsion",
-        "fifthist",
-        "inscription",
+        "001-proposal",
+        "archived",
+        "euclid",
         "location",
-        "mind-affecting",
-        "neutralized",
-        "religious",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6908/sadlymissed",
-      "authors": [
-        "Sound Chaser"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
-      "title": "SCP-ZH-424",
-      "alternateTitle": "S.P.I.R.I.T.",
-      "rating": 7,
-      "createdAt": "2023-08-09T17:00:06.000Z",
-      "tags": [
-        "electrical",
-        "extradimensional",
-        "ghost",
-        "international",
-        "light",
-        "lorecon2023",
-        "plant",
-        "portal",
-        "safe",
         "scp",
-        "species",
-        "telepathic"
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
+        "Eberstrom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7692",
-      "title": "SCP-7692",
-      "alternateTitle": "Gifting Subs",
-      "rating": 17,
-      "createdAt": "2025-10-13T19:11:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5718",
+      "title": "SCP-5718",
+      "alternateTitle": "Treasure Island",
+      "rating": 13,
+      "createdAt": "2021-03-22T22:53:37.000Z",
       "tags": [
-        "euclid",
-        "extraterrestrial",
-        "humanoid",
-        "online",
-        "sapient",
+        "auditory",
+        "clothing",
+        "contagion",
+        "hallucination",
+        "jam-con2021",
+        "jewelry",
+        "safe",
         "scp",
-        "teleportation",
-        "unusual-incidents-unit"
+        "structure",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7692/subtomychannel!.png",
+      "thumbnailUrl": "",
       "authors": [
-        "DappledDaspletosaur"
+        "Draven Addams"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8890",
+      "title": "SCP-8890",
+      "alternateTitle": "A Hunter's Rising",
+      "rating": 14,
+      "createdAt": "2024-08-20T18:54:50.000Z",
+      "tags": [
+        "amorphous",
+        "animal",
+        "hostile",
+        "keter",
+        "pentagram",
+        "scp",
+        "self-repairing"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DoctorLilithSophia"
       ]
     }
   ]

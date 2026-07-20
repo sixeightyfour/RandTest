@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T10:39:16.086Z",
+  "updatedAt": "2026-07-20T17:18:51.286Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
-      "title": "Eberstrom's Proposal-ARC",
-      "alternateTitle": "for SCP-001 - Site-19",
-      "rating": -115,
-      "createdAt": "2008-07-27T10:05:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-116-it",
+      "title": "SCP-116-IT",
+      "alternateTitle": "Fortuituous Legend",
+      "rating": 7,
+      "createdAt": "2023-05-06T17:43:53.000Z",
       "tags": [
-        "001-proposal",
-        "archived",
+        "aquatic",
         "euclid",
+        "extradimensional",
+        "faerie",
+        "historical",
+        "homo-sapiens-sidhe",
+        "inscription",
+        "international",
         "location",
-        "scp",
-        "teleportation"
+        "nameless",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Eberstrom"
+        "An Average Italian",
+        "Roberto Turati"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5718",
-      "title": "SCP-5718",
-      "alternateTitle": "Treasure Island",
-      "rating": 13,
-      "createdAt": "2021-03-22T22:53:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7281",
+      "title": "SCP-7281",
+      "alternateTitle": "Ocean αγαπώ",
+      "rating": 24,
+      "createdAt": "2023-03-30T06:11:59.000Z",
+      "tags": [
+        "alive",
+        "aquatic",
+        "auditory",
+        "cognitohazard",
+        "euclid",
+        "fish",
+        "hostile",
+        "humanoid",
+        "metamorphic",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7281/SCP_Image_Final.png",
+      "authors": [
+        "Doctor Zurvan"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6116",
+      "title": "SCP-6116",
+      "alternateTitle": "Night at the Museum",
+      "rating": 11,
+      "createdAt": "2021-07-04T03:57:35.000Z",
       "tags": [
         "auditory",
-        "clothing",
-        "contagion",
-        "hallucination",
-        "jam-con2021",
-        "jewelry",
+        "biohazard",
+        "cognitohazard",
+        "compulsion",
+        "musical",
         "safe",
-        "scp",
-        "structure",
-        "visual"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
       "authors": [
-        "Draven Addams"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8890",
-      "title": "SCP-8890",
-      "alternateTitle": "A Hunter's Rising",
-      "rating": 14,
-      "createdAt": "2024-08-20T18:54:50.000Z",
-      "tags": [
-        "amorphous",
-        "animal",
-        "hostile",
-        "keter",
-        "pentagram",
-        "scp",
-        "self-repairing"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DoctorLilithSophia"
+        "finnah"
       ]
     }
   ]

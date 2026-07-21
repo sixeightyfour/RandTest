@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T10:13:44.090Z",
+  "updatedAt": "2026-07-21T17:05:48.953Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-922-arc",
-      "title": "SCP-922-ARC",
-      "alternateTitle": "Proust's Lunchbox",
-      "rating": -18,
-      "createdAt": "2011-07-20T02:09:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7927",
+      "title": "SCP-7927",
+      "alternateTitle": "Generational Hate",
+      "rating": 18,
+      "createdAt": "2024-12-09T04:00:24.000Z",
       "tags": [
-        "archived",
-        "artifact",
-        "memory-affecting",
+        "7th-occult-war",
+        "action",
+        "document",
+        "euclid",
+        "fantasy",
+        "historical",
+        "military-fiction",
+        "obskura",
+        "pentagram",
+        "ritual",
+        "scp",
+        "serpents-hand",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
+      "authors": [
+        "USOdysseus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7182",
+      "title": "SCP-7182",
+      "alternateTitle": "The Morpheus Field",
+      "rating": 19,
+      "createdAt": "2024-02-27T16:31:17.000Z",
+      "tags": [
+        "keter",
         "mind-affecting",
-        "safe",
+        "oneiroi",
+        "scp",
+        "sleep",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "FreezerMonkey"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8134",
+      "title": "SCP-8134",
+      "alternateTitle": "Indentured Servitude",
+      "rating": 20,
+      "createdAt": "2025-11-02T11:06:08.000Z",
+      "tags": [
+        "esoteric-class",
+        "ethics-committee",
+        "euclid",
+        "fire-suppression-dept",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrKens"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8583",
-      "title": "SCP-8583",
-      "alternateTitle": "Memory Bank",
-      "rating": 21,
-      "createdAt": "2025-07-15T12:14:19.000Z",
-      "tags": [
-        "currency",
-        "electrical",
-        "exchange",
-        "mechanical",
-        "memory-affecting",
-        "safe",
-        "scp",
-        "toy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "BluebriarArts"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6823",
-      "title": "SCP-6823",
-      "alternateTitle": "Jupiter Protocol",
-      "rating": 22,
-      "createdAt": "2024-03-01T03:42:55.000Z",
-      "tags": [
-        "computer",
-        "euclid",
-        "extraterrestrial",
-        "gaseous",
-        "planet",
-        "sapient",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
-      "authors": [
-        "Vwillow"
+        "SimpleRuins"
       ]
     }
   ]

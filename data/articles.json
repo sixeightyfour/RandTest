@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T17:18:51.286Z",
+  "updatedAt": "2026-07-21T01:29:15.611Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-116-it",
-      "title": "SCP-116-IT",
-      "alternateTitle": "Fortuituous Legend",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:43:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7512",
+      "title": "SCP-7512",
+      "alternateTitle": "A Pound of Flesh",
+      "rating": 20,
+      "createdAt": "2023-08-26T22:26:24.000Z",
       "tags": [
-        "aquatic",
-        "euclid",
-        "extradimensional",
-        "faerie",
-        "historical",
-        "homo-sapiens-sidhe",
-        "inscription",
-        "international",
-        "location",
-        "nameless",
+        "biological",
+        "cadaver",
+        "remixcon2023",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "An Average Italian",
-        "Roberto Turati"
+        "fabuIa"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7281",
-      "title": "SCP-7281",
-      "alternateTitle": "Ocean αγαπώ",
-      "rating": 24,
-      "createdAt": "2023-03-30T06:11:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7862",
+      "title": "SCP-7862",
+      "alternateTitle": "Meat's Vengeance",
+      "rating": 21,
+      "createdAt": "2025-07-13T04:24:51.000Z",
+      "tags": [
+        "biological",
+        "bleak",
+        "body-horror",
+        "building",
+        "classiccon2025",
+        "compulsion",
+        "euclid",
+        "food",
+        "horror",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/thepuppyturtle/Diner",
+      "authors": [
+        "XHAWK77X"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6826",
+      "title": "SCP-6826",
+      "alternateTitle": "Apologetic Carrier",
+      "rating": 7,
+      "createdAt": "2024-04-16T21:52:59.000Z",
       "tags": [
         "alive",
-        "aquatic",
-        "auditory",
-        "cognitohazard",
-        "euclid",
-        "fish",
-        "hostile",
-        "humanoid",
-        "metamorphic",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7281/SCP_Image_Final.png",
-      "authors": [
-        "Doctor Zurvan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6116",
-      "title": "SCP-6116",
-      "alternateTitle": "Night at the Museum",
-      "rating": 11,
-      "createdAt": "2021-07-04T03:57:35.000Z",
-      "tags": [
-        "auditory",
+        "bacteria",
         "biohazard",
-        "cognitohazard",
-        "compulsion",
-        "musical",
-        "safe",
-        "scp"
+        "blood",
+        "euclid",
+        "humanoid",
+        "liquid",
+        "ocular",
+        "sapient",
+        "scp",
+        "self-repairing",
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Apologetic%20Carrier%20title%20image",
       "authors": [
-        "finnah"
+        "Fierce fauna"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T01:28:37.236Z",
+  "updatedAt": "2026-07-22T10:13:21.813Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7295",
-      "title": "SCP-7295",
-      "alternateTitle": "The 4th Floor",
-      "rating": 10,
-      "createdAt": "2024-01-03T00:34:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8203",
+      "title": "SCP-8203",
+      "alternateTitle": "O Santo Consumo",
+      "rating": 19,
+      "createdAt": "2024-12-28T16:31:57.000Z",
       "tags": [
-        "safe",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "TV_Atlas"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3423-jp",
-      "title": "SCP-3423-JP",
-      "alternateTitle": "An Uncomplicated Suicide",
-      "rating": 12,
-      "createdAt": "2023-11-20T01:47:53.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
+        "art-exchange",
         "compulsion",
-        "esoteric-class",
-        "infohazard",
-        "international",
-        "miscommunications",
-        "neutralized",
-        "reality-bending",
+        "euclid",
+        "ghost",
+        "humanoid",
+        "intangible",
+        "phenomenon",
+        "religious",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "KABOOM1103",
-        "AlienSpaceBat",
-        "Maxyfran73"
+        "Gaffsey"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-338-arc",
-      "title": "SCP-338-ARC",
-      "alternateTitle": "Fading Disks",
-      "rating": -1,
-      "createdAt": "2011-04-14T22:01:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-066-de",
+      "title": "SCP-066-DE",
+      "alternateTitle": "The little Spellbook",
+      "rating": 19,
+      "createdAt": "2020-07-06T00:15:23.000Z",
       "tags": [
-        "archived",
+        "document",
         "ectoentropic",
         "euclid",
-        "indestructible",
+        "international",
+        "mages-academy",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-066-de/ZauberbuchEinband.jpg",
+      "authors": [
+        "Dr_Grom",
+        "Dr_Grom"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-268-de",
+      "title": "SCP-268-DE",
+      "alternateTitle": "Fancy Haircut",
+      "rating": 5,
+      "createdAt": "2023-11-24T15:52:44.000Z",
+      "tags": [
+        "euclid",
+        "humanoid",
+        "international",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "Gramlin",
+        "Karpfisch"
       ]
     }
   ]

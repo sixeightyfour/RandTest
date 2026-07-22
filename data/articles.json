@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T17:05:48.953Z",
+  "updatedAt": "2026-07-22T01:28:37.236Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7927",
-      "title": "SCP-7927",
-      "alternateTitle": "Generational Hate",
-      "rating": 18,
-      "createdAt": "2024-12-09T04:00:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7295",
+      "title": "SCP-7295",
+      "alternateTitle": "The 4th Floor",
+      "rating": 10,
+      "createdAt": "2024-01-03T00:34:04.000Z",
       "tags": [
-        "7th-occult-war",
-        "action",
-        "document",
-        "euclid",
-        "fantasy",
-        "historical",
-        "military-fiction",
-        "obskura",
-        "pentagram",
-        "ritual",
+        "safe",
         "scp",
-        "serpents-hand",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
-      "authors": [
-        "USOdysseus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7182",
-      "title": "SCP-7182",
-      "alternateTitle": "The Morpheus Field",
-      "rating": 19,
-      "createdAt": "2024-02-27T16:31:17.000Z",
-      "tags": [
-        "keter",
-        "mind-affecting",
-        "oneiroi",
-        "scp",
-        "sleep",
-        "thaumaturgy"
+        "structure"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "FreezerMonkey"
+        "TV_Atlas"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8134",
-      "title": "SCP-8134",
-      "alternateTitle": "Indentured Servitude",
-      "rating": 20,
-      "createdAt": "2025-11-02T11:06:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3423-jp",
+      "title": "SCP-3423-JP",
+      "alternateTitle": "An Uncomplicated Suicide",
+      "rating": 12,
+      "createdAt": "2023-11-20T01:47:53.000Z",
       "tags": [
+        "biological",
+        "cadaver",
+        "compulsion",
         "esoteric-class",
-        "ethics-committee",
-        "euclid",
-        "fire-suppression-dept",
+        "infohazard",
+        "international",
+        "miscommunications",
+        "neutralized",
+        "reality-bending",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SimpleRuins"
+        "KABOOM1103",
+        "AlienSpaceBat",
+        "Maxyfran73"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-338-arc",
+      "title": "SCP-338-ARC",
+      "alternateTitle": "Fading Disks",
+      "rating": -1,
+      "createdAt": "2011-04-14T22:01:39.000Z",
+      "tags": [
+        "archived",
+        "ectoentropic",
+        "euclid",
+        "indestructible",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unknown Author"
       ]
     }
   ]

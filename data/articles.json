@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T10:13:21.813Z",
+  "updatedAt": "2026-07-22T17:06:26.959Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8203",
-      "title": "SCP-8203",
-      "alternateTitle": "O Santo Consumo",
-      "rating": 19,
-      "createdAt": "2024-12-28T16:31:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-901-th",
+      "title": "SCP-901-TH",
+      "alternateTitle": "The Giant Head",
+      "rating": 18,
+      "createdAt": "2018-10-08T07:21:10.000Z",
       "tags": [
-        "art-exchange",
-        "compulsion",
-        "euclid",
-        "ghost",
+        "artistic",
+        "clothing",
+        "hostile",
         "humanoid",
-        "intangible",
-        "phenomenon",
-        "religious",
+        "international",
+        "mind-affecting",
+        "neurological",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gaffsey"
+        "DrSSS",
+        "Bonneneige"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-066-de",
-      "title": "SCP-066-DE",
-      "alternateTitle": "The little Spellbook",
-      "rating": 19,
-      "createdAt": "2020-07-06T00:15:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5892",
+      "title": "SCP-5892",
+      "alternateTitle": "A Loyal Friend Indeed",
+      "rating": 10,
+      "createdAt": "2021-06-05T22:53:57.000Z",
       "tags": [
-        "document",
-        "ectoentropic",
-        "euclid",
-        "international",
-        "mages-academy",
+        "alive",
+        "animal",
+        "artifact",
+        "canine",
+        "photographic",
+        "reality-bending",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4375",
+      "title": "SCP-4375",
+      "alternateTitle": "Two Forgetful Men",
+      "rating": -1,
+      "createdAt": "2019-04-29T15:46:06.000Z",
+      "tags": [
+        "ethics-committee",
+        "foundation-made",
+        "foundation-personnel",
+        "global-occult-coalition",
+        "humanoid",
+        "reality-bending",
         "scp",
-        "transfiguration"
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-066-de/ZauberbuchEinband.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4375/header.png",
       "authors": [
-        "Dr_Grom",
-        "Dr_Grom"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-268-de",
-      "title": "SCP-268-DE",
-      "alternateTitle": "Fancy Haircut",
-      "rating": 5,
-      "createdAt": "2023-11-24T15:52:44.000Z",
-      "tags": [
-        "euclid",
-        "humanoid",
-        "international",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "kamelen800"
       ]
     }
   ]

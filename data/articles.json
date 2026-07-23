@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T10:10:29.649Z",
+  "updatedAt": "2026-07-23T17:08:34.627Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7176",
-      "title": "SCP-7176",
-      "alternateTitle": "The Doctor in the White Room, Falling Harder",
-      "rating": 21,
-      "createdAt": "2023-05-28T07:13:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7762",
+      "title": "SCP-7762",
+      "alternateTitle": "Helsing's Angels",
+      "rating": 23,
+      "createdAt": "2025-07-06T16:57:09.000Z",
       "tags": [
-        "alive",
-        "building",
-        "foundation-personnel",
+        "blood",
+        "classiccon2025",
+        "contagion",
+        "fantasy",
+        "horror",
         "humanoid",
-        "infohazard",
-        "narrative",
-        "religious",
-        "sapient",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/heckfire-white/narc.jpg",
-      "authors": [
-        "NDHeckfire"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6626",
-      "title": "SCP-6626",
-      "alternateTitle": "A s c e n d",
-      "rating": 16,
-      "createdAt": "2022-01-04T19:09:45.000Z",
-      "tags": [
-        "building",
-        "euclid",
-        "extradimensional",
-        "religious",
-        "scarlet-king",
-        "scp",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
-      "authors": [
-        "AgentAX"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8193",
-      "title": "SCP-8193",
-      "alternateTitle": "As the Bombs Began to Fall",
-      "rating": 22,
-      "createdAt": "2024-07-26T10:03:16.000Z",
-      "tags": [
-        "child",
-        "humanoid",
-        "safe",
-        "sapient",
+        "keter",
+        "predatory",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Edmund Davids"
+        "kilgrave_lovejoy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7789",
+      "title": "SCP-7789",
+      "alternateTitle": "Agent Vidal in upside down Barcelona",
+      "rating": 23,
+      "createdAt": "2022-11-13T15:07:56.000Z",
+      "tags": [
+        "electromagnetic",
+        "gravity",
+        "location",
+        "pending",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7789/bcnbcndefdef.png",
+      "authors": [
+        "gaussian"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9026",
+      "title": "SCP-9026",
+      "alternateTitle": "Remember, Remember",
+      "rating": 21,
+      "createdAt": "2025-10-03T21:06:56.000Z",
+      "tags": [
+        "9000",
+        "adaptive",
+        "bittersweet",
+        "building",
+        "fungus",
+        "knowledge",
+        "memory-affecting",
+        "safe",
+        "scp",
+        "surrealism"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9026/Maria_Woerth_Teixlbucht_Sueduferstrasse_197_Villa_Fichteneck_NW-Ansicht_19042017_7776.jpg",
+      "authors": [
+        "Gunpowdr"
       ]
     }
   ]

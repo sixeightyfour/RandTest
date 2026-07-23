@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T17:06:26.959Z",
+  "updatedAt": "2026-07-23T01:48:03.417Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-901-th",
-      "title": "SCP-901-TH",
-      "alternateTitle": "The Giant Head",
-      "rating": 18,
-      "createdAt": "2018-10-08T07:21:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8070",
+      "title": "SCP-8070",
+      "alternateTitle": "Stereoisomerism",
+      "rating": 17,
+      "createdAt": "2024-03-19T03:18:45.000Z",
       "tags": [
-        "artistic",
-        "clothing",
-        "hostile",
-        "humanoid",
-        "international",
-        "mind-affecting",
-        "neurological",
-        "safe",
-        "scp"
+        "keter",
+        "phenomenon",
+        "scp",
+        "spatial",
+        "teleportation",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
+      "authors": [
+        "Dr Talcite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8659",
+      "title": "SCP-8659",
+      "alternateTitle": "Broken Colossus",
+      "rating": 13,
+      "createdAt": "2024-12-07T22:26:24.000Z",
+      "tags": [
+        "broken-god",
+        "esoteric-class",
+        "global-occult-coalition",
+        "robotic",
+        "scp",
+        "serpents-hand",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrSSS",
-        "Bonneneige"
+        "Qelper"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5892",
-      "title": "SCP-5892",
-      "alternateTitle": "A Loyal Friend Indeed",
-      "rating": 10,
-      "createdAt": "2021-06-05T22:53:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1548-ko",
+      "title": "SCP-1548-KO",
+      "alternateTitle": "The Loveful Star",
+      "rating": 21,
+      "createdAt": "2025-04-18T05:44:07.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "artifact",
-        "canine",
-        "photographic",
-        "reality-bending",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
-      "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4375",
-      "title": "SCP-4375",
-      "alternateTitle": "Two Forgetful Men",
-      "rating": -1,
-      "createdAt": "2019-04-29T15:46:06.000Z",
-      "tags": [
-        "ethics-committee",
-        "foundation-made",
-        "foundation-personnel",
-        "global-occult-coalition",
-        "humanoid",
-        "reality-bending",
+        "extraterrestrial",
+        "international",
+        "keter",
         "scp",
-        "thaumiel"
+        "sun"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4375/header.png",
+      "thumbnailUrl": "",
       "authors": [
-        "kamelen800"
+        "dododom",
+        "fluxman"
       ]
     }
   ]

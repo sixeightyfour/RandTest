@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T01:48:03.417Z",
+  "updatedAt": "2026-07-23T10:10:29.649Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8070",
-      "title": "SCP-8070",
-      "alternateTitle": "Stereoisomerism",
-      "rating": 17,
-      "createdAt": "2024-03-19T03:18:45.000Z",
-      "tags": [
-        "keter",
-        "phenomenon",
-        "scp",
-        "spatial",
-        "teleportation",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8659",
-      "title": "SCP-8659",
-      "alternateTitle": "Broken Colossus",
-      "rating": 13,
-      "createdAt": "2024-12-07T22:26:24.000Z",
-      "tags": [
-        "broken-god",
-        "esoteric-class",
-        "global-occult-coalition",
-        "robotic",
-        "scp",
-        "serpents-hand",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Qelper"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1548-ko",
-      "title": "SCP-1548-KO",
-      "alternateTitle": "The Loveful Star",
+      "url": "http://scp-wiki.wikidot.com/scp-7176",
+      "title": "SCP-7176",
+      "alternateTitle": "The Doctor in the White Room, Falling Harder",
       "rating": 21,
-      "createdAt": "2025-04-18T05:44:07.000Z",
+      "createdAt": "2023-05-28T07:13:00.000Z",
       "tags": [
-        "extraterrestrial",
-        "international",
-        "keter",
+        "alive",
+        "building",
+        "foundation-personnel",
+        "humanoid",
+        "infohazard",
+        "narrative",
+        "religious",
+        "sapient",
         "scp",
-        "sun"
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/heckfire-white/narc.jpg",
+      "authors": [
+        "NDHeckfire"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6626",
+      "title": "SCP-6626",
+      "alternateTitle": "A s c e n d",
+      "rating": 16,
+      "createdAt": "2022-01-04T19:09:45.000Z",
+      "tags": [
+        "building",
+        "euclid",
+        "extradimensional",
+        "religious",
+        "scarlet-king",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
+      "authors": [
+        "AgentAX"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8193",
+      "title": "SCP-8193",
+      "alternateTitle": "As the Bombs Began to Fall",
+      "rating": 22,
+      "createdAt": "2024-07-26T10:03:16.000Z",
+      "tags": [
+        "child",
+        "humanoid",
+        "safe",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "dododom",
-        "fluxman"
+        "Edmund Davids"
       ]
     }
   ]

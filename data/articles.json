@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T01:43:54.037Z",
+  "updatedAt": "2026-07-24T10:06:31.262Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7665",
-      "title": "SCP-7665",
-      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
-      "rating": 20,
-      "createdAt": "2023-08-25T10:45:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7546",
+      "title": "SCP-7546",
+      "alternateTitle": "Escapism",
+      "rating": 19,
+      "createdAt": "2025-07-10T11:50:04.000Z",
       "tags": [
-        "appliance",
-        "building",
-        "co-authored",
-        "fantasy",
-        "forest",
-        "horror",
-        "infohazard",
-        "mystery",
-        "nameless",
-        "remixcon2023",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Civil Western",
-        "Spacestealth"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5547",
-      "title": "SCP-5547",
-      "alternateTitle": "Sunken Hope",
-      "rating": 24,
-      "createdAt": "2021-03-22T23:20:41.000Z",
-      "tags": [
-        "aquatic",
-        "jam-con2021",
-        "meteorological",
-        "safe",
-        "scp",
-        "temporal",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5547/sub.jpg",
-      "authors": [
-        "DrAkimoto"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8461",
-      "title": "SCP-8461",
-      "alternateTitle": "Get Almost, Almost Anything",
-      "rating": 13,
-      "createdAt": "2026-01-11T01:20:26.000Z",
-      "tags": [
-        "cognitohazard",
+        "classiccon2025",
         "electronic",
-        "exchange",
-        "keter",
-        "online",
-        "scp"
+        "game",
+        "horror",
+        "safe",
+        "sapient",
+        "scp",
+        "toy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "MARKLIU"
+        "mspufferfish"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9976",
+      "title": "SCP-9976",
+      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
+      "rating": 4,
+      "createdAt": "2025-11-13T17:47:47.000Z",
+      "tags": [
+        "electronic",
+        "extraterrestrial",
+        "keter",
+        "media",
+        "political",
+        "sapient",
+        "satellite",
+        "scp",
+        "transmission"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
+      "authors": [
+        "good_vibrations"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6628",
+      "title": "SCP-6628",
+      "alternateTitle": "Some Time Apart",
+      "rating": 14,
+      "createdAt": "2022-09-29T18:51:24.000Z",
+      "tags": [
+        "clockwork",
+        "humanoid",
+        "intangible",
+        "neutralized",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cwazzycwafter"
       ]
     }
   ]

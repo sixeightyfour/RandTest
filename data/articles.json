@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:08:34.627Z",
+  "updatedAt": "2026-07-24T01:43:54.037Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7762",
-      "title": "SCP-7762",
-      "alternateTitle": "Helsing's Angels",
-      "rating": 23,
-      "createdAt": "2025-07-06T16:57:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7665",
+      "title": "SCP-7665",
+      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
+      "rating": 20,
+      "createdAt": "2023-08-25T10:45:44.000Z",
       "tags": [
-        "blood",
-        "classiccon2025",
-        "contagion",
+        "appliance",
+        "building",
+        "co-authored",
         "fantasy",
+        "forest",
         "horror",
-        "humanoid",
-        "keter",
-        "predatory",
+        "infohazard",
+        "mystery",
+        "nameless",
+        "remixcon2023",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "kilgrave_lovejoy"
+        "Civil Western",
+        "Spacestealth"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7789",
-      "title": "SCP-7789",
-      "alternateTitle": "Agent Vidal in upside down Barcelona",
-      "rating": 23,
-      "createdAt": "2022-11-13T15:07:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5547",
+      "title": "SCP-5547",
+      "alternateTitle": "Sunken Hope",
+      "rating": 24,
+      "createdAt": "2021-03-22T23:20:41.000Z",
       "tags": [
-        "electromagnetic",
-        "gravity",
-        "location",
-        "pending",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7789/bcnbcndefdef.png",
-      "authors": [
-        "gaussian"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9026",
-      "title": "SCP-9026",
-      "alternateTitle": "Remember, Remember",
-      "rating": 21,
-      "createdAt": "2025-10-03T21:06:56.000Z",
-      "tags": [
-        "9000",
-        "adaptive",
-        "bittersweet",
-        "building",
-        "fungus",
-        "knowledge",
-        "memory-affecting",
+        "aquatic",
+        "jam-con2021",
+        "meteorological",
         "safe",
         "scp",
-        "surrealism"
+        "temporal",
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9026/Maria_Woerth_Teixlbucht_Sueduferstrasse_197_Villa_Fichteneck_NW-Ansicht_19042017_7776.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5547/sub.jpg",
       "authors": [
-        "Gunpowdr"
+        "DrAkimoto"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8461",
+      "title": "SCP-8461",
+      "alternateTitle": "Get Almost, Almost Anything",
+      "rating": 13,
+      "createdAt": "2026-01-11T01:20:26.000Z",
+      "tags": [
+        "cognitohazard",
+        "electronic",
+        "exchange",
+        "keter",
+        "online",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "MARKLIU"
       ]
     }
   ]

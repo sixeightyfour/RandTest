@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T10:06:31.262Z",
+  "updatedAt": "2026-07-24T17:19:31.112Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7546",
-      "title": "SCP-7546",
-      "alternateTitle": "Escapism",
-      "rating": 19,
-      "createdAt": "2025-07-10T11:50:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-339",
+      "title": "SCP-PL-339",
+      "alternateTitle": "Letters from a dead space station",
+      "rating": 3,
+      "createdAt": "2025-07-12T22:43:17.000Z",
       "tags": [
-        "classiccon2025",
-        "electronic",
-        "game",
-        "horror",
-        "safe",
+        "electrical",
+        "electromagnetic",
+        "extraterrestrial",
+        "international",
+        "neutralized",
         "sapient",
-        "scp",
-        "toy"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/STS113-363-002_-_STS-113_-_ISS_Rendezvous_Operations_during_STS-113_-_DPLA_-_9682f8863e999d33b7f36810bdf2d1f2.jpg",
       "authors": [
-        "mspufferfish"
+        "zoryn 204",
+        "zoryn 204"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9976",
-      "title": "SCP-9976",
-      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
-      "rating": 4,
-      "createdAt": "2025-11-13T17:47:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7181",
+      "title": "SCP-7181",
+      "alternateTitle": "In Absentia Ego",
+      "rating": 12,
+      "createdAt": "2024-09-02T16:59:03.000Z",
       "tags": [
-        "electronic",
-        "extraterrestrial",
-        "keter",
-        "media",
-        "political",
-        "sapient",
-        "satellite",
+        "extradimensional",
+        "location",
+        "magnetic",
+        "portal",
         "scp",
+        "thaumiel",
         "transmission"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "good_vibrations"
+        "Nylo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6628",
-      "title": "SCP-6628",
-      "alternateTitle": "Some Time Apart",
-      "rating": 14,
-      "createdAt": "2022-09-29T18:51:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7051",
+      "title": "SCP-7051",
+      "alternateTitle": "Never Truly Alone",
+      "rating": 17,
+      "createdAt": "2022-11-07T19:56:19.000Z",
       "tags": [
-        "clockwork",
-        "humanoid",
-        "intangible",
-        "neutralized",
+        "alive",
+        "compulsion",
         "scp",
-        "temporal"
+        "species",
+        "ticonderoga"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cwazzycwafter"
+        "Jade_Crusader"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T01:44:18.923Z",
+  "updatedAt": "2026-07-25T09:26:41.241Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-275-de",
-      "title": "SCP-275-DE",
-      "alternateTitle": "Cleaning Robot BEA",
-      "rating": 8,
-      "createdAt": "2022-10-24T16:05:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7368",
+      "title": "SCP-7368",
+      "alternateTitle": "A Story of Time, Love and Opium",
+      "rating": 10,
+      "createdAt": "2024-02-12T19:31:55.000Z",
       "tags": [
-        "autonomous",
-        "euclid",
-        "international",
-        "mechanical",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Gramlin",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-730",
-      "title": "SCP-ZH-730",
-      "alternateTitle": "Commute Route for Type B Personnel",
-      "rating": 6,
-      "createdAt": "2025-01-15T17:46:57.000Z",
-      "tags": [
-        "international",
+        "cadaver",
+        "children-of-the-night",
+        "mystery",
+        "neutralized",
         "religious",
+        "religious-fiction",
+        "sapient",
+        "science-fiction",
         "scp",
-        "structure",
-        "thaumiel"
+        "temporal",
+        "thad-xyank",
+        "time-travel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
       "authors": [
-        "Fallen_Truth",
-        "Kikunai"
+        "alanthechair"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
-      "title": "SCP-400-ARC",
-      "alternateTitle": "A Telephone Box",
-      "rating": 23,
-      "createdAt": "2008-07-30T20:28:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9517",
+      "title": "SCP-9517",
+      "alternateTitle": "The Manosphere",
+      "rating": 11,
+      "createdAt": "2025-12-08T23:48:53.000Z",
       "tags": [
-        "appliance",
-        "archived",
-        "auditory",
-        "euclid",
-        "knowledge",
+        "bittersweet",
+        "extraterrestrial",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9517/galaxy/medium.jpg",
       "authors": [
-        "DrTVague"
+        "WHV"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7552",
+      "title": "SCP-7552",
+      "alternateTitle": "Depth Perception",
+      "rating": 11,
+      "createdAt": "2023-07-24T23:32:14.000Z",
+      "tags": [
+        "artifact",
+        "compulsion",
+        "electromagnetic",
+        "safe",
+        "scp",
+        "sphere",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/2/3802854_212e09ef5d.jpg",
+      "authors": [
+        "jwellhoner"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:19:31.112Z",
+  "updatedAt": "2026-07-25T01:44:18.923Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-339",
-      "title": "SCP-PL-339",
-      "alternateTitle": "Letters from a dead space station",
-      "rating": 3,
-      "createdAt": "2025-07-12T22:43:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-275-de",
+      "title": "SCP-275-DE",
+      "alternateTitle": "Cleaning Robot BEA",
+      "rating": 8,
+      "createdAt": "2022-10-24T16:05:01.000Z",
       "tags": [
-        "electrical",
-        "electromagnetic",
-        "extraterrestrial",
+        "autonomous",
+        "euclid",
         "international",
-        "neutralized",
-        "sapient",
+        "mechanical",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/STS113-363-002_-_STS-113_-_ISS_Rendezvous_Operations_during_STS-113_-_DPLA_-_9682f8863e999d33b7f36810bdf2d1f2.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "zoryn 204",
-        "zoryn 204"
+        "Gramlin",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7181",
-      "title": "SCP-7181",
-      "alternateTitle": "In Absentia Ego",
-      "rating": 12,
-      "createdAt": "2024-09-02T16:59:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-730",
+      "title": "SCP-ZH-730",
+      "alternateTitle": "Commute Route for Type B Personnel",
+      "rating": 6,
+      "createdAt": "2025-01-15T17:46:57.000Z",
       "tags": [
-        "extradimensional",
-        "location",
-        "magnetic",
-        "portal",
+        "international",
+        "religious",
         "scp",
-        "thaumiel",
-        "transmission"
+        "structure",
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nylo"
+        "Fallen_Truth",
+        "Kikunai"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7051",
-      "title": "SCP-7051",
-      "alternateTitle": "Never Truly Alone",
-      "rating": 17,
-      "createdAt": "2022-11-07T19:56:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
+      "title": "SCP-400-ARC",
+      "alternateTitle": "A Telephone Box",
+      "rating": 23,
+      "createdAt": "2008-07-30T20:28:40.000Z",
       "tags": [
-        "alive",
-        "compulsion",
-        "scp",
-        "species",
-        "ticonderoga"
+        "appliance",
+        "archived",
+        "auditory",
+        "euclid",
+        "knowledge",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Jade_Crusader"
+        "DrTVague"
       ]
     }
   ]

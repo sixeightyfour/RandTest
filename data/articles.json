@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T09:26:41.241Z",
+  "updatedAt": "2026-07-25T16:44:27.374Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7368",
-      "title": "SCP-7368",
-      "alternateTitle": "A Story of Time, Love and Opium",
-      "rating": 10,
-      "createdAt": "2024-02-12T19:31:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7306",
+      "title": "SCP-7306",
+      "alternateTitle": "No More Regrets?",
+      "rating": 21,
+      "createdAt": "2023-10-22T20:37:05.000Z",
+      "tags": [
+        "document",
+        "esoteric-class",
+        "ethics-committee",
+        "humanoid",
+        "mind-affecting",
+        "photographic",
+        "safe",
+        "sapient",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "https://i2.pickpik.com/photos/385/988/944/picture-instant-polaroid-vintage-preview.jpg",
+      "authors": [
+        "PeanutTheComrade"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7946",
+      "title": "SCP-7946",
+      "alternateTitle": "Jerahmeel",
+      "rating": 22,
+      "createdAt": "2024-02-06T06:55:55.000Z",
       "tags": [
         "cadaver",
-        "children-of-the-night",
-        "mystery",
-        "neutralized",
-        "religious",
-        "religious-fiction",
-        "sapient",
-        "science-fiction",
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "interactive",
+        "jewelry",
+        "memory-affecting",
         "scp",
-        "temporal",
-        "thad-xyank",
-        "time-travel"
+        "structure"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "alanthechair"
+        "MrMeltingPoint"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9517",
-      "title": "SCP-9517",
-      "alternateTitle": "The Manosphere",
-      "rating": 11,
-      "createdAt": "2025-12-08T23:48:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7740",
+      "title": "SCP-7740",
+      "alternateTitle": "Royal Radio",
+      "rating": 22,
+      "createdAt": "2023-03-11T20:56:23.000Z",
       "tags": [
-        "bittersweet",
-        "extraterrestrial",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9517/galaxy/medium.jpg",
-      "authors": [
-        "WHV"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7552",
-      "title": "SCP-7552",
-      "alternateTitle": "Depth Perception",
-      "rating": 11,
-      "createdAt": "2023-07-24T23:32:14.000Z",
-      "tags": [
-        "artifact",
-        "compulsion",
-        "electromagnetic",
-        "safe",
+        "esoteric-class",
         "scp",
-        "sphere",
-        "transfiguration"
+        "transmission"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/2/3802854_212e09ef5d.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "jwellhoner"
+        "ESB2109"
       ]
     }
   ]

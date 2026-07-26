@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T01:46:20.835Z",
+  "updatedAt": "2026-07-26T09:49:47.949Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8259",
-      "title": "SCP-8259",
-      "alternateTitle": "The Afanc",
-      "rating": 11,
-      "createdAt": "2025-12-06T10:13:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6949",
+      "title": "SCP-6949",
+      "alternateTitle": "Money Doesn't Grow on Trees",
+      "rating": 18,
+      "createdAt": "2022-04-30T22:42:09.000Z",
       "tags": [
         "alive",
-        "animal",
-        "aquatic",
-        "black-comedy",
-        "chaos-on-the-monolith",
-        "comedy",
+        "currency",
         "euclid",
-        "folklore-dept",
-        "from-120s-archives",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
-      "authors": [
-        "vilsolad"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7635",
-      "title": "SCP-7635",
-      "alternateTitle": "\"Darwin\" the Wombat",
-      "rating": 16,
-      "createdAt": "2024-03-10T22:22:53.000Z",
-      "tags": [
-        "adaptive",
-        "alive",
-        "animal",
-        "euclid",
-        "gaseous",
-        "intangible",
-        "liquid",
-        "metamorphic",
+        "plant",
         "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7635/wombat.jpg",
-      "authors": [
-        "alanthechair"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-055-int",
-      "title": "SCP-055-INT",
-      "alternateTitle": "An Empty Bliss",
-      "rating": 13,
-      "createdAt": "2023-02-07T03:21:47.000Z",
-      "tags": [
-        "co-authored",
-        "international",
-        "k-class-scenario",
-        "keter",
-        "memory-affecting",
-        "neurological",
-        "scp",
-        "uncontained"
+        "tree"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "basirskipreader",
-        "Felixou"
+        "Blue Foot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8122",
+      "title": "SCP-8122",
+      "alternateTitle": "Venus de Flytrap",
+      "rating": 19,
+      "createdAt": "2025-03-14T03:22:46.000Z",
+      "tags": [
+        "broken-masquerade",
+        "cognitohazard",
+        "compulsion",
+        "metamorphic",
+        "predatory",
+        "safe",
+        "scp",
+        "sculpture"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8122/venus/medium.jpg",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8511",
+      "title": "SCP-8511",
+      "alternateTitle": "They Don’t Even Have Dental",
+      "rating": 12,
+      "createdAt": "2025-07-10T04:21:01.000Z",
+      "tags": [
+        "alive",
+        "cognitohazard",
+        "doctor-cimmerian",
+        "doctor-gears",
+        "humanoid",
+        "memetic",
+        "mind-affecting",
+        "neutralized",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "TV_Atlas"
       ]
     }
   ]

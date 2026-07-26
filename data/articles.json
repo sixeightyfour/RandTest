@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T09:49:47.949Z",
+  "updatedAt": "2026-07-26T16:45:19.471Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6949",
-      "title": "SCP-6949",
-      "alternateTitle": "Money Doesn't Grow on Trees",
-      "rating": 18,
-      "createdAt": "2022-04-30T22:42:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7068",
+      "title": "SCP-7068",
+      "alternateTitle": "The Endless Art Gallery",
+      "rating": 24,
+      "createdAt": "2022-10-27T22:09:27.000Z",
       "tags": [
-        "alive",
-        "currency",
-        "euclid",
-        "plant",
-        "scp",
-        "tree"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Blue Foot"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8122",
-      "title": "SCP-8122",
-      "alternateTitle": "Venus de Flytrap",
-      "rating": 19,
-      "createdAt": "2025-03-14T03:22:46.000Z",
-      "tags": [
-        "broken-masquerade",
-        "cognitohazard",
-        "compulsion",
-        "metamorphic",
-        "predatory",
+        "are-we-cool-yet",
+        "artistic",
+        "building",
         "safe",
         "scp",
-        "sculpture"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8122/venus/medium.jpg",
-      "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8511",
-      "title": "SCP-8511",
-      "alternateTitle": "They Don’t Even Have Dental",
-      "rating": 12,
-      "createdAt": "2025-07-10T04:21:01.000Z",
-      "tags": [
-        "alive",
-        "cognitohazard",
-        "doctor-cimmerian",
-        "doctor-gears",
-        "humanoid",
-        "memetic",
-        "mind-affecting",
-        "neutralized",
-        "sapient",
-        "scp"
+        "spatial"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TV_Atlas"
+        "_KazuyukiKasuke"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8635",
+      "title": "SCP-8635",
+      "alternateTitle": "The Helpful Trucker",
+      "rating": 10,
+      "createdAt": "2025-05-22T12:57:24.000Z",
+      "tags": [
+        "compulsion",
+        "esoteric-class",
+        "humanoid",
+        "scp",
+        "uncontained",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
+      "authors": [
+        "emmalexandria"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7746",
+      "title": "SCP-7746",
+      "alternateTitle": "Recursive Churchal Network",
+      "rating": 11,
+      "createdAt": "2025-07-24T00:12:28.000Z",
+      "tags": [
+        "building",
+        "dream",
+        "knowledge",
+        "neurological",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7746/somno.png",
+      "authors": [
+        "Dr Katalin Bava"
       ]
     }
   ]

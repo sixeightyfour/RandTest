@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T16:44:27.374Z",
+  "updatedAt": "2026-07-26T01:46:20.835Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7306",
-      "title": "SCP-7306",
-      "alternateTitle": "No More Regrets?",
-      "rating": 21,
-      "createdAt": "2023-10-22T20:37:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8259",
+      "title": "SCP-8259",
+      "alternateTitle": "The Afanc",
+      "rating": 11,
+      "createdAt": "2025-12-06T10:13:41.000Z",
       "tags": [
-        "document",
-        "esoteric-class",
-        "ethics-committee",
-        "humanoid",
-        "mind-affecting",
-        "photographic",
-        "safe",
-        "sapient",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://i2.pickpik.com/photos/385/988/944/picture-instant-polaroid-vintage-preview.jpg",
-      "authors": [
-        "PeanutTheComrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7946",
-      "title": "SCP-7946",
-      "alternateTitle": "Jerahmeel",
-      "rating": 22,
-      "createdAt": "2024-02-06T06:55:55.000Z",
-      "tags": [
-        "cadaver",
+        "alive",
+        "animal",
+        "aquatic",
+        "black-comedy",
+        "chaos-on-the-monolith",
+        "comedy",
         "euclid",
-        "extradimensional",
-        "humanoid",
-        "interactive",
-        "jewelry",
-        "memory-affecting",
-        "scp",
-        "structure"
+        "folklore-dept",
+        "from-120s-archives",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
       "authors": [
-        "MrMeltingPoint"
+        "vilsolad"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7740",
-      "title": "SCP-7740",
-      "alternateTitle": "Royal Radio",
-      "rating": 22,
-      "createdAt": "2023-03-11T20:56:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7635",
+      "title": "SCP-7635",
+      "alternateTitle": "\"Darwin\" the Wombat",
+      "rating": 16,
+      "createdAt": "2024-03-10T22:22:53.000Z",
       "tags": [
-        "esoteric-class",
+        "adaptive",
+        "alive",
+        "animal",
+        "euclid",
+        "gaseous",
+        "intangible",
+        "liquid",
+        "metamorphic",
         "scp",
-        "transmission"
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7635/wombat.jpg",
+      "authors": [
+        "alanthechair"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-055-int",
+      "title": "SCP-055-INT",
+      "alternateTitle": "An Empty Bliss",
+      "rating": 13,
+      "createdAt": "2023-02-07T03:21:47.000Z",
+      "tags": [
+        "co-authored",
+        "international",
+        "k-class-scenario",
+        "keter",
+        "memory-affecting",
+        "neurological",
+        "scp",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ESB2109"
+        "basirskipreader",
+        "Felixou"
       ]
     }
   ]

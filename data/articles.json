@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T11:08:57.825Z",
+  "updatedAt": "2026-07-27T17:28:36.028Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -31,45 +31,41 @@
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9038",
-      "title": "SCP-9038",
-      "alternateTitle": "Universe Ectopia",
-      "rating": 15,
-      "createdAt": "2026-01-11T21:25:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7121",
+      "title": "SCP-7121",
+      "alternateTitle": "come, the pale wind's hound",
+      "rating": 7,
+      "createdAt": "2025-08-23T18:27:11.000Z",
       "tags": [
-        "foundation-made",
-        "intangible",
-        "scp",
-        "structure",
-        "telekinetic",
-        "thaumaturgy",
-        "thaumiel"
+        "extradimensional",
+        "keter",
+        "murder-monster",
+        "predatory",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ecto/structure.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
       "authors": [
-        "Dr Talcite"
+        "foxgirlknives"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3173",
-      "title": "SCP-3173",
-      "alternateTitle": "Forest Prison",
-      "rating": 21,
-      "createdAt": "2018-03-06T01:37:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7137",
+      "title": "SCP-7137",
+      "alternateTitle": "Super Concealed Paper",
+      "rating": 23,
+      "createdAt": "2023-08-12T01:53:22.000Z",
       "tags": [
-        "amorphous",
-        "forest",
-        "gaseous",
-        "island",
-        "keter",
-        "location",
+        "antimemetic",
+        "comedy",
+        "document",
+        "euclid",
+        "foundation-made",
         "scp",
-        "thermodynamic",
-        "tree"
+        "slice-of-life"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3173/forest.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Whipple"
+        "Matthgeek"
       ]
     }
   ]

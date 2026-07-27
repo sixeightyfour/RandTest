@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T01:53:43.417Z",
+  "updatedAt": "2026-07-27T11:08:57.825Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-755-ko",
-      "title": "SCP-755-KO",
-      "alternateTitle": "Learn all the technology and knowledge you want; there are Other Important Things",
-      "rating": 15,
-      "createdAt": "2022-11-23T15:48:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-222",
+      "title": "SCP-ES-222",
+      "alternateTitle": "To Create, One Last Time; or the Last Works of Susanna Vázquez",
+      "rating": 13,
+      "createdAt": "2024-06-04T23:12:03.000Z",
       "tags": [
-        "antimemetic",
-        "extremity",
-        "hostile",
-        "intangible",
+        "are-we-cool-yet",
+        "artistic",
+        "extradimensional",
         "international",
-        "k-class-scenario",
-        "language",
-        "memetic",
-        "memory-affecting",
-        "neutralized",
+        "portal",
+        "safe",
         "scp",
-        "transfiguration",
-        "uncontained",
-        "weapon"
+        "self-repairing"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-755-ko/hand.png",
+      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-222/SCP-ES-222-A.jpg",
       "authors": [
-        "ProfoundAbyss",
-        "fluxman"
+        "Eduteck",
+        "Kokoro_Hime",
+        "Mackenz1337"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7525",
-      "title": "SCP-7525",
-      "alternateTitle": "The Last Christmas",
-      "rating": 16,
-      "createdAt": "2022-12-01T22:22:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9038",
+      "title": "SCP-9038",
+      "alternateTitle": "Universe Ectopia",
+      "rating": 15,
+      "createdAt": "2026-01-11T21:25:36.000Z",
       "tags": [
-        "antimemetic",
-        "christmas",
-        "cognitohazard",
-        "euclid",
-        "musical",
-        "religious",
-        "science-fiction",
-        "scp"
+        "foundation-made",
+        "intangible",
+        "scp",
+        "structure",
+        "telekinetic",
+        "thaumaturgy",
+        "thaumiel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ecto/structure.jpg",
       "authors": [
-        "sortie"
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7895",
-      "title": "SCP-7895",
-      "alternateTitle": "Dreaming of Our Hometown",
-      "rating": 22,
-      "createdAt": "2023-02-26T22:55:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3173",
+      "title": "SCP-3173",
+      "alternateTitle": "Forest Prison",
+      "rating": 21,
+      "createdAt": "2018-03-06T01:37:36.000Z",
       "tags": [
-        "city",
-        "dream",
+        "amorphous",
+        "forest",
+        "gaseous",
+        "island",
         "keter",
-        "memetic",
-        "memory-affecting",
+        "location",
         "scp",
-        "sleep"
+        "thermodynamic",
+        "tree"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7895/runes.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3173/forest.png",
       "authors": [
-        "Reverend Fox"
+        "Whipple"
       ]
     }
   ]

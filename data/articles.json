@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:45:19.471Z",
+  "updatedAt": "2026-07-27T01:53:43.417Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7068",
-      "title": "SCP-7068",
-      "alternateTitle": "The Endless Art Gallery",
-      "rating": 24,
-      "createdAt": "2022-10-27T22:09:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-755-ko",
+      "title": "SCP-755-KO",
+      "alternateTitle": "Learn all the technology and knowledge you want; there are Other Important Things",
+      "rating": 15,
+      "createdAt": "2022-11-23T15:48:41.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "building",
-        "safe",
+        "antimemetic",
+        "extremity",
+        "hostile",
+        "intangible",
+        "international",
+        "k-class-scenario",
+        "language",
+        "memetic",
+        "memory-affecting",
+        "neutralized",
         "scp",
-        "spatial"
+        "transfiguration",
+        "uncontained",
+        "weapon"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-755-ko/hand.png",
+      "authors": [
+        "ProfoundAbyss",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7525",
+      "title": "SCP-7525",
+      "alternateTitle": "The Last Christmas",
+      "rating": 16,
+      "createdAt": "2022-12-01T22:22:52.000Z",
+      "tags": [
+        "antimemetic",
+        "christmas",
+        "cognitohazard",
+        "euclid",
+        "musical",
+        "religious",
+        "science-fiction",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "_KazuyukiKasuke"
+        "sortie"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8635",
-      "title": "SCP-8635",
-      "alternateTitle": "The Helpful Trucker",
-      "rating": 10,
-      "createdAt": "2025-05-22T12:57:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7895",
+      "title": "SCP-7895",
+      "alternateTitle": "Dreaming of Our Hometown",
+      "rating": 22,
+      "createdAt": "2023-02-26T22:55:20.000Z",
       "tags": [
-        "compulsion",
-        "esoteric-class",
-        "humanoid",
-        "scp",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
-      "authors": [
-        "emmalexandria"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7746",
-      "title": "SCP-7746",
-      "alternateTitle": "Recursive Churchal Network",
-      "rating": 11,
-      "createdAt": "2025-07-24T00:12:28.000Z",
-      "tags": [
-        "building",
+        "city",
         "dream",
-        "knowledge",
-        "neurological",
+        "keter",
+        "memetic",
+        "memory-affecting",
         "scp",
-        "thaumiel"
+        "sleep"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7746/somno.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7895/runes.jpg",
       "authors": [
-        "Dr Katalin Bava"
+        "Reverend Fox"
       ]
     }
   ]

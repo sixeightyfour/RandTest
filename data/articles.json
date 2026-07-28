@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T10:23:19.184Z",
+  "updatedAt": "2026-07-28T17:17:34.980Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7116",
-      "title": "SCP-7116",
-      "alternateTitle": "Frequency Modulation 182.3",
-      "rating": 5,
-      "createdAt": "2023-01-26T11:05:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7126",
+      "title": "SCP-7126",
+      "alternateTitle": "Dead Ovation",
+      "rating": 12,
+      "createdAt": "2022-09-08T21:05:41.000Z",
       "tags": [
-        "alive",
-        "electronic",
-        "euclid",
-        "hostile",
-        "humanoid",
-        "location",
-        "sapient",
-        "scp",
-        "spatial",
-        "structure",
-        "subterranean",
-        "transmission"
+        "abnormalities",
+        "artifact",
+        "building",
+        "class-of-76",
+        "hanged-king",
+        "performance",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr K Parker"
+        "Quicksilvers"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4276",
-      "title": "SCP-4276",
-      "alternateTitle": "Breathe Thy Devastation",
-      "rating": 21,
-      "createdAt": "2023-05-25T06:50:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7072",
+      "title": "SCP-7072",
+      "alternateTitle": "The Stalker",
+      "rating": 16,
+      "createdAt": "2023-12-25T23:16:39.000Z",
       "tags": [
         "esoteric-class",
-        "mind-affecting",
-        "reanimation",
         "scp",
-        "structure",
-        "transfiguration"
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ndheckfire-josh/Lloyd.png",
       "authors": [
-        "Roufhous"
+        "NDHeckfire"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7174",
-      "title": "SCP-7174",
-      "alternateTitle": "The Faith to Connect People",
+      "url": "http://scp-wiki.wikidot.com/scp-6628",
+      "title": "SCP-6628",
+      "alternateTitle": "Some Time Apart",
       "rating": 14,
-      "createdAt": "2023-01-04T19:25:25.000Z",
+      "createdAt": "2022-09-29T18:51:24.000Z",
       "tags": [
-        "coldpostcon",
-        "computer",
-        "foundation-made",
-        "portal",
-        "safe",
+        "clockwork",
+        "humanoid",
+        "intangible",
+        "neutralized",
         "scp",
-        "spatial",
-        "tactical-theology",
-        "transmission"
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Rigen"
+        "cwazzycwafter"
       ]
     }
   ]

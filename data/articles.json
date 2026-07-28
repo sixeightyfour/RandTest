@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T17:28:36.028Z",
+  "updatedAt": "2026-07-28T01:27:46.355Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-222",
-      "title": "SCP-ES-222",
-      "alternateTitle": "To Create, One Last Time; or the Last Works of Susanna Vázquez",
-      "rating": 13,
-      "createdAt": "2024-06-04T23:12:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8364",
+      "title": "SCP-8364",
+      "alternateTitle": "Hot Dog",
+      "rating": 20,
+      "createdAt": "2025-04-11T13:50:26.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "extradimensional",
-        "international",
-        "portal",
-        "safe",
+        "animal",
+        "canine",
+        "corrosive",
+        "ectoentropic",
+        "fire",
+        "keter",
+        "liquid",
+        "metamorphic",
+        "sapient",
         "scp",
         "self-repairing"
       ],
-      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-222/SCP-ES-222-A.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
       "authors": [
-        "Eduteck",
-        "Kokoro_Hime",
-        "Mackenz1337"
+        "Booblesnoot"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7121",
-      "title": "SCP-7121",
-      "alternateTitle": "come, the pale wind's hound",
-      "rating": 7,
-      "createdAt": "2025-08-23T18:27:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-126",
+      "title": "SCP-PL-126",
+      "alternateTitle": "The Union of Earth Socialist Republics",
+      "rating": 22,
+      "createdAt": "2020-09-05T14:22:54.000Z",
       "tags": [
+        "autonomous",
+        "cognitohazard",
         "extradimensional",
-        "keter",
-        "murder-monster",
-        "predatory",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
-      "authors": [
-        "foxgirlknives"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7137",
-      "title": "SCP-7137",
-      "alternateTitle": "Super Concealed Paper",
-      "rating": 23,
-      "createdAt": "2023-08-12T01:53:22.000Z",
-      "tags": [
-        "antimemetic",
-        "comedy",
-        "document",
-        "euclid",
-        "foundation-made",
+        "international",
+        "k-class-scenario",
+        "mind-affecting",
+        "planet",
+        "radioactive",
         "scp",
-        "slice-of-life"
+        "sculpture",
+        "tactile",
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Matthgeek"
+        "Dr_Blackpeace",
+        "BlazingPie"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8890",
+      "title": "SCP-8890",
+      "alternateTitle": "A Hunter's Rising",
+      "rating": 14,
+      "createdAt": "2024-08-20T18:54:50.000Z",
+      "tags": [
+        "amorphous",
+        "animal",
+        "hostile",
+        "keter",
+        "pentagram",
+        "scp",
+        "self-repairing"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DoctorLilithSophia"
       ]
     }
   ]

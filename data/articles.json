@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T01:27:46.355Z",
+  "updatedAt": "2026-07-28T10:23:19.184Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8364",
-      "title": "SCP-8364",
-      "alternateTitle": "Hot Dog",
-      "rating": 20,
-      "createdAt": "2025-04-11T13:50:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7116",
+      "title": "SCP-7116",
+      "alternateTitle": "Frequency Modulation 182.3",
+      "rating": 5,
+      "createdAt": "2023-01-26T11:05:39.000Z",
       "tags": [
-        "animal",
-        "canine",
-        "corrosive",
-        "ectoentropic",
-        "fire",
-        "keter",
-        "liquid",
-        "metamorphic",
+        "alive",
+        "electronic",
+        "euclid",
+        "hostile",
+        "humanoid",
+        "location",
         "sapient",
         "scp",
-        "self-repairing"
+        "spatial",
+        "structure",
+        "subterranean",
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
       "authors": [
-        "Booblesnoot"
+        "Dr K Parker"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-126",
-      "title": "SCP-PL-126",
-      "alternateTitle": "The Union of Earth Socialist Republics",
-      "rating": 22,
-      "createdAt": "2020-09-05T14:22:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4276",
+      "title": "SCP-4276",
+      "alternateTitle": "Breathe Thy Devastation",
+      "rating": 21,
+      "createdAt": "2023-05-25T06:50:01.000Z",
       "tags": [
-        "autonomous",
-        "cognitohazard",
-        "extradimensional",
-        "international",
-        "k-class-scenario",
+        "esoteric-class",
         "mind-affecting",
-        "planet",
-        "radioactive",
+        "reanimation",
         "scp",
-        "sculpture",
-        "tactile",
-        "thaumiel"
+        "structure",
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
       "authors": [
-        "Dr_Blackpeace",
-        "BlazingPie"
+        "Roufhous"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8890",
-      "title": "SCP-8890",
-      "alternateTitle": "A Hunter's Rising",
+      "url": "http://scp-wiki.wikidot.com/scp-7174",
+      "title": "SCP-7174",
+      "alternateTitle": "The Faith to Connect People",
       "rating": 14,
-      "createdAt": "2024-08-20T18:54:50.000Z",
+      "createdAt": "2023-01-04T19:25:25.000Z",
       "tags": [
-        "amorphous",
-        "animal",
-        "hostile",
-        "keter",
-        "pentagram",
+        "coldpostcon",
+        "computer",
+        "foundation-made",
+        "portal",
+        "safe",
         "scp",
-        "self-repairing"
+        "spatial",
+        "tactical-theology",
+        "transmission"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
       "authors": [
-        "DoctorLilithSophia"
+        "Rigen"
       ]
     }
   ]

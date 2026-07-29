@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T17:17:34.980Z",
+  "updatedAt": "2026-07-29T01:28:30.332Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7126",
-      "title": "SCP-7126",
-      "alternateTitle": "Dead Ovation",
-      "rating": 12,
-      "createdAt": "2022-09-08T21:05:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7229",
+      "title": "SCP-7229",
+      "alternateTitle": "Telepathic Macaques",
+      "rating": 15,
+      "createdAt": "2025-09-07T19:47:20.000Z",
       "tags": [
-        "abnormalities",
-        "artifact",
-        "building",
-        "class-of-76",
-        "hanged-king",
-        "performance",
-        "safe",
+        "euclid",
+        "ijamea",
+        "joicl",
+        "marshall-carter-and-dark",
+        "primate",
+        "prometheus",
+        "sapient",
+        "scp",
+        "telepathic"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
+      "authors": [
+        "Baronjoe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7350",
+      "title": "SCP-7350",
+      "alternateTitle": "Kancra Bodas",
+      "rating": 8,
+      "createdAt": "2022-08-01T03:37:29.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "animal",
+        "aquatic",
+        "co-authored",
+        "euclid",
+        "fish",
+        "gustatory",
+        "historical",
+        "probability",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7350/800px-Tor_douron_160811-61549_ffi.JPG",
       "authors": [
-        "Quicksilvers"
+        "Enachia",
+        "nahyesq",
+        "PhoenixOfHope"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7072",
-      "title": "SCP-7072",
-      "alternateTitle": "The Stalker",
-      "rating": 16,
-      "createdAt": "2023-12-25T23:16:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5439",
+      "title": "SCP-5439",
+      "alternateTitle": "Nose Itch",
+      "rating": 20,
+      "createdAt": "2021-09-21T20:36:02.000Z",
       "tags": [
-        "esoteric-class",
+        "medical",
+        "mind-affecting",
+        "pending",
         "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ndheckfire-josh/Lloyd.png",
-      "authors": [
-        "NDHeckfire"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6628",
-      "title": "SCP-6628",
-      "alternateTitle": "Some Time Apart",
-      "rating": 14,
-      "createdAt": "2022-09-29T18:51:24.000Z",
-      "tags": [
-        "clockwork",
-        "humanoid",
-        "intangible",
-        "neutralized",
-        "scp",
-        "temporal"
+        "sensory"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cwazzycwafter"
+        "Nils Severin"
       ]
     }
   ]

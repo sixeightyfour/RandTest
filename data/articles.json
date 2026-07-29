@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T01:28:30.332Z",
+  "updatedAt": "2026-07-29T10:31:06.645Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7229",
-      "title": "SCP-7229",
-      "alternateTitle": "Telepathic Macaques",
-      "rating": 15,
-      "createdAt": "2025-09-07T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-092-vn",
+      "title": "SCP-092-VN",
+      "alternateTitle": "Potpourri",
+      "rating": 12,
+      "createdAt": "2025-05-19T22:50:13.000Z",
       "tags": [
-        "euclid",
-        "ijamea",
-        "joicl",
-        "marshall-carter-and-dark",
-        "primate",
-        "prometheus",
-        "sapient",
+        "anomalous-event",
+        "esoteric-class",
+        "international",
+        "plant",
         "scp",
-        "telepathic"
+        "sleep",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abbott_Fuller_Graves%2C_1913_-_Eastern_Point_Gloucester.jpg",
       "authors": [
-        "Baronjoe"
+        "KirQ",
+        "dreadfulfakey"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7350",
-      "title": "SCP-7350",
-      "alternateTitle": "Kancra Bodas",
-      "rating": 8,
-      "createdAt": "2022-08-01T03:37:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7347",
+      "title": "SCP-7347",
+      "alternateTitle": "A Jump in the Wrong Dimension",
+      "rating": 15,
+      "createdAt": "2023-09-04T00:54:01.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "animal",
-        "aquatic",
-        "co-authored",
-        "euclid",
-        "fish",
-        "gustatory",
-        "historical",
-        "probability",
+        "city",
+        "extraterrestrial",
+        "raisa",
+        "remixcon2023",
+        "satellite",
+        "scp",
+        "subterranean",
+        "temporal",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
+      "authors": [
+        "Dr Moned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-082-it",
+      "title": "SCP-082-IT",
+      "alternateTitle": "The Helmet of Knowledge",
+      "rating": 19,
+      "createdAt": "2022-05-15T16:58:37.000Z",
+      "tags": [
+        "clothing",
+        "international",
+        "knowledge",
+        "memory-affecting",
+        "mind-affecting",
+        "neurological",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7350/800px-Tor_douron_160811-61549_ffi.JPG",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-082-it/Elmo.jpg",
       "authors": [
-        "Enachia",
-        "nahyesq",
-        "PhoenixOfHope"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5439",
-      "title": "SCP-5439",
-      "alternateTitle": "Nose Itch",
-      "rating": 20,
-      "createdAt": "2021-09-21T20:36:02.000Z",
-      "tags": [
-        "medical",
-        "mind-affecting",
-        "pending",
-        "scp",
-        "sensory"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nils Severin"
+        "Dr Zeno",
+        "Siddartha Alonne"
       ]
     }
   ]

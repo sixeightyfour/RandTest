@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:31:06.645Z",
+  "updatedAt": "2026-07-29T17:03:25.554Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-092-vn",
-      "title": "SCP-092-VN",
-      "alternateTitle": "Potpourri",
-      "rating": 12,
-      "createdAt": "2025-05-19T22:50:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5163",
+      "title": "SCP-5163",
+      "alternateTitle": "The Cutest Teddy Bear of All Times",
+      "rating": 6,
+      "createdAt": "2025-09-11T22:28:15.000Z",
       "tags": [
-        "anomalous-event",
-        "esoteric-class",
-        "international",
-        "plant",
+        "cognitohazard",
+        "mind-affecting",
+        "safe",
         "scp",
-        "sleep",
+        "tactile",
+        "toy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
+      "authors": [
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8967",
+      "title": "SCP-8967",
+      "alternateTitle": "BLINKER CHECK",
+      "rating": 7,
+      "createdAt": "2025-09-28T16:11:13.000Z",
+      "tags": [
+        "end-of-death",
+        "extradimensional",
+        "safe",
+        "scp",
+        "teleportation",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8967/Car.1/medium.jpg",
+      "authors": [
+        "ThatHideousStrength"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4761",
+      "title": "SCP-4761",
+      "alternateTitle": "Lost in Yesterday",
+      "rating": 18,
+      "createdAt": "2020-06-20T01:25:36.000Z",
+      "tags": [
+        "arcadia",
+        "co-authored",
+        "electronic",
+        "euclid",
+        "exchange",
+        "game",
+        "memory-affecting",
+        "online",
+        "scp",
         "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abbott_Fuller_Graves%2C_1913_-_Eastern_Point_Gloucester.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4761/arcadiadealer/medium.jpg",
       "authors": [
-        "KirQ",
-        "dreadfulfakey"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7347",
-      "title": "SCP-7347",
-      "alternateTitle": "A Jump in the Wrong Dimension",
-      "rating": 15,
-      "createdAt": "2023-09-04T00:54:01.000Z",
-      "tags": [
-        "city",
-        "extraterrestrial",
-        "raisa",
-        "remixcon2023",
-        "satellite",
-        "scp",
-        "subterranean",
-        "temporal",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
-      "authors": [
-        "Dr Moned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-082-it",
-      "title": "SCP-082-IT",
-      "alternateTitle": "The Helmet of Knowledge",
-      "rating": 19,
-      "createdAt": "2022-05-15T16:58:37.000Z",
-      "tags": [
-        "clothing",
-        "international",
-        "knowledge",
-        "memory-affecting",
-        "mind-affecting",
-        "neurological",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-082-it/Elmo.jpg",
-      "authors": [
-        "Dr Zeno",
-        "Siddartha Alonne"
+        "Anonymous",
+        "weizhong"
       ]
     }
   ]

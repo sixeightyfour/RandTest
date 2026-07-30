@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T17:03:25.554Z",
+  "updatedAt": "2026-07-30T01:21:23.223Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5163",
-      "title": "SCP-5163",
-      "alternateTitle": "The Cutest Teddy Bear of All Times",
-      "rating": 6,
-      "createdAt": "2025-09-11T22:28:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7116",
+      "title": "SCP-7116",
+      "alternateTitle": "Frequency Modulation 182.3",
+      "rating": 5,
+      "createdAt": "2023-01-26T11:05:39.000Z",
       "tags": [
-        "cognitohazard",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "tactile",
-        "toy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
-      "authors": [
-        "Lucas667"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8967",
-      "title": "SCP-8967",
-      "alternateTitle": "BLINKER CHECK",
-      "rating": 7,
-      "createdAt": "2025-09-28T16:11:13.000Z",
-      "tags": [
-        "end-of-death",
-        "extradimensional",
-        "safe",
-        "scp",
-        "teleportation",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8967/Car.1/medium.jpg",
-      "authors": [
-        "ThatHideousStrength"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4761",
-      "title": "SCP-4761",
-      "alternateTitle": "Lost in Yesterday",
-      "rating": 18,
-      "createdAt": "2020-06-20T01:25:36.000Z",
-      "tags": [
-        "arcadia",
-        "co-authored",
+        "alive",
         "electronic",
         "euclid",
-        "exchange",
-        "game",
-        "memory-affecting",
-        "online",
+        "hostile",
+        "humanoid",
+        "location",
+        "sapient",
         "scp",
-        "uncontained"
+        "spatial",
+        "structure",
+        "subterranean",
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4761/arcadiadealer/medium.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
       "authors": [
-        "Anonymous",
-        "weizhong"
+        "Dr K Parker"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-044-de-j",
+      "title": "SCP-044-DE-J",
+      "alternateTitle": "This damn schnapps",
+      "rating": 19,
+      "createdAt": "2022-07-27T16:39:25.000Z",
+      "tags": [
+        "apollyon",
+        "food",
+        "international",
+        "joke",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Gramlin",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5547",
+      "title": "SCP-5547",
+      "alternateTitle": "Sunken Hope",
+      "rating": 24,
+      "createdAt": "2021-03-22T23:20:41.000Z",
+      "tags": [
+        "aquatic",
+        "jam-con2021",
+        "meteorological",
+        "safe",
+        "scp",
+        "temporal",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5547/sub.jpg",
+      "authors": [
+        "DrAkimoto"
       ]
     }
   ]

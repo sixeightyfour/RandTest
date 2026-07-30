@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T01:21:23.223Z",
+  "updatedAt": "2026-07-30T10:11:24.297Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,78 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7116",
-      "title": "SCP-7116",
-      "alternateTitle": "Frequency Modulation 182.3",
-      "rating": 5,
-      "createdAt": "2023-01-26T11:05:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7k-j",
+      "title": "SCP-7K-J",
+      "alternateTitle": "Upvote/Downvote Coin",
+      "rating": 16,
+      "createdAt": "2022-06-28T14:51:40.000Z",
       "tags": [
-        "alive",
-        "electronic",
+        "co-authored",
+        "comedy",
+        "document",
         "euclid",
-        "hostile",
-        "humanoid",
-        "location",
-        "sapient",
-        "scp",
-        "spatial",
-        "structure",
-        "subterranean",
-        "transmission"
+        "joke",
+        "mathematical",
+        "meta",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7116/SCP-7116-A",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7k-j/toss.jpg",
       "authors": [
-        "Dr K Parker"
+        "DodoDevil",
+        "Elenee FishTruck",
+        "Fishish",
+        "GremlinGroup",
+        "LORDXVNV",
+        "R4_EX",
+        "stormbreath"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-044-de-j",
-      "title": "SCP-044-DE-J",
-      "alternateTitle": "This damn schnapps",
-      "rating": 19,
-      "createdAt": "2022-07-27T16:39:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8872",
+      "title": "SCP-8872",
+      "alternateTitle": "Adventures Of Avalon",
+      "rating": 17,
+      "createdAt": "2024-12-10T06:50:55.000Z",
       "tags": [
-        "apollyon",
-        "food",
-        "international",
-        "joke",
-        "mind-affecting",
-        "scp"
+        "action",
+        "adventure",
+        "bittersweet",
+        "computer",
+        "electrical",
+        "electronic",
+        "euclid",
+        "extradimensional",
+        "fantasy",
+        "game",
+        "media",
+        "online",
+        "otherworldly",
+        "portal",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8872/scan.jpg",
+      "authors": [
+        "ThePhantomMan"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-685",
+      "title": "SCP-685",
+      "alternateTitle": "Non-Bottomless Pit",
+      "rating": 19,
+      "createdAt": "2009-03-25T09:35:30.000Z",
+      "tags": [
+        "euclid",
+        "extradimensional",
+        "geological",
+        "gravity",
+        "scp",
+        "subterranean"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5547",
-      "title": "SCP-5547",
-      "alternateTitle": "Sunken Hope",
-      "rating": 24,
-      "createdAt": "2021-03-22T23:20:41.000Z",
-      "tags": [
-        "aquatic",
-        "jam-con2021",
-        "meteorological",
-        "safe",
-        "scp",
-        "temporal",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5547/sub.jpg",
-      "authors": [
-        "DrAkimoto"
+        "DrRoger"
       ]
     }
   ]

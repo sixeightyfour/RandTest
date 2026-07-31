@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T10:27:50.363Z",
+  "updatedAt": "2026-07-31T17:17:38.328Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6309",
-      "title": "SCP-6309",
-      "alternateTitle": "Erase",
-      "rating": 14,
-      "createdAt": "2022-02-13T01:18:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7546",
+      "title": "SCP-7546",
+      "alternateTitle": "Escapism",
+      "rating": 18,
+      "createdAt": "2025-07-10T11:50:04.000Z",
       "tags": [
-        "meta",
-        "neutralized",
-        "scp"
+        "classiccon2025",
+        "electronic",
+        "game",
+        "horror",
+        "safe",
+        "sapient",
+        "scp",
+        "toy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "stop1010"
+        "mspufferfish"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8267",
-      "title": "SCP-8267",
-      "alternateTitle": "Area-85",
-      "rating": 19,
-      "createdAt": "2025-07-13T04:01:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-744-arc",
+      "title": "SCP-744-ARC",
+      "alternateTitle": "Rust Monster",
+      "rating": -12,
+      "createdAt": "2008-10-09T16:07:56.000Z",
       "tags": [
-        "aquatic",
+        "archived",
+        "autonomous",
+        "humanoid",
+        "keter",
+        "neutralized",
+        "scp",
+        "self-repairing"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Eberstrom"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8521",
+      "title": "SCP-8521",
+      "alternateTitle": "The Past is Fully Present",
+      "rating": 5,
+      "createdAt": "2025-07-09T01:18:21.000Z",
+      "tags": [
         "artifact",
-        "body-horror",
-        "cadaver",
-        "cephalopod",
-        "chemical",
         "classiccon2025",
-        "fish",
+        "dream",
         "horror",
-        "mystery",
-        "reanimation",
+        "mind-affecting",
+        "neurological",
+        "psychological-horror",
         "safe",
         "scp",
-        "transfiguration"
+        "sleep"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Inertia_comrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7347",
-      "title": "SCP-7347",
-      "alternateTitle": "A Jump in the Wrong Dimension",
-      "rating": 15,
-      "createdAt": "2023-09-04T00:54:01.000Z",
-      "tags": [
-        "city",
-        "extraterrestrial",
-        "raisa",
-        "remixcon2023",
-        "satellite",
-        "scp",
-        "subterranean",
-        "temporal",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
-      "authors": [
-        "Dr Moned"
+        "LorenZo V"
       ]
     }
   ]

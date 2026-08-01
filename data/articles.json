@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T01:49:24.289Z",
+  "updatedAt": "2026-08-01T09:48:26.852Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7k-j",
-      "title": "SCP-7K-J",
-      "alternateTitle": "Upvote/Downvote Coin",
-      "rating": 16,
-      "createdAt": "2022-06-28T14:51:40.000Z",
-      "tags": [
-        "co-authored",
-        "comedy",
-        "document",
-        "euclid",
-        "joke",
-        "mathematical",
-        "meta",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7k-j/toss.jpg",
-      "authors": [
-        "DodoDevil",
-        "Elenee FishTruck",
-        "Fishish",
-        "GremlinGroup",
-        "LORDXVNV",
-        "R4_EX",
-        "stormbreath"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4906",
-      "title": "SCP-4906",
-      "alternateTitle": "On the Sixth Month Gale",
-      "rating": 20,
-      "createdAt": "2019-06-02T06:53:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9575",
+      "title": "SCP-9575",
+      "alternateTitle": "Capitalist Shithole",
+      "rating": 13,
+      "createdAt": "2026-01-26T18:09:42.000Z",
       "tags": [
         "alive",
-        "animal",
-        "bird",
-        "cetacean",
-        "euclid",
-        "historical",
-        "magnetic",
-        "meteorological",
-        "scp"
+        "dumbcon2026-unofficial",
+        "exchange",
+        "humanoid",
+        "neutralized",
+        "sapient",
+        "scp",
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AKFrost"
+        "DrBlitz"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3685",
-      "title": "SCP-3685",
-      "alternateTitle": "The Fractured Pile",
-      "rating": 23,
-      "createdAt": "2020-07-05T21:39:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6708",
+      "title": "SCP-6708",
+      "alternateTitle": "Breaking Hellfire",
+      "rating": 19,
+      "createdAt": "2021-10-23T03:35:56.000Z",
       "tags": [
-        "building",
-        "ectoentropic",
-        "euclid",
-        "metamorphic",
-        "radioactive",
+        "abnormalities",
+        "auditory",
+        "hallucination",
+        "mechanical",
+        "pending",
         "scp",
-        "spatial"
+        "tactile",
+        "tool"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3685/s50wide.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6708/machine.jpg",
       "authors": [
-        "Monkatraz"
+        "NDHeckfire"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 15,
+      "createdAt": "2022-08-13T02:47:23.000Z",
+      "tags": [
+        "biological",
+        "building",
+        "euclid",
+        "fifthist",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "authors": [
+        "Quicksilvers"
       ]
     }
   ]

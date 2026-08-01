@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T17:17:38.328Z",
+  "updatedAt": "2026-08-01T01:49:24.289Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7546",
-      "title": "SCP-7546",
-      "alternateTitle": "Escapism",
-      "rating": 18,
-      "createdAt": "2025-07-10T11:50:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7k-j",
+      "title": "SCP-7K-J",
+      "alternateTitle": "Upvote/Downvote Coin",
+      "rating": 16,
+      "createdAt": "2022-06-28T14:51:40.000Z",
       "tags": [
-        "classiccon2025",
-        "electronic",
-        "game",
-        "horror",
-        "safe",
-        "sapient",
-        "scp",
-        "toy"
+        "co-authored",
+        "comedy",
+        "document",
+        "euclid",
+        "joke",
+        "mathematical",
+        "meta",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7k-j/toss.jpg",
       "authors": [
-        "mspufferfish"
+        "DodoDevil",
+        "Elenee FishTruck",
+        "Fishish",
+        "GremlinGroup",
+        "LORDXVNV",
+        "R4_EX",
+        "stormbreath"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-744-arc",
-      "title": "SCP-744-ARC",
-      "alternateTitle": "Rust Monster",
-      "rating": -12,
-      "createdAt": "2008-10-09T16:07:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4906",
+      "title": "SCP-4906",
+      "alternateTitle": "On the Sixth Month Gale",
+      "rating": 20,
+      "createdAt": "2019-06-02T06:53:28.000Z",
       "tags": [
-        "archived",
-        "autonomous",
-        "humanoid",
-        "keter",
-        "neutralized",
-        "scp",
-        "self-repairing"
+        "alive",
+        "animal",
+        "bird",
+        "cetacean",
+        "euclid",
+        "historical",
+        "magnetic",
+        "meteorological",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Eberstrom"
+        "AKFrost"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8521",
-      "title": "SCP-8521",
-      "alternateTitle": "The Past is Fully Present",
-      "rating": 5,
-      "createdAt": "2025-07-09T01:18:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3685",
+      "title": "SCP-3685",
+      "alternateTitle": "The Fractured Pile",
+      "rating": 23,
+      "createdAt": "2020-07-05T21:39:48.000Z",
       "tags": [
-        "artifact",
-        "classiccon2025",
-        "dream",
-        "horror",
-        "mind-affecting",
-        "neurological",
-        "psychological-horror",
-        "safe",
+        "building",
+        "ectoentropic",
+        "euclid",
+        "metamorphic",
+        "radioactive",
         "scp",
-        "sleep"
+        "spatial"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3685/s50wide.jpg",
       "authors": [
-        "LorenZo V"
+        "Monkatraz"
       ]
     }
   ]

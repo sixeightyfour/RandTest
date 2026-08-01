@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T09:48:26.852Z",
+  "updatedAt": "2026-08-01T16:47:06.500Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9575",
-      "title": "SCP-9575",
-      "alternateTitle": "Capitalist Shithole",
-      "rating": 13,
-      "createdAt": "2026-01-26T18:09:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9545",
+      "title": "SCP-9545",
+      "alternateTitle": "Agent Anybody",
+      "rating": 10,
+      "createdAt": "2026-02-01T10:21:25.000Z",
       "tags": [
         "alive",
-        "dumbcon2026-unofficial",
-        "exchange",
-        "humanoid",
-        "neutralized",
+        "esoteric-class",
+        "hostile",
+        "metamorphic",
+        "mind-affecting",
         "sapient",
         "scp",
-        "teleportation"
+        "self-repairing",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrBlitz"
+        "A Brick In A Sock"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6708",
-      "title": "SCP-6708",
-      "alternateTitle": "Breaking Hellfire",
-      "rating": 19,
-      "createdAt": "2021-10-23T03:35:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-100-it",
+      "title": "SCP-100-IT",
+      "alternateTitle": "Carnem Levare",
+      "rating": 24,
+      "createdAt": "2022-09-26T10:12:06.000Z",
       "tags": [
-        "abnormalities",
-        "auditory",
-        "hallucination",
-        "mechanical",
-        "pending",
+        "historical",
+        "hostile",
+        "humanoid",
+        "international",
+        "keter",
+        "sapient",
+        "sarkic",
         "scp",
-        "tactile",
-        "tool"
+        "spatial",
+        "temporal",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6708/machine.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-100-it/SCP-000-IT-C.png",
       "authors": [
-        "NDHeckfire"
+        "Dr Zeno",
+        "Dr Zeno",
+        "Ichne-Bebop"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 15,
-      "createdAt": "2022-08-13T02:47:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9092",
+      "title": "SCP-9092",
+      "alternateTitle": "End of the Stars",
+      "rating": 18,
+      "createdAt": "2026-01-28T15:42:58.000Z",
       "tags": [
-        "biological",
-        "building",
-        "euclid",
-        "fifthist",
-        "scp"
+        "artifact",
+        "bleak",
+        "extradimensional",
+        "planet",
+        "portal",
+        "safe",
+        "scp",
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/end-of-the-stars/sky.jpg",
       "authors": [
-        "Quicksilvers"
+        "Dr Talcite"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T09:48:18.625Z",
+  "updatedAt": "2026-08-02T16:45:11.172Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,78 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
-      "title": "SCP-703-KO",
-      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
-      "rating": 14,
-      "createdAt": "2024-05-16T09:52:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1671-j",
+      "title": "SCP-1671-J",
+      "alternateTitle": "An Apple A Day…",
+      "rating": 11,
+      "createdAt": "2025-09-27T17:00:53.000Z",
       "tags": [
-        "document",
-        "infohazard",
-        "international",
-        "keter",
-        "narrative",
+        "concept",
+        "doctor-clef",
+        "doctor-king",
+        "folklore-dept",
+        "food",
+        "joke",
+        "mind-affecting",
+        "mobile",
+        "neutralized",
         "scp",
-        "uncontained"
+        "spatial"
+      ],
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/02/01/17/30/apple-256268_1280.jpg",
+      "authors": [
+        "poltatherian"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9144",
+      "title": "SCP-9144",
+      "alternateTitle": "Smooth Skin Lotion by the Holy Forth",
+      "rating": 8,
+      "createdAt": "2026-01-25T00:32:08.000Z",
+      "tags": [
+        "chemical",
+        "dado",
+        "dumbcon2026-unofficial",
+        "liquid",
+        "medical",
+        "religious",
+        "safe",
+        "scp",
+        "second-hytoth"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaestine",
-        "fluxman"
+        "22o9L"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9776",
-      "title": "SCP-9776",
-      "alternateTitle": "D.C Fleshgait",
-      "rating": 23,
-      "createdAt": "2025-11-28T03:48:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6684",
+      "title": "SCP-6684",
+      "alternateTitle": "Rebranded",
+      "rating": 21,
+      "createdAt": "2023-06-19T15:51:05.000Z",
       "tags": [
-        "absurdism",
-        "alive",
-        "black-comedy",
-        "body-horror",
-        "comedy",
-        "euclid",
-        "historical",
-        "horror",
-        "humanoid",
-        "murder-monster",
-        "pentagram",
-        "political",
-        "predatory",
-        "psychological-horror",
-        "reanimation",
+        "artistic",
+        "blood",
+        "building",
+        "canine",
+        "clothing",
+        "ectoentropic",
+        "marshall-carter-and-dark",
+        "safe",
+        "sapient",
         "scp",
-        "unusual-incidents-unit"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9776/George%20Washington%20Fleshgait.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
       "authors": [
-        "CRAt26"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5627",
-      "title": "SCP-5627",
-      "alternateTitle": "The Hungry Caterpillar",
-      "rating": 22,
-      "createdAt": "2021-03-30T09:38:38.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "butterfly",
-        "compulsion",
-        "euclid",
-        "gaseous",
-        "hallucination",
-        "insect",
-        "mind-affecting",
-        "parasitic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
-      "authors": [
-        "dunc7five"
+        "Fierce fauna"
       ]
     }
   ]

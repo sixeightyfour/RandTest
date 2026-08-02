@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T01:45:48.611Z",
+  "updatedAt": "2026-08-02T09:48:18.625Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,78 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-210-de",
-      "title": "SCP-210-DE",
-      "alternateTitle": "Hatch Banquet",
-      "rating": 5,
-      "createdAt": "2023-10-08T14:44:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
+      "title": "SCP-703-KO",
+      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
+      "rating": 14,
+      "createdAt": "2024-05-16T09:52:57.000Z",
       "tags": [
-        "alive",
-        "ambrose-restaurant",
-        "animal",
-        "bird",
-        "crustacean",
-        "euclid",
+        "document",
+        "infohazard",
         "international",
-        "metamorphic",
-        "predatory",
-        "reproductive",
+        "keter",
+        "narrative",
         "scp",
-        "species"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch",
-        "Karpfisch"
+        "Kaestine",
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-227",
-      "title": "SCP-ES-227",
-      "alternateTitle": "Cats really do like water",
-      "rating": 14,
-      "createdAt": "2024-06-05T02:01:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9776",
+      "title": "SCP-9776",
+      "alternateTitle": "D.C Fleshgait",
+      "rating": 23,
+      "createdAt": "2025-11-28T03:48:38.000Z",
+      "tags": [
+        "absurdism",
+        "alive",
+        "black-comedy",
+        "body-horror",
+        "comedy",
+        "euclid",
+        "historical",
+        "horror",
+        "humanoid",
+        "murder-monster",
+        "pentagram",
+        "political",
+        "predatory",
+        "psychological-horror",
+        "reanimation",
+        "scp",
+        "unusual-incidents-unit"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9776/George%20Washington%20Fleshgait.jpg",
+      "authors": [
+        "CRAt26"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5627",
+      "title": "SCP-5627",
+      "alternateTitle": "The Hungry Caterpillar",
+      "rating": 22,
+      "createdAt": "2021-03-30T09:38:38.000Z",
       "tags": [
         "alive",
         "animal",
-        "aquatic",
-        "feline",
-        "gravity",
-        "international",
-        "location",
-        "marw",
-        "safe",
+        "butterfly",
+        "compulsion",
+        "euclid",
+        "gaseous",
+        "hallucination",
+        "insect",
+        "mind-affecting",
+        "parasitic",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-es-227/aquacat.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
       "authors": [
-        "SigYeklette",
-        "Uncle Nicolini"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8960",
-      "title": "SCP-8960",
-      "alternateTitle": "And Soon, Embark I. Through a Cascadian Tunnel.",
-      "rating": 13,
-      "createdAt": "2025-01-27T00:09:40.000Z",
-      "tags": [
-        "extradimensional",
-        "location",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg/960px-Blue_Mountain_Tunnel_viewed_from_Kittatinny_Mountain_Tunnel_1942.jpg?20121001230243",
-      "authors": [
-        "VapidPoem"
+        "dunc7five"
       ]
     }
   ]

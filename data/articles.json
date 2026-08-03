@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T01:48:34.782Z",
+  "updatedAt": "2026-08-03T11:12:18.195Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-355-de",
-      "title": "SCP-355-DE",
-      "alternateTitle": "Misanthropy",
-      "rating": 3,
-      "createdAt": "2025-09-06T21:05:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
+      "title": "SCP-444-KO",
+      "alternateTitle": "",
+      "rating": 14,
+      "createdAt": "2022-05-26T13:35:39.000Z",
       "tags": [
-        "addictive",
-        "appliance",
-        "clockwork",
-        "euclid",
-        "international",
-        "mind-affecting",
-        "neutralized",
-        "nocturnal",
-        "scp",
-        "sleep"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Blue_Fog_%2897564081%29.jpeg/960px-Blue_Fog_%2897564081%29.jpeg?20190815231245",
-      "authors": [
-        "Karpfisch",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7131",
-      "title": "SCP-7131",
-      "alternateTitle": "Reservoir Gobs",
-      "rating": 24,
-      "createdAt": "2023-05-25T19:31:13.000Z",
-      "tags": [
-        "alive",
-        "co-authored",
-        "computer",
-        "euclid",
-        "goblincon2023",
-        "hostile",
-        "humanoid",
-        "metamorphic",
-        "sapient",
-        "scp",
-        "spicy-crust-pizzeria"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7131/big-393.jpg",
-      "authors": [
-        "Crow-Cat",
-        "Sobek109"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8157",
-      "title": "SCP-8157",
-      "alternateTitle": "Arterial Collapse",
-      "rating": 18,
-      "createdAt": "2025-08-22T22:25:50.000Z",
-      "tags": [
-        "biological",
-        "blood",
         "cadaver",
-        "foundation-personnel",
+        "cognitohazard",
+        "compulsion",
         "humanoid",
-        "mobile",
-        "safe",
+        "infohazard",
+        "international",
+        "keter",
+        "memetic",
+        "mind-affecting",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OCuin"
+        "lanlanmag",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8383",
+      "title": "SCP-8383",
+      "alternateTitle": "The Tangible and Intangible Cultural Heritage of the Saint Sophia Christians",
+      "rating": 20,
+      "createdAt": "2024-06-04T21:09:27.000Z",
+      "tags": [
+        "broken-god",
+        "clockwork",
+        "historical",
+        "location",
+        "neutralized",
+        "religious",
+        "scp",
+        "weapon"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Univine"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8374",
+      "title": "SCP-8374",
+      "alternateTitle": "Perfection Changes You",
+      "rating": 11,
+      "createdAt": "2025-08-10T20:20:00.000Z",
+      "tags": [
+        "body-horror",
+        "document",
+        "horror",
+        "mind-affecting",
+        "religious",
+        "religious-fiction",
+        "safe",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Fernlom"
       ]
     }
   ]

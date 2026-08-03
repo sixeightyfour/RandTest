@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T16:45:11.172Z",
+  "updatedAt": "2026-08-03T01:48:34.782Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1671-j",
-      "title": "SCP-1671-J",
-      "alternateTitle": "An Apple A Day…",
-      "rating": 11,
-      "createdAt": "2025-09-27T17:00:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-355-de",
+      "title": "SCP-355-DE",
+      "alternateTitle": "Misanthropy",
+      "rating": 3,
+      "createdAt": "2025-09-06T21:05:24.000Z",
       "tags": [
-        "concept",
-        "doctor-clef",
-        "doctor-king",
-        "folklore-dept",
-        "food",
-        "joke",
+        "addictive",
+        "appliance",
+        "clockwork",
+        "euclid",
+        "international",
         "mind-affecting",
-        "mobile",
         "neutralized",
+        "nocturnal",
         "scp",
-        "spatial"
+        "sleep"
       ],
-      "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/02/01/17/30/apple-256268_1280.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Blue_Fog_%2897564081%29.jpeg/960px-Blue_Fog_%2897564081%29.jpeg?20190815231245",
       "authors": [
-        "poltatherian"
+        "Karpfisch",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9144",
-      "title": "SCP-9144",
-      "alternateTitle": "Smooth Skin Lotion by the Holy Forth",
-      "rating": 8,
-      "createdAt": "2026-01-25T00:32:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7131",
+      "title": "SCP-7131",
+      "alternateTitle": "Reservoir Gobs",
+      "rating": 24,
+      "createdAt": "2023-05-25T19:31:13.000Z",
       "tags": [
-        "chemical",
-        "dado",
-        "dumbcon2026-unofficial",
-        "liquid",
-        "medical",
-        "religious",
-        "safe",
+        "alive",
+        "co-authored",
+        "computer",
+        "euclid",
+        "goblincon2023",
+        "hostile",
+        "humanoid",
+        "metamorphic",
+        "sapient",
         "scp",
-        "second-hytoth"
+        "spicy-crust-pizzeria"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7131/big-393.jpg",
+      "authors": [
+        "Crow-Cat",
+        "Sobek109"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8157",
+      "title": "SCP-8157",
+      "alternateTitle": "Arterial Collapse",
+      "rating": 18,
+      "createdAt": "2025-08-22T22:25:50.000Z",
+      "tags": [
+        "biological",
+        "blood",
+        "cadaver",
+        "foundation-personnel",
+        "humanoid",
+        "mobile",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "22o9L"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6684",
-      "title": "SCP-6684",
-      "alternateTitle": "Rebranded",
-      "rating": 21,
-      "createdAt": "2023-06-19T15:51:05.000Z",
-      "tags": [
-        "artistic",
-        "blood",
-        "building",
-        "canine",
-        "clothing",
-        "ectoentropic",
-        "marshall-carter-and-dark",
-        "safe",
-        "sapient",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
-      "authors": [
-        "Fierce fauna"
+        "OCuin"
       ]
     }
   ]

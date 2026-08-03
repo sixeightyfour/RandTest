@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T11:12:18.195Z",
+  "updatedAt": "2026-08-03T17:46:06.965Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-444-ko",
-      "title": "SCP-444-KO",
-      "alternateTitle": "",
-      "rating": 14,
-      "createdAt": "2022-05-26T13:35:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8485",
+      "title": "SCP-8485",
+      "alternateTitle": "Noise Complaint",
+      "rating": 20,
+      "createdAt": "2024-10-14T21:18:23.000Z",
       "tags": [
-        "cadaver",
-        "cognitohazard",
-        "compulsion",
-        "humanoid",
-        "infohazard",
-        "international",
-        "keter",
-        "memetic",
-        "mind-affecting",
+        "acoustic",
+        "amorphous",
+        "euclid",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Not Noodles"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7827",
+      "title": "SCP-7827",
+      "alternateTitle": "Push Back",
+      "rating": 18,
+      "createdAt": "2025-03-31T20:47:13.000Z",
+      "tags": [
+        "hostile",
+        "jewelry",
+        "mobile",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "lanlanmag",
-        "fluxman"
+        "BoneCandy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8383",
-      "title": "SCP-8383",
-      "alternateTitle": "The Tangible and Intangible Cultural Heritage of the Saint Sophia Christians",
-      "rating": 20,
-      "createdAt": "2024-06-04T21:09:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5638",
+      "title": "SCP-5638",
+      "alternateTitle": "Bucket of Karkinos",
+      "rating": 24,
+      "createdAt": "2022-03-23T20:08:21.000Z",
       "tags": [
-        "broken-god",
-        "clockwork",
-        "historical",
+        "alive",
+        "animal",
+        "euclid",
+        "hostile",
+        "humanoid",
+        "island",
         "location",
-        "neutralized",
-        "religious",
-        "scp",
-        "weapon"
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
       "authors": [
-        "Univine"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8374",
-      "title": "SCP-8374",
-      "alternateTitle": "Perfection Changes You",
-      "rating": 11,
-      "createdAt": "2025-08-10T20:20:00.000Z",
-      "tags": [
-        "body-horror",
-        "document",
-        "horror",
-        "mind-affecting",
-        "religious",
-        "religious-fiction",
-        "safe",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Fernlom"
+        "Penguini"
       ]
     }
   ]

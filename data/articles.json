@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T01:23:45.349Z",
+  "updatedAt": "2026-08-04T10:26:42.192Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8863",
-      "title": "SCP-8863",
-      "alternateTitle": "Femtoorganism",
-      "rating": 16,
-      "createdAt": "2025-07-01T22:04:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-056-ko",
+      "title": "SCP-056-KO",
+      "alternateTitle": "［ WARNING: DO NOT READ THIS PAGE! ］",
+      "rating": 19,
+      "createdAt": "2022-07-27T23:18:54.000Z",
       "tags": [
-        "electrical",
-        "humanoid",
+        "cognitohazard",
+        "international",
         "keter",
-        "microscopic",
+        "meta",
+        "metafiction",
+        "narrative",
         "online",
-        "sapient",
+        "reality-bending",
+        "scp",
+        "telepathic",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "sw19classic",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-278-de",
+      "title": "SCP-278-DE",
+      "alternateTitle": "The Legend of Stephan Crommenigge's Pirate Crew",
+      "rating": 3,
+      "createdAt": "2023-12-10T14:26:50.000Z",
+      "tags": [
+        "bird",
+        "euclid",
+        "international",
+        "island",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OzRose"
+        "Gramlin",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8174",
-      "title": "SCP-8174",
-      "alternateTitle": "The Ark",
-      "rating": 18,
-      "createdAt": "2024-12-28T15:01:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
+      "title": "SCP-PL-393",
+      "alternateTitle": "Evidence of the Moon's Presence",
+      "rating": 11,
+      "createdAt": "2023-10-05T17:19:57.000Z",
       "tags": [
-        "apocalyptic",
-        "bleak",
-        "ectoentropic",
-        "electrical",
-        "foundation-made",
-        "mechanical",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/nilsseverin/Hyundai_ship_engine_under_construction.jpg",
-      "authors": [
-        "Nils Severin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-376-de",
-      "title": "SCP-376-DE",
-      "alternateTitle": "Horseplay (for amateurs)",
-      "rating": 10,
-      "createdAt": "2024-06-30T13:13:20.000Z",
-      "tags": [
-        "alive",
-        "equine",
-        "euclid",
+        "ad-astra",
+        "artistic",
         "international",
-        "marshall-carter-and-dark",
-        "sapient",
+        "keter",
+        "mind-affecting",
+        "moon",
+        "observational",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
       "authors": [
-        "Gramlin",
-        "Karptisch"
+        "KubKac",
+        "KubKac"
       ]
     }
   ]

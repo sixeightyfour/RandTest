@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T17:46:06.965Z",
+  "updatedAt": "2026-08-04T01:23:45.349Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8485",
-      "title": "SCP-8485",
-      "alternateTitle": "Noise Complaint",
-      "rating": 20,
-      "createdAt": "2024-10-14T21:18:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8863",
+      "title": "SCP-8863",
+      "alternateTitle": "Femtoorganism",
+      "rating": 16,
+      "createdAt": "2025-07-01T22:04:55.000Z",
       "tags": [
-        "acoustic",
-        "amorphous",
-        "euclid",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Not Noodles"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7827",
-      "title": "SCP-7827",
-      "alternateTitle": "Push Back",
-      "rating": 18,
-      "createdAt": "2025-03-31T20:47:13.000Z",
-      "tags": [
-        "hostile",
-        "jewelry",
-        "mobile",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "BoneCandy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5638",
-      "title": "SCP-5638",
-      "alternateTitle": "Bucket of Karkinos",
-      "rating": 24,
-      "createdAt": "2022-03-23T20:08:21.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "euclid",
-        "hostile",
+        "electrical",
         "humanoid",
-        "island",
-        "location",
+        "keter",
+        "microscopic",
+        "online",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/we-live-in-a-crab-bucket-society/claw%20crab",
+      "thumbnailUrl": "",
       "authors": [
-        "Penguini"
+        "OzRose"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8174",
+      "title": "SCP-8174",
+      "alternateTitle": "The Ark",
+      "rating": 18,
+      "createdAt": "2024-12-28T15:01:24.000Z",
+      "tags": [
+        "apocalyptic",
+        "bleak",
+        "ectoentropic",
+        "electrical",
+        "foundation-made",
+        "mechanical",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/nilsseverin/Hyundai_ship_engine_under_construction.jpg",
+      "authors": [
+        "Nils Severin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-376-de",
+      "title": "SCP-376-DE",
+      "alternateTitle": "Horseplay (for amateurs)",
+      "rating": 10,
+      "createdAt": "2024-06-30T13:13:20.000Z",
+      "tags": [
+        "alive",
+        "equine",
+        "euclid",
+        "international",
+        "marshall-carter-and-dark",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
+      "authors": [
+        "Gramlin",
+        "Karptisch"
       ]
     }
   ]

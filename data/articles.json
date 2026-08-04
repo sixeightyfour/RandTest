@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T10:26:42.192Z",
+  "updatedAt": "2026-08-04T17:28:23.816Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-056-ko",
-      "title": "SCP-056-KO",
-      "alternateTitle": "［ WARNING: DO NOT READ THIS PAGE! ］",
+      "url": "http://scp-wiki.wikidot.com/scp-066-de",
+      "title": "SCP-066-DE",
+      "alternateTitle": "The little Spellbook",
       "rating": 19,
-      "createdAt": "2022-07-27T23:18:54.000Z",
+      "createdAt": "2020-07-06T00:15:23.000Z",
       "tags": [
-        "cognitohazard",
-        "international",
-        "keter",
-        "meta",
-        "metafiction",
-        "narrative",
-        "online",
-        "reality-bending",
-        "scp",
-        "telepathic",
-        "uncontained",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "sw19classic",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-278-de",
-      "title": "SCP-278-DE",
-      "alternateTitle": "The Legend of Stephan Crommenigge's Pirate Crew",
-      "rating": 3,
-      "createdAt": "2023-12-10T14:26:50.000Z",
-      "tags": [
-        "bird",
+        "document",
+        "ectoentropic",
         "euclid",
         "international",
-        "island",
-        "scp"
+        "mages-academy",
+        "scp",
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-066-de/ZauberbuchEinband.jpg",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "Dr_Grom",
+        "Dr_Grom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
-      "title": "SCP-PL-393",
-      "alternateTitle": "Evidence of the Moon's Presence",
-      "rating": 11,
-      "createdAt": "2023-10-05T17:19:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9191",
+      "title": "SCP-9191",
+      "alternateTitle": "Alarm clock of normalcy",
+      "rating": 16,
+      "createdAt": "2025-10-03T15:46:35.000Z",
       "tags": [
-        "ad-astra",
-        "artistic",
-        "international",
-        "keter",
+        "9000",
+        "artifact",
+        "esoteric-class",
+        "loop",
         "mind-affecting",
-        "moon",
-        "observational",
+        "safe",
+        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/fragment:circledot-project-1/alarm-clock-6561371_1280.jpg",
       "authors": [
-        "KubKac",
-        "KubKac"
+        "circledot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-980",
+      "title": "SCP-CN-980",
+      "alternateTitle": "J",
+      "rating": 3,
+      "createdAt": "2023-09-07T22:48:55.000Z",
+      "tags": [
+        "concept",
+        "foundation-made",
+        "historical",
+        "international",
+        "mechanical",
+        "meta",
+        "narrative",
+        "reality-bending",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/boynextdoor/4",
+      "authors": [
+        "Veleafer",
+        "tetsusquared"
       ]
     }
   ]

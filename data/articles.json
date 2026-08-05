@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:28:23.816Z",
+  "updatedAt": "2026-08-05T01:29:44.907Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-066-de",
-      "title": "SCP-066-DE",
-      "alternateTitle": "The little Spellbook",
-      "rating": 19,
-      "createdAt": "2020-07-06T00:15:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 15,
+      "createdAt": "2022-08-13T02:47:23.000Z",
+      "tags": [
+        "biological",
+        "building",
+        "euclid",
+        "fifthist",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "authors": [
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9910",
+      "title": "SCP-9910",
+      "alternateTitle": "Dead Sea Scrolls",
+      "rating": 13,
+      "createdAt": "2026-01-10T20:48:36.000Z",
       "tags": [
         "document",
-        "ectoentropic",
-        "euclid",
-        "international",
-        "mages-academy",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-066-de/ZauberbuchEinband.jpg",
-      "authors": [
-        "Dr_Grom",
-        "Dr_Grom"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9191",
-      "title": "SCP-9191",
-      "alternateTitle": "Alarm clock of normalcy",
-      "rating": 16,
-      "createdAt": "2025-10-03T15:46:35.000Z",
-      "tags": [
-        "9000",
-        "artifact",
-        "esoteric-class",
-        "loop",
-        "mind-affecting",
+        "historical",
+        "religious",
         "safe",
-        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/fragment:circledot-project-1/alarm-clock-6561371_1280.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9910/qumran_cave.jpg",
       "authors": [
-        "circledot"
+        "TheYeIIowDucK"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-980",
-      "title": "SCP-CN-980",
-      "alternateTitle": "J",
-      "rating": 3,
-      "createdAt": "2023-09-07T22:48:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7285",
+      "title": "SCP-7285",
+      "alternateTitle": "A simpler time",
+      "rating": 5,
+      "createdAt": "2023-01-20T15:03:37.000Z",
       "tags": [
-        "concept",
-        "foundation-made",
-        "historical",
-        "international",
-        "mechanical",
-        "meta",
-        "narrative",
+        "alive",
+        "humanoid",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
         "reality-bending",
         "safe",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/boynextdoor/4",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
       "authors": [
-        "Veleafer",
-        "tetsusquared"
+        "guiness11"
       ]
     }
   ]

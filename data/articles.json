@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T10:23:53.050Z",
+  "updatedAt": "2026-08-05T17:18:51.564Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5473",
-      "title": "SCP-5473",
-      "alternateTitle": "Silence Is Bliss",
-      "rating": 21,
-      "createdAt": "2022-02-09T19:26:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5528",
+      "title": "SCP-5528",
+      "alternateTitle": "all i am is everything im not",
+      "rating": 23,
+      "createdAt": "2021-06-01T22:53:16.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "antimemetic",
-        "compulsion",
-        "dream",
-        "euclid",
-        "humanoid",
-        "location",
-        "mind-affecting",
-        "religious",
-        "sapient",
-        "scp",
-        "sleep",
-        "transmission",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "torcsandantlers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
-      "title": "SCP-1994-KO",
-      "alternateTitle": "My Death Shall Be Your Life",
-      "rating": 12,
-      "createdAt": "2022-12-16T16:31:44.000Z",
-      "tags": [
+        "auditory",
+        "building",
         "cadaver",
-        "insect",
-        "international",
-        "parasitic",
+        "cognitohazard",
+        "esoteric-class",
+        "extradimensional",
+        "global-occult-coalition",
+        "humanoid",
+        "immobile",
+        "intangible",
+        "reality-bending",
         "scp",
-        "ticonderoga"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ssoda",
-        "fluxman"
+        "kilgrave_lovejoy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
-      "title": "SCP-2014-UA-EX",
-      "alternateTitle": "SCP-2014-RU",
-      "rating": 10,
-      "createdAt": "2022-05-06T18:05:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2392",
+      "title": "SCP-2392",
+      "alternateTitle": "Barrel of Monkeys",
+      "rating": 21,
+      "createdAt": "2016-04-27T07:14:18.000Z",
       "tags": [
-        "artifact",
-        "chemical",
-        "euclid",
-        "explained",
-        "historical",
-        "international",
-        "ritual",
+        "empathic",
+        "entropic",
+        "location",
+        "meteorological",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Comrade Xander",
-        "Comrade Xander"
+        "Jack Ike"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8422",
+      "title": "SCP-8422",
+      "alternateTitle": "Forgotten Foundations",
+      "rating": 15,
+      "createdAt": "2025-12-22T03:33:23.000Z",
+      "tags": [
+        "abnormalities",
+        "safe",
+        "scp",
+        "structure",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8422/alcatraz.jpg",
+      "authors": [
+        "CN Productions"
       ]
     }
   ]

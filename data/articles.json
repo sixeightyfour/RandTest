@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T01:29:44.907Z",
+  "updatedAt": "2026-08-05T10:23:53.050Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 15,
-      "createdAt": "2022-08-13T02:47:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5473",
+      "title": "SCP-5473",
+      "alternateTitle": "Silence Is Bliss",
+      "rating": 21,
+      "createdAt": "2022-02-09T19:26:23.000Z",
       "tags": [
-        "biological",
-        "building",
-        "euclid",
-        "fifthist",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9910",
-      "title": "SCP-9910",
-      "alternateTitle": "Dead Sea Scrolls",
-      "rating": 13,
-      "createdAt": "2026-01-10T20:48:36.000Z",
-      "tags": [
-        "document",
-        "historical",
-        "religious",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9910/qumran_cave.jpg",
-      "authors": [
-        "TheYeIIowDucK"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7285",
-      "title": "SCP-7285",
-      "alternateTitle": "A simpler time",
-      "rating": 5,
-      "createdAt": "2023-01-20T15:03:37.000Z",
-      "tags": [
+        "acoustic",
         "alive",
+        "antimemetic",
+        "compulsion",
+        "dream",
+        "euclid",
         "humanoid",
         "location",
-        "memory-affecting",
         "mind-affecting",
-        "reality-bending",
-        "safe",
+        "religious",
         "sapient",
+        "scp",
+        "sleep",
+        "transmission",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "torcsandantlers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
+      "title": "SCP-1994-KO",
+      "alternateTitle": "My Death Shall Be Your Life",
+      "rating": 12,
+      "createdAt": "2022-12-16T16:31:44.000Z",
+      "tags": [
+        "cadaver",
+        "insect",
+        "international",
+        "parasitic",
+        "scp",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ssoda",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
+      "title": "SCP-2014-UA-EX",
+      "alternateTitle": "SCP-2014-RU",
+      "rating": 10,
+      "createdAt": "2022-05-06T18:05:10.000Z",
+      "tags": [
+        "artifact",
+        "chemical",
+        "euclid",
+        "explained",
+        "historical",
+        "international",
+        "ritual",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
       "authors": [
-        "guiness11"
+        "Comrade Xander",
+        "Comrade Xander"
       ]
     }
   ]

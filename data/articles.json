@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:27:08.074Z",
+  "updatedAt": "2026-08-06T10:26:52.237Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,84 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8551",
-      "title": "SCP-8551",
-      "alternateTitle": "32. SCPology",
-      "rating": 10,
-      "createdAt": "2025-07-04T20:12:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
+      "title": "SCP-2955-JP",
+      "alternateTitle": "Septette for the Dead CN-Aniki",
+      "rating": 23,
+      "createdAt": "2022-05-05T02:35:21.000Z",
       "tags": [
-        "memetic",
-        "safe",
-        "scp",
-        "serpents-hand"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
-      "authors": [
-        "Drleevezan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9584",
-      "title": "SCP-9584",
-      "alternateTitle": "Fly, you fools!",
-      "rating": 12,
-      "createdAt": "2025-11-24T22:18:04.000Z",
-      "tags": [
-        "bureaucracy",
-        "cognitohazard",
-        "comedy",
-        "demon",
-        "insect",
-        "keter",
-        "memetic",
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "international",
+        "metamorphic",
         "mind-affecting",
-        "neutralized",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Cowmancer"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4085",
-      "title": "SCP-4085",
-      "alternateTitle": "What business, nay?",
-      "rating": 12,
-      "createdAt": "2022-06-25T19:38:39.000Z",
-      "tags": [
-        "building",
-        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4085/Shag/medium.jpg",
+      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
       "authors": [
-        "RadioactiveRADS"
+        "indonootoko",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8939",
+      "title": "SCP-8939",
+      "alternateTitle": "Urban Horror",
+      "rating": 16,
+      "createdAt": "2025-01-17T17:55:02.000Z",
+      "tags": [
+        "acoustic",
+        "alive",
+        "auditory",
+        "bleak",
+        "body-horror",
+        "building",
+        "cosmic-horror",
+        "extradimensional",
+        "horror",
+        "hostile",
+        "humanoid",
+        "illustrated",
+        "location",
+        "meta",
+        "mobile",
+        "murder-monster",
+        "mystery",
+        "online",
+        "parawatch",
+        "pending",
+        "predatory",
+        "sapient",
+        "scp",
+        "shadow",
+        "sleep",
+        "transfiguration",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hawthorne_Plaza_Parking_Structure.jpg",
+      "authors": [
+        "Doctor Scrappy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8026",
+      "title": "SCP-8026",
+      "alternateTitle": "And I'm No Dreamer",
+      "rating": 19,
+      "createdAt": "2024-02-19T04:06:34.000Z",
+      "tags": [
+        "8000",
+        "dream",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "sleep",
+        "sphere"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
+      "authors": [
+        "CowscantgoMoo"
       ]
     }
   ]

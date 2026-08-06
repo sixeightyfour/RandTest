@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T17:18:51.564Z",
+  "updatedAt": "2026-08-06T01:27:08.074Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5528",
-      "title": "SCP-5528",
-      "alternateTitle": "all i am is everything im not",
-      "rating": 23,
-      "createdAt": "2021-06-01T22:53:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8551",
+      "title": "SCP-8551",
+      "alternateTitle": "32. SCPology",
+      "rating": 10,
+      "createdAt": "2025-07-04T20:12:25.000Z",
       "tags": [
-        "auditory",
-        "building",
-        "cadaver",
+        "memetic",
+        "safe",
+        "scp",
+        "serpents-hand"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
+      "authors": [
+        "Drleevezan"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9584",
+      "title": "SCP-9584",
+      "alternateTitle": "Fly, you fools!",
+      "rating": 12,
+      "createdAt": "2025-11-24T22:18:04.000Z",
+      "tags": [
+        "bureaucracy",
         "cognitohazard",
-        "esoteric-class",
-        "extradimensional",
-        "global-occult-coalition",
-        "humanoid",
-        "immobile",
-        "intangible",
-        "reality-bending",
+        "comedy",
+        "demon",
+        "insect",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "neutralized",
         "scp",
         "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "kilgrave_lovejoy"
+        "Cowmancer"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2392",
-      "title": "SCP-2392",
-      "alternateTitle": "Barrel of Monkeys",
-      "rating": 21,
-      "createdAt": "2016-04-27T07:14:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4085",
+      "title": "SCP-4085",
+      "alternateTitle": "What business, nay?",
+      "rating": 12,
+      "createdAt": "2022-06-25T19:38:39.000Z",
       "tags": [
-        "empathic",
-        "entropic",
-        "location",
-        "meteorological",
+        "building",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4085/Shag/medium.jpg",
       "authors": [
-        "Jack Ike"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8422",
-      "title": "SCP-8422",
-      "alternateTitle": "Forgotten Foundations",
-      "rating": 15,
-      "createdAt": "2025-12-22T03:33:23.000Z",
-      "tags": [
-        "abnormalities",
-        "safe",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8422/alcatraz.jpg",
-      "authors": [
-        "CN Productions"
+        "RadioactiveRADS"
       ]
     }
   ]

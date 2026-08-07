@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T08:45:09.201Z",
+  "updatedAt": "2026-08-07T16:40:14.476Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-141-it",
-      "title": "SCP-141-IT",
-      "alternateTitle": "The Sweet Oven©",
-      "rating": 6,
-      "createdAt": "2023-05-28T15:23:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7106",
+      "title": "SCP-7106",
+      "alternateTitle": "Voiceless",
+      "rating": 13,
+      "createdAt": "2023-10-28T15:10:08.000Z",
       "tags": [
-        "appliance",
-        "biological",
-        "electronic",
-        "international",
-        "safe",
-        "scp",
-        "toy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-141-it/GentlemenChanteur.png",
-      "authors": [
-        "Drss Selene",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6378",
-      "title": "SCP-6378",
-      "alternateTitle": "Set Forever in Stone",
-      "rating": 23,
-      "createdAt": "2022-10-15T05:30:42.000Z",
-      "tags": [
+        "abnormalities",
+        "building",
         "cadaver",
-        "euclid",
-        "extraterrestrial",
-        "extremity",
-        "scp",
-        "self-repairing",
-        "sphere"
+        "extradimensional",
+        "foundation-made",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7106/Voiceless.jpg",
       "authors": [
-        "CuteFish"
+        "ItsDenali"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
-      "title": "SCP-458-KO",
-      "alternateTitle": "News of the Day",
-      "rating": 4,
-      "createdAt": "2022-10-21T12:17:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9678",
+      "title": "SCP-9678",
+      "alternateTitle": "Stochastic field disruption",
+      "rating": 8,
+      "createdAt": "2025-09-29T03:18:54.000Z",
       "tags": [
-        "electrical",
-        "international",
-        "polyhedral",
-        "safe",
-        "scp",
-        "temporal"
+        "9000",
+        "keter",
+        "phenomenon",
+        "probability",
+        "science-fiction",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Anchor",
-        "Subervos"
+        "Dmonist"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9711",
+      "title": "SCP-9711",
+      "alternateTitle": "Alternate Foundation Ran By Lobster People",
+      "rating": 20,
+      "createdAt": "2025-11-30T16:02:53.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "aquatic",
+        "crustacean",
+        "exchange",
+        "humanoid",
+        "keter",
+        "sapient",
+        "scp",
+        "species",
+        "subterranean"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Future Elliotto"
       ]
     }
   ]

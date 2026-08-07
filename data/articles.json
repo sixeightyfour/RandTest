@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T10:26:52.237Z",
+  "updatedAt": "2026-08-07T02:04:27.902Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,84 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
-      "title": "SCP-2955-JP",
-      "alternateTitle": "Septette for the Dead CN-Aniki",
-      "rating": 23,
-      "createdAt": "2022-05-05T02:35:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8708",
+      "title": "SCP-8708",
+      "alternateTitle": "Hermod's Folly",
+      "rating": 16,
+      "createdAt": "2025-11-26T02:26:38.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "humanoid",
-        "international",
-        "metamorphic",
-        "mind-affecting",
-        "scp"
+        "aquatic",
+        "computer",
+        "electronic",
+        "inscription",
+        "language",
+        "obskura",
+        "safe",
+        "scp",
+        "vehicle"
       ],
-      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg",
       "authors": [
-        "indonootoko",
-        "tetsusquared"
+        "Malakite1708"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8939",
-      "title": "SCP-8939",
-      "alternateTitle": "Urban Horror",
-      "rating": 16,
-      "createdAt": "2025-01-17T17:55:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8189",
+      "title": "SCP-8189",
+      "alternateTitle": "The Well of Life",
+      "rating": 13,
+      "createdAt": "2024-11-22T23:33:06.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "auditory",
-        "bleak",
-        "body-horror",
-        "building",
-        "cosmic-horror",
-        "extradimensional",
-        "horror",
-        "hostile",
-        "humanoid",
-        "illustrated",
-        "location",
-        "meta",
-        "mobile",
-        "murder-monster",
-        "mystery",
-        "online",
-        "parawatch",
-        "pending",
-        "predatory",
-        "sapient",
+        "biohazard",
+        "ectoentropic",
+        "extraterrestrial",
+        "memory-affecting",
+        "mind-affecting",
+        "planet",
         "scp",
-        "shadow",
-        "sleep",
+        "ticonderoga",
         "transfiguration",
         "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hawthorne_Plaza_Parking_Structure.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
       "authors": [
-        "Doctor Scrappy"
+        "CrimsonCatGuy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8026",
-      "title": "SCP-8026",
-      "alternateTitle": "And I'm No Dreamer",
-      "rating": 19,
-      "createdAt": "2024-02-19T04:06:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/chamomile82-s-proposal",
+      "title": "Chamomile82's Proposal",
+      "alternateTitle": "Endless Requiem",
+      "rating": 9,
+      "createdAt": "2024-04-15T15:04:03.000Z",
       "tags": [
-        "8000",
-        "dream",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "sleep",
-        "sphere"
+        "001-proposal",
+        "international",
+        "keter",
+        "loop",
+        "predictive",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "CowscantgoMoo"
+        "Chamomile82",
+        "fluxman"
       ]
     }
   ]

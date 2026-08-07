@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T02:04:27.902Z",
+  "updatedAt": "2026-08-07T08:45:09.201Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8708",
-      "title": "SCP-8708",
-      "alternateTitle": "Hermod's Folly",
-      "rating": 16,
-      "createdAt": "2025-11-26T02:26:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-141-it",
+      "title": "SCP-141-IT",
+      "alternateTitle": "The Sweet Oven©",
+      "rating": 6,
+      "createdAt": "2023-05-28T15:23:39.000Z",
       "tags": [
-        "aquatic",
-        "computer",
+        "appliance",
+        "biological",
         "electronic",
-        "inscription",
-        "language",
-        "obskura",
+        "international",
         "safe",
         "scp",
-        "vehicle"
+        "toy"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-141-it/GentlemenChanteur.png",
       "authors": [
-        "Malakite1708"
+        "Drss Selene",
+        "Roberto Turati"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8189",
-      "title": "SCP-8189",
-      "alternateTitle": "The Well of Life",
-      "rating": 13,
-      "createdAt": "2024-11-22T23:33:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6378",
+      "title": "SCP-6378",
+      "alternateTitle": "Set Forever in Stone",
+      "rating": 23,
+      "createdAt": "2022-10-15T05:30:42.000Z",
       "tags": [
-        "biohazard",
-        "ectoentropic",
+        "cadaver",
+        "euclid",
         "extraterrestrial",
-        "memory-affecting",
-        "mind-affecting",
-        "planet",
+        "extremity",
         "scp",
-        "ticonderoga",
-        "transfiguration",
-        "uncontained"
+        "self-repairing",
+        "sphere"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6378/mercury.png",
       "authors": [
-        "CrimsonCatGuy"
+        "CuteFish"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/chamomile82-s-proposal",
-      "title": "Chamomile82's Proposal",
-      "alternateTitle": "Endless Requiem",
-      "rating": 9,
-      "createdAt": "2024-04-15T15:04:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
+      "title": "SCP-458-KO",
+      "alternateTitle": "News of the Day",
+      "rating": 4,
+      "createdAt": "2022-10-21T12:17:53.000Z",
       "tags": [
-        "001-proposal",
+        "electrical",
         "international",
-        "keter",
-        "loop",
-        "predictive",
-        "scp"
+        "polyhedral",
+        "safe",
+        "scp",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Chamomile82",
-        "fluxman"
+        "Anchor",
+        "Subervos"
       ]
     }
   ]

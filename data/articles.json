@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:27:24.788Z",
+  "updatedAt": "2026-08-08T16:19:27.584Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,80 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-116-it",
-      "title": "SCP-116-IT",
-      "alternateTitle": "Fortuituous Legend",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:43:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4604",
+      "title": "SCP-4604",
+      "alternateTitle": "Disillusionment",
+      "rating": 15,
+      "createdAt": "2020-11-28T21:34:39.000Z",
       "tags": [
-        "aquatic",
+        "cadaver",
+        "euclid",
+        "humanoid",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "TL333s"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8950",
+      "title": "SCP-8950",
+      "alternateTitle": "Itsy",
+      "rating": 8,
+      "createdAt": "2024-11-17T23:40:06.000Z",
+      "tags": [
+        "arachnid",
+        "body-horror",
+        "horror",
+        "murder-monster",
+        "mystery",
+        "pending",
+        "phenomenon",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
+      "authors": [
+        "Doctor Scrappy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8655",
+      "title": "SCP-8655",
+      "alternateTitle": "Multiversal Chatroom Hookup",
+      "rating": 23,
+      "createdAt": "2024-08-10T01:30:00.000Z",
+      "tags": [
         "euclid",
         "extradimensional",
-        "faerie",
-        "historical",
-        "homo-sapiens-sidhe",
-        "inscription",
-        "international",
-        "location",
-        "nameless",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "An Average Italian",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9225",
-      "title": "SCP-9225",
-      "alternateTitle": "Everlasting, but Forgotten",
-      "rating": 10,
-      "createdAt": "2025-10-04T00:53:39.000Z",
-      "tags": [
-        "9000",
-        "adventure",
-        "animal",
-        "antimemetic",
-        "artifact",
-        "city",
-        "esoteric-class",
-        "fantasy",
-        "historical",
-        "humanoid",
-        "indestructible",
-        "island",
-        "plant",
-        "robotic",
-        "safe",
+        "online",
+        "otherworldly",
+        "portal",
+        "romance",
         "scp",
-        "self-repairing",
-        "thaumaturgy"
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "N1ght_Scribe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-027-de-j",
-      "title": "SCP-027-DE-J",
-      "alternateTitle": "The big bad tap hen",
-      "rating": 10,
-      "createdAt": "2022-05-12T17:19:16.000Z",
-      "tags": [
-        "animal",
-        "bird",
-        "food",
-        "international",
-        "joke",
-        "keter",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wikidot.com/local--files/scp-027-de-j/huhn.JPG",
-      "authors": [
-        "Balthuris",
-        "Karpfisch"
+        "TheGhostNobody"
       ]
     }
   ]

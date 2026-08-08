@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:40:14.476Z",
+  "updatedAt": "2026-08-08T00:49:35.186Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7106",
-      "title": "SCP-7106",
-      "alternateTitle": "Voiceless",
-      "rating": 13,
-      "createdAt": "2023-10-28T15:10:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8248",
+      "title": "SCP-8248",
+      "alternateTitle": "Words Of The Father",
+      "rating": 14,
+      "createdAt": "2025-07-07T00:16:59.000Z",
       "tags": [
-        "abnormalities",
-        "building",
-        "cadaver",
-        "extradimensional",
-        "foundation-made",
-        "safe",
+        "classiccon2025",
+        "euclid",
+        "humanoid",
+        "mystery",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7106/Voiceless.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8248/patrick_my-darling.png",
       "authors": [
-        "ItsDenali"
+        "DewOnTheGrass"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9678",
-      "title": "SCP-9678",
-      "alternateTitle": "Stochastic field disruption",
+      "url": "http://scp-wiki.wikidot.com/scp-9037",
+      "title": "SCP-9037",
+      "alternateTitle": "Theseus' Goose",
       "rating": 8,
-      "createdAt": "2025-09-29T03:18:54.000Z",
+      "createdAt": "2025-09-21T21:00:36.000Z",
       "tags": [
         "9000",
-        "keter",
-        "phenomenon",
-        "probability",
+        "absurdism",
+        "alive",
+        "animal",
+        "bird",
+        "co-authored",
+        "cognitohazard",
+        "extradimensional",
+        "infohazard",
+        "memetic",
+        "safe",
         "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
       "authors": [
-        "Dmonist"
+        "Anythingpig",
+        "idi0cy",
+        "RatseerOfRattesse"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9711",
-      "title": "SCP-9711",
-      "alternateTitle": "Alternate Foundation Ran By Lobster People",
-      "rating": 20,
-      "createdAt": "2025-11-30T16:02:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6243",
+      "title": "SCP-6243",
+      "alternateTitle": "Frau Holle",
+      "rating": 14,
+      "createdAt": "2022-04-17T09:38:59.000Z",
       "tags": [
         "alive",
-        "animal",
-        "aquatic",
-        "crustacean",
-        "exchange",
+        "ectoentropic",
+        "euclid",
+        "extradimensional",
         "humanoid",
-        "keter",
         "sapient",
-        "scp",
-        "species",
-        "subterranean"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Future Elliotto"
+        "Evolie"
       ]
     }
   ]

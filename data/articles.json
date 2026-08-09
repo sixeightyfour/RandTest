@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:19:27.584Z",
+  "updatedAt": "2026-08-09T00:52:48.574Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4604",
-      "title": "SCP-4604",
-      "alternateTitle": "Disillusionment",
-      "rating": 15,
-      "createdAt": "2020-11-28T21:34:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
+      "title": "SCP-PL-046",
+      "alternateTitle": "Final Girl",
+      "rating": 20,
+      "createdAt": "2022-07-14T21:10:00.000Z",
       "tags": [
-        "cadaver",
+        "alive",
+        "co-authored",
         "euclid",
         "humanoid",
+        "international",
+        "narrative",
+        "parawatch",
+        "s&c-plastics",
+        "sapient",
+        "sarkic",
+        "scp",
+        "sexual"
+      ],
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
+      "authors": [
+        "EvilAngel413",
+        "Zygard"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6398",
+      "title": "SCP-6398",
+      "alternateTitle": "Off The Chain",
+      "rating": 9,
+      "createdAt": "2022-04-04T23:12:54.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "artifact",
+        "currency",
+        "electrical",
+        "euclid",
+        "exchange",
+        "mind-affecting",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TL333s"
+        "Milesaru"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8950",
-      "title": "SCP-8950",
-      "alternateTitle": "Itsy",
-      "rating": 8,
-      "createdAt": "2024-11-17T23:40:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9976",
+      "title": "SCP-9976",
+      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
+      "rating": 5,
+      "createdAt": "2025-11-13T17:47:47.000Z",
       "tags": [
-        "arachnid",
-        "body-horror",
-        "horror",
-        "murder-monster",
-        "mystery",
-        "pending",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
-      "authors": [
-        "Doctor Scrappy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8655",
-      "title": "SCP-8655",
-      "alternateTitle": "Multiversal Chatroom Hookup",
-      "rating": 23,
-      "createdAt": "2024-08-10T01:30:00.000Z",
-      "tags": [
-        "euclid",
-        "extradimensional",
-        "online",
-        "otherworldly",
-        "portal",
-        "romance",
+        "electronic",
+        "extraterrestrial",
+        "keter",
+        "media",
+        "political",
+        "sapient",
+        "satellite",
         "scp",
         "transmission"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
       "authors": [
-        "TheGhostNobody"
+        "good_vibrations"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T00:52:48.574Z",
+  "updatedAt": "2026-08-09T08:29:11.281Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
-      "title": "SCP-PL-046",
-      "alternateTitle": "Final Girl",
-      "rating": 20,
-      "createdAt": "2022-07-14T21:10:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4458",
+      "title": "SCP-4458",
+      "alternateTitle": "jaws is gonna get ya",
+      "rating": 22,
+      "createdAt": "2019-11-20T18:47:45.000Z",
       "tags": [
-        "alive",
-        "co-authored",
         "euclid",
-        "humanoid",
-        "international",
-        "narrative",
-        "parawatch",
-        "s&c-plastics",
-        "sapient",
-        "sarkic",
+        "fish",
+        "hostile",
+        "metamorphic",
+        "miniature",
         "scp",
-        "sexual"
+        "shark",
+        "shark-punching-center"
       ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4458/JawsTheShark/medium.jpg",
       "authors": [
-        "EvilAngel413",
-        "Zygard"
+        "Omega Fallon"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6398",
-      "title": "SCP-6398",
-      "alternateTitle": "Off The Chain",
-      "rating": 9,
-      "createdAt": "2022-04-04T23:12:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1357",
+      "title": "SCP-CN-1357",
+      "alternateTitle": "Online Wayback Machine",
+      "rating": 8,
+      "createdAt": "2024-06-10T17:44:04.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artifact",
-        "currency",
-        "electrical",
-        "euclid",
-        "exchange",
-        "mind-affecting",
-        "scp"
+        "appliance",
+        "electronic",
+        "international",
+        "online",
+        "safe",
+        "scp",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Milesaru"
+        "Dr Talcite",
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9976",
-      "title": "SCP-9976",
-      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
-      "rating": 5,
-      "createdAt": "2025-11-13T17:47:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7237",
+      "title": "SCP-7237",
+      "alternateTitle": "An 8-Centimeter Ball Bearing",
+      "rating": 8,
+      "createdAt": "2024-07-19T23:15:03.000Z",
       "tags": [
-        "electronic",
-        "extraterrestrial",
-        "keter",
-        "media",
-        "political",
-        "sapient",
-        "satellite",
+        "artifact",
+        "auditory",
+        "chemical",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "mechanical",
+        "safe",
         "scp",
-        "transmission"
+        "visual"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "good_vibrations"
+        "Pinoccappuccino"
       ]
     }
   ]

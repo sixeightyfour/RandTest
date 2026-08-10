@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:05:56.667Z",
+  "updatedAt": "2026-08-10T16:41:35.838Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7667",
-      "title": "SCP-7667",
-      "alternateTitle": "Glory to Mouldova!",
-      "rating": 23,
-      "createdAt": "2022-09-18T07:24:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-141-it",
+      "title": "SCP-141-IT",
+      "alternateTitle": "The Sweet Oven©",
+      "rating": 6,
+      "createdAt": "2023-05-28T15:23:39.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "city",
-        "metamorphic",
-        "mobile",
-        "safe",
-        "sapient",
-        "scp",
-        "species",
-        "tactile",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7667/Slime_Mould/medium.jpg",
-      "authors": [
-        "Djlolotis"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1800-ko",
-      "title": "SCP-1800-KO",
-      "alternateTitle": "Order to Leave Work",
-      "rating": 4,
-      "createdAt": "2024-01-04T23:34:45.000Z",
-      "tags": [
-        "esoteric-class",
+        "appliance",
+        "biological",
+        "electronic",
         "international",
-        "mind-affecting",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Bangja",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8244",
-      "title": "SCP-8244",
-      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
-      "rating": 8,
-      "createdAt": "2025-07-09T18:01:19.000Z",
-      "tags": [
-        "classiccon2025",
-        "compulsion",
-        "crime-fiction",
-        "horror",
-        "jewelry",
-        "mind-affecting",
-        "mystery",
         "safe",
         "scp",
         "toy"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-141-it/GentlemenChanteur.png",
       "authors": [
-        "Thopter"
+        "Drss Selene",
+        "Roberto Turati"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6927",
+      "title": "SCP-6927",
+      "alternateTitle": "Eurydification",
+      "rating": 16,
+      "createdAt": "2024-02-09T22:56:10.000Z",
+      "tags": [
+        "antimemetic",
+        "ghost",
+        "humanoid",
+        "medical",
+        "memory-affecting",
+        "oneiroi",
+        "parasitic",
+        "reanimation",
+        "safe",
+        "sapient",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/SCP%20Reconnected.png",
+      "authors": [
+        "Fierce fauna"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8213",
+      "title": "SCP-8213",
+      "alternateTitle": "The Baker's Spade",
+      "rating": 18,
+      "createdAt": "2025-05-15T18:34:52.000Z",
+      "tags": [
+        "fantasy",
+        "historical",
+        "intcanoncon2025",
+        "mystery",
+        "safe",
+        "scp",
+        "thaumaturgy",
+        "tool"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8213/britesspade/medium.jpg",
+      "authors": [
+        "Deadcanons"
       ]
     }
   ]

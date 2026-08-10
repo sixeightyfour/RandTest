@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:20:55.430Z",
+  "updatedAt": "2026-08-10T00:54:25.656Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,58 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7789",
-      "title": "SCP-7789",
-      "alternateTitle": "Agent Vidal in upside down Barcelona",
-      "rating": 23,
-      "createdAt": "2022-11-13T15:07:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9051",
+      "title": "SCP-9051",
+      "alternateTitle": "Powercreep",
+      "rating": 21,
+      "createdAt": "2025-10-04T00:00:42.000Z",
       "tags": [
-        "electromagnetic",
-        "gravity",
-        "location",
-        "pending",
+        "9000",
+        "amorphous",
+        "artifact",
+        "auditory",
+        "hostile",
+        "neutralized",
+        "reality-bending",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7789/bcnbcndefdef.png",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/dr-lutwin-s-scp-9000/SCP-9000%20Iteration%201",
       "authors": [
-        "gaussian"
+        "DrLutwin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7068",
-      "title": "SCP-7068",
-      "alternateTitle": "The Endless Art Gallery",
-      "rating": 24,
-      "createdAt": "2022-10-27T22:09:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-456",
+      "title": "SCP-456",
+      "alternateTitle": "Soporific Bedbugs",
+      "rating": 20,
+      "createdAt": "2010-10-15T05:09:16.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "building",
+        "alive",
+        "insect",
+        "neurological",
         "safe",
         "scp",
-        "spatial"
+        "species"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
       "authors": [
-        "_KazuyukiKasuke"
+        "eric_h"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-268-de",
-      "title": "SCP-268-DE",
-      "alternateTitle": "Fancy Haircut",
-      "rating": 5,
-      "createdAt": "2023-11-24T15:52:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5566",
+      "title": "SCP-5566",
+      "alternateTitle": "The Scientific Method",
+      "rating": 19,
+      "createdAt": "2020-01-21T04:09:52.000Z",
       "tags": [
-        "euclid",
-        "humanoid",
-        "international",
+        "5000",
+        "auditory",
+        "co-authored",
+        "concept",
+        "contagion",
+        "fire",
+        "mathematical",
+        "mind-affecting",
+        "neutralized",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "Quinnen",
+        "Scented_Shadow"
       ]
     }
   ]

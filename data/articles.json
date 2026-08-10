@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T00:54:25.656Z",
+  "updatedAt": "2026-08-10T09:05:56.667Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9051",
-      "title": "SCP-9051",
-      "alternateTitle": "Powercreep",
-      "rating": 21,
-      "createdAt": "2025-10-04T00:00:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7667",
+      "title": "SCP-7667",
+      "alternateTitle": "Glory to Mouldova!",
+      "rating": 23,
+      "createdAt": "2022-09-18T07:24:33.000Z",
       "tags": [
-        "9000",
-        "amorphous",
-        "artifact",
-        "auditory",
-        "hostile",
-        "neutralized",
-        "reality-bending",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/dr-lutwin-s-scp-9000/SCP-9000%20Iteration%201",
-      "authors": [
-        "DrLutwin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-456",
-      "title": "SCP-456",
-      "alternateTitle": "Soporific Bedbugs",
-      "rating": 20,
-      "createdAt": "2010-10-15T05:09:16.000Z",
-      "tags": [
+        "acoustic",
         "alive",
-        "insect",
-        "neurological",
+        "city",
+        "metamorphic",
+        "mobile",
         "safe",
+        "sapient",
         "scp",
-        "species"
+        "species",
+        "tactile",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7667/Slime_Mould/medium.jpg",
       "authors": [
-        "eric_h"
+        "Djlolotis"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5566",
-      "title": "SCP-5566",
-      "alternateTitle": "The Scientific Method",
-      "rating": 19,
-      "createdAt": "2020-01-21T04:09:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1800-ko",
+      "title": "SCP-1800-KO",
+      "alternateTitle": "Order to Leave Work",
+      "rating": 4,
+      "createdAt": "2024-01-04T23:34:45.000Z",
       "tags": [
-        "5000",
-        "auditory",
-        "co-authored",
-        "concept",
-        "contagion",
-        "fire",
-        "mathematical",
+        "esoteric-class",
+        "international",
         "mind-affecting",
-        "neutralized",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Quinnen",
-        "Scented_Shadow"
+        "Bangja",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8244",
+      "title": "SCP-8244",
+      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
+      "rating": 8,
+      "createdAt": "2025-07-09T18:01:19.000Z",
+      "tags": [
+        "classiccon2025",
+        "compulsion",
+        "crime-fiction",
+        "horror",
+        "jewelry",
+        "mind-affecting",
+        "mystery",
+        "safe",
+        "scp",
+        "toy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Thopter"
       ]
     }
   ]

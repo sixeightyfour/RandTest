@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:53:59.603Z",
+  "updatedAt": "2026-08-11T08:42:50.395Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6813",
-      "title": "SCP-6813",
-      "alternateTitle": "An Ignited Melody",
-      "rating": 24,
-      "createdAt": "2022-04-14T22:48:39.000Z",
-      "tags": [
-        "ghost",
-        "military",
-        "neutralized",
-        "scp",
-        "teleportation",
-        "uncontained",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6813/SCP-6813.png?width=959&height=210",
-      "authors": [
-        "DL_Baryonyx"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4328",
-      "title": "SCP-4328",
-      "alternateTitle": "Sinew and Cellulose",
+      "url": "http://scp-wiki.wikidot.com/scp-8915",
+      "title": "SCP-8915",
+      "alternateTitle": "The Universe Has a Double-Edged Sword to Gift You",
       "rating": 22,
-      "createdAt": "2018-09-06T16:34:54.000Z",
+      "createdAt": "2025-06-03T13:29:52.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "portal",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4328/plantmonk.jpg",
-      "authors": [
-        "f3arofthedark"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7675",
-      "title": "SCP-7675",
-      "alternateTitle": "An Instigator",
-      "rating": 9,
-      "createdAt": "2023-10-18T19:01:22.000Z",
-      "tags": [
-        "artifact",
-        "empathic",
-        "safe",
+        "ethics-committee",
+        "horror",
+        "mystery",
+        "neutralized",
+        "psychological-horror",
+        "reality-bending",
+        "sapient",
         "scp",
-        "transfiguration"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "good_vibrations"
+        "arhanandic"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8957",
+      "title": "SCP-8957",
+      "alternateTitle": "Break A Leg!",
+      "rating": 10,
+      "createdAt": "2025-10-03T15:43:31.000Z",
+      "tags": [
+        "building",
+        "euclid",
+        "phenomenon",
+        "scp",
+        "skeletal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "7eventy7evenfold"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9584",
+      "title": "SCP-9584",
+      "alternateTitle": "Fly, you fools!",
+      "rating": 12,
+      "createdAt": "2025-11-24T22:18:04.000Z",
+      "tags": [
+        "bureaucracy",
+        "cognitohazard",
+        "comedy",
+        "demon",
+        "insect",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "neutralized",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Cowmancer"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:45:15.954Z",
+  "updatedAt": "2026-08-12T01:00:36.845Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2220",
-      "title": "SCP-2220",
-      "alternateTitle": "Halsey's Hammer",
+      "url": "http://scp-wiki.wikidot.com/scp-5268",
+      "title": "SCP-5268",
+      "alternateTitle": "Off the Wall Taste",
       "rating": 22,
-      "createdAt": "2014-05-24T18:52:22.000Z",
+      "createdAt": "2020-10-25T22:06:08.000Z",
       "tags": [
-        "military",
-        "portal",
+        "cognitohazard",
+        "document",
+        "memetic",
+        "mind-affecting",
         "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ghosterposter"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7588",
+      "title": "SCP-7588",
+      "alternateTitle": "The Sun's Avatar",
+      "rating": 13,
+      "createdAt": "2023-08-26T06:27:39.000Z",
+      "tags": [
+        "alive",
+        "electromagnetic",
+        "esoteric-class",
+        "extraterrestrial",
+        "humanoid",
+        "sapient",
         "scp",
-        "spatial",
-        "teleportation",
-        "vehicle",
-        "weapon"
+        "sun",
+        "thermal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2220/lilboy2.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "NotoriousMDG"
+        "Mr Bumblebee"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7642",
-      "title": "SCP-7642",
-      "alternateTitle": "A Monument To All Your Sins",
-      "rating": 19,
-      "createdAt": "2025-07-17T19:48:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8193",
+      "title": "SCP-8193",
+      "alternateTitle": "As the Bombs Began to Fall",
+      "rating": 22,
+      "createdAt": "2024-07-26T10:03:16.000Z",
       "tags": [
-        "daevite",
+        "child",
+        "humanoid",
         "safe",
-        "sarkic",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nocturned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8559",
-      "title": "SCP-8559",
-      "alternateTitle": "Perfectly Illegal",
-      "rating": 17,
-      "createdAt": "2025-09-03T09:26:24.000Z",
-      "tags": [
-        "cernunnos",
-        "euclid",
-        "hostile",
-        "legal",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Zera27"
+        "Edmund Davids"
       ]
     }
   ]

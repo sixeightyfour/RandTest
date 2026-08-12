@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:00:36.845Z",
+  "updatedAt": "2026-08-12T08:59:58.244Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5268",
-      "title": "SCP-5268",
-      "alternateTitle": "Off the Wall Taste",
-      "rating": 22,
-      "createdAt": "2020-10-25T22:06:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8807",
+      "title": "SCP-8807",
+      "alternateTitle": "SOUP",
+      "rating": 19,
+      "createdAt": "2025-01-08T20:45:03.000Z",
       "tags": [
-        "cognitohazard",
-        "document",
-        "memetic",
-        "mind-affecting",
-        "safe",
-        "scp"
+        "alternate-history",
+        "biological",
+        "bleak",
+        "body-horror",
+        "broken-masquerade",
+        "cadaver",
+        "chaos-insurgency",
+        "horror",
+        "humanoid",
+        "illustrated",
+        "neutralized",
+        "radioactive",
+        "scp",
+        "superhero"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/G%C3%A9n%C3%A9ralit%C3%A9_de_Bordeaux.svg",
       "authors": [
-        "ghosterposter"
+        "Doctor Scrappy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7588",
-      "title": "SCP-7588",
-      "alternateTitle": "The Sun's Avatar",
-      "rating": 13,
-      "createdAt": "2023-08-26T06:27:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-376-de",
+      "title": "SCP-376-DE",
+      "alternateTitle": "Horseplay (for amateurs)",
+      "rating": 10,
+      "createdAt": "2024-06-30T13:13:20.000Z",
       "tags": [
         "alive",
-        "electromagnetic",
-        "esoteric-class",
-        "extraterrestrial",
-        "humanoid",
-        "sapient",
-        "scp",
-        "sun",
-        "thermal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Mr Bumblebee"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8193",
-      "title": "SCP-8193",
-      "alternateTitle": "As the Bombs Began to Fall",
-      "rating": 22,
-      "createdAt": "2024-07-26T10:03:16.000Z",
-      "tags": [
-        "child",
-        "humanoid",
-        "safe",
+        "equine",
+        "euclid",
+        "international",
+        "marshall-carter-and-dark",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
       "authors": [
-        "Edmund Davids"
+        "Gramlin",
+        "Karptisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6810",
+      "title": "SCP-6810",
+      "alternateTitle": "Dionysus the Olympian",
+      "rating": 17,
+      "createdAt": "2024-01-24T20:37:50.000Z",
+      "tags": [
+        "alive",
+        "daevite",
+        "humanoid",
+        "judith-low",
+        "keter",
+        "mind-affecting",
+        "neurological",
+        "reality-bending",
+        "religious",
+        "sapient",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nagarjunakonda_Dionysus_Palace_site.jpg",
+      "authors": [
+        "Baronjoe"
       ]
     }
   ]

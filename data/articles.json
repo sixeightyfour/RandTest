@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T08:59:58.244Z",
+  "updatedAt": "2026-08-12T16:44:40.430Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8807",
-      "title": "SCP-8807",
-      "alternateTitle": "SOUP",
-      "rating": 19,
-      "createdAt": "2025-01-08T20:45:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7859",
+      "title": "SCP-7859",
+      "alternateTitle": "The Death Dealing",
+      "rating": 8,
+      "createdAt": "2025-05-08T17:26:18.000Z",
       "tags": [
-        "alternate-history",
+        "alive",
+        "artifact",
+        "brothers-of-death",
+        "cognitohazard",
+        "esoteric-class",
+        "game",
+        "horror",
+        "humanoid",
+        "indestructible",
+        "psychological-horror",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ShallweYesweshall"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6149",
+      "title": "SCP-6149",
+      "alternateTitle": "Fear and Loathing in Monkey's Eyebrow",
+      "rating": 23,
+      "createdAt": "2022-11-19T00:53:25.000Z",
+      "tags": [
+        "ectoentropic",
+        "extradimensional",
+        "indestructible",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "surrealism",
+        "temporal",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6149/48200544596_3c2ec7e371_b.jpg",
+      "authors": [
+        "Mister_Toasty"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9797",
+      "title": "SCP-9797",
+      "alternateTitle": "Black Humour",
+      "rating": 18,
+      "createdAt": "2025-10-22T02:52:40.000Z",
+      "tags": [
         "biological",
         "bleak",
         "body-horror",
-        "broken-masquerade",
-        "cadaver",
-        "chaos-insurgency",
-        "horror",
-        "humanoid",
-        "illustrated",
-        "neutralized",
-        "radioactive",
-        "scp",
-        "superhero"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/G%C3%A9n%C3%A9ralit%C3%A9_de_Bordeaux.svg",
-      "authors": [
-        "Doctor Scrappy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-376-de",
-      "title": "SCP-376-DE",
-      "alternateTitle": "Horseplay (for amateurs)",
-      "rating": 10,
-      "createdAt": "2024-06-30T13:13:20.000Z",
-      "tags": [
-        "alive",
-        "equine",
         "euclid",
-        "international",
-        "marshall-carter-and-dark",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
-      "authors": [
-        "Gramlin",
-        "Karptisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6810",
-      "title": "SCP-6810",
-      "alternateTitle": "Dionysus the Olympian",
-      "rating": 17,
-      "createdAt": "2024-01-24T20:37:50.000Z",
-      "tags": [
-        "alive",
-        "daevite",
-        "humanoid",
-        "judith-low",
-        "keter",
+        "horror",
         "mind-affecting",
         "neurological",
-        "reality-bending",
-        "religious",
-        "sapient",
         "scp",
-        "transfiguration"
+        "virus"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nagarjunakonda_Dionysus_Palace_site.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Baronjoe"
+        "solasoliloquy"
       ]
     }
   ]

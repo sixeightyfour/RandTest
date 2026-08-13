@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:44:40.430Z",
+  "updatedAt": "2026-08-13T01:01:47.323Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7859",
-      "title": "SCP-7859",
-      "alternateTitle": "The Death Dealing",
-      "rating": 8,
-      "createdAt": "2025-05-08T17:26:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9976",
+      "title": "SCP-9976",
+      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
+      "rating": 5,
+      "createdAt": "2025-11-13T17:47:47.000Z",
       "tags": [
-        "alive",
-        "artifact",
-        "brothers-of-death",
-        "cognitohazard",
-        "esoteric-class",
-        "game",
-        "horror",
-        "humanoid",
-        "indestructible",
-        "psychological-horror",
-        "reality-bending",
+        "electronic",
+        "extraterrestrial",
+        "keter",
+        "media",
+        "political",
         "sapient",
+        "satellite",
         "scp",
-        "visual"
+        "transmission"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
       "authors": [
-        "ShallweYesweshall"
+        "good_vibrations"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6149",
-      "title": "SCP-6149",
-      "alternateTitle": "Fear and Loathing in Monkey's Eyebrow",
-      "rating": 23,
-      "createdAt": "2022-11-19T00:53:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-186-arc",
+      "title": "SCP-186-ARC",
+      "alternateTitle": "The Craver of Light",
+      "rating": -15,
+      "createdAt": "2008-08-08T22:54:58.000Z",
       "tags": [
-        "ectoentropic",
-        "extradimensional",
-        "indestructible",
-        "mind-affecting",
-        "safe",
+        "archived",
+        "autonomous",
+        "euclid",
+        "inscription",
+        "light",
+        "rewrite",
         "scp",
-        "surrealism",
+        "thermal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unknown Author",
+        "Aelanna"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4072",
+      "title": "SCP-4072",
+      "alternateTitle": "No Hands On Deck",
+      "rating": 20,
+      "createdAt": "2025-10-24T18:31:39.000Z",
+      "tags": [
+        "aquatic",
+        "keter",
+        "scp",
         "temporal",
         "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6149/48200544596_3c2ec7e371_b.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4072/boat",
       "authors": [
-        "Mister_Toasty"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9797",
-      "title": "SCP-9797",
-      "alternateTitle": "Black Humour",
-      "rating": 18,
-      "createdAt": "2025-10-22T02:52:40.000Z",
-      "tags": [
-        "biological",
-        "bleak",
-        "body-horror",
-        "euclid",
-        "horror",
-        "mind-affecting",
-        "neurological",
-        "scp",
-        "virus"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "solasoliloquy"
+        "DrApricus"
       ]
     }
   ]

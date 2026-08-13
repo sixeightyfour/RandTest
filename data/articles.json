@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T09:01:29.952Z",
+  "updatedAt": "2026-08-13T16:43:49.427Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8233",
-      "title": "SCP-8233",
-      "alternateTitle": "Red Rings",
-      "rating": 24,
-      "createdAt": "2024-06-11T19:37:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-234-arc",
+      "title": "SCP-234-ARC",
+      "alternateTitle": "Blue Goddess",
+      "rating": -39,
+      "createdAt": "2008-07-26T21:10:35.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "horror",
-        "mystery",
-        "scp",
-        "sleep"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8233/airview.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7613",
-      "title": "SCP-7613",
-      "alternateTitle": "Snake < Tail",
-      "rating": 17,
-      "createdAt": "2023-10-15T19:21:02.000Z",
-      "tags": [
+        "archived",
+        "autonomous",
         "compulsion",
-        "concept",
-        "esoteric-class",
+        "electrical",
+        "euclid",
+        "humanoid",
         "mind-affecting",
+        "rewrite",
         "scp",
-        "spatial",
-        "temporal"
+        "sculpture"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Quicksilvers"
+        "Unknown Author",
+        "Sorts"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5294",
-      "title": "SCP-5294",
-      "alternateTitle": "The Emancipatory Society for Middle-Aged Fathers",
-      "rating": 19,
-      "createdAt": "2021-09-14T09:37:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4580",
+      "title": "SCP-4580",
+      "alternateTitle": "The Seekers of Secrets",
+      "rating": 9,
+      "createdAt": "2019-02-10T06:49:57.000Z",
       "tags": [
-        "alive",
-        "building",
-        "humanoid",
-        "location",
-        "mind-affecting",
-        "reality-bending",
-        "safe",
-        "scp"
+        "animal",
+        "biological",
+        "bird",
+        "euclid",
+        "scp",
+        "swarm",
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4580/4580.JPG",
       "authors": [
-        "Nils Severin"
+        "IAmtheBushman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6784",
+      "title": "SCP-6784",
+      "alternateTitle": "The Family Gone Too Soon",
+      "rating": 15,
+      "createdAt": "2021-10-04T00:19:57.000Z",
+      "tags": [
+        "animal",
+        "cadaver",
+        "canine",
+        "cognitohazard",
+        "euclid",
+        "hallucination",
+        "memetic",
+        "mind-affecting",
+        "reanimation",
+        "scp",
+        "structure",
+        "teleportation",
+        "visual"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/3326/3570542251_f53bb88163_b.jpg",
+      "authors": [
+        "Researcher_IVance"
       ]
     }
   ]

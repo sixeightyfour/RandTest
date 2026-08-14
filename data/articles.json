@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:56:57.189Z",
+  "updatedAt": "2026-08-14T16:39:01.510Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6022",
-      "title": "SCP-6022",
-      "alternateTitle": "Of Two Different Natures",
-      "rating": 19,
-      "createdAt": "2021-05-31T13:42:33.000Z",
-      "tags": [
-        "6000",
-        "alive",
-        "animal",
-        "compulsion",
-        "dream",
-        "euclid",
-        "faerie",
-        "fantasy",
-        "forest",
-        "location",
-        "memetic",
-        "microscopic",
-        "mythological",
-        "nameless",
-        "plant",
-        "scp",
-        "snake",
-        "tree",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dark_Forest.jpg",
-      "authors": [
-        "dababyconvertible"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9667",
-      "title": "SCP-9667",
-      "alternateTitle": "Elementary, My Dear",
-      "rating": 15,
-      "createdAt": "2026-02-04T19:23:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6788",
+      "title": "Item-6788",
+      "alternateTitle": "Currywurst",
+      "rating": 4,
+      "createdAt": "2022-01-18T03:37:30.000Z",
       "tags": [
         "alive",
-        "animal",
-        "comedy",
-        "euclid",
-        "insect",
-        "language",
+        "esoteric-class",
+        "extraterrestrial",
+        "hostile",
         "sapient",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://i.imgur.com/ib48L9D.jpeg",
-      "authors": [
-        "Kingchicken1st"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8896",
-      "title": "SCP-8896",
-      "alternateTitle": "The Usual Customers",
-      "rating": 21,
-      "createdAt": "2025-05-30T17:03:06.000Z",
-      "tags": [
-        "alive",
-        "chemical",
-        "euclid",
-        "extradimensional",
-        "humanoid",
-        "scp",
-        "teleportation"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Penton"
+        "Jekeled"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-227-fr",
+      "title": "SCP-227-FR",
+      "alternateTitle": "Horoscomaton",
+      "rating": 15,
+      "createdAt": "2022-05-07T15:06:29.000Z",
+      "tags": [
+        "autonomous",
+        "compulsion",
+        "international",
+        "mechanical",
+        "predictive",
+        "safe",
+        "sapphire",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "http://fondationscp.wikidot.com/local--files/scp-227-fr/Zodiaque2%281%29.jpg",
+      "authors": [
+        "DrGemini",
+        "Prismal"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6236",
+      "title": "SCP-6236",
+      "alternateTitle": "A Motel Elevator",
+      "rating": 23,
+      "createdAt": "2021-12-30T03:23:54.000Z",
+      "tags": [
+        "building",
+        "euclid",
+        "extradimensional",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
+      "authors": [
+        "Inertia_comrade"
       ]
     }
   ]

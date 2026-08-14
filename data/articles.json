@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:00:55.149Z",
+  "updatedAt": "2026-08-14T08:56:57.189Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7051",
-      "title": "SCP-7051",
-      "alternateTitle": "Never Truly Alone",
-      "rating": 17,
-      "createdAt": "2022-11-07T19:56:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6022",
+      "title": "SCP-6022",
+      "alternateTitle": "Of Two Different Natures",
+      "rating": 19,
+      "createdAt": "2021-05-31T13:42:33.000Z",
+      "tags": [
+        "6000",
+        "alive",
+        "animal",
+        "compulsion",
+        "dream",
+        "euclid",
+        "faerie",
+        "fantasy",
+        "forest",
+        "location",
+        "memetic",
+        "microscopic",
+        "mythological",
+        "nameless",
+        "plant",
+        "scp",
+        "snake",
+        "tree",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dark_Forest.jpg",
+      "authors": [
+        "dababyconvertible"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9667",
+      "title": "SCP-9667",
+      "alternateTitle": "Elementary, My Dear",
+      "rating": 15,
+      "createdAt": "2026-02-04T19:23:24.000Z",
       "tags": [
         "alive",
-        "compulsion",
+        "animal",
+        "comedy",
+        "euclid",
+        "insect",
+        "language",
+        "sapient",
         "scp",
-        "species",
-        "ticonderoga"
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://i.imgur.com/ib48L9D.jpeg",
       "authors": [
-        "Jade_Crusader"
+        "Kingchicken1st"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8738",
-      "title": "SCP-8738",
-      "alternateTitle": "Prion Arterial Synthesis",
-      "rating": 22,
-      "createdAt": "2025-07-06T10:44:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8896",
+      "title": "SCP-8896",
+      "alternateTitle": "The Usual Customers",
+      "rating": 21,
+      "createdAt": "2025-05-30T17:03:06.000Z",
       "tags": [
-        "antimemetic",
-        "biohazard",
-        "biological",
-        "blood",
-        "classiccon2025",
-        "contagion",
-        "keter",
-        "microscopic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8738/imagen_2025-06-29_031734279.png",
-      "authors": [
-        "DiexC"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8383",
-      "title": "SCP-8383",
-      "alternateTitle": "The Tangible and Intangible Cultural Heritage of the Saint Sophia Christians",
-      "rating": 20,
-      "createdAt": "2024-06-04T21:09:27.000Z",
-      "tags": [
-        "broken-god",
-        "clockwork",
-        "historical",
-        "location",
-        "neutralized",
-        "religious",
+        "alive",
+        "chemical",
+        "euclid",
+        "extradimensional",
+        "humanoid",
         "scp",
-        "weapon"
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Univine"
+        "Penton"
       ]
     }
   ]

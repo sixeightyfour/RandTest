@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:15:07.055Z",
+  "updatedAt": "2026-08-15T16:11:35.783Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8602",
-      "title": "SCP-8602",
-      "alternateTitle": "Where Youth and Laughter Go",
-      "rating": 21,
-      "createdAt": "2025-12-14T02:03:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7633",
+      "title": "SCP-7633",
+      "alternateTitle": "The Nuclear Vault",
+      "rating": 17,
+      "createdAt": "2023-03-17T07:32:12.000Z",
       "tags": [
-        "neutralized",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8602/war.jpg",
-      "authors": [
-        "CN Productions"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8836",
-      "title": "SCP-8836",
-      "alternateTitle": "Stray God",
-      "rating": 24,
-      "createdAt": "2026-01-28T05:26:08.000Z",
-      "tags": [
-        "animal",
-        "canine",
-        "euclid",
-        "intangible",
-        "mythological",
-        "our-open-veins",
-        "phenomenon",
-        "sapient",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8836/goddog.jpg",
-      "authors": [
-        "Din-Bidor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-294-de",
-      "title": "SCP-294-DE",
-      "alternateTitle": "And Then There Were None",
-      "rating": 11,
-      "createdAt": "2022-11-16T15:06:01.000Z",
-      "tags": [
+        "auditory",
         "building",
-        "esoteric-class",
-        "humanoid",
+        "chaos-insurgency",
+        "compulsion",
+        "euclid",
+        "gustatory",
+        "hallucination",
+        "location",
+        "mind-affecting",
+        "neutralized",
+        "olfactory",
+        "scp",
+        "sensory",
+        "tactile"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7633/1599px-Schindler-Bunker_12883100793.jpg",
+      "authors": [
+        "SOMESKYRlMFAN"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-980",
+      "title": "SCP-CN-980",
+      "alternateTitle": "J",
+      "rating": 3,
+      "createdAt": "2023-09-07T22:48:55.000Z",
+      "tags": [
+        "concept",
+        "foundation-made",
+        "historical",
         "international",
-        "mages-academy",
+        "mechanical",
+        "meta",
+        "narrative",
+        "reality-bending",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/German_Mansion%2C_ca._1919.jpg",
+      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/boynextdoor/4",
       "authors": [
-        "ThePaperMask",
-        "ThePaperMask"
+        "Veleafer",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2800-j",
+      "title": "SCP-2800-J",
+      "alternateTitle": "Corking the Beast in the Desert",
+      "rating": 24,
+      "createdAt": "2024-01-28T17:59:03.000Z",
+      "tags": [
+        "children-of-the-night",
+        "joke",
+        "k-class-scenario",
+        "keter",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2800-j/CorkBottle.png",
+      "authors": [
+        "Reasonably Psychotic"
       ]
     }
   ]

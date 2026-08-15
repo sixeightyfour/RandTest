@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T00:36:08.006Z",
+  "updatedAt": "2026-08-15T08:15:07.055Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6604",
-      "title": "SCP-6604",
-      "alternateTitle": "Invisible Al",
+      "url": "http://scp-wiki.wikidot.com/scp-8602",
+      "title": "SCP-8602",
+      "alternateTitle": "Where Youth and Laughter Go",
       "rating": 21,
-      "createdAt": "2022-05-15T20:17:01.000Z",
+      "createdAt": "2025-12-14T02:03:29.000Z",
       "tags": [
-        "clothing",
-        "historical",
-        "humanoid",
-        "safe",
+        "neutralized",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8602/war.jpg",
+      "authors": [
+        "CN Productions"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8836",
+      "title": "SCP-8836",
+      "alternateTitle": "Stray God",
+      "rating": 24,
+      "createdAt": "2026-01-28T05:26:08.000Z",
+      "tags": [
+        "animal",
+        "canine",
+        "euclid",
+        "intangible",
+        "mythological",
+        "our-open-veins",
+        "phenomenon",
         "sapient",
         "scp",
-        "weapon"
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8836/goddog.jpg",
       "authors": [
-        "DrApricus"
+        "Din-Bidor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-014-int",
-      "title": "SCP-014-INT",
-      "alternateTitle": "A Net of Amnestics",
-      "rating": 19,
-      "createdAt": "2023-02-06T21:39:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-294-de",
+      "title": "SCP-294-DE",
+      "alternateTitle": "And Then There Were None",
+      "rating": 11,
+      "createdAt": "2022-11-16T15:06:01.000Z",
       "tags": [
-        "argus",
-        "backdoor-soho",
-        "children-of-the-night",
-        "director-gillespie",
-        "doctor-rivera",
-        "esterberg",
-        "from-120s-archives",
-        "homo-sapiens-sidhe",
-        "international",
-        "marshall-carter-and-dark",
-        "portal",
-        "scp",
-        "spatial",
-        "teleportation",
-        "vehicle",
-        "veil-upon-veil"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Civil Western",
-        "Ethagon"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8826",
-      "title": "SCP-8826",
-      "alternateTitle": "Birthday Paradox",
-      "rating": 18,
-      "createdAt": "2025-07-22T16:59:36.000Z",
-      "tags": [
-        "concept",
+        "building",
         "esoteric-class",
-        "mathematical",
-        "phenomenon",
-        "probability",
-        "scp",
-        "uncontained"
+        "humanoid",
+        "international",
+        "mages-academy",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/German_Mansion%2C_ca._1919.jpg",
       "authors": [
-        "Carbophile"
+        "ThePaperMask",
+        "ThePaperMask"
       ]
     }
   ]

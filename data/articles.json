@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T00:37:52.631Z",
+  "updatedAt": "2026-08-16T08:15:35.890Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-222-th-j",
-      "title": "SCP-222-TH-J",
-      "alternateTitle": "The Troll Cat The Genius Hacker Cat",
-      "rating": 17,
-      "createdAt": "2018-11-09T13:35:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8920",
+      "title": "SCP-8920",
+      "alternateTitle": "Predatory Hurricanes",
+      "rating": 23,
+      "createdAt": "2024-10-11T11:55:03.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "feline",
-        "international",
-        "joke",
-        "rewrite",
-        "safe",
-        "sapient",
+        "auditory",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "keter",
+        "meteorological",
+        "scp",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8920/Katrina/medium.jpg",
+      "authors": [
+        "AgathyrsiVril"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8527",
+      "title": "SCP-8527",
+      "alternateTitle": "Ashes of Asbest",
+      "rating": 8,
+      "createdAt": "2025-09-22T05:13:42.000Z",
+      "tags": [
+        "euclid",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Xu weil geena",
-        "DrSSS",
-        "Bonneneige"
+        "Foolish Bird Dodo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5183",
-      "title": "SCP-5183",
-      "alternateTitle": "Under the Surface",
-      "rating": 17,
-      "createdAt": "2020-08-16T22:45:26.000Z",
-      "tags": [
-        "cognitohazard",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
-        "safe",
-        "scp",
-        "sensory",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Flopmind"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-248-de",
-      "title": "SCP-248-DE",
-      "alternateTitle": "Omni fork",
-      "rating": 11,
-      "createdAt": "2022-09-29T15:19:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
+      "title": "SCP-400-ARC",
+      "alternateTitle": "A Telephone Box",
+      "rating": 22,
+      "createdAt": "2008-07-30T20:28:40.000Z",
       "tags": [
         "appliance",
-        "international",
-        "safe",
-        "scp",
-        "tool"
+        "archived",
+        "auditory",
+        "euclid",
+        "knowledge",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Balthuris",
-        "Karpfisch"
+        "DrTVague"
       ]
     }
   ]

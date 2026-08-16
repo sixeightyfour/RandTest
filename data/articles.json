@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:15:35.890Z",
+  "updatedAt": "2026-08-16T16:11:59.229Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8920",
-      "title": "SCP-8920",
-      "alternateTitle": "Predatory Hurricanes",
-      "rating": 23,
-      "createdAt": "2024-10-11T11:55:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1500-ko",
+      "title": "SCP-1500-KO",
+      "alternateTitle": "Fault",
+      "rating": 16,
+      "createdAt": "2022-12-21T23:32:01.000Z",
       "tags": [
-        "auditory",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "keter",
+        "archon",
+        "biohazard",
+        "biological",
+        "international",
+        "loop",
         "meteorological",
+        "reproductive",
         "scp",
+        "sexual",
         "uncontained",
-        "visual"
+        "worm"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8920/Katrina/medium.jpg",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1500-ko/boom",
       "authors": [
-        "AgathyrsiVril"
+        "dmddo",
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8527",
-      "title": "SCP-8527",
-      "alternateTitle": "Ashes of Asbest",
-      "rating": 8,
-      "createdAt": "2025-09-22T05:13:42.000Z",
-      "tags": [
-        "euclid",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Foolish Bird Dodo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
-      "title": "SCP-400-ARC",
-      "alternateTitle": "A Telephone Box",
+      "url": "http://scp-wiki.wikidot.com/scp-8193",
+      "title": "SCP-8193",
+      "alternateTitle": "As the Bombs Began to Fall",
       "rating": 22,
-      "createdAt": "2008-07-30T20:28:40.000Z",
+      "createdAt": "2024-07-26T10:03:16.000Z",
       "tags": [
-        "appliance",
-        "archived",
-        "auditory",
-        "euclid",
-        "knowledge",
+        "child",
+        "humanoid",
+        "safe",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrTVague"
+        "Edmund Davids"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7322",
+      "title": "SCP-7322",
+      "alternateTitle": "Rejection",
+      "rating": 14,
+      "createdAt": "2025-02-27T22:16:16.000Z",
+      "tags": [
+        "alive",
+        "bleak",
+        "cognitohazard",
+        "euclid",
+        "humanoid",
+        "meta",
+        "reality-bending",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Flopmind"
       ]
     }
   ]

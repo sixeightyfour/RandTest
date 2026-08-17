@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:30:24.447Z",
+  "updatedAt": "2026-08-17T16:14:25.590Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6308",
-      "title": "SCP-6308",
-      "alternateTitle": "Over there, the Sun never sets",
-      "rating": 19,
-      "createdAt": "2022-04-05T05:24:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8370",
+      "title": "SCP-8370",
+      "alternateTitle": "Fangs for That",
+      "rating": 8,
+      "createdAt": "2025-06-03T15:22:05.000Z",
       "tags": [
-        "alive",
-        "antimemetic",
+        "animal",
         "extradimensional",
-        "geological",
-        "historical",
         "humanoid",
-        "location",
-        "portal",
+        "mind-affecting",
+        "probability",
         "safe",
         "sapient",
         "scp",
-        "spatial",
         "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-6308-0/minesCheque.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Zihao Huang"
+        "galaxy1220"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-210-de",
-      "title": "SCP-210-DE",
-      "alternateTitle": "Hatch Banquet",
-      "rating": 5,
-      "createdAt": "2023-10-08T14:44:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9034",
+      "title": "SCP-9034",
+      "alternateTitle": "There's A Man-Shaped Hole in God's Heart",
+      "rating": 12,
+      "createdAt": "2025-09-24T22:27:14.000Z",
       "tags": [
-        "alive",
-        "ambrose-restaurant",
-        "animal",
-        "bird",
-        "crustacean",
+        "7th-occult-war",
+        "9000",
+        "esoteric-class",
+        "extraterrestrial",
+        "humanoid",
+        "mystery",
+        "narrative",
+        "obskura",
+        "period-piece",
+        "sapient",
+        "science-fiction",
+        "scp",
+        "spatial",
+        "time-travel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Mr Mcguffin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
+      "title": "SCP-987-ARC",
+      "alternateTitle": "A Window",
+      "rating": -15,
+      "createdAt": "2008-07-26T15:29:02.000Z",
+      "tags": [
+        "archived",
+        "artifact",
+        "cognitohazard",
         "euclid",
-        "international",
-        "metamorphic",
-        "predatory",
-        "reproductive",
         "scp",
-        "species"
+        "sensory",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7182",
-      "title": "SCP-7182",
-      "alternateTitle": "The Morpheus Field",
-      "rating": 19,
-      "createdAt": "2024-02-27T16:31:17.000Z",
-      "tags": [
-        "keter",
-        "mind-affecting",
-        "oneiroi",
-        "scp",
-        "sleep",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "FreezerMonkey"
+        "Unknown Author"
       ]
     }
   ]

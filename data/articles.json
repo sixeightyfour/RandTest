@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:11:59.229Z",
+  "updatedAt": "2026-08-17T00:36:52.553Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1500-ko",
-      "title": "SCP-1500-KO",
-      "alternateTitle": "Fault",
-      "rating": 16,
-      "createdAt": "2022-12-21T23:32:01.000Z",
-      "tags": [
-        "archon",
-        "biohazard",
-        "biological",
-        "international",
-        "loop",
-        "meteorological",
-        "reproductive",
-        "scp",
-        "sexual",
-        "uncontained",
-        "worm"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1500-ko/boom",
-      "authors": [
-        "dmddo",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8193",
-      "title": "SCP-8193",
-      "alternateTitle": "As the Bombs Began to Fall",
-      "rating": 22,
-      "createdAt": "2024-07-26T10:03:16.000Z",
-      "tags": [
-        "child",
-        "humanoid",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Edmund Davids"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7322",
-      "title": "SCP-7322",
-      "alternateTitle": "Rejection",
-      "rating": 14,
-      "createdAt": "2025-02-27T22:16:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9217",
+      "title": "SCP-9217",
+      "alternateTitle": "MYR Island",
+      "rating": 13,
+      "createdAt": "2026-01-27T04:43:28.000Z",
       "tags": [
         "alive",
-        "bleak",
-        "cognitohazard",
-        "euclid",
+        "dumbcon2026-unofficial",
+        "electronic",
         "humanoid",
-        "meta",
-        "reality-bending",
+        "island",
+        "keter",
         "sapient",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "http://lspr.wikidot.com/local--files/dumbcon/island.jpg",
+      "authors": [
+        "TopDownUnder"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1225-j",
+      "title": "SCP-1225-J",
+      "alternateTitle": "The Holiday Spirit",
+      "rating": 13,
+      "createdAt": "2024-09-25T14:39:34.000Z",
+      "tags": [
+        "christmas",
+        "comedy",
+        "joke",
+        "keter",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Flopmind"
+        "LexiWhatWeGot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8139",
+      "title": "SCP-8139",
+      "alternateTitle": "Benson?",
+      "rating": 8,
+      "createdAt": "2024-11-03T20:50:01.000Z",
+      "tags": [
+        "artifact",
+        "euclid",
+        "fish",
+        "gaseous",
+        "memetic",
+        "mind-affecting",
+        "religious",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Gzilla1954"
       ]
     }
   ]

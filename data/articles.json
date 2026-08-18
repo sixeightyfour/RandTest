@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:22:18.012Z",
+  "updatedAt": "2026-08-18T16:18:29.203Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6786",
-      "title": "SCP-6786",
-      "alternateTitle": "VKTM Presents: Invasive Nature",
-      "rating": 18,
-      "createdAt": "2024-10-17T00:37:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-023-j",
+      "title": "SCP-023-J",
+      "alternateTitle": "Nothing",
+      "rating": 15,
+      "createdAt": "2026-01-25T02:03:26.000Z",
       "tags": [
-        "alive",
-        "cognitohazard",
-        "document",
-        "humanoid",
-        "media",
-        "safe",
-        "sapient",
-        "scp",
-        "vikander-kneed"
+        "comedy",
+        "intangible",
+        "joke",
+        "keter",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6786/VKTM-1.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png",
       "authors": [
-        "Arclund"
+        "Future Elliotto"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-3549",
-      "title": "SCP-CN-3549",
-      "alternateTitle": "Sanguineus Oiran",
-      "rating": 12,
-      "createdAt": "2025-12-23T18:22:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7834",
+      "title": "SCP-7834",
+      "alternateTitle": "The Worms in the Walls",
+      "rating": 2,
+      "createdAt": "2023-07-01T01:17:45.000Z",
       "tags": [
-        "biohazard",
-        "biological",
-        "co-authored",
-        "international",
-        "keter",
-        "plant",
-        "scarlet-king",
+        "animal",
+        "cognitohazard",
+        "hallucination",
+        "in-rewrite",
+        "inscription",
+        "memetic",
+        "memory-affecting",
+        "safe",
         "scp",
-        "thaumaturgy",
-        "virus"
+        "visual",
+        "worm"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7834/SCP-7834.png",
+      "authors": [
+        "InfiniteCosmos"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-126",
+      "title": "SCP-PL-126",
+      "alternateTitle": "The Union of Earth Socialist Republics",
+      "rating": 22,
+      "createdAt": "2020-09-05T14:22:54.000Z",
+      "tags": [
+        "autonomous",
+        "cognitohazard",
+        "extradimensional",
+        "international",
+        "k-class-scenario",
+        "mind-affecting",
+        "planet",
+        "radioactive",
+        "scp",
+        "sculpture",
+        "tactile",
+        "thaumiel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Drwaterbottle",
-        "Roundabout parade",
-        "Rovong"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7414",
-      "title": "SCP-7414",
-      "alternateTitle": "The Legend of Alfhild Lathgertha",
-      "rating": 15,
-      "createdAt": "2024-01-17T06:36:44.000Z",
-      "tags": [
-        "artifact",
-        "hallucination",
-        "historical",
-        "inscription",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
-      "authors": [
-        "Nils Severin"
+        "Dr_Blackpeace",
+        "BlazingPie"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T00:35:59.521Z",
+  "updatedAt": "2026-08-18T08:22:18.012Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
-      "title": "SCP-2014-UA-EX",
-      "alternateTitle": "SCP-2014-RU",
-      "rating": 10,
-      "createdAt": "2022-05-06T18:05:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6786",
+      "title": "SCP-6786",
+      "alternateTitle": "VKTM Presents: Invasive Nature",
+      "rating": 18,
+      "createdAt": "2024-10-17T00:37:20.000Z",
       "tags": [
-        "artifact",
-        "chemical",
-        "euclid",
-        "explained",
-        "historical",
-        "international",
-        "ritual",
-        "scp"
+        "alive",
+        "cognitohazard",
+        "document",
+        "humanoid",
+        "media",
+        "safe",
+        "sapient",
+        "scp",
+        "vikander-kneed"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6786/VKTM-1.png",
       "authors": [
-        "Comrade Xander",
-        "Comrade Xander"
+        "Arclund"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-705-fr",
-      "title": "SCP-705-FR",
-      "alternateTitle": "Icarus Squadron",
-      "rating": 13,
-      "createdAt": "2025-01-30T21:54:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-3549",
+      "title": "SCP-CN-3549",
+      "alternateTitle": "Sanguineus Oiran",
+      "rating": 12,
+      "createdAt": "2025-12-23T18:22:38.000Z",
       "tags": [
-        "euclid",
-        "extraterrestrial",
+        "biohazard",
+        "biological",
+        "co-authored",
         "international",
-        "satellite",
+        "keter",
+        "plant",
+        "scarlet-king",
         "scp",
-        "vehicle"
+        "thaumaturgy",
+        "virus"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Sylvelight",
-        "MasterTman2"
+        "Drwaterbottle",
+        "Roundabout parade",
+        "Rovong"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7690",
-      "title": "SCP-7690",
-      "alternateTitle": "Baby Bones",
-      "rating": 21,
-      "createdAt": "2023-01-16T03:20:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7414",
+      "title": "SCP-7414",
+      "alternateTitle": "The Legend of Alfhild Lathgertha",
+      "rating": 15,
+      "createdAt": "2024-01-17T06:36:44.000Z",
       "tags": [
-        "alive",
-        "cadaver",
-        "humanoid",
-        "keter",
-        "reproductive",
-        "scp",
-        "skeletal",
-        "teleportation"
+        "artifact",
+        "hallucination",
+        "historical",
+        "inscription",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
       "authors": [
-        "MaskedN00B"
+        "Nils Severin"
       ]
     }
   ]

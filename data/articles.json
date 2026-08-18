@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:14:25.590Z",
+  "updatedAt": "2026-08-18T00:35:59.521Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8370",
-      "title": "SCP-8370",
-      "alternateTitle": "Fangs for That",
-      "rating": 8,
-      "createdAt": "2025-06-03T15:22:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
+      "title": "SCP-2014-UA-EX",
+      "alternateTitle": "SCP-2014-RU",
+      "rating": 10,
+      "createdAt": "2022-05-06T18:05:10.000Z",
       "tags": [
-        "animal",
-        "extradimensional",
-        "humanoid",
-        "mind-affecting",
-        "probability",
-        "safe",
-        "sapient",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "galaxy1220"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9034",
-      "title": "SCP-9034",
-      "alternateTitle": "There's A Man-Shaped Hole in God's Heart",
-      "rating": 12,
-      "createdAt": "2025-09-24T22:27:14.000Z",
-      "tags": [
-        "7th-occult-war",
-        "9000",
-        "esoteric-class",
-        "extraterrestrial",
-        "humanoid",
-        "mystery",
-        "narrative",
-        "obskura",
-        "period-piece",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "spatial",
-        "time-travel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Mr Mcguffin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
-      "title": "SCP-987-ARC",
-      "alternateTitle": "A Window",
-      "rating": -15,
-      "createdAt": "2008-07-26T15:29:02.000Z",
-      "tags": [
-        "archived",
         "artifact",
-        "cognitohazard",
+        "chemical",
         "euclid",
+        "explained",
+        "historical",
+        "international",
+        "ritual",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "authors": [
+        "Comrade Xander",
+        "Comrade Xander"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-705-fr",
+      "title": "SCP-705-FR",
+      "alternateTitle": "Icarus Squadron",
+      "rating": 13,
+      "createdAt": "2025-01-30T21:54:07.000Z",
+      "tags": [
+        "euclid",
+        "extraterrestrial",
+        "international",
+        "satellite",
         "scp",
-        "sensory",
-        "visual"
+        "vehicle"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "Sylvelight",
+        "MasterTman2"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7690",
+      "title": "SCP-7690",
+      "alternateTitle": "Baby Bones",
+      "rating": 21,
+      "createdAt": "2023-01-16T03:20:37.000Z",
+      "tags": [
+        "alive",
+        "cadaver",
+        "humanoid",
+        "keter",
+        "reproductive",
+        "scp",
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
+      "authors": [
+        "MaskedN00B"
       ]
     }
   ]

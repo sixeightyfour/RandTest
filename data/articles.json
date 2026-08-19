@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:18:29.203Z",
+  "updatedAt": "2026-08-19T00:36:17.633Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-023-j",
-      "title": "SCP-023-J",
-      "alternateTitle": "Nothing",
-      "rating": 15,
-      "createdAt": "2026-01-25T02:03:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8671",
+      "title": "SCP-8671",
+      "alternateTitle": "Der Eiserne Ritter",
+      "rating": 16,
+      "createdAt": "2025-11-26T10:53:46.000Z",
       "tags": [
-        "comedy",
-        "intangible",
-        "joke",
-        "keter",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png",
-      "authors": [
-        "Future Elliotto"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7834",
-      "title": "SCP-7834",
-      "alternateTitle": "The Worms in the Walls",
-      "rating": 2,
-      "createdAt": "2023-07-01T01:17:45.000Z",
-      "tags": [
-        "animal",
-        "cognitohazard",
-        "hallucination",
-        "in-rewrite",
-        "inscription",
-        "memetic",
-        "memory-affecting",
+        "global-occult-coalition",
+        "gravity",
+        "mechanical",
         "safe",
         "scp",
-        "visual",
-        "worm"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7834/SCP-7834.png",
-      "authors": [
-        "InfiniteCosmos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-126",
-      "title": "SCP-PL-126",
-      "alternateTitle": "The Union of Earth Socialist Republics",
-      "rating": 22,
-      "createdAt": "2020-09-05T14:22:54.000Z",
-      "tags": [
-        "autonomous",
-        "cognitohazard",
-        "extradimensional",
-        "international",
-        "k-class-scenario",
-        "mind-affecting",
-        "planet",
-        "radioactive",
-        "scp",
-        "sculpture",
-        "tactile",
-        "thaumiel"
+        "thaumaturgy",
+        "vehicle",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr_Blackpeace",
-        "BlazingPie"
+        "SimpleRuins"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-227-fr",
+      "title": "SCP-227-FR",
+      "alternateTitle": "Horoscomaton",
+      "rating": 15,
+      "createdAt": "2022-05-07T15:06:29.000Z",
+      "tags": [
+        "autonomous",
+        "compulsion",
+        "international",
+        "mechanical",
+        "predictive",
+        "safe",
+        "sapphire",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "http://fondationscp.wikidot.com/local--files/scp-227-fr/Zodiaque2%281%29.jpg",
+      "authors": [
+        "DrGemini",
+        "Prismal"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8364",
+      "title": "SCP-8364",
+      "alternateTitle": "Hot Dog",
+      "rating": 20,
+      "createdAt": "2025-04-11T13:50:26.000Z",
+      "tags": [
+        "animal",
+        "canine",
+        "corrosive",
+        "ectoentropic",
+        "fire",
+        "keter",
+        "liquid",
+        "metamorphic",
+        "sapient",
+        "scp",
+        "self-repairing"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
+      "authors": [
+        "Booblesnoot"
       ]
     }
   ]

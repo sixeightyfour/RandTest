@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:36:17.633Z",
+  "updatedAt": "2026-08-19T08:23:14.609Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8671",
-      "title": "SCP-8671",
-      "alternateTitle": "Der Eiserne Ritter",
-      "rating": 16,
-      "createdAt": "2025-11-26T10:53:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-100-it",
+      "title": "SCP-100-IT",
+      "alternateTitle": "Carnem Levare",
+      "rating": 24,
+      "createdAt": "2022-09-26T10:12:06.000Z",
       "tags": [
-        "global-occult-coalition",
-        "gravity",
-        "mechanical",
+        "historical",
+        "hostile",
+        "humanoid",
+        "international",
+        "keter",
+        "sapient",
+        "sarkic",
+        "scp",
+        "spatial",
+        "temporal",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-100-it/SCP-000-IT-C.png",
+      "authors": [
+        "Dr Zeno",
+        "Dr Zeno",
+        "Ichne-Bebop"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5823",
+      "title": "SCP-5823",
+      "alternateTitle": "Conservatives and Coal Mines",
+      "rating": 18,
+      "createdAt": "2021-12-17T22:47:36.000Z",
+      "tags": [
+        "biological",
+        "british-occult-service",
+        "humanoid",
         "safe",
         "scp",
-        "thaumaturgy",
-        "vehicle",
-        "weapon"
+        "self-repairing",
+        "structure",
+        "subterranean"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SimpleRuins"
+        "LightlessLantern"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-227-fr",
-      "title": "SCP-227-FR",
-      "alternateTitle": "Horoscomaton",
-      "rating": 15,
-      "createdAt": "2022-05-07T15:06:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2626-jp",
+      "title": "SCP-2626-JP (SCP-262-IE)",
+      "alternateTitle": "(SCP-262-IE) - Casadh an tSúgáin",
+      "rating": 13,
+      "createdAt": "2022-06-12T01:52:18.000Z",
       "tags": [
-        "autonomous",
-        "compulsion",
         "international",
-        "mechanical",
-        "predictive",
-        "safe",
-        "sapphire",
+        "joicl",
+        "media",
+        "memory-affecting",
+        "observational",
         "scp",
-        "transfiguration"
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://fondationscp.wikidot.com/local--files/scp-227-fr/Zodiaque2%281%29.jpg",
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-2626-jp/Casadh_an_tSugain.jpg",
       "authors": [
-        "DrGemini",
-        "Prismal"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8364",
-      "title": "SCP-8364",
-      "alternateTitle": "Hot Dog",
-      "rating": 20,
-      "createdAt": "2025-04-11T13:50:26.000Z",
-      "tags": [
-        "animal",
-        "canine",
-        "corrosive",
-        "ectoentropic",
-        "fire",
-        "keter",
-        "liquid",
-        "metamorphic",
-        "sapient",
-        "scp",
-        "self-repairing"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8364/SCP-8364.jpg",
-      "authors": [
-        "Booblesnoot"
+        "BenjaminChong",
+        "tetsusquared"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:24:21.072Z",
+  "updatedAt": "2026-08-20T16:21:30.663Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,86 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8234",
-      "title": "SCP-8234",
-      "alternateTitle": "Flame Aflame",
-      "rating": 7,
-      "createdAt": "2025-05-23T14:57:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6923",
+      "title": "SCP-6923",
+      "alternateTitle": "Jonah and the W̶h̶a̶l̶e̶ Finnfolk",
+      "rating": 24,
+      "createdAt": "2024-12-30T22:26:53.000Z",
       "tags": [
-        "amorphous",
-        "extradimensional",
-        "fire",
-        "intangible",
-        "keter",
-        "predatory",
+        "art-exchange",
+        "euclid",
+        "finnfolk",
+        "fish",
+        "humanoid",
+        "illustrated",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6923/mitherarsteinn.png",
       "authors": [
-        "Savanac"
+        "Deadcanons"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7237",
-      "title": "SCP-7237",
-      "alternateTitle": "An 8-Centimeter Ball Bearing",
-      "rating": 8,
-      "createdAt": "2024-07-19T23:15:03.000Z",
-      "tags": [
-        "artifact",
-        "auditory",
-        "chemical",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "mechanical",
-        "safe",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Pinoccappuccino"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8198",
-      "title": "SCP-8198",
-      "alternateTitle": "The Death of Sleep",
+      "url": "http://scp-wiki.wikidot.com/scp-9808",
+      "title": "SCP-9808",
+      "alternateTitle": "Peace Everlasting",
       "rating": 24,
-      "createdAt": "2025-05-10T17:11:08.000Z",
+      "createdAt": "2025-10-03T21:49:11.000Z",
       "tags": [
+        "9000",
+        "alive",
         "apocalyptic",
-        "apollyon",
-        "bleak",
-        "cosmic-horror",
-        "dream",
-        "horror",
+        "asci",
+        "bittersweet",
+        "compulsion",
+        "historical",
+        "indestructible",
+        "kindness",
+        "mind-affecting",
+        "neurological",
+        "otherworldly",
+        "phenomenon",
+        "plant",
+        "post-apocalyptic",
+        "probability",
+        "safe",
+        "science-fiction",
         "scp",
-        "sleep"
+        "temporal",
+        "tree"
       ],
-      "thumbnailUrl": "https://imgur.com/VOvw2Ub.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9808/longimage.png",
       "authors": [
-        "DrAlexeiKnight"
+        "Tape 5# 1987"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8024",
+      "title": "SCP-8024",
+      "alternateTitle": "Typhon",
+      "rating": 24,
+      "createdAt": "2024-02-19T04:07:20.000Z",
+      "tags": [
+        "8000",
+        "concept",
+        "deity",
+        "electromagnetic",
+        "extradimensional",
+        "fire",
+        "geological",
+        "historical",
+        "hostile",
+        "humanoid",
+        "intangible",
+        "keter",
+        "reality-bending",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg",
+      "authors": [
+        "Baronjoe"
       ]
     }
   ]

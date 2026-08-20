@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:18:14.369Z",
+  "updatedAt": "2026-08-20T00:36:14.537Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7428",
-      "title": "SCP-7428",
-      "alternateTitle": "The Cage",
+      "url": "http://scp-wiki.wikidot.com/scp-9737",
+      "title": "SCP-9737",
+      "alternateTitle": "Unlikely",
       "rating": 14,
-      "createdAt": "2025-04-17T23:01:17.000Z",
+      "createdAt": "2026-01-29T14:52:46.000Z",
       "tags": [
-        "broken-god",
-        "extraterrestrial",
-        "keter",
-        "scp",
-        "spatial",
-        "structure",
-        "transmission",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nocturned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8497",
-      "title": "SCP-8497",
-      "alternateTitle": "The Foundation Management System",
-      "rating": 7,
-      "createdAt": "2025-08-20T14:07:36.000Z",
-      "tags": [
-        "bureaucracy",
-        "document",
-        "esoteric-class",
-        "media",
-        "predictive",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "AnomalousOracle"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-494-arc",
-      "title": "SCP-494-ARC",
-      "alternateTitle": "Communication Torus",
-      "rating": 6,
-      "createdAt": "2010-03-25T19:56:18.000Z",
-      "tags": [
-        "airborne",
-        "archived",
-        "autonomous",
-        "ectoentropic",
+        "adaptive",
+        "alive",
         "euclid",
-        "light",
-        "liquid",
-        "safe",
+        "knowledge",
+        "probability",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "HedgehogInATree"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8207",
+      "title": "SCP-8207",
+      "alternateTitle": "The Mysteries of Sister Lúcia",
+      "rating": 15,
+      "createdAt": "2025-05-24T07:01:43.000Z",
+      "tags": [
+        "historical",
+        "intcanoncon2025",
+        "keter",
+        "mystery",
+        "political",
+        "religious",
+        "religious-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "CinematicDoctor"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7347",
+      "title": "SCP-7347",
+      "alternateTitle": "A Jump in the Wrong Dimension",
+      "rating": 15,
+      "createdAt": "2023-09-04T00:54:01.000Z",
+      "tags": [
+        "city",
+        "extraterrestrial",
+        "raisa",
+        "remixcon2023",
+        "satellite",
+        "scp",
+        "subterranean",
+        "temporal",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
+      "authors": [
+        "Dr Moned"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T00:36:14.537Z",
+  "updatedAt": "2026-08-20T08:24:21.072Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9737",
-      "title": "SCP-9737",
-      "alternateTitle": "Unlikely",
-      "rating": 14,
-      "createdAt": "2026-01-29T14:52:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8234",
+      "title": "SCP-8234",
+      "alternateTitle": "Flame Aflame",
+      "rating": 7,
+      "createdAt": "2025-05-23T14:57:20.000Z",
       "tags": [
-        "adaptive",
-        "alive",
-        "euclid",
-        "knowledge",
-        "probability",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "HedgehogInATree"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8207",
-      "title": "SCP-8207",
-      "alternateTitle": "The Mysteries of Sister Lúcia",
-      "rating": 15,
-      "createdAt": "2025-05-24T07:01:43.000Z",
-      "tags": [
-        "historical",
-        "intcanoncon2025",
+        "amorphous",
+        "extradimensional",
+        "fire",
+        "intangible",
         "keter",
-        "mystery",
-        "political",
-        "religious",
-        "religious-fiction",
+        "predatory",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "CinematicDoctor"
+        "Savanac"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7347",
-      "title": "SCP-7347",
-      "alternateTitle": "A Jump in the Wrong Dimension",
-      "rating": 15,
-      "createdAt": "2023-09-04T00:54:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7237",
+      "title": "SCP-7237",
+      "alternateTitle": "An 8-Centimeter Ball Bearing",
+      "rating": 8,
+      "createdAt": "2024-07-19T23:15:03.000Z",
       "tags": [
-        "city",
-        "extraterrestrial",
-        "raisa",
-        "remixcon2023",
-        "satellite",
+        "artifact",
+        "auditory",
+        "chemical",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "mechanical",
+        "safe",
         "scp",
-        "subterranean",
-        "temporal",
-        "thaumiel"
+        "visual"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr Moned"
+        "Pinoccappuccino"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8198",
+      "title": "SCP-8198",
+      "alternateTitle": "The Death of Sleep",
+      "rating": 24,
+      "createdAt": "2025-05-10T17:11:08.000Z",
+      "tags": [
+        "apocalyptic",
+        "apollyon",
+        "bleak",
+        "cosmic-horror",
+        "dream",
+        "horror",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "https://imgur.com/VOvw2Ub.png",
+      "authors": [
+        "DrAlexeiKnight"
       ]
     }
   ]

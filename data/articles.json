@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:26:16.410Z",
+  "updatedAt": "2026-08-21T16:19:25.755Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5342",
-      "title": "SCP-5342",
-      "alternateTitle": "Midsomer Murders",
-      "rating": 18,
-      "createdAt": "2022-03-05T19:46:49.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8103",
+      "title": "SCP-8103",
+      "alternateTitle": "Dragostea Din Tei",
+      "rating": 0,
+      "createdAt": "2025-02-12T18:26:50.000Z",
       "tags": [
-        "city",
-        "extradimensional",
-        "historical",
-        "keter",
+        "alive",
+        "cognitohazard",
+        "empathic",
+        "esoteric-class",
+        "mind-affecting",
+        "plant",
         "scp",
-        "uncontained"
+        "tactile"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/brunzell2/harold.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8103/linden.jpg",
       "authors": [
-        "Nils Severin"
+        "AlienSpaceBat"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7347",
-      "title": "SCP-7347",
-      "alternateTitle": "A Jump in the Wrong Dimension",
-      "rating": 15,
-      "createdAt": "2023-09-04T00:54:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7768",
+      "title": "SCP-7768",
+      "alternateTitle": "The House's Once Beating Heart",
+      "rating": 12,
+      "createdAt": "2025-02-10T23:49:48.000Z",
       "tags": [
-        "city",
-        "extraterrestrial",
-        "raisa",
-        "remixcon2023",
-        "satellite",
-        "scp",
-        "subterranean",
-        "temporal",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
-      "authors": [
-        "Dr Moned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4551",
-      "title": "SCP-4551",
-      "alternateTitle": "Bell for a Funeral…",
-      "rating": 20,
-      "createdAt": "2019-05-27T00:55:02.000Z",
-      "tags": [
-        "acoustic",
-        "artifact",
-        "hallucination",
-        "historical",
-        "inscription",
-        "memory-affecting",
-        "religious",
-        "ritual",
+        "alive",
+        "building",
+        "empathic",
+        "humanoid",
         "safe",
-        "scp"
+        "sapient",
+        "scp",
+        "spatial",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4551/20190926_154116.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Amelia Wright"
+        "bestiaryEcosys"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7431",
+      "title": "SCP-7431",
+      "alternateTitle": "Wonderland",
+      "rating": 24,
+      "createdAt": "2023-12-04T12:34:57.000Z",
+      "tags": [
+        "euclid",
+        "extradimensional",
+        "fire",
+        "hostile",
+        "humanoid",
+        "mind-affecting",
+        "ritual",
+        "scp",
+        "self-repairing",
+        "sleep",
+        "temporal",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7431/ben.jpeg/medium.jpg",
+      "authors": [
+        "CrimsonFripp"
       ]
     }
   ]

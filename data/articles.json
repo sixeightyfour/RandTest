@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T00:36:44.057Z",
+  "updatedAt": "2026-08-22T08:16:39.694Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9985",
-      "title": "SCP-9985",
-      "alternateTitle": "StallOS",
-      "rating": 10,
-      "createdAt": "2026-01-23T19:11:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6268",
+      "title": "SCP-6268",
+      "alternateTitle": "Commission",
+      "rating": 6,
+      "createdAt": "2022-05-08T19:22:40.000Z",
       "tags": [
-        "cognitohazard",
-        "computer",
-        "electronic",
-        "reality-bending",
-        "safe",
+        "cadaver",
+        "humanoid",
+        "metamorphic",
+        "neutralized",
+        "sapient",
         "scp",
-        "visual"
+        "toxic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TheHindSight"
+        "cold_Nights"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8259",
-      "title": "SCP-8259",
-      "alternateTitle": "The Afanc",
-      "rating": 12,
-      "createdAt": "2025-12-06T10:13:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4253",
+      "title": "SCP-4253",
+      "alternateTitle": "The Drowned",
+      "rating": 10,
+      "createdAt": "2019-03-01T19:23:33.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "aquatic",
-        "black-comedy",
-        "chaos-on-the-monolith",
-        "comedy",
-        "euclid",
-        "folklore-dept",
-        "from-120s-archives",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
-      "authors": [
-        "vilsolad"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7387",
-      "title": "SCP-7387",
-      "alternateTitle": "Dookie",
-      "rating": 22,
-      "createdAt": "2023-11-10T17:25:30.000Z",
-      "tags": [
-        "acoustic",
-        "auditory",
-        "mind-affecting",
-        "musical",
+        "clothing",
+        "ectoentropic",
+        "humanoid",
+        "jewelry",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "IcarusEMBR"
+        "Dr Hallows"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6657",
+      "title": "SCP-6657",
+      "alternateTitle": "Photonic Crystals",
+      "rating": 11,
+      "createdAt": "2024-05-22T12:59:57.000Z",
+      "tags": [
+        "electromagnetic",
+        "light",
+        "radioactive",
+        "safe",
+        "scp",
+        "tool",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
+      "authors": [
+        "Dr Talcite"
       ]
     }
   ]

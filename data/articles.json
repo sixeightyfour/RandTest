@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:19:25.755Z",
+  "updatedAt": "2026-08-22T00:36:44.057Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8103",
-      "title": "SCP-8103",
-      "alternateTitle": "Dragostea Din Tei",
-      "rating": 0,
-      "createdAt": "2025-02-12T18:26:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9985",
+      "title": "SCP-9985",
+      "alternateTitle": "StallOS",
+      "rating": 10,
+      "createdAt": "2026-01-23T19:11:07.000Z",
       "tags": [
-        "alive",
         "cognitohazard",
-        "empathic",
-        "esoteric-class",
-        "mind-affecting",
-        "plant",
-        "scp",
-        "tactile"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8103/linden.jpg",
-      "authors": [
-        "AlienSpaceBat"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7768",
-      "title": "SCP-7768",
-      "alternateTitle": "The House's Once Beating Heart",
-      "rating": 12,
-      "createdAt": "2025-02-10T23:49:48.000Z",
-      "tags": [
-        "alive",
-        "building",
-        "empathic",
-        "humanoid",
+        "computer",
+        "electronic",
+        "reality-bending",
         "safe",
-        "sapient",
         "scp",
-        "spatial",
-        "transfiguration"
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "bestiaryEcosys"
+        "TheHindSight"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7431",
-      "title": "SCP-7431",
-      "alternateTitle": "Wonderland",
-      "rating": 24,
-      "createdAt": "2023-12-04T12:34:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8259",
+      "title": "SCP-8259",
+      "alternateTitle": "The Afanc",
+      "rating": 12,
+      "createdAt": "2025-12-06T10:13:41.000Z",
       "tags": [
+        "alive",
+        "animal",
+        "aquatic",
+        "black-comedy",
+        "chaos-on-the-monolith",
+        "comedy",
         "euclid",
-        "extradimensional",
-        "fire",
-        "hostile",
-        "humanoid",
-        "mind-affecting",
-        "ritual",
-        "scp",
-        "self-repairing",
-        "sleep",
-        "temporal",
-        "uncontained",
-        "visual"
+        "folklore-dept",
+        "from-120s-archives",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7431/ben.jpeg/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
       "authors": [
-        "CrimsonFripp"
+        "vilsolad"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7387",
+      "title": "SCP-7387",
+      "alternateTitle": "Dookie",
+      "rating": 22,
+      "createdAt": "2023-11-10T17:25:30.000Z",
+      "tags": [
+        "acoustic",
+        "auditory",
+        "mind-affecting",
+        "musical",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
+      "authors": [
+        "IcarusEMBR"
       ]
     }
   ]

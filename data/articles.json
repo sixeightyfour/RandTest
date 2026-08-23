@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:39:17.989Z",
+  "updatedAt": "2026-08-23T08:17:44.006Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
-      "title": "SCP-057-PT",
-      "alternateTitle": "The Abandoned Hospital",
-      "rating": 16,
-      "createdAt": "2019-10-20T12:37:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1278-ko",
+      "title": "SCP-1278-KO",
+      "alternateTitle": "Decotile Space",
+      "rating": 6,
+      "createdAt": "2022-12-11T14:52:24.000Z",
       "tags": [
         "building",
-        "humanoid",
         "international",
-        "keter",
-        "medical",
-        "scp",
-        "teleportation",
-        "transfiguration",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Alecx Ward",
-        "slashannemoo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2681",
-      "title": "SCP-2681",
-      "alternateTitle": "Animal Man",
-      "rating": 24,
-      "createdAt": "2025-07-17T19:21:50.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "bleak",
-        "compulsion",
-        "euclid",
-        "humanoid",
-        "rewrite",
-        "sapient",
+        "loop",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1278-ko/%EA%B1%B4%EB%AC%BC",
       "authors": [
-        "Midgard Serpent",
-        "Uncle Nicolini"
+        "DreamCube",
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7859",
-      "title": "SCP-7859",
-      "alternateTitle": "The Death Dealing",
-      "rating": 8,
-      "createdAt": "2025-05-08T17:26:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4072",
+      "title": "SCP-4072",
+      "alternateTitle": "No Hands On Deck",
+      "rating": 20,
+      "createdAt": "2025-10-24T18:31:39.000Z",
       "tags": [
-        "alive",
-        "artifact",
-        "brothers-of-death",
-        "cognitohazard",
-        "esoteric-class",
-        "game",
-        "horror",
-        "humanoid",
-        "indestructible",
-        "psychological-horror",
-        "reality-bending",
-        "sapient",
+        "aquatic",
+        "keter",
         "scp",
-        "visual"
+        "temporal",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4072/boat",
       "authors": [
-        "ShallweYesweshall"
+        "DrApricus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8872",
+      "title": "SCP-8872",
+      "alternateTitle": "Adventures Of Avalon",
+      "rating": 17,
+      "createdAt": "2024-12-10T06:50:55.000Z",
+      "tags": [
+        "action",
+        "adventure",
+        "bittersweet",
+        "computer",
+        "electrical",
+        "electronic",
+        "euclid",
+        "extradimensional",
+        "fantasy",
+        "game",
+        "media",
+        "online",
+        "otherworldly",
+        "portal",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8872/scan.jpg",
+      "authors": [
+        "ThePhantomMan"
       ]
     }
   ]

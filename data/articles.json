@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:17:44.006Z",
+  "updatedAt": "2026-08-23T16:12:34.380Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1278-ko",
-      "title": "SCP-1278-KO",
-      "alternateTitle": "Decotile Space",
-      "rating": 6,
-      "createdAt": "2022-12-11T14:52:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9448",
+      "title": "SCP-9448",
+      "alternateTitle": "Candlelight Vigil",
+      "rating": 7,
+      "createdAt": "2025-12-28T03:04:05.000Z",
       "tags": [
-        "building",
-        "international",
-        "loop",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-1278-ko/%EA%B1%B4%EB%AC%BC",
-      "authors": [
-        "DreamCube",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4072",
-      "title": "SCP-4072",
-      "alternateTitle": "No Hands On Deck",
-      "rating": 20,
-      "createdAt": "2025-10-24T18:31:39.000Z",
-      "tags": [
-        "aquatic",
+        "artifact",
+        "fire",
         "keter",
+        "observational",
+        "olfactory",
+        "religious",
         "scp",
-        "temporal",
-        "vehicle"
+        "sensory"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4072/boat",
+      "thumbnailUrl": "",
       "authors": [
-        "DrApricus"
+        "Leaf_Scout"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8872",
-      "title": "SCP-8872",
-      "alternateTitle": "Adventures Of Avalon",
-      "rating": 17,
-      "createdAt": "2024-12-10T06:50:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8370",
+      "title": "SCP-8370",
+      "alternateTitle": "Fangs for That",
+      "rating": 8,
+      "createdAt": "2025-06-03T15:22:05.000Z",
       "tags": [
-        "action",
-        "adventure",
-        "bittersweet",
-        "computer",
-        "electrical",
-        "electronic",
-        "euclid",
+        "animal",
         "extradimensional",
-        "fantasy",
-        "game",
-        "media",
-        "online",
-        "otherworldly",
-        "portal",
+        "humanoid",
+        "mind-affecting",
+        "probability",
+        "safe",
+        "sapient",
         "scp",
-        "transfiguration"
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8872/scan.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "ThePhantomMan"
+        "galaxy1220"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-067",
+      "title": "SCP-PL-067",
+      "alternateTitle": "The dog that leapt through time",
+      "rating": 22,
+      "createdAt": "2020-08-15T14:32:25.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "canine",
+        "international",
+        "keter",
+        "neutralized",
+        "scp",
+        "spatial",
+        "temporal"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-pl-067/zE38UCh.jpg",
+      "authors": [
+        "JosephSolomon",
+        "BlazingPie"
       ]
     }
   ]

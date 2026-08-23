@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:11:44.891Z",
+  "updatedAt": "2026-08-23T00:39:17.989Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7478",
-      "title": "SCP-7478",
-      "alternateTitle": "Scatter",
-      "rating": 13,
-      "createdAt": "2023-09-28T20:03:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-057-pt",
+      "title": "SCP-057-PT",
+      "alternateTitle": "The Abandoned Hospital",
+      "rating": 16,
+      "createdAt": "2019-10-20T12:37:17.000Z",
       "tags": [
-        "auditory",
         "building",
-        "cognitohazard",
-        "memory-affecting",
-        "olfactory",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-es-072",
-      "title": "SCP-ES-072",
-      "alternateTitle": "Hortus Ishtar",
-      "rating": 10,
-      "createdAt": "2024-11-06T23:36:45.000Z",
-      "tags": [
-        "dinosaur",
-        "euclid",
-        "extraterrestrial",
+        "humanoid",
         "international",
-        "planet",
+        "keter",
+        "medical",
         "scp",
-        "structure"
+        "teleportation",
+        "transfiguration",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-072/dino.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Jacobo Baltimore",
-        "Mechatroniks"
+        "Alecx Ward",
+        "slashannemoo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5892",
-      "title": "SCP-5892",
-      "alternateTitle": "A Loyal Friend Indeed",
-      "rating": 11,
-      "createdAt": "2021-06-05T22:53:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2681",
+      "title": "SCP-2681",
+      "alternateTitle": "Animal Man",
+      "rating": 24,
+      "createdAt": "2025-07-17T19:21:50.000Z",
       "tags": [
         "alive",
         "animal",
-        "artifact",
-        "canine",
-        "photographic",
-        "reality-bending",
-        "safe",
+        "bleak",
+        "compulsion",
+        "euclid",
+        "humanoid",
+        "rewrite",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Harry F"
+        "Midgard Serpent",
+        "Uncle Nicolini"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7859",
+      "title": "SCP-7859",
+      "alternateTitle": "The Death Dealing",
+      "rating": 8,
+      "createdAt": "2025-05-08T17:26:18.000Z",
+      "tags": [
+        "alive",
+        "artifact",
+        "brothers-of-death",
+        "cognitohazard",
+        "esoteric-class",
+        "game",
+        "horror",
+        "humanoid",
+        "indestructible",
+        "psychological-horror",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ShallweYesweshall"
       ]
     }
   ]

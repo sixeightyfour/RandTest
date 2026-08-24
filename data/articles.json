@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T00:37:59.231Z",
+  "updatedAt": "2026-08-24T08:34:56.615Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7665",
-      "title": "SCP-7665",
-      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
-      "rating": 19,
-      "createdAt": "2023-08-25T10:45:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-257-arc",
+      "title": "SCP-257-ARC",
+      "alternateTitle": "Satyr's Skull",
+      "rating": -38,
+      "createdAt": "2008-08-20T03:20:50.000Z",
       "tags": [
-        "appliance",
-        "building",
-        "co-authored",
-        "fantasy",
-        "forest",
-        "horror",
-        "infohazard",
-        "mystery",
-        "nameless",
-        "remixcon2023",
-        "safe",
+        "archived",
+        "humanoid",
+        "keter",
+        "mind-affecting",
+        "neutralized",
+        "scp",
+        "skeletal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrakeRunner"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4604",
+      "title": "SCP-4604",
+      "alternateTitle": "Disillusionment",
+      "rating": 15,
+      "createdAt": "2020-11-28T21:34:39.000Z",
+      "tags": [
+        "cadaver",
+        "euclid",
+        "humanoid",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Civil Western",
-        "Spacestealth"
+        "TL333s"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9566",
-      "title": "SCP-9566",
-      "alternateTitle": "MAN OF SAND",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
+      "title": "SCP-PL-273",
+      "alternateTitle": "The Pepsi Fleet",
       "rating": 21,
-      "createdAt": "2026-02-08T13:05:24.000Z",
+      "createdAt": "2023-06-24T13:25:06.000Z",
       "tags": [
-        "archaeological",
-        "autonomous",
+        "aquatic",
+        "argus",
+        "corporate",
+        "esoteric-class",
+        "from-120s-archives",
+        "gru-division-p",
         "historical",
-        "humanoid",
-        "keter",
-        "religious",
-        "sapient",
+        "international",
+        "marshall-carter-and-dark",
+        "military",
+        "ruprecht-carter",
         "scp",
-        "self-repairing",
-        "thaumaturgy",
-        "thermal"
+        "simon-pietrykau",
+        "uncontained",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
       "authors": [
-        "opersup"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8414",
-      "title": "SCP-8414",
-      "alternateTitle": "Wicket Gate",
-      "rating": 3,
-      "createdAt": "2025-01-19T13:29:29.000Z",
-      "tags": [
-        "building",
-        "euclid",
-        "knowledge",
-        "scp",
-        "tactile",
-        "telepathic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
-      "authors": [
-        "Pomaranczowa Czapka"
+        "Jasiu06",
+        "KubKac"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T16:12:34.380Z",
+  "updatedAt": "2026-08-24T00:37:59.231Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9448",
-      "title": "SCP-9448",
-      "alternateTitle": "Candlelight Vigil",
-      "rating": 7,
-      "createdAt": "2025-12-28T03:04:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7665",
+      "title": "SCP-7665",
+      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
+      "rating": 19,
+      "createdAt": "2023-08-25T10:45:44.000Z",
       "tags": [
-        "artifact",
-        "fire",
-        "keter",
-        "observational",
-        "olfactory",
-        "religious",
-        "scp",
-        "sensory"
+        "appliance",
+        "building",
+        "co-authored",
+        "fantasy",
+        "forest",
+        "horror",
+        "infohazard",
+        "mystery",
+        "nameless",
+        "remixcon2023",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Leaf_Scout"
+        "Civil Western",
+        "Spacestealth"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8370",
-      "title": "SCP-8370",
-      "alternateTitle": "Fangs for That",
-      "rating": 8,
-      "createdAt": "2025-06-03T15:22:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9566",
+      "title": "SCP-9566",
+      "alternateTitle": "MAN OF SAND",
+      "rating": 21,
+      "createdAt": "2026-02-08T13:05:24.000Z",
       "tags": [
-        "animal",
-        "extradimensional",
+        "archaeological",
+        "autonomous",
+        "historical",
         "humanoid",
-        "mind-affecting",
-        "probability",
-        "safe",
+        "keter",
+        "religious",
         "sapient",
         "scp",
-        "temporal"
+        "self-repairing",
+        "thaumaturgy",
+        "thermal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "galaxy1220"
+        "opersup"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-067",
-      "title": "SCP-PL-067",
-      "alternateTitle": "The dog that leapt through time",
-      "rating": 22,
-      "createdAt": "2020-08-15T14:32:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8414",
+      "title": "SCP-8414",
+      "alternateTitle": "Wicket Gate",
+      "rating": 3,
+      "createdAt": "2025-01-19T13:29:29.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "canine",
-        "international",
-        "keter",
-        "neutralized",
+        "building",
+        "euclid",
+        "knowledge",
         "scp",
-        "spatial",
-        "temporal"
+        "tactile",
+        "telepathic"
       ],
-      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-pl-067/zE38UCh.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8414/loungers3.png",
       "authors": [
-        "JosephSolomon",
-        "BlazingPie"
+        "Pomaranczowa Czapka"
       ]
     }
   ]

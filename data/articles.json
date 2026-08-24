@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:34:56.615Z",
+  "updatedAt": "2026-08-24T16:22:51.382Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-257-arc",
-      "title": "SCP-257-ARC",
-      "alternateTitle": "Satyr's Skull",
-      "rating": -38,
-      "createdAt": "2008-08-20T03:20:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
+      "title": "SCP-PL-046",
+      "alternateTitle": "Final Girl",
+      "rating": 20,
+      "createdAt": "2022-07-14T21:10:00.000Z",
       "tags": [
-        "archived",
+        "alive",
+        "co-authored",
+        "euclid",
         "humanoid",
-        "keter",
-        "mind-affecting",
-        "neutralized",
+        "international",
+        "narrative",
+        "parawatch",
+        "s&c-plastics",
+        "sapient",
+        "sarkic",
         "scp",
-        "skeletal"
+        "sexual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
       "authors": [
-        "DrakeRunner"
+        "EvilAngel413",
+        "Zygard"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4604",
-      "title": "SCP-4604",
-      "alternateTitle": "Disillusionment",
+      "url": "http://scp-wiki.wikidot.com/scp-7459",
+      "title": "SCP-7459",
+      "alternateTitle": "A Third Scion To Chase The Sky",
       "rating": 15,
-      "createdAt": "2020-11-28T21:34:39.000Z",
+      "createdAt": "2022-08-31T19:51:42.000Z",
       "tags": [
-        "cadaver",
-        "euclid",
-        "humanoid",
+        "alive",
+        "animal",
+        "canine",
+        "keter",
+        "location",
+        "moon",
+        "sapient",
+        "scp",
+        "sun"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "locomotivefaox"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
+      "title": "SCP-002-DE-J",
+      "alternateTitle": "Moldy Hands",
+      "rating": 4,
+      "createdAt": "2023-04-15T10:09:10.000Z",
+      "tags": [
+        "antimemetic",
+        "biohazard",
+        "food",
+        "fungus",
+        "international",
+        "joke",
+        "keter",
+        "moon",
+        "parasitic",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TL333s"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-273",
-      "title": "SCP-PL-273",
-      "alternateTitle": "The Pepsi Fleet",
-      "rating": 21,
-      "createdAt": "2023-06-24T13:25:06.000Z",
-      "tags": [
-        "aquatic",
-        "argus",
-        "corporate",
-        "esoteric-class",
-        "from-120s-archives",
-        "gru-division-p",
-        "historical",
-        "international",
-        "marshall-carter-and-dark",
-        "military",
-        "ruprecht-carter",
-        "scp",
-        "simon-pietrykau",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-273/Port.jpg",
-      "authors": [
-        "Jasiu06",
-        "KubKac"
+        "Karpfisch",
+        "Karpfisch"
       ]
     }
   ]

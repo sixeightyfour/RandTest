@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:29:28.394Z",
+  "updatedAt": "2026-08-25T16:23:35.923Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -7,6 +7,31 @@
     "count": 3
   },
   "articles": [
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8512",
+      "title": "SCP-8512",
+      "alternateTitle": "Boo, Boo, Choo-Choo",
+      "rating": 17,
+      "createdAt": "2026-01-29T15:53:19.000Z",
+      "tags": [
+        "biological",
+        "broken-god",
+        "euclid",
+        "ghost",
+        "gru-division-p",
+        "mind-affecting",
+        "sapient",
+        "scp",
+        "self-repairing",
+        "telepathic",
+        "the-coldest-war",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8512/PolishTY.jpg",
+      "authors": [
+        "arthcymro"
+      ]
+    },
     {
       "url": "http://scp-wiki.wikidot.com/scp-8864",
       "title": "SCP-8864",
@@ -28,51 +53,24 @@
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6548",
-      "title": "SCP-6548",
-      "alternateTitle": "By the Name of Mine",
-      "rating": 18,
-      "createdAt": "2022-11-09T07:37:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9610",
+      "title": "SCP-9610",
+      "alternateTitle": "Afternolife",
+      "rating": 19,
+      "createdAt": "2025-09-21T06:59:32.000Z",
       "tags": [
-        "antimemetic",
-        "auditory",
-        "esterberg",
-        "homo-sapiens-sidhe",
-        "indestructible",
-        "jewelry",
-        "k-class-scenario",
-        "maria-johnston",
+        "9000",
+        "afterlife",
+        "extradimensional",
+        "fantasy",
+        "ghost",
+        "keter",
         "mind-affecting",
-        "nameless",
-        "ninth-world",
-        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "tingfeng1999"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8434",
-      "title": "SCP-8434",
-      "alternateTitle": "The Aramaic Tablet",
-      "rating": 4,
-      "createdAt": "2025-05-19T07:50:18.000Z",
-      "tags": [
-        "document",
-        "historical",
-        "horror",
-        "language",
-        "mystery",
-        "political",
-        "predictive",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8434/Jedidiah-Morse",
-      "authors": [
-        "CorpsePrincess"
+        "Hufor"
       ]
     }
   ]

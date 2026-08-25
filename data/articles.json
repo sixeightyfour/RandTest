@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:22:51.382Z",
+  "updatedAt": "2026-08-25T08:29:28.394Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-046",
-      "title": "SCP-PL-046",
-      "alternateTitle": "Final Girl",
-      "rating": 20,
-      "createdAt": "2022-07-14T21:10:00.000Z",
-      "tags": [
-        "alive",
-        "co-authored",
-        "euclid",
-        "humanoid",
-        "international",
-        "narrative",
-        "parawatch",
-        "s&c-plastics",
-        "sapient",
-        "sarkic",
-        "scp",
-        "sexual"
-      ],
-      "thumbnailUrl": "http://scp-pl.wdfiles.com/local--files/scp-pl-046/scp-pl-046",
-      "authors": [
-        "EvilAngel413",
-        "Zygard"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7459",
-      "title": "SCP-7459",
-      "alternateTitle": "A Third Scion To Chase The Sky",
-      "rating": 15,
-      "createdAt": "2022-08-31T19:51:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8864",
+      "title": "SCP-8864",
+      "alternateTitle": "Traveling Pigeonhole Principle",
+      "rating": 17,
+      "createdAt": "2025-08-13T03:52:28.000Z",
       "tags": [
         "alive",
         "animal",
-        "canine",
-        "keter",
-        "location",
-        "moon",
-        "sapient",
-        "scp",
-        "sun"
+        "bird",
+        "building",
+        "euclid",
+        "mathematical",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/sasarpillsa/pigeon_tsp.jpg",
       "authors": [
-        "locomotivefaox"
+        "sasarpillsa"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-002-de-j",
-      "title": "SCP-002-DE-J",
-      "alternateTitle": "Moldy Hands",
-      "rating": 4,
-      "createdAt": "2023-04-15T10:09:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6548",
+      "title": "SCP-6548",
+      "alternateTitle": "By the Name of Mine",
+      "rating": 18,
+      "createdAt": "2022-11-09T07:37:42.000Z",
       "tags": [
         "antimemetic",
-        "biohazard",
-        "food",
-        "fungus",
-        "international",
-        "joke",
-        "keter",
-        "moon",
-        "parasitic",
+        "auditory",
+        "esterberg",
+        "homo-sapiens-sidhe",
+        "indestructible",
+        "jewelry",
+        "k-class-scenario",
+        "maria-johnston",
+        "mind-affecting",
+        "nameless",
+        "ninth-world",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch",
-        "Karpfisch"
+        "tingfeng1999"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8434",
+      "title": "SCP-8434",
+      "alternateTitle": "The Aramaic Tablet",
+      "rating": 4,
+      "createdAt": "2025-05-19T07:50:18.000Z",
+      "tags": [
+        "document",
+        "historical",
+        "horror",
+        "language",
+        "mystery",
+        "political",
+        "predictive",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8434/Jedidiah-Morse",
+      "authors": [
+        "CorpsePrincess"
       ]
     }
   ]

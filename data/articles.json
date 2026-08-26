@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:23:35.923Z",
+  "updatedAt": "2026-08-26T00:38:27.980Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8512",
-      "title": "SCP-8512",
-      "alternateTitle": "Boo, Boo, Choo-Choo",
+      "url": "http://scp-wiki.wikidot.com/scp-8070",
+      "title": "SCP-8070",
+      "alternateTitle": "Stereoisomerism",
       "rating": 17,
-      "createdAt": "2026-01-29T15:53:19.000Z",
+      "createdAt": "2024-03-19T03:18:45.000Z",
       "tags": [
-        "biological",
-        "broken-god",
-        "euclid",
-        "ghost",
-        "gru-division-p",
-        "mind-affecting",
-        "sapient",
+        "keter",
+        "phenomenon",
         "scp",
-        "self-repairing",
-        "telepathic",
-        "the-coldest-war",
-        "vehicle"
+        "spatial",
+        "teleportation",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8512/PolishTY.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
       "authors": [
-        "arthcymro"
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8864",
-      "title": "SCP-8864",
-      "alternateTitle": "Traveling Pigeonhole Principle",
-      "rating": 17,
-      "createdAt": "2025-08-13T03:52:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5887",
+      "title": "SCP-5887",
+      "alternateTitle": "Evacuation",
+      "rating": 22,
+      "createdAt": "2021-03-31T13:42:05.000Z",
       "tags": [
         "alive",
-        "animal",
-        "bird",
-        "building",
-        "euclid",
-        "mathematical",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/sasarpillsa/pigeon_tsp.jpg",
-      "authors": [
-        "sasarpillsa"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9610",
-      "title": "SCP-9610",
-      "alternateTitle": "Afternolife",
-      "rating": 19,
-      "createdAt": "2025-09-21T06:59:32.000Z",
-      "tags": [
-        "9000",
-        "afterlife",
+        "electronic",
         "extradimensional",
-        "fantasy",
-        "ghost",
-        "keter",
-        "mind-affecting",
-        "scp"
+        "foundation-made",
+        "hostile",
+        "k-class-scenario",
+        "location",
+        "portal",
+        "radioactive",
+        "reptile",
+        "safe",
+        "scp",
+        "spatial"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Hufor"
+        "Rose the Changeling"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7988",
+      "title": "SCP-7988",
+      "alternateTitle": "Mood/luck displacement factors",
+      "rating": 15,
+      "createdAt": "2022-12-06T14:48:00.000Z",
+      "tags": [
+        "empathic",
+        "esoteric-class",
+        "probability",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "guiness11"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T00:38:27.980Z",
+  "updatedAt": "2026-08-26T08:29:56.806Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8070",
-      "title": "SCP-8070",
-      "alternateTitle": "Stereoisomerism",
-      "rating": 17,
-      "createdAt": "2024-03-19T03:18:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8521",
+      "title": "SCP-8521",
+      "alternateTitle": "The Past is Fully Present",
+      "rating": 6,
+      "createdAt": "2025-07-09T01:18:21.000Z",
       "tags": [
-        "keter",
-        "phenomenon",
-        "scp",
-        "spatial",
-        "teleportation",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5887",
-      "title": "SCP-5887",
-      "alternateTitle": "Evacuation",
-      "rating": 22,
-      "createdAt": "2021-03-31T13:42:05.000Z",
-      "tags": [
-        "alive",
-        "electronic",
-        "extradimensional",
-        "foundation-made",
-        "hostile",
-        "k-class-scenario",
-        "location",
-        "portal",
-        "radioactive",
-        "reptile",
+        "artifact",
+        "classiccon2025",
+        "dream",
+        "horror",
+        "mind-affecting",
+        "neurological",
+        "psychological-horror",
         "safe",
         "scp",
-        "spatial"
+        "sleep"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Rose the Changeling"
+        "LorenZo V"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7988",
-      "title": "SCP-7988",
-      "alternateTitle": "Mood/luck displacement factors",
-      "rating": 15,
-      "createdAt": "2022-12-06T14:48:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7285",
+      "title": "SCP-7285",
+      "alternateTitle": "A simpler time",
+      "rating": 5,
+      "createdAt": "2023-01-20T15:03:37.000Z",
       "tags": [
-        "empathic",
-        "esoteric-class",
-        "probability",
-        "scp",
-        "uncontained"
+        "alive",
+        "humanoid",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "reality-bending",
+        "safe",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
       "authors": [
         "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6340",
+      "title": "SCP-6340",
+      "alternateTitle": "Stubborn Emil",
+      "rating": 7,
+      "createdAt": "2023-08-11T12:01:15.000Z",
+      "tags": [
+        "acoustic",
+        "autonomous",
+        "euclid",
+        "sapient",
+        "scp",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6340/SCP-6340.jpg",
+      "authors": [
+        "DL_Baryonyx"
       ]
     }
   ]

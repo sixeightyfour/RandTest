@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:40:50.755Z",
+  "updatedAt": "2026-08-27T05:38:38.906Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4666-j",
-      "title": "SCP-4666-J",
-      "alternateTitle": "The Happy Fun Christmas Man!",
-      "rating": 24,
-      "createdAt": "2024-04-10T16:21:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-248-de",
+      "title": "SCP-248-DE",
+      "alternateTitle": "Omni fork",
+      "rating": 11,
+      "createdAt": "2022-09-29T15:19:01.000Z",
       "tags": [
-        "christmas",
-        "comedy",
-        "esoteric-class",
-        "joke",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "JamesPond008"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8864",
-      "title": "SCP-8864",
-      "alternateTitle": "Traveling Pigeonhole Principle",
-      "rating": 17,
-      "createdAt": "2025-08-13T03:52:28.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "bird",
-        "building",
-        "euclid",
-        "mathematical",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/sasarpillsa/pigeon_tsp.jpg",
-      "authors": [
-        "sasarpillsa"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8374",
-      "title": "SCP-8374",
-      "alternateTitle": "Perfection Changes You",
-      "rating": 12,
-      "createdAt": "2025-08-10T20:20:00.000Z",
-      "tags": [
-        "body-horror",
-        "document",
-        "horror",
-        "mind-affecting",
-        "religious",
-        "religious-fiction",
+        "appliance",
+        "international",
         "safe",
         "scp",
-        "transfiguration"
+        "tool"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fernlom"
+        "Balthuris",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9150",
+      "title": "SCP-9150",
+      "alternateTitle": "Worn Away",
+      "rating": 9,
+      "createdAt": "2025-10-02T12:40:18.000Z",
+      "tags": [
+        "9000",
+        "esoteric-class",
+        "horror",
+        "memory-affecting",
+        "mystery",
+        "phenomenon",
+        "psychological-horror",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9150/Pharmacology.png",
+      "authors": [
+        "ZeekyBoogyDoog"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-821-ko",
+      "title": "SCP-821-KO",
+      "alternateTitle": "Cutternion",
+      "rating": 12,
+      "createdAt": "2024-01-08T15:51:58.000Z",
+      "tags": [
+        "concept",
+        "international",
+        "mathematical",
+        "safe",
+        "scp",
+        "tool"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-821-ko/a.JPG",
+      "authors": [
+        "Bangja",
+        "fluxman"
       ]
     }
   ]

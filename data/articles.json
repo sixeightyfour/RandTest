@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:46:54.832Z",
+  "updatedAt": "2026-08-28T19:45:09.948Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8431",
-      "title": "SCP-8431",
-      "alternateTitle": "The End Of May",
-      "rating": 15,
-      "createdAt": "2026-01-25T14:36:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7989",
+      "title": "SCP-7989",
+      "alternateTitle": "Enjoy Yourself, You’ve Earned It",
+      "rating": 11,
+      "createdAt": "2021-10-31T17:52:44.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "canine",
-        "computer",
-        "electronic",
-        "noosphere",
-        "pending",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "HedgehogInATree"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-078",
-      "title": "SCP-PL-078",
-      "alternateTitle": "Earrings of Instant Meetup",
-      "rating": 20,
-      "createdAt": "2018-10-16T06:15:44.000Z",
-      "tags": [
-        "artifact",
-        "international",
+        "ectoentropic",
+        "esoteric-class",
+        "nightmarefest",
+        "rewritable",
         "safe",
         "scp",
-        "teleportation"
+        "the-administrator",
+        "tool"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7989/kill-agent.jpg",
       "authors": [
-        "ZeroStrider",
-        "ZeroStrider"
+        "Jack Waltz"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8156",
-      "title": "SCP-8156",
-      "alternateTitle": "We All Go Down to Deep Sea",
-      "rating": 17,
-      "createdAt": "2024-03-11T21:00:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-561-fr",
+      "title": "SCP-561-FR",
+      "alternateTitle": "Xanax from the Past",
+      "rating": 13,
+      "createdAt": "2022-10-29T02:17:13.000Z",
       "tags": [
-        "animal",
-        "aquatic",
-        "equine",
-        "fish",
-        "historical",
-        "humanoid",
+        "abnormalities",
+        "acoustic",
+        "antimemetic",
+        "euclid",
+        "foundation-made",
+        "insect",
+        "international",
+        "scp"
+      ],
+      "thumbnailUrl": "http://fondationscp.wdfiles.com/local--files/scp-561-fr/pill.png",
+      "authors": [
+        "Cauchynambour",
+        "Cauchynambour"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
+      "title": "SCP-703-KO",
+      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
+      "rating": 14,
+      "createdAt": "2024-05-16T09:52:57.000Z",
+      "tags": [
+        "document",
+        "infohazard",
+        "international",
         "keter",
-        "military",
-        "reanimation",
-        "sapient",
+        "narrative",
         "scp",
-        "shark",
-        "transfiguration",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Pinoccappuccino"
+        "Kaestine",
+        "fluxman"
       ]
     }
   ]

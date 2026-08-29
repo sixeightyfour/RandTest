@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T04:42:51.414Z",
+  "updatedAt": "2026-08-29T13:27:39.106Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8794",
-      "title": "SCP-8794",
-      "alternateTitle": "Monster Of The Week",
-      "rating": 14,
-      "createdAt": "2024-11-23T21:14:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9984",
+      "title": "SCP-9984",
+      "alternateTitle": "Containment Protocol",
+      "rating": 15,
+      "createdAt": "2026-01-06T21:42:37.000Z",
       "tags": [
         "alive",
-        "building",
-        "forest",
-        "humanoid",
-        "keter",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "self-repairing"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8794/haus.jpg",
-      "authors": [
-        "The Awesomest Man"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8857",
-      "title": "SCP-8857",
-      "alternateTitle": "Sinus Problems",
-      "rating": 10,
-      "createdAt": "2025-07-30T12:47:06.000Z",
-      "tags": [
-        "arthropod",
+        "bleak",
+        "bureaucracy",
+        "chaos-insurgency",
         "euclid",
-        "parasitic",
-        "reproductive",
-        "scp",
-        "species",
-        "toxic"
+        "horror",
+        "humanoid",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Zale13"
+        "demolitionderpy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-560-fr",
-      "title": "SCP-560-FR",
-      "alternateTitle": "Pachydermonimbus",
-      "rating": 12,
-      "createdAt": "2025-07-01T02:08:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9027",
+      "title": "SCP-9027",
+      "alternateTitle": "The Beginning Of The End",
+      "rating": 13,
+      "createdAt": "2025-09-26T12:27:53.000Z",
       "tags": [
-        "airborne",
-        "animal",
-        "cadaver",
-        "esoteric-class",
-        "international",
-        "meteorological",
-        "scp",
-        "vibration"
+        "9000",
+        "apocalyptic",
+        "bleak",
+        "cognitohazard",
+        "keter",
+        "memetic",
+        "mind-affecting",
+        "mystery",
+        "phenomenon",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Benji",
-        "MasterTman2"
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4276",
+      "title": "SCP-4276",
+      "alternateTitle": "Breathe Thy Devastation",
+      "rating": 21,
+      "createdAt": "2023-05-25T06:50:01.000Z",
+      "tags": [
+        "esoteric-class",
+        "mind-affecting",
+        "reanimation",
+        "scp",
+        "structure",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
+      "authors": [
+        "Roufhous"
       ]
     }
   ]

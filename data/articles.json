@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T19:45:09.948Z",
+  "updatedAt": "2026-08-29T04:42:51.414Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7989",
-      "title": "SCP-7989",
-      "alternateTitle": "Enjoy Yourself, You’ve Earned It",
-      "rating": 11,
-      "createdAt": "2021-10-31T17:52:44.000Z",
-      "tags": [
-        "ectoentropic",
-        "esoteric-class",
-        "nightmarefest",
-        "rewritable",
-        "safe",
-        "scp",
-        "the-administrator",
-        "tool"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7989/kill-agent.jpg",
-      "authors": [
-        "Jack Waltz"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-561-fr",
-      "title": "SCP-561-FR",
-      "alternateTitle": "Xanax from the Past",
-      "rating": 13,
-      "createdAt": "2022-10-29T02:17:13.000Z",
-      "tags": [
-        "abnormalities",
-        "acoustic",
-        "antimemetic",
-        "euclid",
-        "foundation-made",
-        "insect",
-        "international",
-        "scp"
-      ],
-      "thumbnailUrl": "http://fondationscp.wdfiles.com/local--files/scp-561-fr/pill.png",
-      "authors": [
-        "Cauchynambour",
-        "Cauchynambour"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
-      "title": "SCP-703-KO",
-      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
+      "url": "http://scp-wiki.wikidot.com/scp-8794",
+      "title": "SCP-8794",
+      "alternateTitle": "Monster Of The Week",
       "rating": 14,
-      "createdAt": "2024-05-16T09:52:57.000Z",
+      "createdAt": "2024-11-23T21:14:56.000Z",
       "tags": [
-        "document",
-        "infohazard",
-        "international",
+        "alive",
+        "building",
+        "forest",
+        "humanoid",
         "keter",
-        "narrative",
+        "reality-bending",
+        "sapient",
         "scp",
-        "uncontained"
+        "self-repairing"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8794/haus.jpg",
+      "authors": [
+        "The Awesomest Man"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8857",
+      "title": "SCP-8857",
+      "alternateTitle": "Sinus Problems",
+      "rating": 10,
+      "createdAt": "2025-07-30T12:47:06.000Z",
+      "tags": [
+        "arthropod",
+        "euclid",
+        "parasitic",
+        "reproductive",
+        "scp",
+        "species",
+        "toxic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaestine",
-        "fluxman"
+        "Zale13"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-560-fr",
+      "title": "SCP-560-FR",
+      "alternateTitle": "Pachydermonimbus",
+      "rating": 12,
+      "createdAt": "2025-07-01T02:08:07.000Z",
+      "tags": [
+        "airborne",
+        "animal",
+        "cadaver",
+        "esoteric-class",
+        "international",
+        "meteorological",
+        "scp",
+        "vibration"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Dr Benji",
+        "MasterTman2"
       ]
     }
   ]

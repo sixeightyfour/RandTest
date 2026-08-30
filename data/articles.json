@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T18:59:21.846Z",
+  "updatedAt": "2026-08-30T02:17:14.144Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8394",
-      "title": "SCP-8394",
-      "alternateTitle": "Depends On Your Origin",
-      "rating": 16,
-      "createdAt": "2025-05-26T05:47:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9138",
+      "title": "SCP-9138",
+      "alternateTitle": "The Manner of Fishes",
+      "rating": 17,
+      "createdAt": "2026-01-04T00:28:34.000Z",
       "tags": [
+        "afterlife",
+        "alien",
+        "empathic",
         "euclid",
-        "humanoid",
-        "intcanoncon2025",
-        "interactive",
-        "marshall-carter-and-dark",
-        "reality-bending",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Truckdriver.jpg",
-      "authors": [
-        "Shirley Sterling"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
-      "title": "SCP-PL-393",
-      "alternateTitle": "Evidence of the Moon's Presence",
-      "rating": 11,
-      "createdAt": "2023-10-05T17:19:57.000Z",
-      "tags": [
-        "ad-astra",
-        "artistic",
-        "international",
-        "keter",
-        "mind-affecting",
-        "moon",
-        "observational",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
-      "authors": [
-        "KubKac",
-        "KubKac"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3822",
-      "title": "SCP-3822",
-      "alternateTitle": "Everywhere Yet Nowhere",
-      "rating": 18,
-      "createdAt": "2022-12-28T19:58:43.000Z",
-      "tags": [
-        "ad-astra",
-        "art-exchange",
-        "ectoentropic",
-        "esoteric-class",
         "extraterrestrial",
+        "phenomenon",
+        "religious",
+        "sapient",
         "scp",
-        "temporal",
-        "uncontained",
-        "vehicle"
+        "species",
+        "thaumaturgy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AvocadoMilk"
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6544",
+      "title": "SCP-6544",
+      "alternateTitle": "四是",
+      "rating": 19,
+      "createdAt": "2022-06-17T10:20:12.000Z",
+      "tags": [
+        "biohazard",
+        "historical",
+        "humanoid",
+        "keter",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Belakey"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9813",
+      "title": "SCP-9813",
+      "alternateTitle": "What would He say?",
+      "rating": 7,
+      "createdAt": "2026-02-04T05:39:00.000Z",
+      "tags": [
+        "bleak",
+        "continuity-dept",
+        "dream",
+        "insect",
+        "mind-affecting",
+        "oneiroi",
+        "religious",
+        "religious-fiction",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Athabuen"
       ]
     }
   ]

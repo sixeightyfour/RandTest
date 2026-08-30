@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:24:04.409Z",
+  "updatedAt": "2026-08-30T18:54:54.380Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6971",
-      "title": "SCP-6971",
-      "alternateTitle": "Nuclearity",
-      "rating": 16,
-      "createdAt": "2022-02-19T15:55:38.000Z",
-      "tags": [
-        "alive",
-        "ectoentropic",
-        "electromagnetic",
-        "esoteric-class",
-        "ethics-committee",
-        "humanoid",
-        "radioactive",
-        "sapient",
-        "scp",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6971/TrojanPlant.jpg",
-      "authors": [
-        "Sirslash47"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7883",
-      "title": "SCP-7883",
-      "alternateTitle": "Bailan las Salitreras",
-      "rating": 23,
-      "createdAt": "2023-01-21T01:44:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7611",
+      "title": "SCP-7611",
+      "alternateTitle": "Here I Dreamt I Was an Architect",
+      "rating": 12,
+      "createdAt": "2025-04-02T18:03:21.000Z",
       "tags": [
         "art-exchange",
-        "auditory",
-        "city",
-        "ghost",
-        "hallucination",
-        "historical",
+        "building",
+        "dream",
+        "extradimensional",
         "humanoid",
-        "intangible",
-        "safe",
+        "keter",
+        "reality-bending",
+        "reanimation",
+        "religious",
+        "sapient",
         "scp",
-        "visual"
+        "tactical-theology"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7611/Jen_gets_an_EEG.jpg",
       "authors": [
-        "Maxyfran73"
+        "Diogene_s"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-222-th-j",
-      "title": "SCP-222-TH-J",
-      "alternateTitle": "The Troll Cat The Genius Hacker Cat",
-      "rating": 17,
-      "createdAt": "2018-11-09T13:35:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9150",
+      "title": "SCP-9150",
+      "alternateTitle": "Worn Away",
+      "rating": 9,
+      "createdAt": "2025-10-02T12:40:18.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "feline",
-        "international",
-        "joke",
-        "rewrite",
+        "9000",
+        "esoteric-class",
+        "horror",
+        "memory-affecting",
+        "mystery",
+        "phenomenon",
+        "psychological-horror",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9150/Pharmacology.png",
+      "authors": [
+        "ZeekyBoogyDoog"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5129",
+      "title": "SCP-5129",
+      "alternateTitle": "The Light, The Heat (In Your Eyes)",
+      "rating": 20,
+      "createdAt": "2021-02-18T15:14:30.000Z",
+      "tags": [
+        "cupid2021",
+        "extradimensional",
+        "location",
+        "meteorological",
         "safe",
-        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Xu weil geena",
-        "DrSSS",
-        "Bonneneige"
+        "VoidLady"
       ]
     }
   ]

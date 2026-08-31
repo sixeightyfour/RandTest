@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T15:38:43.687Z",
+  "updatedAt": "2026-08-31T21:12:18.241Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-072",
-      "title": "SCP-ZH-072",
-      "alternateTitle": "Workplace Burglary Case",
-      "rating": 10,
-      "createdAt": "2023-12-09T18:03:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
+      "title": "Eberstrom's Proposal-ARC",
+      "alternateTitle": "for SCP-001 - Site-19",
+      "rating": -115,
+      "createdAt": "2008-07-27T10:05:05.000Z",
       "tags": [
-        "alive",
-        "antimemetic",
+        "001-proposal",
+        "archived",
         "euclid",
-        "humanoid",
-        "international",
-        "sapient",
-        "scp"
+        "location",
+        "scp",
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-zh-072/corridor.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Mang Gwan",
-        "Mang Gwan"
+        "Eberstrom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8260",
-      "title": "SCP-8260",
-      "alternateTitle": "Warblade MK II",
-      "rating": 5,
-      "createdAt": "2024-10-23T18:18:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
+      "title": "SCP-1994-KO",
+      "alternateTitle": "My Death Shall Be Your Life",
+      "rating": 12,
+      "createdAt": "2022-12-16T16:31:44.000Z",
       "tags": [
-        "bleak",
-        "computer",
-        "game",
+        "cadaver",
+        "insect",
+        "international",
+        "parasitic",
+        "scp",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ssoda",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5566",
+      "title": "SCP-5566",
+      "alternateTitle": "The Scientific Method",
+      "rating": 19,
+      "createdAt": "2020-01-21T04:09:52.000Z",
+      "tags": [
+        "5000",
+        "auditory",
+        "co-authored",
+        "concept",
+        "contagion",
+        "fire",
+        "mathematical",
+        "mind-affecting",
         "neutralized",
-        "online",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Drzony13"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7214",
-      "title": "SCP-7214",
-      "alternateTitle": "Banality",
-      "rating": 23,
-      "createdAt": "2023-07-14T05:22:04.000Z",
-      "tags": [
-        "acoustic",
-        "electrical",
-        "mind-affecting",
-        "olfactory",
-        "safe",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
-      "authors": [
-        "TheChunk"
+        "Quinnen",
+        "Scented_Shadow"
       ]
     }
   ]

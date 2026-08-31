@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:54:54.380Z",
+  "updatedAt": "2026-08-31T02:12:29.050Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,78 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7611",
-      "title": "SCP-7611",
-      "alternateTitle": "Here I Dreamt I Was an Architect",
+      "url": "http://scp-wiki.wikidot.com/scp-9229",
+      "title": "SCP-9229",
+      "alternateTitle": "O Sancta Simplicitas!",
       "rating": 12,
-      "createdAt": "2025-04-02T18:03:21.000Z",
-      "tags": [
-        "art-exchange",
-        "building",
-        "dream",
-        "extradimensional",
-        "humanoid",
-        "keter",
-        "reality-bending",
-        "reanimation",
-        "religious",
-        "sapient",
-        "scp",
-        "tactical-theology"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7611/Jen_gets_an_EEG.jpg",
-      "authors": [
-        "Diogene_s"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9150",
-      "title": "SCP-9150",
-      "alternateTitle": "Worn Away",
-      "rating": 9,
-      "createdAt": "2025-10-02T12:40:18.000Z",
+      "createdAt": "2025-10-04T01:06:28.000Z",
       "tags": [
         "9000",
-        "esoteric-class",
+        "abnormalities",
+        "apocalyptic",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "euclid",
+        "explained",
+        "extraterrestrial",
         "horror",
-        "memory-affecting",
-        "mystery",
-        "phenomenon",
-        "psychological-horror",
-        "scp"
+        "language",
+        "mechanical",
+        "moon",
+        "pattern-screamer",
+        "reality-bending",
+        "science-fiction",
+        "scp",
+        "structure"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9150/Pharmacology.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
       "authors": [
-        "ZeekyBoogyDoog"
+        "BlackMonday"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5129",
-      "title": "SCP-5129",
-      "alternateTitle": "The Light, The Heat (In Your Eyes)",
-      "rating": 20,
-      "createdAt": "2021-02-18T15:14:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-2405",
+      "title": "SCP-CN-2405",
+      "alternateTitle": "Ronald McDonald",
+      "rating": 18,
+      "createdAt": "2022-06-12T01:11:37.000Z",
       "tags": [
-        "cupid2021",
-        "extradimensional",
-        "location",
-        "meteorological",
-        "safe",
+        "alive",
+        "clown",
+        "euclid",
+        "humanoid",
+        "international",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scpsandboxcn.wikidot.com/local--files/yog/9.jpg",
       "authors": [
-        "VoidLady"
+        "Yoghurt_Jinchouge",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9406",
+      "title": "SCP-9406",
+      "alternateTitle": "Geometrical Mess",
+      "rating": 17,
+      "createdAt": "2025-12-14T20:24:04.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "humanoid",
+        "language",
+        "mind-affecting",
+        "observational",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "https://image2url.com/images/1765818563499-5b8e98ca-6bd0-469b-b1ad-a56f7c92333b.png",
+      "authors": [
+        "DJfIooo"
       ]
     }
   ]

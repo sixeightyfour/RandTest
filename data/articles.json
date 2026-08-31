@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:12:29.050Z",
+  "updatedAt": "2026-08-31T15:38:43.687Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,78 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9229",
-      "title": "SCP-9229",
-      "alternateTitle": "O Sancta Simplicitas!",
-      "rating": 12,
-      "createdAt": "2025-10-04T01:06:28.000Z",
-      "tags": [
-        "9000",
-        "abnormalities",
-        "apocalyptic",
-        "artifact",
-        "biohazard",
-        "body-horror",
-        "euclid",
-        "explained",
-        "extraterrestrial",
-        "horror",
-        "language",
-        "mechanical",
-        "moon",
-        "pattern-screamer",
-        "reality-bending",
-        "science-fiction",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
-      "authors": [
-        "BlackMonday"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-2405",
-      "title": "SCP-CN-2405",
-      "alternateTitle": "Ronald McDonald",
-      "rating": 18,
-      "createdAt": "2022-06-12T01:11:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-072",
+      "title": "SCP-ZH-072",
+      "alternateTitle": "Workplace Burglary Case",
+      "rating": 10,
+      "createdAt": "2023-12-09T18:03:11.000Z",
       "tags": [
         "alive",
-        "clown",
+        "antimemetic",
         "euclid",
         "humanoid",
         "international",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scpsandboxcn.wikidot.com/local--files/yog/9.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-zh-072/corridor.jpg",
       "authors": [
-        "Yoghurt_Jinchouge",
-        "tetsusquared"
+        "Mang Gwan",
+        "Mang Gwan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9406",
-      "title": "SCP-9406",
-      "alternateTitle": "Geometrical Mess",
-      "rating": 17,
-      "createdAt": "2025-12-14T20:24:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8260",
+      "title": "SCP-8260",
+      "alternateTitle": "Warblade MK II",
+      "rating": 5,
+      "createdAt": "2024-10-23T18:18:25.000Z",
       "tags": [
-        "alive",
-        "euclid",
-        "humanoid",
-        "language",
-        "mind-affecting",
-        "observational",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "temporal"
+        "bleak",
+        "computer",
+        "game",
+        "neutralized",
+        "online",
+        "scp"
       ],
-      "thumbnailUrl": "https://image2url.com/images/1765818563499-5b8e98ca-6bd0-469b-b1ad-a56f7c92333b.png",
+      "thumbnailUrl": "",
       "authors": [
-        "DJfIooo"
+        "Drzony13"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7214",
+      "title": "SCP-7214",
+      "alternateTitle": "Banality",
+      "rating": 23,
+      "createdAt": "2023-07-14T05:22:04.000Z",
+      "tags": [
+        "acoustic",
+        "electrical",
+        "mind-affecting",
+        "olfactory",
+        "safe",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
+      "authors": [
+        "TheChunk"
       ]
     }
   ]

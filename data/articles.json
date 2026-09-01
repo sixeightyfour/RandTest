@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:12:18.241Z",
+  "updatedAt": "2026-09-01T02:31:39.469Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,79 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
-      "title": "Eberstrom's Proposal-ARC",
-      "alternateTitle": "for SCP-001 - Site-19",
-      "rating": -115,
-      "createdAt": "2008-07-27T10:05:05.000Z",
-      "tags": [
-        "001-proposal",
-        "archived",
-        "euclid",
-        "location",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Eberstrom"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1994-ko",
-      "title": "SCP-1994-KO",
-      "alternateTitle": "My Death Shall Be Your Life",
-      "rating": 12,
-      "createdAt": "2022-12-16T16:31:44.000Z",
-      "tags": [
-        "cadaver",
-        "insect",
-        "international",
-        "parasitic",
-        "scp",
-        "ticonderoga"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "ssoda",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5566",
-      "title": "SCP-5566",
-      "alternateTitle": "The Scientific Method",
+      "url": "http://scp-wiki.wikidot.com/scp-6548",
+      "title": "SCP-6548",
+      "alternateTitle": "By the Name of Mine",
       "rating": 19,
-      "createdAt": "2020-01-21T04:09:52.000Z",
+      "createdAt": "2022-11-09T07:37:42.000Z",
       "tags": [
-        "5000",
+        "antimemetic",
         "auditory",
-        "co-authored",
-        "concept",
-        "contagion",
-        "fire",
-        "mathematical",
+        "esterberg",
+        "homo-sapiens-sidhe",
+        "indestructible",
+        "jewelry",
+        "k-class-scenario",
+        "maria-johnston",
         "mind-affecting",
-        "neutralized",
+        "nameless",
+        "ninth-world",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Quinnen",
-        "Scented_Shadow"
+        "tingfeng1999"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9037",
+      "title": "SCP-9037",
+      "alternateTitle": "Theseus' Goose",
+      "rating": 7,
+      "createdAt": "2025-09-21T21:00:36.000Z",
+      "tags": [
+        "9000",
+        "absurdism",
+        "alive",
+        "animal",
+        "bird",
+        "co-authored",
+        "cognitohazard",
+        "extradimensional",
+        "infohazard",
+        "memetic",
+        "safe",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
+      "authors": [
+        "Anythingpig",
+        "idi0cy",
+        "RatseerOfRattesse"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7347",
+      "title": "SCP-7347",
+      "alternateTitle": "A Jump in the Wrong Dimension",
+      "rating": 16,
+      "createdAt": "2023-09-04T00:54:01.000Z",
+      "tags": [
+        "city",
+        "extraterrestrial",
+        "raisa",
+        "remixcon2023",
+        "satellite",
+        "scp",
+        "subterranean",
+        "temporal",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-7347/LyskammPeak110remix.png",
+      "authors": [
+        "Dr Moned"
       ]
     }
   ]

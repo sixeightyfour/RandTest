@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:51:50.039Z",
+  "updatedAt": "2026-09-01T18:58:18.719Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8983",
-      "title": "SCP-8983",
-      "alternateTitle": "The Voice of Reason",
-      "rating": 9,
-      "createdAt": "2024-11-29T11:37:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8875",
+      "title": "SCP-8875",
+      "alternateTitle": "♈︎♊︎♅♅🜨︎♋︎♊︎♅",
+      "rating": 13,
+      "createdAt": "2025-02-13T16:47:00.000Z",
       "tags": [
-        "amorphous",
-        "audio",
-        "knowledge",
-        "mimetic",
-        "musical",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://s3.amazonaws.com/cdn.caseantiques.com/wp-content/uploads/auctions/2015_07_18/843_1-967x1080.jpg",
-      "authors": [
-        "SheerC0ld"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8950",
-      "title": "SCP-8950",
-      "alternateTitle": "Itsy",
-      "rating": 8,
-      "createdAt": "2024-11-17T23:40:06.000Z",
-      "tags": [
-        "arachnid",
-        "body-horror",
-        "horror",
-        "murder-monster",
-        "mystery",
-        "pending",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg",
-      "authors": [
-        "Doctor Scrappy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6964",
-      "title": "SCP-6964",
-      "alternateTitle": "Presidentio",
-      "rating": 24,
-      "createdAt": "2025-05-11T15:07:33.000Z",
-      "tags": [
-        "black-comedy",
-        "comedy",
-        "extradimensional",
+        "bleak",
+        "cognitohazard",
+        "compulsion",
         "humanoid",
-        "religious",
-        "safe",
+        "memetic",
+        "memory-affecting",
+        "neutralized",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DoctorLilithSophia"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8440",
+      "title": "SCP-8440",
+      "alternateTitle": "Clear as White",
+      "rating": 12,
+      "createdAt": "2024-02-16T00:48:07.000Z",
+      "tags": [
+        "8000",
+        "esoteric-class",
+        "extraterrestrial",
+        "gravity",
+        "humanoid",
+        "light",
+        "mind-affecting",
+        "scp",
+        "sun",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Strange Matter"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8795",
+      "title": "SCP-8795",
+      "alternateTitle": "Heart of the Mountain",
+      "rating": 17,
+      "createdAt": "2026-01-27T20:57:50.000Z",
+      "tags": [
+        "geological",
+        "hostile",
+        "keter",
+        "metamorphic",
+        "mimetic",
+        "mythological",
+        "our-open-veins",
+        "ritual",
         "sapient",
         "scp",
-        "structure",
-        "tactical-theology"
+        "subterranean",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mount_Rushmore_National_Memorial_in_Keystone%2C_South_Dakota.jpg?20211019070149",
+      "thumbnailUrl": "",
       "authors": [
-        "MisterFrown"
+        "Din-Bidor"
       ]
     }
   ]

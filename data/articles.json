@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:22:10.667Z",
+  "updatedAt": "2026-09-02T19:03:48.037Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8321",
-      "title": "SCP-8321",
-      "alternateTitle": "SITE-909A CASE STUDY: A Dire Warning (Mandatory Training Material)",
-      "rating": 17,
-      "createdAt": "2025-03-02T01:54:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7418",
+      "title": "SCP-7418",
+      "alternateTitle": "Nibbles the Mole",
+      "rating": 13,
+      "createdAt": "2023-08-15T18:26:22.000Z",
       "tags": [
-        "acoustic",
+        "alive",
+        "animal",
         "euclid",
-        "insect",
-        "neutralized",
-        "robotic",
-        "safe",
-        "scp"
+        "scp",
+        "subterranean"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8321/delta-nine-scp-sketch-diagram-8393.png",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/korgis-nibbles/SCP%20mole",
       "authors": [
-        "Delta_Nine"
+        "korgis"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-315-de",
-      "title": "SCP-315-DE",
-      "alternateTitle": "Everyone needs to vent sometimes",
-      "rating": 6,
-      "createdAt": "2024-01-06T19:57:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8819",
+      "title": "SCP-8819",
+      "alternateTitle": "The Beaches Where My Mother Grew Up",
+      "rating": 22,
+      "createdAt": "2025-08-24T02:09:41.000Z",
       "tags": [
-        "international",
-        "keter",
-        "mind-affecting",
-        "performance",
-        "poetry",
-        "scp"
+        "humanoid",
+        "intangible",
+        "lgbtq",
+        "ritual",
+        "safe",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "authors": [
+        "hi im stel"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8971",
+      "title": "SCP-8971",
+      "alternateTitle": "MONOMANIA",
+      "rating": 18,
+      "createdAt": "2025-03-08T03:35:52.000Z",
+      "tags": [
+        "bleak",
+        "cadaver",
+        "cetacean",
+        "chemical",
+        "publicdomaincon2025",
+        "reality-bending",
+        "religious",
+        "ritual",
+        "safe",
+        "scp",
+        "skeletal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Karpfisch",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4956",
-      "title": "SCP-4956",
-      "alternateTitle": "Screaming At The Void",
-      "rating": 22,
-      "createdAt": "2020-02-25T18:19:35.000Z",
-      "tags": [
-        "acoustic",
-        "autonomous",
-        "co-authored",
-        "euclid",
-        "geological",
-        "historical",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4956/Bulldozer_and_steamroller_during_the_construction_of_Gibraltar_Airport%2C_1941.jpg",
-      "authors": [
-        "Anonymous",
-        "gigaslayer105"
+        "torcsandantlers"
       ]
     }
   ]

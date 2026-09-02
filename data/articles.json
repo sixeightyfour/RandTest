@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T01:52:46.985Z",
+  "updatedAt": "2026-09-02T12:22:10.667Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9786",
-      "title": "SCP-9786",
-      "alternateTitle": "The Purge Room",
-      "rating": 22,
-      "createdAt": "2025-11-05T23:48:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8321",
+      "title": "SCP-8321",
+      "alternateTitle": "SITE-909A CASE STUDY: A Dire Warning (Mandatory Training Material)",
+      "rating": 17,
+      "createdAt": "2025-03-02T01:54:52.000Z",
       "tags": [
-        "autonomous",
-        "building",
-        "humanoid",
-        "mind-affecting",
-        "mystery",
+        "acoustic",
+        "euclid",
+        "insect",
+        "neutralized",
+        "robotic",
         "safe",
-        "scp",
-        "spatial",
-        "teleportation"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8321/delta-nine-scp-sketch-diagram-8393.png",
       "authors": [
-        "jswessler"
+        "Delta_Nine"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-088-it",
-      "title": "SCP-088-IT",
-      "alternateTitle": "Ailurophobia",
-      "rating": 15,
-      "createdAt": "2024-01-25T23:17:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-315-de",
+      "title": "SCP-315-DE",
+      "alternateTitle": "Everyone needs to vent sometimes",
+      "rating": 6,
+      "createdAt": "2024-01-06T19:57:23.000Z",
       "tags": [
-        "feline",
-        "gamers-against-weed",
-        "interactive",
         "international",
-        "memetic",
-        "online",
-        "safe",
-        "scp",
-        "visual",
-        "wilsons-wildlife"
+        "keter",
+        "mind-affecting",
+        "performance",
+        "poetry",
+        "scp"
       ],
-      "thumbnailUrl": "https://i.postimg.cc/VNRcDfFG/IMG-8250.png",
+      "thumbnailUrl": "",
       "authors": [
-        "yessss",
-        "Drss Selene"
+        "Karpfisch",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8635",
-      "title": "SCP-8635",
-      "alternateTitle": "The Helpful Trucker",
-      "rating": 11,
-      "createdAt": "2025-05-22T12:57:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4956",
+      "title": "SCP-4956",
+      "alternateTitle": "Screaming At The Void",
+      "rating": 22,
+      "createdAt": "2020-02-25T18:19:35.000Z",
       "tags": [
-        "compulsion",
-        "esoteric-class",
-        "humanoid",
-        "scp",
-        "uncontained",
-        "vehicle"
+        "acoustic",
+        "autonomous",
+        "co-authored",
+        "euclid",
+        "geological",
+        "historical",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4956/Bulldozer_and_steamroller_during_the_construction_of_Gibraltar_Airport%2C_1941.jpg",
       "authors": [
-        "emmalexandria"
+        "Anonymous",
+        "gigaslayer105"
       ]
     }
   ]

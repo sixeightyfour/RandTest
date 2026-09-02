@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:58:18.719Z",
+  "updatedAt": "2026-09-02T01:52:46.985Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8875",
-      "title": "SCP-8875",
-      "alternateTitle": "♈︎♊︎♅♅🜨︎♋︎♊︎♅",
-      "rating": 13,
-      "createdAt": "2025-02-13T16:47:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9786",
+      "title": "SCP-9786",
+      "alternateTitle": "The Purge Room",
+      "rating": 22,
+      "createdAt": "2025-11-05T23:48:45.000Z",
       "tags": [
-        "bleak",
-        "cognitohazard",
-        "compulsion",
+        "autonomous",
+        "building",
         "humanoid",
-        "memetic",
-        "memory-affecting",
-        "neutralized",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DoctorLilithSophia"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8440",
-      "title": "SCP-8440",
-      "alternateTitle": "Clear as White",
-      "rating": 12,
-      "createdAt": "2024-02-16T00:48:07.000Z",
-      "tags": [
-        "8000",
-        "esoteric-class",
-        "extraterrestrial",
-        "gravity",
-        "humanoid",
-        "light",
         "mind-affecting",
+        "mystery",
+        "safe",
         "scp",
-        "sun",
-        "uncontained"
+        "spatial",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9786/purgeroom720.png",
       "authors": [
-        "Strange Matter"
+        "jswessler"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8795",
-      "title": "SCP-8795",
-      "alternateTitle": "Heart of the Mountain",
-      "rating": 17,
-      "createdAt": "2026-01-27T20:57:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-088-it",
+      "title": "SCP-088-IT",
+      "alternateTitle": "Ailurophobia",
+      "rating": 15,
+      "createdAt": "2024-01-25T23:17:58.000Z",
       "tags": [
-        "geological",
-        "hostile",
-        "keter",
-        "metamorphic",
-        "mimetic",
-        "mythological",
-        "our-open-veins",
-        "ritual",
-        "sapient",
+        "feline",
+        "gamers-against-weed",
+        "interactive",
+        "international",
+        "memetic",
+        "online",
+        "safe",
         "scp",
-        "subterranean",
-        "uncontained"
+        "visual",
+        "wilsons-wildlife"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://i.postimg.cc/VNRcDfFG/IMG-8250.png",
       "authors": [
-        "Din-Bidor"
+        "yessss",
+        "Drss Selene"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8635",
+      "title": "SCP-8635",
+      "alternateTitle": "The Helpful Trucker",
+      "rating": 11,
+      "createdAt": "2025-05-22T12:57:24.000Z",
+      "tags": [
+        "compulsion",
+        "esoteric-class",
+        "humanoid",
+        "scp",
+        "uncontained",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
+      "authors": [
+        "emmalexandria"
       ]
     }
   ]

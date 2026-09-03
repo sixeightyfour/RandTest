@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:20:15.554Z",
+  "updatedAt": "2026-09-03T18:58:09.881Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5183",
-      "title": "SCP-5183",
-      "alternateTitle": "Under the Surface",
-      "rating": 17,
-      "createdAt": "2020-08-16T22:45:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8224",
+      "title": "SCP-8224",
+      "alternateTitle": "Of Idiots and Wands",
+      "rating": 24,
+      "createdAt": "2024-12-28T19:47:20.000Z",
       "tags": [
-        "cognitohazard",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
+        "art-exchange",
+        "artifact",
+        "broken-masquerade",
+        "comedy",
         "safe",
-        "scp",
-        "sensory",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Flopmind"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8819",
-      "title": "SCP-8819",
-      "alternateTitle": "The Beaches Where My Mother Grew Up",
-      "rating": 22,
-      "createdAt": "2025-08-24T02:09:41.000Z",
-      "tags": [
-        "humanoid",
-        "intangible",
-        "lgbtq",
-        "ritual",
-        "safe",
-        "sapient",
         "scp",
         "thaumaturgy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/art-exchange-gift-for-felixou/Magic_Trick_Wand.png",
       "authors": [
-        "hi im stel"
+        "Nickthebrick1"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9612",
-      "title": "SCP-9612",
-      "alternateTitle": "They Stood in the Fire",
-      "rating": 14,
-      "createdAt": "2025-11-02T16:30:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/protected:scp-7156",
+      "title": "SCP-7156",
+      "alternateTitle": "",
+      "rating": 21,
+      "createdAt": "2023-12-09T21:09:24.000Z",
       "tags": [
-        "cognitohazard",
-        "fire",
-        "hallucination",
-        "mind-affecting",
-        "religious",
-        "ritual",
+        "polyhedral",
+        "reality-bending",
         "safe",
         "scp",
-        "structure"
+        "toy"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-7156/rubixcube.jpg",
       "authors": [
-        "8bitbreadbox"
+        "winkwonkboi"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6188",
+      "title": "SCP-6188",
+      "alternateTitle": "Joining the Ranks",
+      "rating": 22,
+      "createdAt": "2022-02-07T23:40:18.000Z",
+      "tags": [
+        "building",
+        "ectoentropic",
+        "extradimensional",
+        "immobile",
+        "light",
+        "military",
+        "predatory",
+        "safe",
+        "scp",
+        "teleportation",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6188/Cobra_King%252C_first_tank_in_Bastogne.webp",
+      "authors": [
+        "DL_Baryonyx"
       ]
     }
   ]

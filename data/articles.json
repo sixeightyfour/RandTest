@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:58:24.265Z",
+  "updatedAt": "2026-09-03T12:20:15.554Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6236",
-      "title": "SCP-6236",
-      "alternateTitle": "A Motel Elevator",
-      "rating": 24,
-      "createdAt": "2021-12-30T03:23:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5183",
+      "title": "SCP-5183",
+      "alternateTitle": "Under the Surface",
+      "rating": 17,
+      "createdAt": "2020-08-16T22:45:26.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "extradimensional",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
-      "authors": [
-        "Inertia_comrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8292",
-      "title": "SCP-8292",
-      "alternateTitle": "A Cure for Stress",
-      "rating": 5,
-      "createdAt": "2025-07-06T08:25:53.000Z",
-      "tags": [
-        "bleak",
-        "body-horror",
-        "classiccon2025",
-        "horror",
-        "keter",
-        "medical",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/medical-vomiting-syndrome/Cloth.jpg",
-      "authors": [
-        "Detective_O 1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-144-pt",
-      "title": "SCP-144-PT",
-      "alternateTitle": "Collection of Jars",
-      "rating": 8,
-      "createdAt": "2025-12-15T16:40:10.000Z",
-      "tags": [
-        "archaeological",
-        "ectoentropic",
-        "historical",
-        "inscription",
-        "international",
+        "cognitohazard",
+        "metamorphic",
+        "mind-affecting",
+        "observational",
         "safe",
         "scp",
-        "sculpture",
-        "thaumaturgy"
+        "sensory",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "22o9L",
-        "22o9L"
+        "Flopmind"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8819",
+      "title": "SCP-8819",
+      "alternateTitle": "The Beaches Where My Mother Grew Up",
+      "rating": 22,
+      "createdAt": "2025-08-24T02:09:41.000Z",
+      "tags": [
+        "humanoid",
+        "intangible",
+        "lgbtq",
+        "ritual",
+        "safe",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
+      "authors": [
+        "hi im stel"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9612",
+      "title": "SCP-9612",
+      "alternateTitle": "They Stood in the Fire",
+      "rating": 14,
+      "createdAt": "2025-11-02T16:30:45.000Z",
+      "tags": [
+        "cognitohazard",
+        "fire",
+        "hallucination",
+        "mind-affecting",
+        "religious",
+        "ritual",
+        "safe",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "8bitbreadbox"
       ]
     }
   ]

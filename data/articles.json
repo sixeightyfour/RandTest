@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:53:32.259Z",
+  "updatedAt": "2026-09-04T12:20:36.760Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8656",
-      "title": "SCP-8656",
-      "alternateTitle": "Serving Culinary Pleasures",
-      "rating": 23,
-      "createdAt": "2024-11-28T02:34:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7075",
+      "title": "SCP-7075",
+      "alternateTitle": "\"Twins\"",
+      "rating": 7,
+      "createdAt": "2022-07-30T01:42:20.000Z",
       "tags": [
-        "ambrose-restaurant",
-        "corporate",
-        "extradimensional",
-        "food",
-        "foundation-made",
+        "7000",
+        "alive",
         "humanoid",
-        "liquid",
-        "portal",
-        "restaurant",
+        "safe",
         "sapient",
         "scp",
-        "temporal",
-        "thaumiel",
-        "with-many-voices"
+        "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TheGhostNobody"
+        "redredred"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9177",
-      "title": "SCP-9177",
-      "alternateTitle": "Beekeeping Monks",
-      "rating": 17,
-      "createdAt": "2025-12-15T10:44:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8681",
+      "title": "SCP-8681",
+      "alternateTitle": "Review Request on the PHLOX Highway",
+      "rating": 11,
+      "createdAt": "2025-05-26T05:54:16.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "bee",
-        "cadaver",
+        "bureaucracy",
+        "corporate",
         "euclid",
-        "humanoid",
-        "insect",
-        "mind-affecting",
-        "reanimation",
-        "religious",
-        "sapient",
+        "extradimensional",
+        "foundation-made",
+        "intcanoncon2025",
+        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/5117/7065557391_a7fa4b6f4d_b.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Loop11"
+        "Mang Gwan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2568",
-      "title": "SCP-2568",
-      "alternateTitle": "Snap To Grid",
-      "rating": 17,
-      "createdAt": "2017-04-16T14:47:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7355",
+      "title": "SCP-7355",
+      "alternateTitle": "Room 305 (Surgery)",
+      "rating": 14,
+      "createdAt": "2023-09-14T16:36:08.000Z",
       "tags": [
-        "game",
-        "light",
-        "radioactive",
-        "safe",
-        "scp",
-        "sphere",
-        "toy"
+        "building",
+        "ectoentropic",
+        "euclid",
+        "medical",
+        "religious",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stainless_steel_1.4034_X46Cr13_bearing_ball_60mm_G100_removed_camera.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "NoraCodes"
+        "NielleiN"
       ]
     }
   ]

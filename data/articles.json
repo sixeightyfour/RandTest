@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:58:09.881Z",
+  "updatedAt": "2026-09-04T01:53:32.259Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8224",
-      "title": "SCP-8224",
-      "alternateTitle": "Of Idiots and Wands",
-      "rating": 24,
-      "createdAt": "2024-12-28T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8656",
+      "title": "SCP-8656",
+      "alternateTitle": "Serving Culinary Pleasures",
+      "rating": 23,
+      "createdAt": "2024-11-28T02:34:15.000Z",
       "tags": [
-        "art-exchange",
-        "artifact",
-        "broken-masquerade",
-        "comedy",
-        "safe",
+        "ambrose-restaurant",
+        "corporate",
+        "extradimensional",
+        "food",
+        "foundation-made",
+        "humanoid",
+        "liquid",
+        "portal",
+        "restaurant",
+        "sapient",
         "scp",
-        "thaumaturgy"
+        "temporal",
+        "thaumiel",
+        "with-many-voices"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/art-exchange-gift-for-felixou/Magic_Trick_Wand.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Nickthebrick1"
+        "TheGhostNobody"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/protected:scp-7156",
-      "title": "SCP-7156",
-      "alternateTitle": "",
-      "rating": 21,
-      "createdAt": "2023-12-09T21:09:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9177",
+      "title": "SCP-9177",
+      "alternateTitle": "Beekeeping Monks",
+      "rating": 17,
+      "createdAt": "2025-12-15T10:44:14.000Z",
       "tags": [
-        "polyhedral",
-        "reality-bending",
+        "alive",
+        "animal",
+        "bee",
+        "cadaver",
+        "euclid",
+        "humanoid",
+        "insect",
+        "mind-affecting",
+        "reanimation",
+        "religious",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/5117/7065557391_a7fa4b6f4d_b.jpg",
+      "authors": [
+        "Loop11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2568",
+      "title": "SCP-2568",
+      "alternateTitle": "Snap To Grid",
+      "rating": 17,
+      "createdAt": "2017-04-16T14:47:17.000Z",
+      "tags": [
+        "game",
+        "light",
+        "radioactive",
         "safe",
         "scp",
+        "sphere",
         "toy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-7156/rubixcube.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stainless_steel_1.4034_X46Cr13_bearing_ball_60mm_G100_removed_camera.jpg",
       "authors": [
-        "winkwonkboi"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6188",
-      "title": "SCP-6188",
-      "alternateTitle": "Joining the Ranks",
-      "rating": 22,
-      "createdAt": "2022-02-07T23:40:18.000Z",
-      "tags": [
-        "building",
-        "ectoentropic",
-        "extradimensional",
-        "immobile",
-        "light",
-        "military",
-        "predatory",
-        "safe",
-        "scp",
-        "teleportation",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6188/Cobra_King%252C_first_tank_in_Bastogne.webp",
-      "authors": [
-        "DL_Baryonyx"
+        "NoraCodes"
       ]
     }
   ]

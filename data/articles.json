@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T12:20:36.760Z",
+  "updatedAt": "2026-09-04T18:40:49.490Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7075",
-      "title": "SCP-7075",
-      "alternateTitle": "\"Twins\"",
-      "rating": 7,
-      "createdAt": "2022-07-30T01:42:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3842",
+      "title": "SCP-3842",
+      "alternateTitle": "Life-Emitting Diode",
+      "rating": 14,
+      "createdAt": "2018-02-22T02:11:10.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "humanoid",
+        "ectoentropic",
+        "electrical",
+        "electronic",
+        "light",
         "safe",
-        "sapient",
-        "scp",
-        "telepathic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "redredred"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8681",
-      "title": "SCP-8681",
-      "alternateTitle": "Review Request on the PHLOX Highway",
-      "rating": 11,
-      "createdAt": "2025-05-26T05:54:16.000Z",
-      "tags": [
-        "bureaucracy",
-        "corporate",
-        "euclid",
-        "extradimensional",
-        "foundation-made",
-        "intcanoncon2025",
-        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mang Gwan"
+        "Axollyon"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7355",
-      "title": "SCP-7355",
-      "alternateTitle": "Room 305 (Surgery)",
-      "rating": 14,
-      "createdAt": "2023-09-14T16:36:08.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6236",
+      "title": "SCP-6236",
+      "alternateTitle": "A Motel Elevator",
+      "rating": 24,
+      "createdAt": "2021-12-30T03:23:54.000Z",
       "tags": [
         "building",
-        "ectoentropic",
         "euclid",
-        "medical",
-        "religious",
-        "scp"
+        "extradimensional",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
+      "authors": [
+        "Inertia_comrade"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
+      "title": "SCP-458-KO",
+      "alternateTitle": "News of the Day",
+      "rating": 4,
+      "createdAt": "2022-10-21T12:17:53.000Z",
+      "tags": [
+        "electrical",
+        "international",
+        "polyhedral",
+        "safe",
+        "scp",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "NielleiN"
+        "Anchor",
+        "Subervos"
       ]
     }
   ]

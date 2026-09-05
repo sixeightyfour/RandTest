@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:40:49.490Z",
+  "updatedAt": "2026-09-05T01:54:34.163Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3842",
-      "title": "SCP-3842",
-      "alternateTitle": "Life-Emitting Diode",
-      "rating": 14,
-      "createdAt": "2018-02-22T02:11:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
+      "title": "GPT-4546-J",
+      "alternateTitle": "Absolutely!",
+      "rating": 21,
+      "createdAt": "2025-10-09T02:25:59.000Z",
       "tags": [
-        "ectoentropic",
-        "electrical",
-        "electronic",
-        "light",
-        "safe",
+        "alive",
+        "comedy",
+        "gravity",
+        "humanoid",
+        "joke",
+        "keter",
+        "memetic",
+        "meta",
+        "metafiction",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Axollyon"
+        "Lapiras"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6236",
-      "title": "SCP-6236",
-      "alternateTitle": "A Motel Elevator",
-      "rating": 24,
-      "createdAt": "2021-12-30T03:23:54.000Z",
-      "tags": [
-        "building",
-        "euclid",
-        "extradimensional",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a89885f3-67b6-49f7-a738-67190a00abf1/d4f7xzi-0a540fcd-bc74-46ee-9608-70707fe40624.jpg/v1/fill/w_737,h_1084,q_75,strp/haunted_hallway_by_hjoranna-d4f7xzi.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk4ODVmMy02N2I2LTQ5ZjctYTczOC02NzE5MGEwMGFiZjEvZDRmN3h6aS0wYTU0MGZjZC1iYzc0LTQ2ZWUtOTYwOC03MDcwN2ZlNDA2MjQuanBnIiwid2lkdGgiOiI8PTczNyIsImhlaWdodCI6Ijw9MTA4NCJ9XV19.iQhxmjnNPuUI49ITxu20SX-P4gQR83GKhyRxMLKlPtQ",
-      "authors": [
-        "Inertia_comrade"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
-      "title": "SCP-458-KO",
-      "alternateTitle": "News of the Day",
-      "rating": 4,
-      "createdAt": "2022-10-21T12:17:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8863",
+      "title": "SCP-8863",
+      "alternateTitle": "Femtoorganism",
+      "rating": 17,
+      "createdAt": "2025-07-01T22:04:55.000Z",
       "tags": [
         "electrical",
-        "international",
-        "polyhedral",
-        "safe",
-        "scp",
-        "temporal"
+        "humanoid",
+        "keter",
+        "microscopic",
+        "online",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Anchor",
-        "Subervos"
+        "OzRose"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6638",
+      "title": "SCP-6638",
+      "alternateTitle": "To unify all under Heaven",
+      "rating": 17,
+      "createdAt": "2022-09-23T14:32:42.000Z",
+      "tags": [
+        "euclid",
+        "historical",
+        "memetic",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6638/qianlong-emperor.jpg",
+      "authors": [
+        "ferdwrites"
       ]
     }
   ]

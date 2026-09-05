@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:54:34.163Z",
+  "updatedAt": "2026-09-05T11:27:59.483Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
-      "title": "GPT-4546-J",
-      "alternateTitle": "Absolutely!",
-      "rating": 21,
-      "createdAt": "2025-10-09T02:25:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5617",
+      "title": "SCP-5617",
+      "alternateTitle": "“Soul”",
+      "rating": 6,
+      "createdAt": "2021-07-04T00:50:30.000Z",
       "tags": [
+        "acoustic",
         "alive",
-        "comedy",
-        "gravity",
-        "humanoid",
-        "joke",
-        "keter",
-        "memetic",
-        "meta",
-        "metafiction",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Lapiras"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8863",
-      "title": "SCP-8863",
-      "alternateTitle": "Femtoorganism",
-      "rating": 17,
-      "createdAt": "2025-07-01T22:04:55.000Z",
-      "tags": [
-        "electrical",
+        "animal",
+        "auditory",
+        "bear",
+        "compulsion",
+        "hallucination",
         "humanoid",
         "keter",
-        "microscopic",
-        "online",
         "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "OzRose"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6638",
-      "title": "SCP-6638",
-      "alternateTitle": "To unify all under Heaven",
-      "rating": 17,
-      "createdAt": "2022-09-23T14:32:42.000Z",
-      "tags": [
-        "euclid",
-        "historical",
-        "memetic",
         "scp",
-        "uncontained"
+        "uncontained",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6638/qianlong-emperor.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5617/Soulcreepy/medium.jpg",
       "authors": [
-        "ferdwrites"
+        "Storytellersoul"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8583",
+      "title": "SCP-8583",
+      "alternateTitle": "Memory Bank",
+      "rating": 22,
+      "createdAt": "2025-07-15T12:14:19.000Z",
+      "tags": [
+        "currency",
+        "electrical",
+        "exchange",
+        "mechanical",
+        "memory-affecting",
+        "safe",
+        "scp",
+        "toy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "BluebriarArts"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8485",
+      "title": "SCP-8485",
+      "alternateTitle": "Noise Complaint",
+      "rating": 20,
+      "createdAt": "2024-10-14T21:18:23.000Z",
+      "tags": [
+        "acoustic",
+        "amorphous",
+        "euclid",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Not Noodles"
       ]
     }
   ]

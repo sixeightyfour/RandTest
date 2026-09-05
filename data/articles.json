@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:27:59.483Z",
+  "updatedAt": "2026-09-05T17:47:19.157Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5617",
-      "title": "SCP-5617",
-      "alternateTitle": "“Soul”",
-      "rating": 6,
-      "createdAt": "2021-07-04T00:50:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8957",
+      "title": "SCP-8957",
+      "alternateTitle": "Break A Leg!",
+      "rating": 10,
+      "createdAt": "2025-10-03T15:43:31.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "animal",
-        "auditory",
-        "bear",
-        "compulsion",
-        "hallucination",
-        "humanoid",
-        "keter",
-        "sapient",
+        "building",
+        "euclid",
+        "phenomenon",
         "scp",
-        "uncontained",
-        "visual"
+        "skeletal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5617/Soulcreepy/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Storytellersoul"
+        "7eventy7evenfold"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8583",
-      "title": "SCP-8583",
-      "alternateTitle": "Memory Bank",
-      "rating": 22,
-      "createdAt": "2025-07-15T12:14:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7121",
+      "title": "SCP-7121",
+      "alternateTitle": "come, the pale wind's hound",
+      "rating": 7,
+      "createdAt": "2025-08-23T18:27:11.000Z",
       "tags": [
-        "currency",
-        "electrical",
-        "exchange",
-        "mechanical",
-        "memory-affecting",
+        "extradimensional",
+        "keter",
+        "murder-monster",
+        "predatory",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
+      "authors": [
+        "foxgirlknives"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9612",
+      "title": "SCP-9612",
+      "alternateTitle": "They Stood in the Fire",
+      "rating": 14,
+      "createdAt": "2025-11-02T16:30:45.000Z",
+      "tags": [
+        "cognitohazard",
+        "fire",
+        "hallucination",
+        "mind-affecting",
+        "religious",
+        "ritual",
         "safe",
         "scp",
-        "toy"
+        "structure"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "BluebriarArts"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8485",
-      "title": "SCP-8485",
-      "alternateTitle": "Noise Complaint",
-      "rating": 20,
-      "createdAt": "2024-10-14T21:18:23.000Z",
-      "tags": [
-        "acoustic",
-        "amorphous",
-        "euclid",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Not Noodles"
+        "8bitbreadbox"
       ]
     }
   ]

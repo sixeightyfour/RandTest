@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:47:19.157Z",
+  "updatedAt": "2026-09-06T01:48:57.446Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8957",
-      "title": "SCP-8957",
-      "alternateTitle": "Break A Leg!",
-      "rating": 10,
-      "createdAt": "2025-10-03T15:43:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-968",
+      "title": "SCP-ZH-968",
+      "alternateTitle": "As the \"Ghost of Kyiv\" emerges……",
+      "rating": 17,
+      "createdAt": "2022-12-05T06:17:26.000Z",
       "tags": [
-        "building",
-        "euclid",
-        "phenomenon",
+        "concept",
+        "historical",
+        "international",
+        "memory-affecting",
+        "military",
+        "reality-bending",
         "scp",
-        "skeletal"
+        "tactical-theology",
+        "ticonderoga"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "7eventy7evenfold"
+        "Edward_Knave",
+        "Edward_Knave"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7121",
-      "title": "SCP-7121",
-      "alternateTitle": "come, the pale wind's hound",
-      "rating": 7,
-      "createdAt": "2025-08-23T18:27:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9461",
+      "title": "Case File 9461: Disciplinary Hearing of M. Stone",
+      "alternateTitle": "Disciplinary Hearing of M. Stone",
+      "rating": 8,
+      "createdAt": "2026-01-23T16:28:55.000Z",
       "tags": [
-        "extradimensional",
-        "keter",
-        "murder-monster",
-        "predatory",
+        "are-we-cool-yet",
+        "artifact",
+        "dumbcon2026-unofficial",
+        "ethics-committee",
+        "probability",
+        "reality-bending",
+        "rewritable",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Door_knob_%28AM_645455-2%29.jpg",
       "authors": [
-        "foxgirlknives"
+        "UlyssesBark"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9612",
-      "title": "SCP-9612",
-      "alternateTitle": "They Stood in the Fire",
-      "rating": 14,
-      "createdAt": "2025-11-02T16:30:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3119",
+      "title": "SCP-3119",
+      "alternateTitle": "Lord of the Dance",
+      "rating": 23,
+      "createdAt": "2017-11-18T13:35:55.000Z",
       "tags": [
-        "cognitohazard",
-        "fire",
-        "hallucination",
-        "mind-affecting",
-        "religious",
-        "ritual",
-        "safe",
+        "empathic",
+        "euclid",
+        "intangible",
         "scp",
-        "structure"
+        "sensory",
+        "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "8bitbreadbox"
+        "cara_donnelly"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:48:46.824Z",
+  "updatedAt": "2026-09-06T17:51:41.717Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7690",
-      "title": "SCP-7690",
-      "alternateTitle": "Baby Bones",
-      "rating": 22,
-      "createdAt": "2023-01-16T03:20:37.000Z",
-      "tags": [
-        "alive",
-        "cadaver",
-        "humanoid",
-        "keter",
-        "reproductive",
-        "scp",
-        "skeletal",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
-      "authors": [
-        "MaskedN00B"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8920",
-      "title": "SCP-8920",
-      "alternateTitle": "Predatory Hurricanes",
+      "url": "http://scp-wiki.wikidot.com/scp-7214",
+      "title": "SCP-7214",
+      "alternateTitle": "Banality",
       "rating": 23,
-      "createdAt": "2024-10-11T11:55:03.000Z",
+      "createdAt": "2023-07-14T05:22:04.000Z",
       "tags": [
-        "auditory",
-        "cognitohazard",
-        "ectoentropic",
-        "hallucination",
-        "keter",
-        "meteorological",
+        "acoustic",
+        "electrical",
+        "mind-affecting",
+        "olfactory",
+        "safe",
         "scp",
-        "uncontained",
-        "visual"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8920/Katrina/medium.jpg",
+      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
       "authors": [
-        "AgathyrsiVril"
+        "TheChunk"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7111",
-      "title": "SCP-7111",
-      "alternateTitle": "A World of Chance",
-      "rating": 24,
-      "createdAt": "2022-07-31T22:50:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4906",
+      "title": "SCP-4906",
+      "alternateTitle": "On the Sixth Month Gale",
+      "rating": 20,
+      "createdAt": "2019-06-02T06:53:28.000Z",
       "tags": [
-        "7000",
         "alive",
-        "apocalyptic",
-        "apollyon",
-        "audio",
-        "bleak",
-        "humanoid",
-        "neutralized",
-        "portal",
-        "reality-bending",
-        "sapient",
+        "animal",
+        "bird",
+        "cetacean",
+        "euclid",
+        "historical",
+        "magnetic",
+        "meteorological",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ClownSlayer"
+        "AKFrost"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3793",
+      "title": "SCP-3793",
+      "alternateTitle": "Spectral Punk Drive-By",
+      "rating": 14,
+      "createdAt": "2018-07-27T03:16:05.000Z",
+      "tags": [
+        "acoustic",
+        "ectoentropic",
+        "humanoid",
+        "intangible",
+        "media",
+        "musical",
+        "safe",
+        "sapient",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3793/picture1.jpg",
+      "authors": [
+        "Xhasqve_Onizpjan"
       ]
     }
   ]

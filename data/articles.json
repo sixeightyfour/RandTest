@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T01:48:57.446Z",
+  "updatedAt": "2026-09-06T11:48:46.824Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-968",
-      "title": "SCP-ZH-968",
-      "alternateTitle": "As the \"Ghost of Kyiv\" emerges……",
-      "rating": 17,
-      "createdAt": "2022-12-05T06:17:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7690",
+      "title": "SCP-7690",
+      "alternateTitle": "Baby Bones",
+      "rating": 22,
+      "createdAt": "2023-01-16T03:20:37.000Z",
       "tags": [
-        "concept",
-        "historical",
-        "international",
-        "memory-affecting",
-        "military",
-        "reality-bending",
+        "alive",
+        "cadaver",
+        "humanoid",
+        "keter",
+        "reproductive",
         "scp",
-        "tactical-theology",
-        "ticonderoga"
+        "skeletal",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
       "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
+        "MaskedN00B"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9461",
-      "title": "Case File 9461: Disciplinary Hearing of M. Stone",
-      "alternateTitle": "Disciplinary Hearing of M. Stone",
-      "rating": 8,
-      "createdAt": "2026-01-23T16:28:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8920",
+      "title": "SCP-8920",
+      "alternateTitle": "Predatory Hurricanes",
+      "rating": 23,
+      "createdAt": "2024-10-11T11:55:03.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artifact",
-        "dumbcon2026-unofficial",
-        "ethics-committee",
-        "probability",
+        "auditory",
+        "cognitohazard",
+        "ectoentropic",
+        "hallucination",
+        "keter",
+        "meteorological",
+        "scp",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8920/Katrina/medium.jpg",
+      "authors": [
+        "AgathyrsiVril"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7111",
+      "title": "SCP-7111",
+      "alternateTitle": "A World of Chance",
+      "rating": 24,
+      "createdAt": "2022-07-31T22:50:47.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "apocalyptic",
+        "apollyon",
+        "audio",
+        "bleak",
+        "humanoid",
+        "neutralized",
+        "portal",
         "reality-bending",
-        "rewritable",
-        "safe",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Door_knob_%28AM_645455-2%29.jpg",
-      "authors": [
-        "UlyssesBark"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3119",
-      "title": "SCP-3119",
-      "alternateTitle": "Lord of the Dance",
-      "rating": 23,
-      "createdAt": "2017-11-18T13:35:55.000Z",
-      "tags": [
-        "empathic",
-        "euclid",
-        "intangible",
-        "scp",
-        "sensory",
-        "telepathic"
-      ],
       "thumbnailUrl": "",
       "authors": [
-        "cara_donnelly"
+        "ClownSlayer"
       ]
     }
   ]

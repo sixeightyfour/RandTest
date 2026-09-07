@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:46:44.957Z",
+  "updatedAt": "2026-09-07T19:29:38.551Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7843",
-      "title": "SCP-7843",
-      "alternateTitle": "Project E.L.A.I.N.E.",
-      "rating": 5,
-      "createdAt": "2024-12-25T06:29:21.000Z",
-      "tags": [
-        "biological",
-        "computer",
-        "euclid",
-        "language",
-        "robotic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/12lightyears.gif",
-      "authors": [
-        "Dr Spaghet"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8791",
-      "title": "SCP-8791",
-      "alternateTitle": "Walk Like an Egyptian",
-      "rating": 22,
-      "createdAt": "2024-12-28T11:09:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9138",
+      "title": "SCP-9138",
+      "alternateTitle": "The Manner of Fishes",
+      "rating": 17,
+      "createdAt": "2026-01-04T00:28:34.000Z",
       "tags": [
         "afterlife",
-        "art-exchange",
-        "esoteric-class",
-        "religious",
-        "scp",
-        "tactical-theology",
-        "ticonderoga"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8791/scales.jpg",
-      "authors": [
-        "AlienSpaceBat"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-198-it",
-      "title": "SCP-198-IT",
-      "alternateTitle": "The Duck with Balls",
-      "rating": 6,
-      "createdAt": "2025-06-18T12:04:06.000Z",
-      "tags": [
-        "animal",
-        "aquatic",
-        "bird",
+        "alien",
+        "empathic",
         "euclid",
-        "hostile",
-        "international",
+        "extraterrestrial",
+        "phenomenon",
+        "religious",
+        "sapient",
         "scp",
-        "sexual"
+        "species",
+        "thaumaturgy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DeKoder",
-        "DeKoder"
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6652",
+      "title": "SCP-6652",
+      "alternateTitle": "Of Pigment And Pain",
+      "rating": 22,
+      "createdAt": "2021-12-11T22:57:43.000Z",
+      "tags": [
+        "artistic",
+        "auditory",
+        "cognitohazard",
+        "document",
+        "gustatory",
+        "observational",
+        "olfactory",
+        "safe",
+        "scp",
+        "sensory",
+        "tactile",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Skrill78"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-084-vn",
+      "title": "SCP-084-VN",
+      "alternateTitle": "The Founding Frogs of Capitalism",
+      "rating": 17,
+      "createdAt": "2024-09-04T16:03:38.000Z",
+      "tags": [
+        "amphibian",
+        "animal",
+        "esoteric-class",
+        "international",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "https://khoaigarret.wikidot.com/local--files/kirq-pic/sirfrog1.jpg",
+      "authors": [
+        "KirQ",
+        "Dept",
+        "dreadfulfakey"
       ]
     }
   ]

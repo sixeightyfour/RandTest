@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:45:52.387Z",
+  "updatedAt": "2026-09-07T13:46:44.957Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8284",
-      "title": "SCP-8284",
-      "alternateTitle": "You are somewhere else. I am still right here.",
-      "rating": 22,
-      "createdAt": "2025-06-05T04:22:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7843",
+      "title": "SCP-7843",
+      "alternateTitle": "Project E.L.A.I.N.E.",
+      "rating": 5,
+      "createdAt": "2024-12-25T06:29:21.000Z",
       "tags": [
-        "location",
-        "safe",
-        "scp",
-        "temporal"
+        "biological",
+        "computer",
+        "euclid",
+        "language",
+        "robotic",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8284/Spooky%20hall.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/12lightyears.gif",
       "authors": [
-        "AnomalySource"
+        "Dr Spaghet"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6492",
-      "title": "SCP-6492",
-      "alternateTitle": "The Little Robot in the Little Glade",
-      "rating": 21,
-      "createdAt": "2022-08-12T15:32:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8791",
+      "title": "SCP-8791",
+      "alternateTitle": "Walk Like an Egyptian",
+      "rating": 22,
+      "createdAt": "2024-12-28T11:09:09.000Z",
       "tags": [
+        "afterlife",
+        "art-exchange",
+        "esoteric-class",
+        "religious",
+        "scp",
+        "tactical-theology",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8791/scales.jpg",
+      "authors": [
+        "AlienSpaceBat"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-198-it",
+      "title": "SCP-198-IT",
+      "alternateTitle": "The Duck with Balls",
+      "rating": 6,
+      "createdAt": "2025-06-18T12:04:06.000Z",
+      "tags": [
+        "animal",
+        "aquatic",
+        "bird",
         "euclid",
-        "plant",
-        "scp"
+        "hostile",
+        "international",
+        "scp",
+        "sexual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "KneeCola"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7945",
-      "title": "SCP-7945",
-      "alternateTitle": "Let there be me",
-      "rating": 9,
-      "createdAt": "2023-09-04T13:04:58.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "dream",
-        "infohazard",
-        "k-class-scenario",
-        "mind-affecting",
-        "raisa",
-        "reality-bending",
-        "religious",
-        "reproductive",
-        "reptile",
-        "scp",
-        "species",
-        "thaumiel",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7945/Gecko.jpg",
-      "authors": [
-        "Dr_Lamas"
+        "DeKoder",
+        "DeKoder"
       ]
     }
   ]

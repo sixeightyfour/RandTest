@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T19:29:38.551Z",
+  "updatedAt": "2026-09-08T01:57:23.011Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9138",
-      "title": "SCP-9138",
-      "alternateTitle": "The Manner of Fishes",
-      "rating": 17,
-      "createdAt": "2026-01-04T00:28:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7896",
+      "title": "SCP-7896",
+      "alternateTitle": "The Elysian Mirror",
+      "rating": 23,
+      "createdAt": "2023-06-06T04:25:22.000Z",
       "tags": [
-        "afterlife",
-        "alien",
         "empathic",
-        "euclid",
-        "extraterrestrial",
-        "phenomenon",
-        "religious",
-        "sapient",
+        "extradimensional",
+        "knowledge",
+        "neutralized",
+        "portal",
+        "satellite",
         "scp",
-        "species",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "whenwerewe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6652",
-      "title": "SCP-6652",
-      "alternateTitle": "Of Pigment And Pain",
-      "rating": 22,
-      "createdAt": "2021-12-11T22:57:43.000Z",
-      "tags": [
-        "artistic",
-        "auditory",
-        "cognitohazard",
-        "document",
-        "gustatory",
-        "observational",
-        "olfactory",
-        "safe",
-        "scp",
-        "sensory",
-        "tactile",
         "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7896/Mirror.png",
       "authors": [
-        "Skrill78"
+        "Marceline_Raynes"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-084-vn",
-      "title": "SCP-084-VN",
-      "alternateTitle": "The Founding Frogs of Capitalism",
-      "rating": 17,
-      "createdAt": "2024-09-04T16:03:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9037",
+      "title": "SCP-9037",
+      "alternateTitle": "Theseus' Goose",
+      "rating": 7,
+      "createdAt": "2025-09-21T21:00:36.000Z",
       "tags": [
-        "amphibian",
+        "9000",
+        "absurdism",
+        "alive",
         "animal",
-        "esoteric-class",
-        "international",
+        "bird",
+        "co-authored",
+        "cognitohazard",
+        "extradimensional",
+        "infohazard",
+        "memetic",
+        "safe",
+        "science-fiction",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
+      "authors": [
+        "Anythingpig",
+        "idi0cy",
+        "RatseerOfRattesse"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6429",
+      "title": "SCP-6429",
+      "alternateTitle": "Yeh-Teh",
+      "rating": 23,
+      "createdAt": "2022-05-11T16:26:37.000Z",
+      "tags": [
+        "alive",
+        "cadaver",
+        "humanoid",
+        "media",
+        "photographic",
+        "reality-bending",
+        "safe",
         "scp",
         "species"
       ],
-      "thumbnailUrl": "https://khoaigarret.wikidot.com/local--files/kirq-pic/sirfrog1.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6429/magnus",
       "authors": [
-        "KirQ",
-        "Dept",
-        "dreadfulfakey"
+        "Bread_Tyrant"
       ]
     }
   ]

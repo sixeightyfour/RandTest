@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T12:21:58.615Z",
+  "updatedAt": "2026-09-08T19:07:01.158Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4562",
-      "title": "SCP-4562",
-      "alternateTitle": "Melody of your life",
-      "rating": 18,
-      "createdAt": "2019-10-23T17:28:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5684",
+      "title": "SCP-5684",
+      "alternateTitle": "Every Single Star",
+      "rating": 15,
+      "createdAt": "2021-05-31T18:35:35.000Z",
       "tags": [
-        "hallucination",
-        "memory-affecting",
-        "musical",
-        "safe",
-        "scp",
-        "tool"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4562/39233817021_da0e3358c1_b.jpg",
-      "authors": [
-        "AgentAX"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8157",
-      "title": "SCP-8157",
-      "alternateTitle": "Arterial Collapse",
-      "rating": 18,
-      "createdAt": "2025-08-22T22:25:50.000Z",
-      "tags": [
-        "biological",
-        "blood",
-        "cadaver",
-        "foundation-personnel",
-        "humanoid",
-        "mobile",
-        "safe",
+        "inscription",
+        "light",
+        "loop",
+        "mind-affecting",
+        "neutralized",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OCuin"
+        "extasis"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7075",
-      "title": "SCP-7075",
-      "alternateTitle": "\"Twins\"",
-      "rating": 7,
-      "createdAt": "2022-07-30T01:42:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6638",
+      "title": "SCP-6638",
+      "alternateTitle": "To unify all under Heaven",
+      "rating": 17,
+      "createdAt": "2022-09-23T14:32:42.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "humanoid",
-        "safe",
-        "sapient",
+        "euclid",
+        "historical",
+        "memetic",
         "scp",
-        "telepathic"
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6638/qianlong-emperor.jpg",
       "authors": [
-        "redredred"
+        "ferdwrites"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-837-arc",
+      "title": "SCP-837-ARC",
+      "alternateTitle": "Weather Bug",
+      "rating": 14,
+      "createdAt": "2009-03-25T07:17:30.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "archived",
+        "butterfly",
+        "euclid",
+        "insect",
+        "meteorological",
+        "neutralized",
+        "scp",
+        "self-repairing",
+        "thermal"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-837-arc/scp837.jpg",
+      "authors": [
+        "Dr English"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:57:23.011Z",
+  "updatedAt": "2026-09-08T12:21:58.615Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7896",
-      "title": "SCP-7896",
-      "alternateTitle": "The Elysian Mirror",
-      "rating": 23,
-      "createdAt": "2023-06-06T04:25:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4562",
+      "title": "SCP-4562",
+      "alternateTitle": "Melody of your life",
+      "rating": 18,
+      "createdAt": "2019-10-23T17:28:25.000Z",
       "tags": [
-        "empathic",
-        "extradimensional",
-        "knowledge",
-        "neutralized",
-        "portal",
-        "satellite",
+        "hallucination",
+        "memory-affecting",
+        "musical",
+        "safe",
         "scp",
-        "visual"
+        "tool"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7896/Mirror.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4562/39233817021_da0e3358c1_b.jpg",
       "authors": [
-        "Marceline_Raynes"
+        "AgentAX"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9037",
-      "title": "SCP-9037",
-      "alternateTitle": "Theseus' Goose",
-      "rating": 7,
-      "createdAt": "2025-09-21T21:00:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8157",
+      "title": "SCP-8157",
+      "alternateTitle": "Arterial Collapse",
+      "rating": 18,
+      "createdAt": "2025-08-22T22:25:50.000Z",
       "tags": [
-        "9000",
-        "absurdism",
-        "alive",
-        "animal",
-        "bird",
-        "co-authored",
-        "cognitohazard",
-        "extradimensional",
-        "infohazard",
-        "memetic",
+        "biological",
+        "blood",
+        "cadaver",
+        "foundation-personnel",
+        "humanoid",
+        "mobile",
         "safe",
-        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
+      "thumbnailUrl": "",
       "authors": [
-        "Anythingpig",
-        "idi0cy",
-        "RatseerOfRattesse"
+        "OCuin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6429",
-      "title": "SCP-6429",
-      "alternateTitle": "Yeh-Teh",
-      "rating": 23,
-      "createdAt": "2022-05-11T16:26:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7075",
+      "title": "SCP-7075",
+      "alternateTitle": "\"Twins\"",
+      "rating": 7,
+      "createdAt": "2022-07-30T01:42:20.000Z",
       "tags": [
+        "7000",
         "alive",
-        "cadaver",
         "humanoid",
-        "media",
-        "photographic",
-        "reality-bending",
         "safe",
+        "sapient",
         "scp",
-        "species"
+        "telepathic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6429/magnus",
+      "thumbnailUrl": "",
       "authors": [
-        "Bread_Tyrant"
+        "redredred"
       ]
     }
   ]

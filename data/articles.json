@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:07:01.158Z",
+  "updatedAt": "2026-09-09T02:02:27.059Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5684",
-      "title": "SCP-5684",
-      "alternateTitle": "Every Single Star",
+      "url": "http://scp-wiki.wikidot.com/scp-7459",
+      "title": "SCP-7459",
+      "alternateTitle": "A Third Scion To Chase The Sky",
       "rating": 15,
-      "createdAt": "2021-05-31T18:35:35.000Z",
-      "tags": [
-        "inscription",
-        "light",
-        "loop",
-        "mind-affecting",
-        "neutralized",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "extasis"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6638",
-      "title": "SCP-6638",
-      "alternateTitle": "To unify all under Heaven",
-      "rating": 17,
-      "createdAt": "2022-09-23T14:32:42.000Z",
-      "tags": [
-        "euclid",
-        "historical",
-        "memetic",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6638/qianlong-emperor.jpg",
-      "authors": [
-        "ferdwrites"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-837-arc",
-      "title": "SCP-837-ARC",
-      "alternateTitle": "Weather Bug",
-      "rating": 14,
-      "createdAt": "2009-03-25T07:17:30.000Z",
+      "createdAt": "2022-08-31T19:51:42.000Z",
       "tags": [
         "alive",
         "animal",
-        "archived",
-        "butterfly",
-        "euclid",
-        "insect",
-        "meteorological",
-        "neutralized",
+        "canine",
+        "keter",
+        "location",
+        "moon",
+        "sapient",
         "scp",
-        "self-repairing",
-        "thermal"
+        "sun"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-837-arc/scp837.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr English"
+        "locomotivefaox"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9133",
+      "title": "SCP-9133",
+      "alternateTitle": "That Sinking Feeling",
+      "rating": 20,
+      "createdAt": "2026-01-31T21:12:21.000Z",
+      "tags": [
+        "archon",
+        "autonomous",
+        "deus-ex-machina",
+        "light",
+        "scp",
+        "sphere",
+        "teleportation",
+        "toy"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/that-sinking-feeling-nickthebrick1/BBall.jpg",
+      "authors": [
+        "Nickthebrick1"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-es-115",
+      "title": "SCP-ES-115",
+      "alternateTitle": "This is the Metro of Franco's Spain",
+      "rating": 24,
+      "createdAt": "2024-04-13T16:31:11.000Z",
+      "tags": [
+        "alive",
+        "cadaver",
+        "cognitohazard",
+        "international",
+        "predatory",
+        "safe",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-es-115/metro.jpg",
+      "authors": [
+        "Dr Reach",
+        "Uncle Nicolini"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T12:33:35.232Z",
+  "updatedAt": "2026-09-09T18:55:03.675Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,56 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3468",
-      "title": "SCP-3468",
-      "alternateTitle": "Very poor choice of words.",
-      "rating": 20,
-      "createdAt": "2026-01-22T19:58:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/protected:scp-7156",
+      "title": "SCP-7156",
+      "alternateTitle": "",
+      "rating": 21,
+      "createdAt": "2023-12-09T21:09:24.000Z",
       "tags": [
-        "alive",
-        "dado",
-        "euclid",
-        "extremity",
-        "humanoid",
-        "magnetic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Cremo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8431",
-      "title": "SCP-8431",
-      "alternateTitle": "The End Of May",
-      "rating": 15,
-      "createdAt": "2026-01-25T14:36:28.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "canine",
-        "computer",
-        "electronic",
-        "noosphere",
-        "pending",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "HedgehogInATree"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5171",
-      "title": "SCP-5171",
-      "alternateTitle": "Galuh's Rhyme",
-      "rating": 22,
-      "createdAt": "2021-02-14T05:00:46.000Z",
-      "tags": [
-        "computer",
-        "cupid2021",
-        "electronic",
+        "polyhedral",
+        "reality-bending",
         "safe",
-        "sapient",
+        "scp",
+        "toy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-7156/rubixcube.jpg",
+      "authors": [
+        "winkwonkboi"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1100-ko",
+      "title": "SCP-1100-KO",
+      "alternateTitle": "Infinite Monkey Theorem",
+      "rating": 13,
+      "createdAt": "2022-11-24T07:04:35.000Z",
+      "tags": [
+        "esoteric-class",
+        "international",
+        "probability",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Rigen"
+        "SSRI",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6347",
+      "title": "SCP-6347",
+      "alternateTitle": "Ularburong",
+      "rating": 19,
+      "createdAt": "2022-06-21T00:14:28.000Z",
+      "tags": [
+        "document",
+        "esoteric-class",
+        "meta",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cold_Nights"
       ]
     }
   ]

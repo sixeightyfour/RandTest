@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:02:27.059Z",
+  "updatedAt": "2026-09-09T12:33:35.232Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7459",
-      "title": "SCP-7459",
-      "alternateTitle": "A Third Scion To Chase The Sky",
+      "url": "http://scp-wiki.wikidot.com/scp-3468",
+      "title": "SCP-3468",
+      "alternateTitle": "Very poor choice of words.",
+      "rating": 20,
+      "createdAt": "2026-01-22T19:58:07.000Z",
+      "tags": [
+        "alive",
+        "dado",
+        "euclid",
+        "extremity",
+        "humanoid",
+        "magnetic",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Cremo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8431",
+      "title": "SCP-8431",
+      "alternateTitle": "The End Of May",
       "rating": 15,
-      "createdAt": "2022-08-31T19:51:42.000Z",
+      "createdAt": "2026-01-25T14:36:28.000Z",
       "tags": [
         "alive",
         "animal",
         "canine",
-        "keter",
-        "location",
-        "moon",
-        "sapient",
+        "computer",
+        "electronic",
+        "noosphere",
+        "pending",
         "scp",
-        "sun"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "locomotivefaox"
+        "HedgehogInATree"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9133",
-      "title": "SCP-9133",
-      "alternateTitle": "That Sinking Feeling",
-      "rating": 20,
-      "createdAt": "2026-01-31T21:12:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5171",
+      "title": "SCP-5171",
+      "alternateTitle": "Galuh's Rhyme",
+      "rating": 22,
+      "createdAt": "2021-02-14T05:00:46.000Z",
       "tags": [
-        "archon",
-        "autonomous",
-        "deus-ex-machina",
-        "light",
-        "scp",
-        "sphere",
-        "teleportation",
-        "toy"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/that-sinking-feeling-nickthebrick1/BBall.jpg",
-      "authors": [
-        "Nickthebrick1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-es-115",
-      "title": "SCP-ES-115",
-      "alternateTitle": "This is the Metro of Franco's Spain",
-      "rating": 24,
-      "createdAt": "2024-04-13T16:31:11.000Z",
-      "tags": [
-        "alive",
-        "cadaver",
-        "cognitohazard",
-        "international",
-        "predatory",
+        "computer",
+        "cupid2021",
+        "electronic",
         "safe",
-        "scp",
-        "subterranean"
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-es-115/metro.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr Reach",
-        "Uncle Nicolini"
+        "Rigen"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:59:33.921Z",
+  "updatedAt": "2026-09-10T12:27:35.944Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9293",
-      "title": "SCP-9293",
-      "alternateTitle": "VKTM and The Factory",
-      "rating": 15,
-      "createdAt": "2026-02-07T08:38:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9143",
+      "title": "SCP-9143",
+      "alternateTitle": "Lake Love",
+      "rating": 21,
+      "createdAt": "2026-01-07T07:17:36.000Z",
       "tags": [
-        "euclid",
-        "factory",
-        "polyhedral",
-        "scp",
-        "structure",
-        "vikander-kneed"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PSM_V39_D310_A_woolen_mule.jpg",
-      "authors": [
-        "Maplestrip"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7767",
-      "title": "SCP-7767",
-      "alternateTitle": "An End to All That is Good and Holy",
-      "rating": 23,
-      "createdAt": "2022-09-27T21:59:54.000Z",
-      "tags": [
-        "compulsion",
-        "esoteric-class",
-        "hostile",
-        "humanoid",
-        "religious",
-        "ritual",
+        "auditory",
+        "bittersweet",
+        "hallucination",
+        "location",
+        "safe",
         "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7767/priest.jpg",
-      "authors": [
-        "Blue Foot"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5341",
-      "title": "SCP-5341",
-      "alternateTitle": "The Knight",
-      "rating": 15,
-      "createdAt": "2021-06-01T19:18:27.000Z",
-      "tags": [
-        "cadaver",
-        "clothing",
-        "fire",
-        "humanoid",
-        "keter",
-        "sapient",
-        "scp",
-        "thermal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Thogri"
+        "IWasOnlyJustBorn"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9747",
+      "title": "SCP-9747",
+      "alternateTitle": "Secure Continere Praeservare",
+      "rating": 19,
+      "createdAt": "2025-10-04T02:29:19.000Z",
+      "tags": [
+        "9000",
+        "anafabula",
+        "apollyon",
+        "artificial-intelligence",
+        "autonomous",
+        "co-authored",
+        "electronic",
+        "foundation-made",
+        "narrative",
+        "reality-bending",
+        "sapient",
+        "science-fiction",
+        "scp",
+        "spatial",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg/960px-Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg?20230914190957",
+      "authors": [
+        "Cakoh",
+        "Lordmafika"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
+      "title": "SCP-102-VN",
+      "alternateTitle": "The Thread of Janus",
+      "rating": 24,
+      "createdAt": "2025-05-29T23:54:34.000Z",
+      "tags": [
+        "building",
+        "esoteric-class",
+        "global-occult-coalition",
+        "international",
+        "loop",
+        "meta",
+        "paradox",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
+      "authors": [
+        "Welpermander",
+        "Trackusus",
+        "Welpermander"
       ]
     }
   ]

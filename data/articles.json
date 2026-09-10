@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:27:35.944Z",
+  "updatedAt": "2026-09-10T18:48:24.841Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9143",
-      "title": "SCP-9143",
-      "alternateTitle": "Lake Love",
-      "rating": 21,
-      "createdAt": "2026-01-07T07:17:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8737",
+      "title": "SCP-8737",
+      "alternateTitle": "Flowers for Nemo",
+      "rating": 23,
+      "createdAt": "2025-08-22T22:41:03.000Z",
       "tags": [
-        "auditory",
-        "bittersweet",
-        "hallucination",
-        "location",
+        "alive",
+        "animal",
+        "cephalopod",
+        "daevite",
+        "document",
+        "mind-affecting",
         "safe",
-        "scp"
+        "scp",
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "IWasOnlyJustBorn"
+        "Booblesnoot"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9747",
-      "title": "SCP-9747",
-      "alternateTitle": "Secure Continere Praeservare",
-      "rating": 19,
-      "createdAt": "2025-10-04T02:29:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6286",
+      "title": "SCP-6286",
+      "alternateTitle": "Love keeps the world turning",
+      "rating": 14,
+      "createdAt": "2022-08-12T17:57:45.000Z",
       "tags": [
-        "9000",
-        "anafabula",
-        "apollyon",
-        "artificial-intelligence",
-        "autonomous",
-        "co-authored",
-        "electronic",
-        "foundation-made",
-        "narrative",
-        "reality-bending",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "spatial",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg/960px-Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg?20230914190957",
-      "authors": [
-        "Cakoh",
-        "Lordmafika"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
-      "title": "SCP-102-VN",
-      "alternateTitle": "The Thread of Janus",
-      "rating": 24,
-      "createdAt": "2025-05-29T23:54:34.000Z",
-      "tags": [
-        "building",
+        "artifact",
         "esoteric-class",
-        "global-occult-coalition",
-        "international",
-        "loop",
-        "meta",
-        "paradox",
-        "scp",
-        "temporal"
+        "k-class-scenario",
+        "religious",
+        "scp"
       ],
-      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2018/10/27/18/35/plumule-3777223_960_720.jpg",
       "authors": [
-        "Welpermander",
-        "Trackusus",
-        "Welpermander"
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3472",
+      "title": "SCP-3472",
+      "alternateTitle": "Mother Loves her Baby",
+      "rating": 22,
+      "createdAt": "2018-08-03T00:46:45.000Z",
+      "tags": [
+        "artifact",
+        "biohazard",
+        "building",
+        "indestructible",
+        "k-class-scenario",
+        "keter",
+        "light",
+        "mystery",
+        "otherworldly",
+        "romance",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3472/DaughterAnne.jpg",
+      "authors": [
+        "UraniumEmpire"
       ]
     }
   ]

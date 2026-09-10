@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T18:55:03.675Z",
+  "updatedAt": "2026-09-10T01:59:33.921Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,56 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/protected:scp-7156",
-      "title": "SCP-7156",
-      "alternateTitle": "",
-      "rating": 21,
-      "createdAt": "2023-12-09T21:09:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9293",
+      "title": "SCP-9293",
+      "alternateTitle": "VKTM and The Factory",
+      "rating": 15,
+      "createdAt": "2026-02-07T08:38:06.000Z",
       "tags": [
+        "euclid",
+        "factory",
         "polyhedral",
-        "reality-bending",
-        "safe",
         "scp",
-        "toy"
+        "structure",
+        "vikander-kneed"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-7156/rubixcube.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PSM_V39_D310_A_woolen_mule.jpg",
       "authors": [
-        "winkwonkboi"
+        "Maplestrip"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1100-ko",
-      "title": "SCP-1100-KO",
-      "alternateTitle": "Infinite Monkey Theorem",
-      "rating": 13,
-      "createdAt": "2022-11-24T07:04:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7767",
+      "title": "SCP-7767",
+      "alternateTitle": "An End to All That is Good and Holy",
+      "rating": 23,
+      "createdAt": "2022-09-27T21:59:54.000Z",
       "tags": [
+        "compulsion",
         "esoteric-class",
-        "international",
-        "probability",
+        "hostile",
+        "humanoid",
+        "religious",
+        "ritual",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7767/priest.jpg",
       "authors": [
-        "SSRI",
-        "fluxman"
+        "Blue Foot"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6347",
-      "title": "SCP-6347",
-      "alternateTitle": "Ularburong",
-      "rating": 19,
-      "createdAt": "2022-06-21T00:14:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5341",
+      "title": "SCP-5341",
+      "alternateTitle": "The Knight",
+      "rating": 15,
+      "createdAt": "2021-06-01T19:18:27.000Z",
       "tags": [
-        "document",
-        "esoteric-class",
-        "meta",
-        "scp"
+        "cadaver",
+        "clothing",
+        "fire",
+        "humanoid",
+        "keter",
+        "sapient",
+        "scp",
+        "thermal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cold_Nights"
+        "Thogri"
       ]
     }
   ]

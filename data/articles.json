@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:57:46.093Z",
+  "updatedAt": "2026-09-11T12:25:49.867Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6155",
-      "title": "SCP-6155",
-      "alternateTitle": "Blood Related",
-      "rating": 22,
-      "createdAt": "2021-12-08T02:56:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9061",
+      "title": "SCP-9061",
+      "alternateTitle": "Soviet Seperation Anxiety",
+      "rating": 7,
+      "createdAt": "2026-03-09T01:33:19.000Z",
       "tags": [
-        "alive",
-        "auditory",
-        "cadaver",
-        "hallucination",
-        "humanoid",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Aleph-Null"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 16,
-      "createdAt": "2022-08-13T02:47:23.000Z",
-      "tags": [
-        "biological",
-        "building",
-        "euclid",
-        "fifthist",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3119",
-      "title": "SCP-3119",
-      "alternateTitle": "Lord of the Dance",
-      "rating": 23,
-      "createdAt": "2017-11-18T13:35:55.000Z",
-      "tags": [
-        "empathic",
-        "euclid",
-        "intangible",
+        "aquatic",
+        "gru-division-p",
+        "neutralized",
         "scp",
-        "sensory",
-        "telepathic"
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9061/sub/medium.jpg",
+      "authors": [
+        "CN Productions"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-sga-009",
+      "title": "SCP-SGA-009",
+      "alternateTitle": "The Big Yellow One's The Sun!",
+      "rating": 11,
+      "createdAt": "2025-05-21T16:24:07.000Z",
+      "tags": [
+        "extraterrestrial",
+        "international",
+        "keter",
+        "sapient",
+        "scp",
+        "sun",
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cara_donnelly"
+        "Anonymous",
+        "MasterTman2"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6753",
+      "title": "SCP-6753",
+      "alternateTitle": "Intricacies",
+      "rating": 19,
+      "createdAt": "2022-05-26T14:42:50.000Z",
+      "tags": [
+        "animal",
+        "neutralized",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cold_Nights"
       ]
     }
   ]

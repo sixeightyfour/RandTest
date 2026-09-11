@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:48:24.841Z",
+  "updatedAt": "2026-09-11T01:57:46.093Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8737",
-      "title": "SCP-8737",
-      "alternateTitle": "Flowers for Nemo",
-      "rating": 23,
-      "createdAt": "2025-08-22T22:41:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6155",
+      "title": "SCP-6155",
+      "alternateTitle": "Blood Related",
+      "rating": 22,
+      "createdAt": "2021-12-08T02:56:17.000Z",
       "tags": [
         "alive",
-        "animal",
-        "cephalopod",
-        "daevite",
-        "document",
-        "mind-affecting",
+        "auditory",
+        "cadaver",
+        "hallucination",
+        "humanoid",
         "safe",
-        "scp",
-        "transfiguration"
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Booblesnoot"
+        "Aleph-Null"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6286",
-      "title": "SCP-6286",
-      "alternateTitle": "Love keeps the world turning",
-      "rating": 14,
-      "createdAt": "2022-08-12T17:57:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 16,
+      "createdAt": "2022-08-13T02:47:23.000Z",
       "tags": [
-        "artifact",
-        "esoteric-class",
-        "k-class-scenario",
-        "religious",
-        "scp"
-      ],
-      "thumbnailUrl": "https://cdn.pixabay.com/photo/2018/10/27/18/35/plumule-3777223_960_720.jpg",
-      "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3472",
-      "title": "SCP-3472",
-      "alternateTitle": "Mother Loves her Baby",
-      "rating": 22,
-      "createdAt": "2018-08-03T00:46:45.000Z",
-      "tags": [
-        "artifact",
-        "biohazard",
+        "biological",
         "building",
-        "indestructible",
-        "k-class-scenario",
-        "keter",
-        "light",
-        "mystery",
-        "otherworldly",
-        "romance",
+        "euclid",
+        "fifthist",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3472/DaughterAnne.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
       "authors": [
-        "UraniumEmpire"
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3119",
+      "title": "SCP-3119",
+      "alternateTitle": "Lord of the Dance",
+      "rating": 23,
+      "createdAt": "2017-11-18T13:35:55.000Z",
+      "tags": [
+        "empathic",
+        "euclid",
+        "intangible",
+        "scp",
+        "sensory",
+        "telepathic"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "cara_donnelly"
       ]
     }
   ]

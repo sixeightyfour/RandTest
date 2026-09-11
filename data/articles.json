@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T12:25:49.867Z",
+  "updatedAt": "2026-09-11T18:51:30.631Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9061",
-      "title": "SCP-9061",
-      "alternateTitle": "Soviet Seperation Anxiety",
-      "rating": 7,
-      "createdAt": "2026-03-09T01:33:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5262",
+      "title": "SCP-5262",
+      "alternateTitle": "It's Brittany Beach!",
+      "rating": 24,
+      "createdAt": "2021-03-22T21:44:46.000Z",
       "tags": [
-        "aquatic",
-        "gru-division-p",
-        "neutralized",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9061/sub/medium.jpg",
-      "authors": [
-        "CN Productions"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-sga-009",
-      "title": "SCP-SGA-009",
-      "alternateTitle": "The Big Yellow One's The Sun!",
-      "rating": 11,
-      "createdAt": "2025-05-21T16:24:07.000Z",
-      "tags": [
-        "extraterrestrial",
-        "international",
-        "keter",
-        "sapient",
-        "scp",
-        "sun",
-        "transmission"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Anonymous",
-        "MasterTman2"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6753",
-      "title": "SCP-6753",
-      "alternateTitle": "Intricacies",
-      "rating": 19,
-      "createdAt": "2022-05-26T14:42:50.000Z",
-      "tags": [
+        "alive",
         "animal",
-        "neutralized",
-        "scp",
-        "species"
+        "bird",
+        "jam-con2021",
+        "safe",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cold_Nights"
+        "Reyas"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6626",
+      "title": "SCP-6626",
+      "alternateTitle": "A s c e n d",
+      "rating": 17,
+      "createdAt": "2022-01-04T19:09:45.000Z",
+      "tags": [
+        "building",
+        "euclid",
+        "extradimensional",
+        "religious",
+        "scarlet-king",
+        "scp",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
+      "authors": [
+        "AgentAX"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8259",
+      "title": "SCP-8259",
+      "alternateTitle": "The Afanc",
+      "rating": 12,
+      "createdAt": "2025-12-06T10:13:41.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "aquatic",
+        "black-comedy",
+        "chaos-on-the-monolith",
+        "comedy",
+        "euclid",
+        "folklore-dept",
+        "from-120s-archives",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
+      "authors": [
+        "vilsolad"
       ]
     }
   ]

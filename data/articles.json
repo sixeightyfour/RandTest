@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T02:02:19.164Z",
+  "updatedAt": "2026-09-12T11:47:18.455Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,86 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7633",
-      "title": "SCP-7633",
-      "alternateTitle": "The Nuclear Vault",
-      "rating": 17,
-      "createdAt": "2023-03-17T07:32:12.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7265",
+      "title": "SCP-7265",
+      "alternateTitle": "Sweet Milk of the Desert",
+      "rating": 15,
+      "createdAt": "2023-08-18T22:21:55.000Z",
       "tags": [
-        "auditory",
-        "building",
-        "chaos-insurgency",
-        "compulsion",
+        "dream",
         "euclid",
-        "gustatory",
-        "hallucination",
         "location",
         "mind-affecting",
-        "neutralized",
-        "olfactory",
-        "scp",
-        "sensory",
-        "tactile"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7633/1599px-Schindler-Bunker_12883100793.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "SOMESKYRlMFAN"
+        "Ivellios Siannodel"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-102-ko",
-      "title": "SCP-102-KO",
-      "alternateTitle": "Destination",
-      "rating": 12,
-      "createdAt": "2022-09-28T05:20:15.000Z",
-      "tags": [
-        "building",
-        "city",
-        "compulsion",
-        "euclid",
-        "hallucination",
-        "humanoid",
-        "international",
-        "mind-affecting",
-        "portal",
-        "sapient",
-        "scp",
-        "sensory"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-102-ko/sea-bridge-1748162_1920.jpg",
-      "authors": [
-        "lanlanmag",
-        "Subervos"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/protected:scp-2721",
-      "title": "SCP-2721",
-      "alternateTitle": "",
+      "url": "http://scp-wiki.wikidot.com/scp-6782",
+      "title": "SCP-6782",
+      "alternateTitle": "SCP Souls",
       "rating": 20,
-      "createdAt": "2016-07-10T04:06:04.000Z",
+      "createdAt": "2025-07-24T12:44:08.000Z",
       "tags": [
-        "alien",
-        "amorphous",
-        "artistic",
-        "biological",
-        "bones",
-        "co-authored",
-        "euclid",
-        "extraterrestrial",
-        "lgbtq",
-        "online",
-        "sapient",
-        "satellite",
-        "science-fiction",
-        "scp",
-        "transmission",
-        "xenofiction"
+        "alive",
+        "hostile",
+        "humanoid",
+        "miniature",
+        "pending",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-2721/luna.png",
+      "thumbnailUrl": "",
       "authors": [
-        "DolphinSlugchugger",
-        "kinchtheknifeblade"
+        "Cremo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9065",
+      "title": "SCP-9065",
+      "alternateTitle": "Parasitic Depression Pants",
+      "rating": 23,
+      "createdAt": "2026-01-29T14:35:14.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "clothing",
+        "mind-affecting",
+        "parasitic",
+        "safe",
+        "scp",
+        "worm"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Unisex-Jogginghose.jpg",
+      "authors": [
+        "ClammyTime"
       ]
     }
   ]

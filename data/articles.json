@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T18:51:30.631Z",
+  "updatedAt": "2026-09-12T02:02:19.164Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,86 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5262",
-      "title": "SCP-5262",
-      "alternateTitle": "It's Brittany Beach!",
-      "rating": 24,
-      "createdAt": "2021-03-22T21:44:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7633",
+      "title": "SCP-7633",
+      "alternateTitle": "The Nuclear Vault",
+      "rating": 17,
+      "createdAt": "2023-03-17T07:32:12.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "bird",
-        "jam-con2021",
-        "safe",
-        "sapient",
-        "scp"
+        "auditory",
+        "building",
+        "chaos-insurgency",
+        "compulsion",
+        "euclid",
+        "gustatory",
+        "hallucination",
+        "location",
+        "mind-affecting",
+        "neutralized",
+        "olfactory",
+        "scp",
+        "sensory",
+        "tactile"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7633/1599px-Schindler-Bunker_12883100793.jpg",
       "authors": [
-        "Reyas"
+        "SOMESKYRlMFAN"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6626",
-      "title": "SCP-6626",
-      "alternateTitle": "A s c e n d",
-      "rating": 17,
-      "createdAt": "2022-01-04T19:09:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-102-ko",
+      "title": "SCP-102-KO",
+      "alternateTitle": "Destination",
+      "rating": 12,
+      "createdAt": "2022-09-28T05:20:15.000Z",
       "tags": [
         "building",
+        "city",
+        "compulsion",
         "euclid",
-        "extradimensional",
-        "religious",
-        "scarlet-king",
+        "hallucination",
+        "humanoid",
+        "international",
+        "mind-affecting",
+        "portal",
+        "sapient",
         "scp",
-        "subterranean"
+        "sensory"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6626/SCP6626.jpg",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-102-ko/sea-bridge-1748162_1920.jpg",
       "authors": [
-        "AgentAX"
+        "lanlanmag",
+        "Subervos"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8259",
-      "title": "SCP-8259",
-      "alternateTitle": "The Afanc",
-      "rating": 12,
-      "createdAt": "2025-12-06T10:13:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/protected:scp-2721",
+      "title": "SCP-2721",
+      "alternateTitle": "",
+      "rating": 20,
+      "createdAt": "2016-07-10T04:06:04.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "aquatic",
-        "black-comedy",
-        "chaos-on-the-monolith",
-        "comedy",
+        "alien",
+        "amorphous",
+        "artistic",
+        "biological",
+        "bones",
+        "co-authored",
         "euclid",
-        "folklore-dept",
-        "from-120s-archives",
+        "extraterrestrial",
+        "lgbtq",
+        "online",
         "sapient",
-        "scp"
+        "satellite",
+        "science-fiction",
+        "scp",
+        "transmission",
+        "xenofiction"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8259/Betws-y-coed_o'r_awyr_-_aerial_view_of_Betws-y-coed,_Gwynedd,_Wales_27.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/protected:scp-2721/luna.png",
       "authors": [
-        "vilsolad"
+        "DolphinSlugchugger",
+        "kinchtheknifeblade"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:55:12.564Z",
+  "updatedAt": "2026-09-13T18:24:34.564Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2015-jp",
-      "title": "SCP-2015-JP",
-      "alternateTitle": "Falling Dreams",
-      "rating": 7,
-      "createdAt": "2023-08-19T00:28:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8795",
+      "title": "SCP-8795",
+      "alternateTitle": "Heart of the Mountain",
+      "rating": 17,
+      "createdAt": "2026-01-27T20:57:50.000Z",
       "tags": [
-        "co-authored",
-        "dream",
-        "indestructible",
-        "international",
+        "geological",
+        "hostile",
         "keter",
+        "metamorphic",
+        "mimetic",
+        "mythological",
+        "our-open-veins",
+        "ritual",
+        "sapient",
         "scp",
-        "sleep",
+        "subterranean",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Okaka_Onigiri",
-        "solvex",
-        "AlienSpaceBat",
-        "Maxyfran73"
+        "Din-Bidor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7475",
-      "title": "SCP-7475",
-      "alternateTitle": "Makers of War",
+      "url": "http://scp-wiki.wikidot.com/scp-5439",
+      "title": "SCP-5439",
+      "alternateTitle": "Nose Itch",
       "rating": 21,
-      "createdAt": "2023-06-11T11:19:17.000Z",
+      "createdAt": "2021-09-21T20:36:02.000Z",
       "tags": [
-        "building",
-        "chaos-insurgency",
-        "empathic",
-        "mechanical",
-        "prometheus",
-        "safe",
+        "medical",
+        "mind-affecting",
+        "pending",
         "scp",
-        "weapon"
+        "sensory"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Zer0Ne0phyte"
+        "Nils Severin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-067",
-      "title": "SCP-PL-067",
-      "alternateTitle": "The dog that leapt through time",
-      "rating": 22,
-      "createdAt": "2020-08-15T14:32:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8370",
+      "title": "SCP-8370",
+      "alternateTitle": "Fangs for That",
+      "rating": 8,
+      "createdAt": "2025-06-03T15:22:05.000Z",
       "tags": [
-        "alive",
         "animal",
-        "canine",
-        "international",
-        "keter",
-        "neutralized",
+        "extradimensional",
+        "humanoid",
+        "mind-affecting",
+        "probability",
+        "safe",
+        "sapient",
         "scp",
-        "spatial",
         "temporal"
       ],
-      "thumbnailUrl": "http://scp-wiki.wdfiles.com/local--files/scp-pl-067/zE38UCh.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "JosephSolomon",
-        "BlazingPie"
+        "galaxy1220"
       ]
     }
   ]

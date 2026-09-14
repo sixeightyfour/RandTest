@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:24:34.564Z",
+  "updatedAt": "2026-09-14T02:14:46.369Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8795",
-      "title": "SCP-8795",
-      "alternateTitle": "Heart of the Mountain",
-      "rating": 17,
-      "createdAt": "2026-01-27T20:57:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9881",
+      "title": "SCP-9881",
+      "alternateTitle": "On the Harmful Effects of Chekhov's Gun",
+      "rating": 23,
+      "createdAt": "2026-01-24T06:52:32.000Z",
       "tags": [
-        "geological",
-        "hostile",
-        "keter",
-        "metamorphic",
-        "mimetic",
-        "mythological",
-        "our-open-veins",
-        "ritual",
-        "sapient",
-        "scp",
-        "subterranean",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Din-Bidor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5439",
-      "title": "SCP-5439",
-      "alternateTitle": "Nose Itch",
-      "rating": 21,
-      "createdAt": "2021-09-21T20:36:02.000Z",
-      "tags": [
-        "medical",
+        "absurdism",
+        "black-comedy",
+        "bureaucracy",
+        "comedy",
+        "euclid",
+        "military",
         "mind-affecting",
-        "pending",
-        "scp",
-        "sensory"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nils Severin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8370",
-      "title": "SCP-8370",
-      "alternateTitle": "Fangs for That",
-      "rating": 8,
-      "createdAt": "2025-06-03T15:22:05.000Z",
-      "tags": [
-        "animal",
-        "extradimensional",
-        "humanoid",
-        "mind-affecting",
+        "narrative",
         "probability",
+        "scp",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9881/gun.jpg",
+      "authors": [
+        "WaylandLaurencePan"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8466",
+      "title": "SCP-8466",
+      "alternateTitle": "Zombie",
+      "rating": 20,
+      "createdAt": "2025-07-06T04:44:50.000Z",
+      "tags": [
+        "autonomous",
+        "building",
+        "city",
+        "classiccon2025",
+        "ethics-committee",
+        "horror",
+        "humanoid",
+        "island",
+        "reanimation",
+        "religious",
         "safe",
         "sapient",
-        "scp",
-        "temporal"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "galaxy1220"
+        "V4Vernacular"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
+      "title": "SCP-CN-1256",
+      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
+      "rating": 12,
+      "createdAt": "2022-06-10T20:28:50.000Z",
+      "tags": [
+        "game",
+        "international",
+        "meta",
+        "metafiction",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Ninth BB",
+        "tetsusquared"
       ]
     }
   ]

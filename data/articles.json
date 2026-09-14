@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:14:46.369Z",
+  "updatedAt": "2026-09-14T14:32:31.549Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9881",
-      "title": "SCP-9881",
-      "alternateTitle": "On the Harmful Effects of Chekhov's Gun",
-      "rating": 23,
-      "createdAt": "2026-01-24T06:52:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-226-de",
+      "title": "SCP-226-DE",
+      "alternateTitle": "Knight Cuddle Steel",
+      "rating": 11,
+      "createdAt": "2022-09-15T11:35:02.000Z",
       "tags": [
-        "absurdism",
-        "black-comedy",
-        "bureaucracy",
-        "comedy",
         "euclid",
-        "military",
-        "mind-affecting",
-        "narrative",
-        "probability",
+        "international",
         "scp",
-        "weapon"
+        "toy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9881/gun.jpg",
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-226-de/Loewe1.jpg",
       "authors": [
-        "WaylandLaurencePan"
+        "Gramlin",
+        "Karpfisch"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8466",
-      "title": "SCP-8466",
-      "alternateTitle": "Zombie",
-      "rating": 20,
-      "createdAt": "2025-07-06T04:44:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6388",
+      "title": "SCP-6388",
+      "alternateTitle": "It Comes From Outer Space!",
+      "rating": 15,
+      "createdAt": "2022-04-21T02:21:30.000Z",
       "tags": [
-        "autonomous",
-        "building",
-        "city",
-        "classiccon2025",
-        "ethics-committee",
-        "horror",
+        "airborne",
+        "alive",
+        "extraterrestrial",
         "humanoid",
-        "island",
-        "reanimation",
-        "religious",
-        "safe",
+        "mechanical",
+        "mobile",
+        "neutralized",
         "sapient",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6388/OuterSpace.jpg",
+      "authors": [
+        "Felixou"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6853",
+      "title": "SCP-6853",
+      "alternateTitle": "Trial By Fire: Portable Deluxe Edition",
+      "rating": 18,
+      "createdAt": "2022-05-18T18:57:46.000Z",
+      "tags": [
+        "computer",
+        "electronic",
+        "game",
+        "mind-affecting",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6853/SCP-6853_Image_1/medium.jpg",
       "authors": [
-        "V4Vernacular"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
-      "title": "SCP-CN-1256",
-      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
-      "rating": 12,
-      "createdAt": "2022-06-10T20:28:50.000Z",
-      "tags": [
-        "game",
-        "international",
-        "meta",
-        "metafiction",
-        "scp",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Ninth BB",
-        "tetsusquared"
+        "Dr Count Laughter"
       ]
     }
   ]

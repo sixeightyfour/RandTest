@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:32:31.549Z",
+  "updatedAt": "2026-09-14T20:01:06.091Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-226-de",
-      "title": "SCP-226-DE",
-      "alternateTitle": "Knight Cuddle Steel",
-      "rating": 11,
-      "createdAt": "2022-09-15T11:35:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7338",
+      "title": "SCP-7338",
+      "alternateTitle": "“Hang in there, baby!”",
+      "rating": 16,
+      "createdAt": "2023-06-11T21:44:05.000Z",
       "tags": [
+        "addictive",
+        "artifact",
+        "empathic",
         "euclid",
-        "international",
-        "scp",
-        "toy"
+        "mind-affecting",
+        "observational",
+        "plague-doctor",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-226-de/Loewe1.jpg",
+      "thumbnailUrl": "",
+      "authors": [
+        "Juneybugey1"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8202",
+      "title": "SCP-8202",
+      "alternateTitle": "Enemies from Within",
+      "rating": 17,
+      "createdAt": "2024-08-15T06:53:43.000Z",
+      "tags": [
+        "airborne",
+        "biological",
+        "cadaver",
+        "extraterrestrial",
+        "humanoid",
+        "reptile",
+        "safe",
+        "scp",
+        "spatial",
+        "vehicle"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Delta_Nine"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-289-de",
+      "title": "SCP-289-DE",
+      "alternateTitle": "The Great Bazoo",
+      "rating": 11,
+      "createdAt": "2023-05-10T19:48:47.000Z",
+      "tags": [
+        "humanoid",
+        "international",
+        "keter",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
       "authors": [
         "Gramlin",
         "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6388",
-      "title": "SCP-6388",
-      "alternateTitle": "It Comes From Outer Space!",
-      "rating": 15,
-      "createdAt": "2022-04-21T02:21:30.000Z",
-      "tags": [
-        "airborne",
-        "alive",
-        "extraterrestrial",
-        "humanoid",
-        "mechanical",
-        "mobile",
-        "neutralized",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6388/OuterSpace.jpg",
-      "authors": [
-        "Felixou"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6853",
-      "title": "SCP-6853",
-      "alternateTitle": "Trial By Fire: Portable Deluxe Edition",
-      "rating": 18,
-      "createdAt": "2022-05-18T18:57:46.000Z",
-      "tags": [
-        "computer",
-        "electronic",
-        "game",
-        "mind-affecting",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6853/SCP-6853_Image_1/medium.jpg",
-      "authors": [
-        "Dr Count Laughter"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:21:01.256Z",
+  "updatedAt": "2026-09-15T12:58:44.411Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9323",
-      "title": "SCP-9323",
-      "alternateTitle": "77 People in a Clown Car; the Clown Car Doesn't Like It",
-      "rating": 4,
-      "createdAt": "2025-10-25T11:24:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8738",
+      "title": "SCP-8738",
+      "alternateTitle": "Prion Arterial Synthesis",
+      "rating": 22,
+      "createdAt": "2025-07-06T10:44:02.000Z",
       "tags": [
-        "cognitohazard",
-        "compulsion",
-        "euclid",
-        "sapient",
-        "scp",
-        "spatial",
-        "tactile",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9323/ClownCar.jpg",
-      "authors": [
-        "Fungus Man"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8207",
-      "title": "SCP-8207",
-      "alternateTitle": "The Mysteries of Sister Lúcia",
-      "rating": 15,
-      "createdAt": "2025-05-24T07:01:43.000Z",
-      "tags": [
-        "historical",
-        "intcanoncon2025",
+        "antimemetic",
+        "biohazard",
+        "biological",
+        "blood",
+        "classiccon2025",
+        "contagion",
         "keter",
-        "mystery",
-        "political",
-        "religious",
-        "religious-fiction",
+        "microscopic",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8738/imagen_2025-06-29_031734279.png",
       "authors": [
-        "CinematicDoctor"
+        "DiexC"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7411",
-      "title": "SCP-7411",
-      "alternateTitle": "The Hunt for Red Reality",
-      "rating": 16,
-      "createdAt": "2023-08-30T20:34:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9305",
+      "title": "SCP-9305",
+      "alternateTitle": "Quantum Taxi, Quantum Mind",
+      "rating": 14,
+      "createdAt": "2025-12-15T15:22:57.000Z",
       "tags": [
         "alive",
-        "doctor-scranton",
-        "extradimensional",
+        "esoteric-class",
+        "hive-mind",
         "humanoid",
-        "reality-bending",
-        "remixcon2023",
+        "memory-affecting",
+        "mind-affecting",
+        "neurological",
         "sapient",
-        "scp",
-        "thaumiel"
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dieter_Fellner_at_Visual_Computing_Trends_on_2015-01-29.jpg",
+      "thumbnailUrl": "https://i.postimg.cc/vZQKgmsT/South-African-Minibus.png",
       "authors": [
-        "Doctor Jiqian"
+        "WayBeyondFrost"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-088-it",
+      "title": "SCP-088-IT",
+      "alternateTitle": "Ailurophobia",
+      "rating": 15,
+      "createdAt": "2024-01-25T23:17:58.000Z",
+      "tags": [
+        "feline",
+        "gamers-against-weed",
+        "interactive",
+        "international",
+        "memetic",
+        "online",
+        "safe",
+        "scp",
+        "visual",
+        "wilsons-wildlife"
+      ],
+      "thumbnailUrl": "https://i.postimg.cc/VNRcDfFG/IMG-8250.png",
+      "authors": [
+        "yessss",
+        "Drss Selene"
       ]
     }
   ]

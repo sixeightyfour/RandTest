@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:01:06.091Z",
+  "updatedAt": "2026-09-15T02:21:01.256Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7338",
-      "title": "SCP-7338",
-      "alternateTitle": "“Hang in there, baby!”",
-      "rating": 16,
-      "createdAt": "2023-06-11T21:44:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9323",
+      "title": "SCP-9323",
+      "alternateTitle": "77 People in a Clown Car; the Clown Car Doesn't Like It",
+      "rating": 4,
+      "createdAt": "2025-10-25T11:24:51.000Z",
       "tags": [
-        "addictive",
-        "artifact",
-        "empathic",
+        "cognitohazard",
+        "compulsion",
         "euclid",
-        "mind-affecting",
-        "observational",
-        "plague-doctor",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Juneybugey1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8202",
-      "title": "SCP-8202",
-      "alternateTitle": "Enemies from Within",
-      "rating": 17,
-      "createdAt": "2024-08-15T06:53:43.000Z",
-      "tags": [
-        "airborne",
-        "biological",
-        "cadaver",
-        "extraterrestrial",
-        "humanoid",
-        "reptile",
-        "safe",
+        "sapient",
         "scp",
         "spatial",
+        "tactile",
         "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9323/ClownCar.jpg",
       "authors": [
-        "Delta_Nine"
+        "Fungus Man"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-289-de",
-      "title": "SCP-289-DE",
-      "alternateTitle": "The Great Bazoo",
-      "rating": 11,
-      "createdAt": "2023-05-10T19:48:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8207",
+      "title": "SCP-8207",
+      "alternateTitle": "The Mysteries of Sister Lúcia",
+      "rating": 15,
+      "createdAt": "2025-05-24T07:01:43.000Z",
       "tags": [
-        "humanoid",
-        "international",
+        "historical",
+        "intcanoncon2025",
         "keter",
-        "sapient",
+        "mystery",
+        "political",
+        "religious",
+        "religious-fiction",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--resized-images/scp-289-de/Bazoo1.jpeg/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "CinematicDoctor"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7411",
+      "title": "SCP-7411",
+      "alternateTitle": "The Hunt for Red Reality",
+      "rating": 16,
+      "createdAt": "2023-08-30T20:34:54.000Z",
+      "tags": [
+        "alive",
+        "doctor-scranton",
+        "extradimensional",
+        "humanoid",
+        "reality-bending",
+        "remixcon2023",
+        "sapient",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dieter_Fellner_at_Visual_Computing_Trends_on_2015-01-29.jpg",
+      "authors": [
+        "Doctor Jiqian"
       ]
     }
   ]

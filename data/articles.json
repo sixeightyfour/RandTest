@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:21:16.104Z",
+  "updatedAt": "2026-09-16T02:14:32.354Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8143",
-      "title": "SCP-8143",
-      "alternateTitle": "The Downvote",
-      "rating": 9,
-      "createdAt": "2025-04-03T17:38:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-744-arc",
+      "title": "SCP-744-ARC",
+      "alternateTitle": "Rust Monster",
+      "rating": -11,
+      "createdAt": "2008-10-09T16:07:56.000Z",
       "tags": [
-        "absurdism",
-        "apollyon",
-        "concept",
-        "historical",
-        "phenomenon",
+        "archived",
+        "autonomous",
+        "humanoid",
+        "keter",
+        "neutralized",
         "scp",
-        "transmission"
+        "self-repairing"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SoulEntity"
+        "Eberstrom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7075",
-      "title": "SCP-7075",
-      "alternateTitle": "\"Twins\"",
-      "rating": 7,
-      "createdAt": "2022-07-30T01:42:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7331",
+      "title": "SCP-7331",
+      "alternateTitle": "METASTASIZATION",
+      "rating": 24,
+      "createdAt": "2023-02-23T22:40:53.000Z",
       "tags": [
-        "7000",
-        "alive",
         "humanoid",
-        "safe",
+        "pending",
+        "reality-bending",
         "sapient",
         "scp",
-        "telepathic"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "redredred"
+        "Quicksilvers"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7513",
-      "title": "SCP-7513",
-      "alternateTitle": "Fuck Aliens!",
-      "rating": 21,
-      "createdAt": "2022-10-23T19:14:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-084-vn",
+      "title": "SCP-084-VN",
+      "alternateTitle": "The Founding Frogs of Capitalism",
+      "rating": 17,
+      "createdAt": "2024-09-04T16:03:38.000Z",
       "tags": [
-        "alive",
-        "euclid",
-        "extraterrestrial",
-        "humanoid",
-        "sapient",
+        "amphibian",
+        "animal",
+        "esoteric-class",
+        "international",
         "scp",
-        "sexual"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7513/Forrest.png",
+      "thumbnailUrl": "https://khoaigarret.wikidot.com/local--files/kirq-pic/sirfrog1.jpg",
       "authors": [
-        "Capriccio Farce"
+        "KirQ",
+        "Dept",
+        "dreadfulfakey"
       ]
     }
   ]

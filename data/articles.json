@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T12:55:42.821Z",
+  "updatedAt": "2026-09-16T19:11:27.740Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5362",
-      "title": "SCP-5362",
-      "alternateTitle": "The One with a Thousand Faces",
-      "rating": 24,
-      "createdAt": "2021-06-13T17:29:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9198",
+      "title": "SCP-9198",
+      "alternateTitle": "The Cold Below",
+      "rating": 21,
+      "createdAt": "2025-12-30T03:01:26.000Z",
       "tags": [
         "alive",
-        "euclid",
-        "folklore-dept",
-        "humanoid",
+        "global-occult-coalition",
+        "hive-mind",
+        "k-class-scenario",
+        "keter",
+        "meta",
         "metamorphic",
-        "mimetic",
-        "mind-affecting",
-        "observational",
-        "rodent",
-        "scp"
+        "meteorological",
+        "pentagram",
+        "reanimation",
+        "scp",
+        "skeletal",
+        "thermal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9198-0/montreal.jpg",
       "authors": [
-        "Bread_Tyrant"
+        "SleepyProto"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8581",
-      "title": "VNP-8581",
-      "alternateTitle": "Double Exposure",
-      "rating": 20,
-      "createdAt": "2025-01-14T17:21:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3247",
+      "title": "SCP-3247",
+      "alternateTitle": "Fishing for Angels",
+      "rating": 22,
+      "createdAt": "2023-09-05T22:07:32.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "bittersweet",
-        "esoteric-class",
-        "gamers-against-weed",
-        "lgbtq",
-        "no-return",
-        "romance",
+        "ectoentropic",
+        "euclid",
+        "gravity",
+        "location",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8581/wren.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "AlienSpaceBat"
+        "Fishish",
+        "SynthPanda_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8928",
-      "title": "SCP-8928",
-      "alternateTitle": "The Black Dog of The Pine Barrens",
-      "rating": 20,
-      "createdAt": "2026-02-11T23:24:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-500-ko",
+      "title": "SCP-500-KO",
+      "alternateTitle": "The Only Cure",
+      "rating": 7,
+      "createdAt": "2022-09-30T00:54:43.000Z",
       "tags": [
-        "animal",
-        "autonomous",
-        "canine",
-        "intangible",
-        "safe",
-        "scp"
+        "corporate",
+        "international",
+        "keter",
+        "medical",
+        "reality-bending",
+        "scp",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8928/New_Jersey_Pinelands_National_Reserve.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "UnstableStrafe"
+        "Fissh",
+        "Subervos"
       ]
     }
   ]

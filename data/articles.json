@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T12:51:54.579Z",
+  "updatedAt": "2026-09-17T19:23:43.990Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,81 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-410-fr",
-      "title": "SCP-410-FR",
-      "alternateTitle": "do not forbid me to dream anymore, Faustroll",
-      "rating": 17,
-      "createdAt": "2022-11-17T13:46:49.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3468",
+      "title": "SCP-3468",
+      "alternateTitle": "Very poor choice of words.",
+      "rating": 20,
+      "createdAt": "2026-01-22T19:58:07.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "document",
-        "historical",
-        "international",
-        "knowledge",
-        "mister",
-        "narrative",
-        "neutralized",
-        "pattern-screamer",
-        "reality-bending",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "http://fondationscp.wdfiles.com/local--files/scp-410-fr/faustroll.jpg",
-      "authors": [
-        "Felter Finalis",
-        "macro_au_micro"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7786",
-      "title": "SCP-7786",
-      "alternateTitle": "Die Hexennacht",
-      "rating": 14,
-      "createdAt": "2024-08-27T21:32:12.000Z",
-      "tags": [
-        "extradimensional",
-        "fire",
-        "folklore-dept",
-        "hostile",
-        "humanoid",
-        "k-class-scenario",
-        "keter",
-        "location",
-        "mages-academy",
-        "meteorological",
-        "religious",
-        "scp",
-        "thermodynamic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7786/Map.jpg",
-      "authors": [
-        "Dr Ch_M"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8722",
-      "title": "SCP-8722",
-      "alternateTitle": "Death, Decay, and Ignorance",
-      "rating": 6,
-      "createdAt": "2024-02-19T02:20:38.000Z",
-      "tags": [
-        "8000",
         "alive",
-        "extradimensional",
-        "hallucination",
+        "dado",
+        "euclid",
+        "extremity",
         "humanoid",
-        "neutralized",
-        "portal",
-        "predatory",
-        "sapient",
-        "scp",
-        "telepathic",
-        "tree"
+        "magnetic",
+        "scp"
       ],
-      "thumbnailUrl": "https://i.imgur.com/FKMufwb.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Nostellae"
+        "Cremo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6243",
+      "title": "SCP-6243",
+      "alternateTitle": "Frau Holle",
+      "rating": 15,
+      "createdAt": "2022-04-17T09:38:59.000Z",
+      "tags": [
+        "alive",
+        "ectoentropic",
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Evolie"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7843",
+      "title": "SCP-7843",
+      "alternateTitle": "Project E.L.A.I.N.E.",
+      "rating": 5,
+      "createdAt": "2024-12-25T06:29:21.000Z",
+      "tags": [
+        "biological",
+        "computer",
+        "euclid",
+        "language",
+        "robotic",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/12lightyears.gif",
+      "authors": [
+        "Dr Spaghet"
       ]
     }
   ]

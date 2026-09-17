@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T19:11:27.740Z",
+  "updatedAt": "2026-09-17T02:18:32.777Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9198",
-      "title": "SCP-9198",
-      "alternateTitle": "The Cold Below",
-      "rating": 21,
-      "createdAt": "2025-12-30T03:01:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1557-j",
+      "title": "SCP-1557-J",
+      "alternateTitle": "The Writer's Block",
+      "rating": 20,
+      "createdAt": "2019-08-19T02:52:57.000Z",
       "tags": [
-        "alive",
-        "global-occult-coalition",
-        "hive-mind",
-        "k-class-scenario",
-        "keter",
-        "meta",
-        "metamorphic",
-        "meteorological",
-        "pentagram",
-        "reanimation",
-        "scp",
-        "skeletal",
-        "thermal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9198-0/montreal.jpg",
-      "authors": [
-        "SleepyProto"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3247",
-      "title": "SCP-3247",
-      "alternateTitle": "Fishing for Angels",
-      "rating": 22,
-      "createdAt": "2023-09-05T22:07:32.000Z",
-      "tags": [
-        "ectoentropic",
-        "euclid",
-        "gravity",
-        "location",
+        "joke",
+        "knowledge",
+        "polyhedral",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fishish",
-        "SynthPanda_"
+        "Kyza"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-500-ko",
-      "title": "SCP-500-KO",
-      "alternateTitle": "The Only Cure",
-      "rating": 7,
-      "createdAt": "2022-09-30T00:54:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-529-ko",
+      "title": "SCP-529-KO",
+      "alternateTitle": "Aluminium Man's Heart is Always Hot with Dust Explosions",
+      "rating": 11,
+      "createdAt": "2024-06-25T08:06:34.000Z",
       "tags": [
-        "corporate",
+        "cognitohazard",
+        "extradimensional",
+        "hive-mind",
+        "humanoid",
         "international",
         "keter",
-        "medical",
-        "reality-bending",
+        "mind-affecting",
+        "sapient",
         "scp",
+        "self-repairing",
+        "spatial",
+        "swarm",
+        "teleportation",
         "uncontained"
+      ],
+      "thumbnailUrl": "http://scpkosb.wdfiles.com/local--files/draft%3Apayroy-4570-ffa5/SCP-529-KO.house",
+      "authors": [
+        "Payroy",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3273",
+      "title": "SCP-3273",
+      "alternateTitle": "Self-Performed Brain Editing Manual",
+      "rating": 17,
+      "createdAt": "2018-03-30T23:15:21.000Z",
+      "tags": [
+        "addictive",
+        "artifact",
+        "chemical",
+        "keter",
+        "medical",
+        "neurological",
+        "scp",
+        "sensory"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fissh",
-        "Subervos"
+        "Blibby_Blobfish"
       ]
     }
   ]

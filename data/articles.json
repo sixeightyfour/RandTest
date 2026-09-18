@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T12:28:04.761Z",
+  "updatedAt": "2026-09-18T18:43:39.819Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8556",
-      "title": "SCP-8556",
-      "alternateTitle": "Soul Music",
-      "rating": 17,
-      "createdAt": "2025-10-26T01:38:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6025",
+      "title": "SCP-6025",
+      "alternateTitle": "Those Who Still Fight",
+      "rating": 20,
+      "createdAt": "2021-07-03T03:35:21.000Z",
       "tags": [
-        "appliance",
-        "auditory",
-        "cognitohazard",
-        "electronic",
-        "hallucination",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Electronika-508_Video.jpg",
-      "authors": [
-        "TallShrimp"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7883",
-      "title": "SCP-7883",
-      "alternateTitle": "Bailan las Salitreras",
-      "rating": 23,
-      "createdAt": "2023-01-21T01:44:23.000Z",
-      "tags": [
-        "art-exchange",
-        "auditory",
-        "city",
-        "ghost",
-        "hallucination",
+        "autonomous",
+        "building",
         "historical",
         "humanoid",
-        "intangible",
-        "safe",
+        "keter",
+        "location",
+        "marshall-carter-and-dark",
+        "military",
+        "refining-clockworks",
+        "robotic",
+        "sapient",
         "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
-      "authors": [
-        "Maxyfran73"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
-      "title": "SCP-400-ARC",
-      "alternateTitle": "A Telephone Box",
-      "rating": 22,
-      "createdAt": "2008-07-30T20:28:40.000Z",
-      "tags": [
-        "appliance",
-        "archived",
-        "auditory",
-        "euclid",
-        "knowledge",
-        "scp"
+        "self-replicating",
+        "transmission",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrTVague"
+        "BookPenguin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9323",
+      "title": "SCP-9323",
+      "alternateTitle": "77 People in a Clown Car; the Clown Car Doesn't Like It",
+      "rating": 4,
+      "createdAt": "2025-10-25T11:24:51.000Z",
+      "tags": [
+        "cognitohazard",
+        "compulsion",
+        "euclid",
+        "sapient",
+        "scp",
+        "spatial",
+        "tactile",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9323/ClownCar.jpg",
+      "authors": [
+        "Fungus Man"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4761",
+      "title": "SCP-4761",
+      "alternateTitle": "Lost in Yesterday",
+      "rating": 18,
+      "createdAt": "2020-06-20T01:25:36.000Z",
+      "tags": [
+        "arcadia",
+        "co-authored",
+        "electronic",
+        "euclid",
+        "exchange",
+        "game",
+        "memory-affecting",
+        "online",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4761/arcadiadealer/medium.jpg",
+      "authors": [
+        "Anonymous",
+        "weizhong"
       ]
     }
   ]

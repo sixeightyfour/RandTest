@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:23:43.990Z",
+  "updatedAt": "2026-09-18T02:04:09.140Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3468",
-      "title": "SCP-3468",
-      "alternateTitle": "Very poor choice of words.",
-      "rating": 20,
-      "createdAt": "2026-01-22T19:58:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7456",
+      "title": "SCP-7456",
+      "alternateTitle": "A Bunch of Morons",
+      "rating": 15,
+      "createdAt": "2024-12-16T19:38:22.000Z",
       "tags": [
         "alive",
-        "dado",
-        "euclid",
-        "extremity",
+        "artificial-intelligence",
+        "building",
+        "cognitohazard",
+        "extraterrestrial",
         "humanoid",
-        "magnetic",
+        "safe",
+        "sapient",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Cremo"
+        "Captain_Wavzies"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6243",
-      "title": "SCP-6243",
-      "alternateTitle": "Frau Holle",
-      "rating": 15,
-      "createdAt": "2022-04-17T09:38:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
+      "title": "GPT-4546-J",
+      "alternateTitle": "Absolutely!",
+      "rating": 24,
+      "createdAt": "2025-10-09T02:25:59.000Z",
       "tags": [
         "alive",
-        "ectoentropic",
-        "euclid",
-        "extradimensional",
+        "comedy",
+        "gravity",
         "humanoid",
+        "joke",
+        "keter",
+        "memetic",
+        "meta",
+        "metafiction",
         "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Evolie"
+        "Lapiras"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7843",
-      "title": "SCP-7843",
-      "alternateTitle": "Project E.L.A.I.N.E.",
-      "rating": 5,
-      "createdAt": "2024-12-25T06:29:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8070",
+      "title": "SCP-8070",
+      "alternateTitle": "Stereoisomerism",
+      "rating": 17,
+      "createdAt": "2024-03-19T03:18:45.000Z",
       "tags": [
-        "biological",
-        "computer",
-        "euclid",
-        "language",
-        "robotic",
-        "scp"
+        "keter",
+        "phenomenon",
+        "scp",
+        "spatial",
+        "teleportation",
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/12lightyears.gif",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
       "authors": [
-        "Dr Spaghet"
+        "Dr Talcite"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T02:04:09.140Z",
+  "updatedAt": "2026-09-18T12:28:04.761Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7456",
-      "title": "SCP-7456",
-      "alternateTitle": "A Bunch of Morons",
-      "rating": 15,
-      "createdAt": "2024-12-16T19:38:22.000Z",
-      "tags": [
-        "alive",
-        "artificial-intelligence",
-        "building",
-        "cognitohazard",
-        "extraterrestrial",
-        "humanoid",
-        "safe",
-        "sapient",
-        "science-fiction",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Captain_Wavzies"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
-      "title": "GPT-4546-J",
-      "alternateTitle": "Absolutely!",
-      "rating": 24,
-      "createdAt": "2025-10-09T02:25:59.000Z",
-      "tags": [
-        "alive",
-        "comedy",
-        "gravity",
-        "humanoid",
-        "joke",
-        "keter",
-        "memetic",
-        "meta",
-        "metafiction",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Lapiras"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8070",
-      "title": "SCP-8070",
-      "alternateTitle": "Stereoisomerism",
+      "url": "http://scp-wiki.wikidot.com/scp-8556",
+      "title": "SCP-8556",
+      "alternateTitle": "Soul Music",
       "rating": 17,
-      "createdAt": "2024-03-19T03:18:45.000Z",
+      "createdAt": "2025-10-26T01:38:17.000Z",
       "tags": [
-        "keter",
-        "phenomenon",
-        "scp",
-        "spatial",
-        "teleportation",
-        "transfiguration"
+        "appliance",
+        "auditory",
+        "cognitohazard",
+        "electronic",
+        "hallucination",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8070/landfill.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Electronika-508_Video.jpg",
       "authors": [
-        "Dr Talcite"
+        "TallShrimp"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7883",
+      "title": "SCP-7883",
+      "alternateTitle": "Bailan las Salitreras",
+      "rating": 23,
+      "createdAt": "2023-01-21T01:44:23.000Z",
+      "tags": [
+        "art-exchange",
+        "auditory",
+        "city",
+        "ghost",
+        "hallucination",
+        "historical",
+        "humanoid",
+        "intangible",
+        "safe",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oficinas_salitreras_de_Humberstone_y_Santa_Laura%2C_Chile%2C_2016-02-11%2C_DD_53.jpg",
+      "authors": [
+        "Maxyfran73"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
+      "title": "SCP-400-ARC",
+      "alternateTitle": "A Telephone Box",
+      "rating": 22,
+      "createdAt": "2008-07-30T20:28:40.000Z",
+      "tags": [
+        "appliance",
+        "archived",
+        "auditory",
+        "euclid",
+        "knowledge",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrTVague"
       ]
     }
   ]

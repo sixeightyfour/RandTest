@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T02:08:27.388Z",
+  "updatedAt": "2026-09-19T12:08:43.637Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
-      "title": "GPT-4546-J",
-      "alternateTitle": "Absolutely!",
+      "url": "http://scp-wiki.wikidot.com/scp-7767",
+      "title": "SCP-7767",
+      "alternateTitle": "An End to All That is Good and Holy",
       "rating": 24,
-      "createdAt": "2025-10-09T02:25:59.000Z",
+      "createdAt": "2022-09-27T21:59:54.000Z",
       "tags": [
-        "alive",
-        "comedy",
-        "gravity",
+        "compulsion",
+        "esoteric-class",
+        "hostile",
         "humanoid",
-        "joke",
-        "keter",
-        "memetic",
-        "meta",
-        "metafiction",
-        "sapient",
+        "religious",
+        "ritual",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7767/priest.jpg",
+      "authors": [
+        "Blue Foot"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9202",
+      "title": "SCP-9202",
+      "alternateTitle": "The Glass Tree",
+      "rating": 13,
+      "createdAt": "2025-10-03T09:56:34.000Z",
+      "tags": [
+        "9000",
+        "apollyon",
+        "archon",
+        "deer-college",
+        "empathic",
+        "fantasy",
+        "mind-affecting",
+        "neurological",
+        "science-fiction",
+        "scp",
+        "thaumaturgy",
+        "three-portlands"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "BlueEyedFox_"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8687",
+      "title": "SCP-8687",
+      "alternateTitle": "FIRST FREE FULL GOSPEL SOUTHERN MEKHANITE CHURCH OF THE BROKEN HEART",
+      "rating": 22,
+      "createdAt": "2025-10-27T15:52:03.000Z",
+      "tags": [
+        "broken-god",
+        "euclid",
+        "location",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Lapiras"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8232",
-      "title": "SCP-8232",
-      "alternateTitle": "Likho",
-      "rating": 22,
-      "createdAt": "2024-10-19T07:22:56.000Z",
-      "tags": [
-        "arachnid",
-        "gaseous",
-        "horror",
-        "keter",
-        "murder-monster",
-        "predatory",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/drlerche10/Mokosh%20Tattoo",
-      "authors": [
-        "Dr Lerche"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-821-ko",
-      "title": "SCP-821-KO",
-      "alternateTitle": "Cutternion",
-      "rating": 12,
-      "createdAt": "2024-01-08T15:51:58.000Z",
-      "tags": [
-        "concept",
-        "international",
-        "mathematical",
-        "safe",
-        "scp",
-        "tool"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-821-ko/a.JPG",
-      "authors": [
-        "Bangja",
-        "fluxman"
+        "Letova"
       ]
     }
   ]

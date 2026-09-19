@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:08:43.637Z",
+  "updatedAt": "2026-09-19T18:16:23.977Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7767",
-      "title": "SCP-7767",
-      "alternateTitle": "An End to All That is Good and Holy",
-      "rating": 24,
-      "createdAt": "2022-09-27T21:59:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9092",
+      "title": "SCP-9092",
+      "alternateTitle": "End of the Stars",
+      "rating": 20,
+      "createdAt": "2026-01-28T15:42:58.000Z",
       "tags": [
-        "compulsion",
-        "esoteric-class",
-        "hostile",
-        "humanoid",
-        "religious",
-        "ritual",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7767/priest.jpg",
-      "authors": [
-        "Blue Foot"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9202",
-      "title": "SCP-9202",
-      "alternateTitle": "The Glass Tree",
-      "rating": 13,
-      "createdAt": "2025-10-03T09:56:34.000Z",
-      "tags": [
-        "9000",
-        "apollyon",
-        "archon",
-        "deer-college",
-        "empathic",
-        "fantasy",
-        "mind-affecting",
-        "neurological",
-        "science-fiction",
+        "artifact",
+        "bleak",
+        "extradimensional",
+        "planet",
+        "portal",
+        "safe",
         "scp",
-        "thaumaturgy",
-        "three-portlands"
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/end-of-the-stars/sky.jpg",
       "authors": [
-        "BlueEyedFox_"
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8687",
-      "title": "SCP-8687",
-      "alternateTitle": "FIRST FREE FULL GOSPEL SOUTHERN MEKHANITE CHURCH OF THE BROKEN HEART",
-      "rating": 22,
-      "createdAt": "2025-10-27T15:52:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8384",
+      "title": "SCP-8384",
+      "alternateTitle": "\"I still believe in kindness.\"",
+      "rating": 11,
+      "createdAt": "2025-07-20T19:37:10.000Z",
       "tags": [
-        "broken-god",
-        "euclid",
-        "location",
+        "anomalous-event",
+        "extraterrestrial",
+        "gravity",
+        "intangible",
+        "k-class-scenario",
+        "keter",
+        "portal",
+        "radioactive",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://live.staticflickr.com/65535/54504638522_e0bfac9557.jpg",
       "authors": [
-        "Letova"
+        "SynEnt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9062",
+      "title": "SCP-9062",
+      "alternateTitle": "The Tesseract",
+      "rating": 13,
+      "createdAt": "2025-12-28T12:02:54.000Z",
+      "tags": [
+        "art-exchange",
+        "euclid",
+        "extradimensional",
+        "metamorphic",
+        "polyhedral",
+        "scp",
+        "spatial",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sitooterie_II%2C_Barnards_Farm%2C_West_Horndon.jpg",
+      "authors": [
+        "UlyssesBark"
       ]
     }
   ]

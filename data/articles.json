@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:43:39.819Z",
+  "updatedAt": "2026-09-19T02:08:27.388Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,76 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6025",
-      "title": "SCP-6025",
-      "alternateTitle": "Those Who Still Fight",
-      "rating": 20,
-      "createdAt": "2021-07-03T03:35:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/gpt-4546-j",
+      "title": "GPT-4546-J",
+      "alternateTitle": "Absolutely!",
+      "rating": 24,
+      "createdAt": "2025-10-09T02:25:59.000Z",
       "tags": [
-        "autonomous",
-        "building",
-        "historical",
+        "alive",
+        "comedy",
+        "gravity",
         "humanoid",
+        "joke",
         "keter",
-        "location",
-        "marshall-carter-and-dark",
-        "military",
-        "refining-clockworks",
-        "robotic",
+        "memetic",
+        "meta",
+        "metafiction",
         "sapient",
-        "scp",
-        "self-replicating",
-        "transmission",
-        "weapon"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "BookPenguin"
+        "Lapiras"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9323",
-      "title": "SCP-9323",
-      "alternateTitle": "77 People in a Clown Car; the Clown Car Doesn't Like It",
-      "rating": 4,
-      "createdAt": "2025-10-25T11:24:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8232",
+      "title": "SCP-8232",
+      "alternateTitle": "Likho",
+      "rating": 22,
+      "createdAt": "2024-10-19T07:22:56.000Z",
       "tags": [
-        "cognitohazard",
-        "compulsion",
-        "euclid",
-        "sapient",
-        "scp",
-        "spatial",
-        "tactile",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9323/ClownCar.jpg",
-      "authors": [
-        "Fungus Man"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4761",
-      "title": "SCP-4761",
-      "alternateTitle": "Lost in Yesterday",
-      "rating": 18,
-      "createdAt": "2020-06-20T01:25:36.000Z",
-      "tags": [
-        "arcadia",
-        "co-authored",
-        "electronic",
-        "euclid",
-        "exchange",
-        "game",
-        "memory-affecting",
-        "online",
+        "arachnid",
+        "gaseous",
+        "horror",
+        "keter",
+        "murder-monster",
+        "predatory",
         "scp",
         "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4761/arcadiadealer/medium.jpg",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/drlerche10/Mokosh%20Tattoo",
       "authors": [
-        "Anonymous",
-        "weizhong"
+        "Dr Lerche"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-821-ko",
+      "title": "SCP-821-KO",
+      "alternateTitle": "Cutternion",
+      "rating": 12,
+      "createdAt": "2024-01-08T15:51:58.000Z",
+      "tags": [
+        "concept",
+        "international",
+        "mathematical",
+        "safe",
+        "scp",
+        "tool"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-821-ko/a.JPG",
+      "authors": [
+        "Bangja",
+        "fluxman"
       ]
     }
   ]

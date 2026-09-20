@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T02:14:37.099Z",
+  "updatedAt": "2026-09-20T12:43:57.782Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7392",
-      "title": "SCP-7392",
-      "alternateTitle": "Capgras' Gambit",
-      "rating": 19,
-      "createdAt": "2024-11-30T15:09:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8481",
+      "title": "SCP-8481",
+      "alternateTitle": "Our Little Box O’ Bones",
+      "rating": 14,
+      "createdAt": "2025-08-15T22:21:43.000Z",
       "tags": [
-        "computer",
-        "foundation-made",
-        "keter",
-        "phenomenon",
-        "predictive",
-        "scp"
+        "biological",
+        "cadaver",
+        "safe",
+        "scp",
+        "skeletal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-7392-1/CamerasA1.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Tiamat Elsen"
+        "mapleshrub"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6155",
-      "title": "SCP-6155",
-      "alternateTitle": "Blood Related",
-      "rating": 22,
-      "createdAt": "2021-12-08T02:56:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9950",
+      "title": "SCP-9950",
+      "alternateTitle": "Ideate, Decelerate, Abate.",
+      "rating": 17,
+      "createdAt": "2025-11-17T13:33:17.000Z",
       "tags": [
-        "alive",
-        "auditory",
-        "cadaver",
-        "hallucination",
-        "humanoid",
-        "safe",
+        "autonomous",
+        "children-of-the-torch",
+        "concept",
+        "esoteric-class",
+        "extradimensional",
+        "memetic",
+        "noosphere",
+        "parasitic",
         "sapient",
+        "sarkic",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Aleph-Null"
+        "poltatherian"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9918",
-      "title": "SCP-9918",
-      "alternateTitle": "L.U.C.I.D. Dreams",
-      "rating": 16,
-      "createdAt": "2026-03-03T20:38:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-sga-002",
+      "title": "SCP-SGA-002",
+      "alternateTitle": "Brain Freeze",
+      "rating": 12,
+      "createdAt": "2025-05-21T16:32:53.000Z",
       "tags": [
-        "artifact",
-        "chaos-on-the-monolith",
-        "co-authored",
-        "dream",
-        "euclid",
-        "extradimensional",
-        "hostile",
-        "humanoid",
-        "meta",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
-        "scp",
-        "spatial",
-        "telekinetic",
-        "teleportation"
+        "antimemetic",
+        "food",
+        "gustatory",
+        "international",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/225W_Tesla_coil_-_arcs4_%28cropped%29.jpg/1280px-225W_Tesla_coil_-_arcs4_%28cropped%29.jpg?_=20120330155156",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr F Otter",
-        "vilsolad"
+        "Deadly Bread",
+        "MasterTman2"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:43:57.782Z",
+  "updatedAt": "2026-09-20T18:22:06.490Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8481",
-      "title": "SCP-8481",
-      "alternateTitle": "Our Little Box O’ Bones",
-      "rating": 14,
-      "createdAt": "2025-08-15T22:21:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8506",
+      "title": "SCP-8506",
+      "alternateTitle": "Empirical Stairway",
+      "rating": 13,
+      "createdAt": "2025-07-05T22:24:09.000Z",
       "tags": [
-        "biological",
-        "cadaver",
+        "extradimensional",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unidentifiedgoober"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8213",
+      "title": "SCP-8213",
+      "alternateTitle": "The Baker's Spade",
+      "rating": 19,
+      "createdAt": "2025-05-15T18:34:52.000Z",
+      "tags": [
+        "fantasy",
+        "historical",
+        "intcanoncon2025",
+        "mystery",
         "safe",
         "scp",
-        "skeletal"
+        "thaumaturgy",
+        "tool"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8213/britesspade/medium.jpg",
       "authors": [
-        "mapleshrub"
+        "Deadcanons"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9950",
-      "title": "SCP-9950",
-      "alternateTitle": "Ideate, Decelerate, Abate.",
-      "rating": 17,
-      "createdAt": "2025-11-17T13:33:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9484",
+      "title": "SCP-9484",
+      "alternateTitle": "Circular Reasoning",
+      "rating": 10,
+      "createdAt": "2026-02-19T07:21:16.000Z",
       "tags": [
-        "autonomous",
-        "children-of-the-torch",
-        "concept",
+        "artifact",
         "esoteric-class",
-        "extradimensional",
-        "memetic",
-        "noosphere",
-        "parasitic",
-        "sapient",
-        "sarkic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "poltatherian"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-sga-002",
-      "title": "SCP-SGA-002",
-      "alternateTitle": "Brain Freeze",
-      "rating": 12,
-      "createdAt": "2025-05-21T16:32:53.000Z",
-      "tags": [
-        "antimemetic",
-        "food",
-        "gustatory",
-        "international",
         "safe",
-        "scp"
+        "science-fiction",
+        "scp",
+        "spatial",
+        "structure",
+        "temporal",
+        "time-travel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Deadly Bread",
-        "MasterTman2"
+        "OttoBrahestadt"
       ]
     }
   ]

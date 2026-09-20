@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:16:23.977Z",
+  "updatedAt": "2026-09-20T02:14:37.099Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9092",
-      "title": "SCP-9092",
-      "alternateTitle": "End of the Stars",
-      "rating": 20,
-      "createdAt": "2026-01-28T15:42:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7392",
+      "title": "SCP-7392",
+      "alternateTitle": "Capgras' Gambit",
+      "rating": 19,
+      "createdAt": "2024-11-30T15:09:09.000Z",
       "tags": [
-        "artifact",
-        "bleak",
-        "extradimensional",
-        "planet",
-        "portal",
-        "safe",
-        "scp",
-        "spatial",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/end-of-the-stars/sky.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8384",
-      "title": "SCP-8384",
-      "alternateTitle": "\"I still believe in kindness.\"",
-      "rating": 11,
-      "createdAt": "2025-07-20T19:37:10.000Z",
-      "tags": [
-        "anomalous-event",
-        "extraterrestrial",
-        "gravity",
-        "intangible",
-        "k-class-scenario",
+        "computer",
+        "foundation-made",
         "keter",
-        "portal",
-        "radioactive",
+        "phenomenon",
+        "predictive",
         "scp"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/65535/54504638522_e0bfac9557.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-7392-1/CamerasA1.png",
       "authors": [
-        "SynEnt"
+        "Tiamat Elsen"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9062",
-      "title": "SCP-9062",
-      "alternateTitle": "The Tesseract",
-      "rating": 13,
-      "createdAt": "2025-12-28T12:02:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6155",
+      "title": "SCP-6155",
+      "alternateTitle": "Blood Related",
+      "rating": 22,
+      "createdAt": "2021-12-08T02:56:17.000Z",
       "tags": [
-        "art-exchange",
+        "alive",
+        "auditory",
+        "cadaver",
+        "hallucination",
+        "humanoid",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Aleph-Null"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9918",
+      "title": "SCP-9918",
+      "alternateTitle": "L.U.C.I.D. Dreams",
+      "rating": 16,
+      "createdAt": "2026-03-03T20:38:22.000Z",
+      "tags": [
+        "artifact",
+        "chaos-on-the-monolith",
+        "co-authored",
+        "dream",
         "euclid",
         "extradimensional",
+        "hostile",
+        "humanoid",
+        "meta",
         "metamorphic",
-        "polyhedral",
+        "mind-affecting",
+        "observational",
         "scp",
         "spatial",
+        "telekinetic",
         "teleportation"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sitooterie_II%2C_Barnards_Farm%2C_West_Horndon.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/225W_Tesla_coil_-_arcs4_%28cropped%29.jpg/1280px-225W_Tesla_coil_-_arcs4_%28cropped%29.jpg?_=20120330155156",
       "authors": [
-        "UlyssesBark"
+        "Dr F Otter",
+        "vilsolad"
       ]
     }
   ]

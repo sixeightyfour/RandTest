@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:22:06.490Z",
+  "updatedAt": "2026-09-21T02:14:32.446Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8506",
-      "title": "SCP-8506",
-      "alternateTitle": "Empirical Stairway",
-      "rating": 13,
-      "createdAt": "2025-07-05T22:24:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8196",
+      "title": "SCP-8196",
+      "alternateTitle": "Lily/Gristle",
+      "rating": 17,
+      "createdAt": "2025-05-19T21:27:44.000Z",
       "tags": [
-        "extradimensional",
-        "safe",
+        "computer",
+        "esoteric-class",
+        "historical",
+        "language",
+        "memetic",
+        "online",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/lilygristle/Shoe%20Baby",
       "authors": [
-        "Unidentifiedgoober"
+        "MadHumanist"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8213",
-      "title": "SCP-8213",
-      "alternateTitle": "The Baker's Spade",
-      "rating": 19,
-      "createdAt": "2025-05-15T18:34:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8481",
+      "title": "SCP-8481",
+      "alternateTitle": "Our Little Box O’ Bones",
+      "rating": 14,
+      "createdAt": "2025-08-15T22:21:43.000Z",
       "tags": [
-        "fantasy",
-        "historical",
-        "intcanoncon2025",
-        "mystery",
+        "biological",
+        "cadaver",
         "safe",
         "scp",
-        "thaumaturgy",
-        "tool"
+        "skeletal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8213/britesspade/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Deadcanons"
+        "mapleshrub"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9484",
-      "title": "SCP-9484",
-      "alternateTitle": "Circular Reasoning",
-      "rating": 10,
-      "createdAt": "2026-02-19T07:21:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-9288-ex",
+      "title": "SCP-ZH-9288-EX",
+      "alternateTitle": "You are completely aware that you will never meet the person sitting next to you listening to your story ever again.",
+      "rating": 15,
+      "createdAt": "2022-09-02T07:19:25.000Z",
       "tags": [
-        "artifact",
+        "collaboration",
         "esoteric-class",
-        "safe",
-        "science-fiction",
+        "ethics-committee",
+        "explained",
+        "international",
+        "memory-affecting",
         "scp",
-        "spatial",
-        "structure",
-        "temporal",
-        "time-travel"
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-zh.wdfiles.com/local--files/railway/1SbxuocjyAsNaZOlaYhIaw.jpg",
       "authors": [
-        "OttoBrahestadt"
+        "Unihedron",
+        "Mang Gwan"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T14:40:13.662Z",
+  "updatedAt": "2026-09-21T20:11:07.416Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,81 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3247",
-      "title": "SCP-3247",
-      "alternateTitle": "Fishing for Angels",
+      "url": "http://scp-wiki.wikidot.com/scp-9986",
+      "title": "SCP-9986",
+      "alternateTitle": "Nostalgia Can",
       "rating": 22,
-      "createdAt": "2023-09-05T22:07:32.000Z",
+      "createdAt": "2025-12-28T00:41:52.000Z",
       "tags": [
-        "ectoentropic",
-        "euclid",
-        "gravity",
-        "location",
+        "bureaucracy",
+        "chemical",
+        "food",
+        "memory-affecting",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fishish",
-        "SynthPanda_"
+        "SierraBlade220"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-026-it",
-      "title": "SCP-026-IT",
-      "alternateTitle": "The Human Leech",
-      "rating": 10,
-      "createdAt": "2022-10-20T10:23:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8343",
+      "title": "SCP-8343",
+      "alternateTitle": "Slaying the Demiurge",
+      "rating": 12,
+      "createdAt": "2024-02-19T04:14:01.000Z",
       "tags": [
+        "8000",
+        "aaron-siegel",
         "alive",
-        "euclid",
+        "asci",
+        "blackwood",
+        "general-bowe",
+        "historical",
+        "hmfscp",
         "humanoid",
-        "international",
+        "light",
+        "metafiction",
+        "mind-affecting",
+        "neutralized",
+        "reality-bending",
+        "religious",
+        "reptile",
         "sapient",
-        "scp"
+        "scp",
+        "second-hytoth",
+        "thaumaturgy",
+        "the-administrator"
       ],
-      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-026-it/026-IT.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8343/God_de_Vader,_RP-P-1921-2144.jpg",
       "authors": [
-        "Dottssa_Riba_Nahi",
-        "Subervos"
+        "Comrade Waldo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6708",
-      "title": "SCP-6708",
-      "alternateTitle": "Breaking Hellfire",
-      "rating": 20,
-      "createdAt": "2021-10-23T03:35:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6943",
+      "title": "SCP-6943",
+      "alternateTitle": "Shootout In Chicago",
+      "rating": 24,
+      "createdAt": "2022-02-26T00:02:32.000Z",
       "tags": [
-        "abnormalities",
-        "auditory",
-        "hallucination",
-        "mechanical",
-        "pending",
+        "departmentcon2022",
+        "ectoentropic",
+        "geological",
+        "inscription",
+        "jewelry",
+        "meteorological",
+        "oria",
+        "religious",
+        "safe",
         "scp",
-        "tactile",
-        "tool"
+        "tactical-theology",
+        "telekinetic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6708/machine.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "NDHeckfire"
+        "Jack Ike"
       ]
     }
   ]

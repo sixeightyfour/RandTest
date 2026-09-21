@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:14:32.446Z",
+  "updatedAt": "2026-09-21T14:40:13.662Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8196",
-      "title": "SCP-8196",
-      "alternateTitle": "Lily/Gristle",
-      "rating": 17,
-      "createdAt": "2025-05-19T21:27:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3247",
+      "title": "SCP-3247",
+      "alternateTitle": "Fishing for Angels",
+      "rating": 22,
+      "createdAt": "2023-09-05T22:07:32.000Z",
       "tags": [
-        "computer",
-        "esoteric-class",
-        "historical",
-        "language",
-        "memetic",
-        "online",
+        "ectoentropic",
+        "euclid",
+        "gravity",
+        "location",
         "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/lilygristle/Shoe%20Baby",
-      "authors": [
-        "MadHumanist"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8481",
-      "title": "SCP-8481",
-      "alternateTitle": "Our Little Box O’ Bones",
-      "rating": 14,
-      "createdAt": "2025-08-15T22:21:43.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
-        "safe",
-        "scp",
-        "skeletal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "mapleshrub"
+        "Fishish",
+        "SynthPanda_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-9288-ex",
-      "title": "SCP-ZH-9288-EX",
-      "alternateTitle": "You are completely aware that you will never meet the person sitting next to you listening to your story ever again.",
-      "rating": 15,
-      "createdAt": "2022-09-02T07:19:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-026-it",
+      "title": "SCP-026-IT",
+      "alternateTitle": "The Human Leech",
+      "rating": 10,
+      "createdAt": "2022-10-20T10:23:34.000Z",
       "tags": [
-        "collaboration",
-        "esoteric-class",
-        "ethics-committee",
-        "explained",
+        "alive",
+        "euclid",
+        "humanoid",
         "international",
-        "memory-affecting",
-        "scp",
-        "vehicle"
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-zh.wdfiles.com/local--files/railway/1SbxuocjyAsNaZOlaYhIaw.jpg",
+      "thumbnailUrl": "http://fondazionescp.wdfiles.com/local--files/scp-026-it/026-IT.png",
       "authors": [
-        "Unihedron",
-        "Mang Gwan"
+        "Dottssa_Riba_Nahi",
+        "Subervos"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6708",
+      "title": "SCP-6708",
+      "alternateTitle": "Breaking Hellfire",
+      "rating": 20,
+      "createdAt": "2021-10-23T03:35:56.000Z",
+      "tags": [
+        "abnormalities",
+        "auditory",
+        "hallucination",
+        "mechanical",
+        "pending",
+        "scp",
+        "tactile",
+        "tool"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6708/machine.jpg",
+      "authors": [
+        "NDHeckfire"
       ]
     }
   ]

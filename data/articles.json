@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:55:33.297Z",
+  "updatedAt": "2026-09-22T19:21:36.257Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7035",
-      "title": "SCP-7035",
-      "alternateTitle": "Wonder Coast",
-      "rating": 18,
-      "createdAt": "2022-11-16T03:27:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5362",
+      "title": "SCP-5362",
+      "alternateTitle": "The One with a Thousand Faces",
+      "rating": 24,
+      "createdAt": "2021-06-13T17:29:05.000Z",
       "tags": [
         "alive",
-        "director-scout",
-        "esoteric-class",
-        "extradimensional",
+        "euclid",
+        "folklore-dept",
         "humanoid",
-        "pentagram",
-        "portal",
+        "metamorphic",
+        "mimetic",
+        "mind-affecting",
+        "observational",
+        "rodent",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
+      "authors": [
+        "Bread_Tyrant"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8492",
+      "title": "SCP-8492",
+      "alternateTitle": "Last Light",
+      "rating": 23,
+      "createdAt": "2025-12-12T15:12:20.000Z",
+      "tags": [
+        "alive",
+        "euclid",
+        "fire",
+        "humanoid",
+        "k-class-scenario",
+        "light",
+        "post-apocalyptic",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8492/SeedOfLight.png",
       "authors": [
-        "New_to_life"
+        "Tiamat Elsen"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5183",
-      "title": "SCP-5183",
-      "alternateTitle": "Under the Surface",
-      "rating": 17,
-      "createdAt": "2020-08-16T22:45:26.000Z",
-      "tags": [
-        "cognitohazard",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
-        "safe",
-        "scp",
-        "sensory",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Flopmind"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8977",
-      "title": "SCP-8977",
-      "alternateTitle": "People of Thūlē",
-      "rating": 14,
-      "createdAt": "2024-12-05T21:54:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7104",
+      "title": "SCP-7104",
+      "alternateTitle": "Hall of Damnation",
+      "rating": 11,
+      "createdAt": "2022-10-17T18:07:32.000Z",
       "tags": [
         "biological",
+        "building",
         "euclid",
-        "genetic",
-        "island",
-        "scp"
+        "scp",
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ASCII Tarot"
+        "AlmightyValentine"
       ]
     }
   ]

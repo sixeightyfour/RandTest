@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:19:14.451Z",
+  "updatedAt": "2026-09-22T12:55:33.297Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-560-fr",
-      "title": "SCP-560-FR",
-      "alternateTitle": "Pachydermonimbus",
-      "rating": 12,
-      "createdAt": "2025-07-01T02:08:07.000Z",
-      "tags": [
-        "airborne",
-        "animal",
-        "cadaver",
-        "esoteric-class",
-        "international",
-        "meteorological",
-        "scp",
-        "vibration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Dr Benji",
-        "MasterTman2"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6259",
-      "title": "SCP-6259",
-      "alternateTitle": "See The Means of Production",
-      "rating": 24,
-      "createdAt": "2022-06-13T14:06:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7035",
+      "title": "SCP-7035",
+      "alternateTitle": "Wonder Coast",
+      "rating": 18,
+      "createdAt": "2022-11-16T03:27:37.000Z",
       "tags": [
         "alive",
-        "animal",
-        "aquatic",
-        "euclid",
-        "ocular",
+        "director-scout",
+        "esoteric-class",
+        "extradimensional",
+        "humanoid",
+        "pentagram",
+        "portal",
         "sapient",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "J T K C"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-3668",
-      "title": "SCP-CN-3668",
-      "alternateTitle": "That's why we can't break free",
-      "rating": 13,
-      "createdAt": "2026-03-18T13:35:07.000Z",
-      "tags": [
-        "extraterrestrial",
-        "international",
-        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nightingale_FZ",
-        "Rovong"
+        "New_to_life"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5183",
+      "title": "SCP-5183",
+      "alternateTitle": "Under the Surface",
+      "rating": 17,
+      "createdAt": "2020-08-16T22:45:26.000Z",
+      "tags": [
+        "cognitohazard",
+        "metamorphic",
+        "mind-affecting",
+        "observational",
+        "safe",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Flopmind"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8977",
+      "title": "SCP-8977",
+      "alternateTitle": "People of Thūlē",
+      "rating": 14,
+      "createdAt": "2024-12-05T21:54:04.000Z",
+      "tags": [
+        "biological",
+        "euclid",
+        "genetic",
+        "island",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ASCII Tarot"
       ]
     }
   ]

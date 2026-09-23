@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T19:21:36.257Z",
+  "updatedAt": "2026-09-23T02:19:28.081Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,80 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5362",
-      "title": "SCP-5362",
-      "alternateTitle": "The One with a Thousand Faces",
-      "rating": 24,
-      "createdAt": "2021-06-13T17:29:05.000Z",
-      "tags": [
-        "alive",
-        "euclid",
-        "folklore-dept",
-        "humanoid",
-        "metamorphic",
-        "mimetic",
-        "mind-affecting",
-        "observational",
-        "rodent",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
-      "authors": [
-        "Bread_Tyrant"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8492",
-      "title": "SCP-8492",
-      "alternateTitle": "Last Light",
-      "rating": 23,
-      "createdAt": "2025-12-12T15:12:20.000Z",
-      "tags": [
-        "alive",
-        "euclid",
-        "fire",
-        "humanoid",
-        "k-class-scenario",
-        "light",
-        "post-apocalyptic",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8492/SeedOfLight.png",
-      "authors": [
-        "Tiamat Elsen"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7104",
-      "title": "SCP-7104",
-      "alternateTitle": "Hall of Damnation",
-      "rating": 11,
-      "createdAt": "2022-10-17T18:07:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1463",
+      "title": "SCP-CN-1463",
+      "alternateTitle": "Catgirl Training Plan",
+      "rating": 8,
+      "createdAt": "2022-05-18T23:14:33.000Z",
       "tags": [
         "biological",
-        "building",
-        "euclid",
+        "feline",
+        "humanoid",
+        "international",
+        "joicl",
+        "mind-affecting",
+        "neutralized",
+        "online",
         "scp",
-        "spatial",
-        "temporal"
+        "telepathic"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-int.wikidot.com/local--files/fragment:scp-cn-1463-01/nyan-musu.jpg",
       "authors": [
-        "AlmightyValentine"
+        "CaroyalKKaia",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7018",
+      "title": "SCP-7018",
+      "alternateTitle": "The Long Winding Road",
+      "rating": 21,
+      "createdAt": "2022-08-01T03:59:07.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "chaos-insurgency",
+        "co-authored",
+        "doctor-thereven",
+        "euclid",
+        "herman-fuller",
+        "humanoid",
+        "light",
+        "marshall-carter-and-dark",
+        "meta",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "serpents-hand",
+        "wandsmen"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clarice_Brown%2C_19%2C_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston%2C_West_Virginia_-_NARA_-_556470.jpg",
+      "authors": [
+        "Cole 13",
+        "MetalRavioli",
+        "TopDownUnder"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-139-it",
+      "title": "SCP-139-IT",
+      "alternateTitle": "Puppets, What a Passion!",
+      "rating": 11,
+      "createdAt": "2023-05-27T18:20:06.000Z",
+      "tags": [
+        "alagadda",
+        "autonomous",
+        "ectoentropic",
+        "hanged-king",
+        "international",
+        "performance",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-139-it/800px-Puppet_theater_01.webp",
+      "authors": [
+        "Mainardo",
+        "Roberto Turati"
       ]
     }
   ]

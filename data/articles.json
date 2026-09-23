@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:19:28.081Z",
+  "updatedAt": "2026-09-23T13:07:05.599Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,80 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1463",
-      "title": "SCP-CN-1463",
-      "alternateTitle": "Catgirl Training Plan",
-      "rating": 8,
-      "createdAt": "2022-05-18T23:14:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7235",
+      "title": "SCP-7235",
+      "alternateTitle": "The Knowledge",
+      "rating": 12,
+      "createdAt": "2023-04-22T11:42:06.000Z",
       "tags": [
-        "biological",
-        "feline",
-        "humanoid",
-        "international",
-        "joicl",
-        "mind-affecting",
-        "neutralized",
-        "online",
+        "compulsion",
+        "keter",
+        "reality-bending",
         "scp",
-        "telepathic"
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "http://scp-int.wikidot.com/local--files/fragment:scp-cn-1463-01/nyan-musu.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "CaroyalKKaia",
-        "tetsusquared"
+        "Unobtainium235"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7018",
-      "title": "SCP-7018",
-      "alternateTitle": "The Long Winding Road",
-      "rating": 21,
-      "createdAt": "2022-08-01T03:59:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9451",
+      "title": "SCP-9451",
+      "alternateTitle": "This Little Anomaly Went to Market",
+      "rating": 18,
+      "createdAt": "2026-03-04T18:43:09.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "chaos-insurgency",
-        "co-authored",
-        "doctor-thereven",
+        "animal",
+        "artificial-intelligence",
+        "broken-masquerade",
         "euclid",
-        "herman-fuller",
-        "humanoid",
-        "light",
-        "marshall-carter-and-dark",
-        "meta",
-        "reality-bending",
+        "extradimensional",
+        "global-occult-coalition",
+        "pig",
+        "robert-carter",
         "sapient",
         "scp",
-        "serpents-hand",
-        "wandsmen"
+        "thaumaturgy",
+        "unusual-incidents-unit"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clarice_Brown%2C_19%2C_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston%2C_West_Virginia_-_NARA_-_556470.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fetal_Pig_-_Forensics_class_%28MxCC%29.jpg",
       "authors": [
-        "Cole 13",
-        "MetalRavioli",
-        "TopDownUnder"
+        "Starofkrypton"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-139-it",
-      "title": "SCP-139-IT",
-      "alternateTitle": "Puppets, What a Passion!",
-      "rating": 11,
-      "createdAt": "2023-05-27T18:20:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9566",
+      "title": "SCP-9566",
+      "alternateTitle": "MAN OF SAND",
+      "rating": 22,
+      "createdAt": "2026-02-08T13:05:24.000Z",
       "tags": [
-        "alagadda",
+        "archaeological",
         "autonomous",
-        "ectoentropic",
-        "hanged-king",
-        "international",
-        "performance",
-        "safe",
-        "scp"
+        "historical",
+        "humanoid",
+        "keter",
+        "religious",
+        "sapient",
+        "scp",
+        "self-repairing",
+        "thaumaturgy",
+        "thermal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-139-it/800px-Puppet_theater_01.webp",
+      "thumbnailUrl": "",
       "authors": [
-        "Mainardo",
-        "Roberto Turati"
+        "opersup"
       ]
     }
   ]

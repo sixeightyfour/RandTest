@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:00:20.998Z",
+  "updatedAt": "2026-09-24T19:35:39.721Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8896",
-      "title": "SCP-8896",
-      "alternateTitle": "The Usual Customers",
-      "rating": 22,
-      "createdAt": "2025-05-30T17:03:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8157",
+      "title": "SCP-8157",
+      "alternateTitle": "Arterial Collapse",
+      "rating": 18,
+      "createdAt": "2025-08-22T22:25:50.000Z",
+      "tags": [
+        "biological",
+        "blood",
+        "cadaver",
+        "foundation-personnel",
+        "humanoid",
+        "mobile",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "OCuin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6769",
+      "title": "SCP-6769",
+      "alternateTitle": "Let It Fall Under Their Hands",
+      "rating": 8,
+      "createdAt": "2022-05-01T14:24:16.000Z",
       "tags": [
         "alive",
-        "chemical",
+        "clothing",
         "euclid",
-        "extradimensional",
+        "extremity",
+        "hostile",
         "humanoid",
-        "scp",
-        "teleportation"
+        "light",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/German_Gothic_Gauntlet_for_the_Left_Hand_MET_DP-12881-033.jpg",
       "authors": [
-        "Penton"
+        "SleepSpell"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9513",
-      "title": "SCP-9513",
-      "alternateTitle": "Friday, out at the field. Don't be late.",
-      "rating": 16,
-      "createdAt": "2026-01-25T15:30:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7235",
+      "title": "SCP-7235",
+      "alternateTitle": "The Knowledge",
+      "rating": 12,
+      "createdAt": "2023-04-22T11:42:06.000Z",
       "tags": [
-        "anomalous-event",
-        "apollyon",
-        "dumbcon2026-unofficial",
-        "extradimensional",
-        "hallucination",
-        "k-class-scenario",
-        "predictive",
-        "ritual",
+        "compulsion",
+        "keter",
+        "reality-bending",
         "scp",
-        "tactical-theology"
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unidentifiedgoober"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8538",
-      "title": "SCP-8538",
-      "alternateTitle": "The Labyrinthine Sepulcher of Kalantha",
-      "rating": 21,
-      "createdAt": "2025-06-17T00:10:31.000Z",
-      "tags": [
-        "ad-astra",
-        "adaptive",
-        "broken-god",
-        "esoteric-class",
-        "extraterrestrial",
-        "humanoid",
-        "inscription",
-        "mind-affecting",
-        "observational",
-        "planet",
-        "robotic",
-        "scp",
-        "space-opera",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8538/SoulNebulaGlitched.png",
-      "authors": [
-        "Azerzia"
+        "Unobtainium235"
       ]
     }
   ]

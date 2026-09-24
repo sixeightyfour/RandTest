@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T19:18:31.765Z",
+  "updatedAt": "2026-09-24T02:06:43.357Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3954",
-      "title": "SCP-3954",
-      "alternateTitle": "Scarecrow's Secrets",
-      "rating": 13,
-      "createdAt": "2018-07-26T21:33:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9144",
+      "title": "SCP-9144",
+      "alternateTitle": "Smooth Skin Lotion by the Holy Forth",
+      "rating": 8,
+      "createdAt": "2026-01-25T00:32:08.000Z",
       "tags": [
-        "biological",
-        "humanoid",
+        "chemical",
+        "dado",
+        "dumbcon2026-unofficial",
+        "liquid",
+        "medical",
+        "religious",
         "safe",
-        "sapient",
         "scp",
-        "telepathic"
+        "second-hytoth"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "InkSauce"
+        "22o9L"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-9288-ex",
-      "title": "SCP-ZH-9288-EX",
-      "alternateTitle": "You are completely aware that you will never meet the person sitting next to you listening to your story ever again.",
-      "rating": 15,
-      "createdAt": "2022-09-02T07:19:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6943",
+      "title": "SCP-6943",
+      "alternateTitle": "Shootout In Chicago",
+      "rating": 24,
+      "createdAt": "2022-02-26T00:02:32.000Z",
       "tags": [
-        "collaboration",
-        "esoteric-class",
-        "ethics-committee",
-        "explained",
-        "international",
-        "memory-affecting",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-zh.wdfiles.com/local--files/railway/1SbxuocjyAsNaZOlaYhIaw.jpg",
-      "authors": [
-        "Unihedron",
-        "Mang Gwan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7174",
-      "title": "SCP-7174",
-      "alternateTitle": "The Faith to Connect People",
-      "rating": 13,
-      "createdAt": "2023-01-04T19:25:25.000Z",
-      "tags": [
-        "coldpostcon",
-        "computer",
-        "foundation-made",
-        "portal",
+        "departmentcon2022",
+        "ectoentropic",
+        "geological",
+        "inscription",
+        "jewelry",
+        "meteorological",
+        "oria",
+        "religious",
         "safe",
         "scp",
-        "spatial",
         "tactical-theology",
-        "transmission"
+        "telekinetic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Rigen"
+        "Jack Ike"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6878",
+      "title": "SCP-6878",
+      "alternateTitle": "Art-Expon",
+      "rating": 20,
+      "createdAt": "2022-02-20T09:05:00.000Z",
+      "tags": [
+        "amorphous",
+        "artistic",
+        "cognitohazard",
+        "inscription",
+        "keter",
+        "liquid",
+        "mind-affecting",
+        "scp",
+        "sensory",
+        "transfiguration",
+        "uncontained",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6878/Letter.png",
+      "authors": [
+        "Doctor Zurvan"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:35:39.721Z",
+  "updatedAt": "2026-09-25T02:23:45.114Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8157",
-      "title": "SCP-8157",
-      "alternateTitle": "Arterial Collapse",
-      "rating": 18,
-      "createdAt": "2025-08-22T22:25:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7181",
+      "title": "SCP-7181",
+      "alternateTitle": "In Absentia Ego",
+      "rating": 12,
+      "createdAt": "2024-09-02T16:59:03.000Z",
       "tags": [
-        "biological",
-        "blood",
-        "cadaver",
-        "foundation-personnel",
-        "humanoid",
-        "mobile",
-        "safe",
-        "scp"
+        "extradimensional",
+        "location",
+        "magnetic",
+        "portal",
+        "scp",
+        "thaumiel",
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OCuin"
+        "Nylo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6769",
-      "title": "SCP-6769",
-      "alternateTitle": "Let It Fall Under Their Hands",
-      "rating": 8,
-      "createdAt": "2022-05-01T14:24:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5362",
+      "title": "SCP-5362",
+      "alternateTitle": "The One with a Thousand Faces",
+      "rating": 24,
+      "createdAt": "2021-06-13T17:29:05.000Z",
       "tags": [
         "alive",
-        "clothing",
         "euclid",
-        "extremity",
-        "hostile",
+        "folklore-dept",
         "humanoid",
-        "light",
-        "sapient",
+        "metamorphic",
+        "mimetic",
+        "mind-affecting",
+        "observational",
+        "rodent",
         "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/German_Gothic_Gauntlet_for_the_Left_Hand_MET_DP-12881-033.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
       "authors": [
-        "SleepSpell"
+        "Bread_Tyrant"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7235",
-      "title": "SCP-7235",
-      "alternateTitle": "The Knowledge",
-      "rating": 12,
-      "createdAt": "2023-04-22T11:42:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5163",
+      "title": "SCP-5163",
+      "alternateTitle": "The Cutest Teddy Bear of All Times",
+      "rating": 7,
+      "createdAt": "2025-09-11T22:28:15.000Z",
       "tags": [
-        "compulsion",
-        "keter",
-        "reality-bending",
+        "cognitohazard",
+        "mind-affecting",
+        "safe",
         "scp",
-        "spatial",
-        "temporal"
+        "tactile",
+        "toy"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
       "authors": [
-        "Unobtainium235"
+        "Lucas667"
       ]
     }
   ]

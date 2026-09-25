@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:05:52.039Z",
+  "updatedAt": "2026-09-25T19:40:11.894Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7642",
-      "title": "SCP-7642",
-      "alternateTitle": "A Monument To All Your Sins",
-      "rating": 21,
-      "createdAt": "2025-07-17T19:48:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8487",
+      "title": "SCP-8487",
+      "alternateTitle": "It looked simple on paper",
+      "rating": 13,
+      "createdAt": "2025-08-17T20:41:11.000Z",
       "tags": [
-        "daevite",
-        "safe",
-        "sarkic",
-        "scp"
+        "broken-god",
+        "computer",
+        "esoteric-class",
+        "keter",
+        "metamorphic",
+        "scp",
+        "uncontained",
+        "virus"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8487/nOscLSO.webp",
+      "authors": [
+        "SynEnt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8383",
+      "title": "SCP-8383",
+      "alternateTitle": "The Tangible and Intangible Cultural Heritage of the Saint Sophia Christians",
+      "rating": 22,
+      "createdAt": "2024-06-04T21:09:27.000Z",
+      "tags": [
+        "broken-god",
+        "clockwork",
+        "historical",
+        "location",
+        "neutralized",
+        "religious",
+        "scp",
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nocturned"
+        "Univine"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8452",
-      "title": "SCP-8452",
-      "alternateTitle": "びぃさま(Lord Bii)",
-      "rating": 21,
-      "createdAt": "2026-01-30T22:02:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9918",
+      "title": "SCP-9918",
+      "alternateTitle": "L.U.C.I.D. Dreams",
+      "rating": 16,
+      "createdAt": "2026-03-03T20:38:22.000Z",
       "tags": [
-        "amphibian",
         "artifact",
-        "inscription",
-        "meteorological",
-        "reality-bending",
-        "religious",
-        "safe",
-        "sapient",
-        "scp",
-        "tactical-theology",
-        "telekinetic"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8452/box.jpg",
-      "authors": [
-        "Enginepithecus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8321",
-      "title": "SCP-8321",
-      "alternateTitle": "SITE-909A CASE STUDY: A Dire Warning (Mandatory Training Material)",
-      "rating": 17,
-      "createdAt": "2025-03-02T01:54:52.000Z",
-      "tags": [
-        "acoustic",
+        "chaos-on-the-monolith",
+        "co-authored",
+        "dream",
         "euclid",
-        "insect",
-        "neutralized",
-        "robotic",
-        "safe",
-        "scp"
+        "extradimensional",
+        "hostile",
+        "humanoid",
+        "meta",
+        "metamorphic",
+        "mind-affecting",
+        "observational",
+        "scp",
+        "spatial",
+        "telekinetic",
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8321/delta-nine-scp-sketch-diagram-8393.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/225W_Tesla_coil_-_arcs4_%28cropped%29.jpg/1280px-225W_Tesla_coil_-_arcs4_%28cropped%29.jpg?_=20120330155156",
       "authors": [
-        "Delta_Nine"
+        "Dr F Otter",
+        "vilsolad"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T02:23:45.114Z",
+  "updatedAt": "2026-09-25T13:05:52.039Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7181",
-      "title": "SCP-7181",
-      "alternateTitle": "In Absentia Ego",
-      "rating": 12,
-      "createdAt": "2024-09-02T16:59:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7642",
+      "title": "SCP-7642",
+      "alternateTitle": "A Monument To All Your Sins",
+      "rating": 21,
+      "createdAt": "2025-07-17T19:48:38.000Z",
       "tags": [
-        "extradimensional",
-        "location",
-        "magnetic",
-        "portal",
-        "scp",
-        "thaumiel",
-        "transmission"
+        "daevite",
+        "safe",
+        "sarkic",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nylo"
+        "Nocturned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5362",
-      "title": "SCP-5362",
-      "alternateTitle": "The One with a Thousand Faces",
-      "rating": 24,
-      "createdAt": "2021-06-13T17:29:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8452",
+      "title": "SCP-8452",
+      "alternateTitle": "びぃさま(Lord Bii)",
+      "rating": 21,
+      "createdAt": "2026-01-30T22:02:46.000Z",
       "tags": [
-        "alive",
+        "amphibian",
+        "artifact",
+        "inscription",
+        "meteorological",
+        "reality-bending",
+        "religious",
+        "safe",
+        "sapient",
+        "scp",
+        "tactical-theology",
+        "telekinetic"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8452/box.jpg",
+      "authors": [
+        "Enginepithecus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8321",
+      "title": "SCP-8321",
+      "alternateTitle": "SITE-909A CASE STUDY: A Dire Warning (Mandatory Training Material)",
+      "rating": 17,
+      "createdAt": "2025-03-02T01:54:52.000Z",
+      "tags": [
+        "acoustic",
         "euclid",
-        "folklore-dept",
-        "humanoid",
-        "metamorphic",
-        "mimetic",
-        "mind-affecting",
-        "observational",
-        "rodent",
+        "insect",
+        "neutralized",
+        "robotic",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5362/Mimic/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8321/delta-nine-scp-sketch-diagram-8393.png",
       "authors": [
-        "Bread_Tyrant"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5163",
-      "title": "SCP-5163",
-      "alternateTitle": "The Cutest Teddy Bear of All Times",
-      "rating": 7,
-      "createdAt": "2025-09-11T22:28:15.000Z",
-      "tags": [
-        "cognitohazard",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "tactile",
-        "toy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
-      "authors": [
-        "Lucas667"
+        "Delta_Nine"
       ]
     }
   ]

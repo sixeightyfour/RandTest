@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:32:52.647Z",
+  "updatedAt": "2026-09-26T18:49:21.032Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7388",
-      "title": "SCP-7388",
-      "alternateTitle": "An Old Cocoon",
-      "rating": 22,
-      "createdAt": "2023-12-29T18:43:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9487",
+      "title": "SCP-9487",
+      "alternateTitle": "NoimydnE",
+      "rating": 17,
+      "createdAt": "2026-02-27T09:05:51.000Z",
       "tags": [
-        "animal",
-        "art-exchange",
-        "building",
-        "butterfly",
-        "ectoentropic",
-        "euclid",
-        "insect",
+        "dream",
+        "empathic",
+        "esoteric-class",
+        "humanoid",
+        "memory-affecting",
+        "mind-affecting",
+        "phenomenon",
         "sapient",
         "scp",
-        "teleportation"
+        "sleep",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7388/WebUpClose.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Nickthebrick1"
+        "OttoBrahestadt"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5645",
-      "title": "SCP-5645",
-      "alternateTitle": "The End of Nothing Special",
-      "rating": 15,
-      "createdAt": "2021-03-13T05:52:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2681",
+      "title": "SCP-2681",
+      "alternateTitle": "Animal Man",
+      "rating": 24,
+      "createdAt": "2025-07-17T19:21:50.000Z",
       "tags": [
-        "biological",
-        "cadaver",
+        "alive",
+        "animal",
+        "bleak",
+        "compulsion",
+        "euclid",
         "humanoid",
-        "safe",
+        "rewrite",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Crashington"
+        "Midgard Serpent",
+        "Uncle Nicolini"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7295",
-      "title": "SCP-7295",
-      "alternateTitle": "The 4th Floor",
-      "rating": 10,
-      "createdAt": "2024-01-03T00:34:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
+      "title": "SCP-1319-J",
+      "alternateTitle": "Move Britannia",
+      "rating": 19,
+      "createdAt": "2025-03-08T01:49:19.000Z",
       "tags": [
-        "safe",
+        "geological",
+        "island",
+        "joke",
+        "mobile",
+        "neutralized",
         "scp",
-        "structure"
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
       "authors": [
-        "TV_Atlas"
+        "JohnDoeMD"
       ]
     }
   ]

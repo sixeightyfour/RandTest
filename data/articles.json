@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T02:28:15.185Z",
+  "updatedAt": "2026-09-26T12:32:52.647Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8210",
-      "title": "SCP-8210",
-      "alternateTitle": "Super Captain-Man",
-      "rating": 23,
-      "createdAt": "2024-07-14T15:31:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7388",
+      "title": "SCP-7388",
+      "alternateTitle": "An Old Cocoon",
+      "rating": 22,
+      "createdAt": "2023-12-29T18:43:45.000Z",
       "tags": [
-        "esoteric-class",
+        "animal",
+        "art-exchange",
+        "building",
+        "butterfly",
+        "ectoentropic",
+        "euclid",
+        "insect",
+        "sapient",
         "scp",
-        "superhero",
-        "uncontained"
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7388/WebUpClose.jpg",
       "authors": [
-        "Norman Lennock Manne"
+        "Nickthebrick1"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8685",
-      "title": "SCP-8685",
-      "alternateTitle": "Sign Today To Have Your Grandpa's Organs Harvested!",
-      "rating": 20,
-      "createdAt": "2024-10-21T11:06:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5645",
+      "title": "SCP-5645",
+      "alternateTitle": "The End of Nothing Special",
+      "rating": 15,
+      "createdAt": "2021-03-13T05:52:55.000Z",
       "tags": [
         "biological",
         "cadaver",
-        "extradimensional",
         "humanoid",
-        "keter",
-        "sapient",
-        "scp",
-        "uncontained"
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Not Noodles"
+        "Crashington"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-2405",
-      "title": "SCP-CN-2405",
-      "alternateTitle": "Ronald McDonald",
-      "rating": 18,
-      "createdAt": "2022-06-12T01:11:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7295",
+      "title": "SCP-7295",
+      "alternateTitle": "The 4th Floor",
+      "rating": 10,
+      "createdAt": "2024-01-03T00:34:04.000Z",
       "tags": [
-        "alive",
-        "clown",
-        "euclid",
-        "humanoid",
-        "international",
-        "sapient",
-        "scp"
+        "safe",
+        "scp",
+        "structure"
       ],
-      "thumbnailUrl": "https://scpsandboxcn.wikidot.com/local--files/yog/9.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Yoghurt_Jinchouge",
-        "tetsusquared"
+        "TV_Atlas"
       ]
     }
   ]

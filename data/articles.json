@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T18:49:21.032Z",
+  "updatedAt": "2026-09-27T02:24:04.866Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9487",
-      "title": "SCP-9487",
-      "alternateTitle": "NoimydnE",
+      "url": "http://scp-wiki.wikidot.com/scp-6053",
+      "title": "SCP-6053",
+      "alternateTitle": "Dead Elysium",
       "rating": 17,
-      "createdAt": "2026-02-27T09:05:51.000Z",
+      "createdAt": "2021-11-12T21:35:22.000Z",
       "tags": [
-        "dream",
-        "empathic",
-        "esoteric-class",
-        "humanoid",
-        "memory-affecting",
-        "mind-affecting",
-        "phenomenon",
-        "sapient",
+        "cadaver",
+        "extradimensional",
+        "location",
+        "portal",
+        "safe",
         "scp",
-        "sleep",
-        "uncontained"
+        "serpents-hand"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OttoBrahestadt"
+        "SynthPanda_"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2681",
-      "title": "SCP-2681",
-      "alternateTitle": "Animal Man",
-      "rating": 24,
-      "createdAt": "2025-07-17T19:21:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7035",
+      "title": "SCP-7035",
+      "alternateTitle": "Wonder Coast",
+      "rating": 18,
+      "createdAt": "2022-11-16T03:27:37.000Z",
       "tags": [
         "alive",
-        "animal",
-        "bleak",
-        "compulsion",
-        "euclid",
+        "director-scout",
+        "esoteric-class",
+        "extradimensional",
         "humanoid",
-        "rewrite",
+        "pentagram",
+        "portal",
         "sapient",
-        "scp"
+        "scp",
+        "wonder-world"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Midgard Serpent",
-        "Uncle Nicolini"
+        "New_to_life"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
-      "title": "SCP-1319-J",
-      "alternateTitle": "Move Britannia",
-      "rating": 19,
-      "createdAt": "2025-03-08T01:49:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9745",
+      "title": "SCP-9745",
+      "alternateTitle": "Leftist Cows Left Us",
+      "rating": 17,
+      "createdAt": "2026-01-23T00:46:25.000Z",
       "tags": [
-        "geological",
-        "island",
-        "joke",
-        "mobile",
+        "bovine",
+        "dumbcon2026-unofficial",
+        "food",
+        "historical",
+        "mind-affecting",
         "neutralized",
-        "scp",
-        "uncontained"
+        "political",
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9745/Holstein_Friesian_cattle_in_snow_8.jpg",
       "authors": [
-        "JohnDoeMD"
+        "Mooys"
       ]
     }
   ]

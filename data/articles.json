@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T02:24:04.866Z",
+  "updatedAt": "2026-09-27T13:23:31.989Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6053",
-      "title": "SCP-6053",
-      "alternateTitle": "Dead Elysium",
-      "rating": 17,
-      "createdAt": "2021-11-12T21:35:22.000Z",
-      "tags": [
-        "cadaver",
-        "extradimensional",
-        "location",
-        "portal",
-        "safe",
-        "scp",
-        "serpents-hand"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "SynthPanda_"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7035",
-      "title": "SCP-7035",
-      "alternateTitle": "Wonder Coast",
-      "rating": 18,
-      "createdAt": "2022-11-16T03:27:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9198",
+      "title": "SCP-9198",
+      "alternateTitle": "The Cold Below",
+      "rating": 22,
+      "createdAt": "2025-12-30T03:01:26.000Z",
       "tags": [
         "alive",
-        "director-scout",
-        "esoteric-class",
-        "extradimensional",
-        "humanoid",
+        "global-occult-coalition",
+        "hive-mind",
+        "k-class-scenario",
+        "keter",
+        "meta",
+        "metamorphic",
+        "meteorological",
         "pentagram",
-        "portal",
-        "sapient",
+        "reanimation",
         "scp",
-        "wonder-world"
+        "skeletal",
+        "thermal"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9198-0/montreal.jpg",
       "authors": [
-        "New_to_life"
+        "SleepyProto"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9745",
-      "title": "SCP-9745",
-      "alternateTitle": "Leftist Cows Left Us",
-      "rating": 17,
-      "createdAt": "2026-01-23T00:46:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7431",
+      "title": "SCP-7431",
+      "alternateTitle": "Wonderland",
+      "rating": 24,
+      "createdAt": "2023-12-04T12:34:57.000Z",
       "tags": [
-        "bovine",
-        "dumbcon2026-unofficial",
-        "food",
-        "historical",
+        "euclid",
+        "extradimensional",
+        "fire",
+        "hostile",
+        "humanoid",
         "mind-affecting",
-        "neutralized",
-        "political",
-        "scp"
+        "ritual",
+        "scp",
+        "self-repairing",
+        "sleep",
+        "temporal",
+        "uncontained",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9745/Holstein_Friesian_cattle_in_snow_8.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7431/ben.jpeg/medium.jpg",
       "authors": [
-        "Mooys"
+        "CrimsonFripp"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7564",
+      "title": "SCP-7564",
+      "alternateTitle": "Impossible Exposure",
+      "rating": 7,
+      "createdAt": "2025-07-13T04:00:43.000Z",
+      "tags": [
+        "classiccon2025",
+        "dream",
+        "euclid",
+        "hallucination",
+        "mind-affecting",
+        "phenomenon",
+        "scp",
+        "sleep",
+        "telekinetic"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Resolver"
       ]
     }
   ]

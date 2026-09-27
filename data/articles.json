@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T13:23:31.989Z",
+  "updatedAt": "2026-09-27T19:24:01.661Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9198",
-      "title": "SCP-9198",
-      "alternateTitle": "The Cold Below",
-      "rating": 22,
-      "createdAt": "2025-12-30T03:01:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9131",
+      "title": "SCP-9131",
+      "alternateTitle": "Booths & Boxing",
+      "rating": 10,
+      "createdAt": "2026-03-10T14:11:54.000Z",
+      "tags": [
+        "artifact",
+        "chicago-spirit",
+        "mind-affecting",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/White_payphone.jpg",
+      "authors": [
+        "poltatherian"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7035",
+      "title": "SCP-7035",
+      "alternateTitle": "Wonder Coast",
+      "rating": 18,
+      "createdAt": "2022-11-16T03:27:37.000Z",
       "tags": [
         "alive",
-        "global-occult-coalition",
-        "hive-mind",
-        "k-class-scenario",
-        "keter",
-        "meta",
-        "metamorphic",
-        "meteorological",
-        "pentagram",
-        "reanimation",
-        "scp",
-        "skeletal",
-        "thermal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9198-0/montreal.jpg",
-      "authors": [
-        "SleepyProto"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7431",
-      "title": "SCP-7431",
-      "alternateTitle": "Wonderland",
-      "rating": 24,
-      "createdAt": "2023-12-04T12:34:57.000Z",
-      "tags": [
-        "euclid",
+        "director-scout",
+        "esoteric-class",
         "extradimensional",
-        "fire",
-        "hostile",
         "humanoid",
-        "mind-affecting",
-        "ritual",
+        "pentagram",
+        "portal",
+        "sapient",
         "scp",
-        "self-repairing",
-        "sleep",
-        "temporal",
-        "uncontained",
-        "visual"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7431/ben.jpeg/medium.jpg",
-      "authors": [
-        "CrimsonFripp"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7564",
-      "title": "SCP-7564",
-      "alternateTitle": "Impossible Exposure",
-      "rating": 7,
-      "createdAt": "2025-07-13T04:00:43.000Z",
-      "tags": [
-        "classiccon2025",
-        "dream",
-        "euclid",
-        "hallucination",
-        "mind-affecting",
-        "phenomenon",
-        "scp",
-        "sleep",
-        "telekinetic"
+        "wonder-world"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Resolver"
+        "New_to_life"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1921",
+      "title": "SCP-CN-1921",
+      "alternateTitle": "A Crawling Seal",
+      "rating": 18,
+      "createdAt": "2024-02-27T04:17:11.000Z",
+      "tags": [
+        "animal",
+        "antimemetic",
+        "aquatic",
+        "concept",
+        "hong-shing",
+        "international",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/mscarlet/seal.jpg",
+      "authors": [
+        "MScarlet",
+        "MScarlet",
+        "tetsusquared"
       ]
     }
   ]

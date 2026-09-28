@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T19:24:01.661Z",
+  "updatedAt": "2026-09-28T02:28:02.312Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9131",
-      "title": "SCP-9131",
-      "alternateTitle": "Booths & Boxing",
-      "rating": 10,
-      "createdAt": "2026-03-10T14:11:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
+      "title": "SCP-242-KO",
+      "alternateTitle": "Riventry of Cataclysm",
+      "rating": 19,
+      "createdAt": "2022-11-10T00:23:52.000Z",
       "tags": [
-        "artifact",
-        "chicago-spirit",
-        "mind-affecting",
-        "safe",
-        "scp"
+        "humanoid",
+        "international",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
+        "sapient",
+        "scp",
+        "thaumiel",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/White_payphone.jpg",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
       "authors": [
-        "poltatherian"
+        "ProfoundAbyss",
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7035",
-      "title": "SCP-7035",
-      "alternateTitle": "Wonder Coast",
-      "rating": 18,
-      "createdAt": "2022-11-16T03:27:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4604",
+      "title": "SCP-4604",
+      "alternateTitle": "Disillusionment",
+      "rating": 15,
+      "createdAt": "2020-11-28T21:34:39.000Z",
       "tags": [
-        "alive",
-        "director-scout",
-        "esoteric-class",
-        "extradimensional",
+        "cadaver",
+        "euclid",
         "humanoid",
-        "pentagram",
-        "portal",
-        "sapient",
-        "scp",
-        "wonder-world"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "New_to_life"
+        "TL333s"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1921",
-      "title": "SCP-CN-1921",
-      "alternateTitle": "A Crawling Seal",
-      "rating": 18,
-      "createdAt": "2024-02-27T04:17:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-222-th-j",
+      "title": "SCP-222-TH-J",
+      "alternateTitle": "The Troll Cat The Genius Hacker Cat",
+      "rating": 16,
+      "createdAt": "2018-11-09T13:35:24.000Z",
       "tags": [
+        "alive",
         "animal",
-        "antimemetic",
-        "aquatic",
-        "concept",
-        "hong-shing",
+        "feline",
         "international",
-        "scp",
-        "thaumiel"
+        "joke",
+        "rewrite",
+        "safe",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/mscarlet/seal.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "MScarlet",
-        "MScarlet",
-        "tetsusquared"
+        "Dr Xu weil geena",
+        "DrSSS",
+        "Bonneneige"
       ]
     }
   ]

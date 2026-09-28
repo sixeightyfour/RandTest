@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T02:28:02.312Z",
+  "updatedAt": "2026-09-28T16:13:19.431Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-242-ko",
-      "title": "SCP-242-KO",
-      "alternateTitle": "Riventry of Cataclysm",
-      "rating": 19,
-      "createdAt": "2022-11-10T00:23:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8238",
+      "title": "SCP-8238",
+      "alternateTitle": "Hypnagogia",
+      "rating": 17,
+      "createdAt": "2025-03-08T04:44:47.000Z",
       "tags": [
-        "humanoid",
-        "international",
-        "metafiction",
-        "narrative",
-        "pataphysics-dept",
-        "sapient",
-        "scp",
-        "thaumiel",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-242-ko/metalchain.jpg",
-      "authors": [
-        "ProfoundAbyss",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4604",
-      "title": "SCP-4604",
-      "alternateTitle": "Disillusionment",
-      "rating": 15,
-      "createdAt": "2020-11-28T21:34:39.000Z",
-      "tags": [
+        "building",
         "cadaver",
         "euclid",
-        "humanoid",
-        "scp"
+        "extradimensional",
+        "gaseous",
+        "hostile",
+        "portal",
+        "prometheus",
+        "publicdomaincon2025",
+        "raisa",
+        "scp",
+        "subterranean"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://timebox.wikidot.com/local--files/hypnagogia/PromLabFacility.png",
       "authors": [
-        "TL333s"
+        "Dr Moned"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-222-th-j",
-      "title": "SCP-222-TH-J",
-      "alternateTitle": "The Troll Cat The Genius Hacker Cat",
-      "rating": 16,
-      "createdAt": "2018-11-09T13:35:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9813",
+      "title": "SCP-9813",
+      "alternateTitle": "What would He say?",
+      "rating": 7,
+      "createdAt": "2026-02-04T05:39:00.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "feline",
-        "international",
-        "joke",
-        "rewrite",
+        "bleak",
+        "continuity-dept",
+        "dream",
+        "insect",
+        "mind-affecting",
+        "oneiroi",
+        "religious",
+        "religious-fiction",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Athabuen"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5268",
+      "title": "SCP-5268",
+      "alternateTitle": "Off the Wall Taste",
+      "rating": 22,
+      "createdAt": "2020-10-25T22:06:08.000Z",
+      "tags": [
+        "cognitohazard",
+        "document",
+        "memetic",
+        "mind-affecting",
         "safe",
-        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Xu weil geena",
-        "DrSSS",
-        "Bonneneige"
+        "ghosterposter"
       ]
     }
   ]

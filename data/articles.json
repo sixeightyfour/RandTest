@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T20:19:13.541Z",
+  "updatedAt": "2026-09-30T02:53:29.010Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3580",
-      "title": "SCP-3580",
-      "alternateTitle": "Honor In Blood",
-      "rating": 18,
-      "createdAt": "2024-01-29T16:50:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-052",
+      "title": "SCP-PL-052",
+      "alternateTitle": "Subtemporal Bracer",
+      "rating": 20,
+      "createdAt": "2020-08-22T14:59:57.000Z",
       "tags": [
-        "extremity",
-        "hostile",
-        "humanoid",
-        "keter",
-        "sapient",
+        "appliance",
+        "international",
+        "paradox",
+        "safe",
         "scp",
-        "thaumaturgy",
-        "uncontained"
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-3580-0/Prosthetic/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Roufhous"
+        "Fs-ior",
+        "BlazingPie"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5627",
-      "title": "SCP-5627",
-      "alternateTitle": "The Hungry Caterpillar",
-      "rating": 23,
-      "createdAt": "2021-03-30T09:38:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9776",
+      "title": "SCP-9776",
+      "alternateTitle": "D.C Fleshgait",
+      "rating": 24,
+      "createdAt": "2025-11-28T03:48:38.000Z",
       "tags": [
+        "absurdism",
         "alive",
-        "animal",
-        "butterfly",
-        "compulsion",
+        "black-comedy",
+        "body-horror",
+        "comedy",
         "euclid",
-        "gaseous",
-        "hallucination",
-        "insect",
+        "historical",
+        "horror",
+        "humanoid",
+        "murder-monster",
+        "pentagram",
+        "political",
+        "predatory",
+        "psychological-horror",
+        "reanimation",
+        "scp",
+        "unusual-incidents-unit"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9776/George%20Washington%20Fleshgait.jpg",
+      "authors": [
+        "CRAt26"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8423",
+      "title": "SCP-8423",
+      "alternateTitle": "The Genius Plague",
+      "rating": 11,
+      "createdAt": "2024-06-07T12:11:11.000Z",
+      "tags": [
+        "biohazard",
+        "contagion",
+        "euclid",
+        "fungus",
         "mind-affecting",
+        "neurological",
         "parasitic",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5627/Caterpillar.jpg",
+      "thumbnailUrl": "http://scp-sandbox.wikidot.com/local--files/wiki:scp-8422/8423-Map.png",
       "authors": [
-        "dunc7five"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9029",
-      "title": "SCP-9029",
-      "alternateTitle": "Corpse Cutters",
-      "rating": 21,
-      "createdAt": "2025-10-02T17:54:49.000Z",
-      "tags": [
-        "9000",
-        "alive",
-        "animal",
-        "apocalyptic",
-        "body-horror",
-        "contagion",
-        "esoteric-class",
-        "fungus",
-        "horror",
-        "humanoid",
-        "insect",
-        "scp",
-        "species",
-        "toxic"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/corpse-cutters/Atta_Mexicana.jpeg",
-      "authors": [
-        "UniqueName"
+        "DocMart"
       ]
     }
   ]

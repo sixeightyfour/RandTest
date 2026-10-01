@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:23:27.872Z",
+  "updatedAt": "2026-10-01T02:59:53.115Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,57 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 14,
-      "createdAt": "2022-10-25T00:41:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6657",
+      "title": "SCP-6657",
+      "alternateTitle": "Photonic Crystals",
+      "rating": 12,
+      "createdAt": "2024-05-22T12:59:57.000Z",
       "tags": [
-        "artifact",
-        "historical",
-        "portal",
+        "electromagnetic",
+        "light",
+        "radioactive",
         "safe",
+        "scp",
+        "tool",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
+      "authors": [
+        "Dr Talcite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8527",
+      "title": "SCP-8527",
+      "alternateTitle": "Ashes of Asbest",
+      "rating": 8,
+      "createdAt": "2025-09-22T05:13:42.000Z",
+      "tags": [
+        "euclid",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DukeRum"
+        "Foolish Bird Dodo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9262",
-      "title": "SCP-9262",
-      "alternateTitle": "STARGATE",
-      "rating": 12,
-      "createdAt": "2026-02-15T23:36:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9702",
+      "title": "SCP-9702",
+      "alternateTitle": "What Water Wants",
+      "rating": 10,
+      "createdAt": "2026-02-18T02:56:52.000Z",
       "tags": [
-        "computer",
-        "electrical",
-        "knowledge",
-        "media",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9262/bigcomputer.jpeg/medium.jpg",
-      "authors": [
-        "Waspus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7059",
-      "title": "SCP-7059",
-      "alternateTitle": "Free Falling",
-      "rating": 6,
-      "createdAt": "2022-11-17T02:55:42.000Z",
-      "tags": [
-        "airborne",
-        "extradimensional",
-        "location",
-        "safe",
-        "scp",
-        "temporal"
+        "aquatic",
+        "keter",
+        "meteorological",
+        "mobile",
+        "phenomenon",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Jade_Crusader"
+        "DJYou"
       ]
     }
   ]

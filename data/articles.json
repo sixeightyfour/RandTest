@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T14:17:17.357Z",
+  "updatedAt": "2026-10-02T20:14:14.496Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3468",
-      "title": "SCP-3468",
-      "alternateTitle": "Very poor choice of words.",
-      "rating": 20,
-      "createdAt": "2026-01-22T19:58:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9138",
+      "title": "SCP-9138",
+      "alternateTitle": "The Manner of Fishes",
+      "rating": 17,
+      "createdAt": "2026-01-04T00:28:34.000Z",
       "tags": [
-        "alive",
-        "dado",
+        "afterlife",
+        "alien",
+        "empathic",
         "euclid",
-        "extremity",
-        "humanoid",
-        "magnetic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Cremo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7414",
-      "title": "SCP-7414",
-      "alternateTitle": "The Legend of Alfhild Lathgertha",
-      "rating": 16,
-      "createdAt": "2024-01-17T06:36:44.000Z",
-      "tags": [
-        "artifact",
-        "hallucination",
-        "historical",
-        "inscription",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
-      "authors": [
-        "Nils Severin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9185",
-      "title": "SCP-9185",
-      "alternateTitle": "Audiophile",
-      "rating": 24,
-      "createdAt": "2026-04-01T18:52:02.000Z",
-      "tags": [
-        "acoustic",
-        "audio",
-        "ectoentropic",
-        "intangible",
-        "keter",
+        "extraterrestrial",
+        "phenomenon",
+        "religious",
         "sapient",
         "scp",
-        "transmission",
-        "vibration"
+        "species",
+        "thaumaturgy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ektoplasm"
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6849",
+      "title": "SCP-6849",
+      "alternateTitle": "Project Aniborg",
+      "rating": 22,
+      "createdAt": "2023-09-19T18:22:17.000Z",
+      "tags": [
+        "alive",
+        "anderson",
+        "animal",
+        "cadaver",
+        "esoteric-class",
+        "humanoid",
+        "robotic",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Reasonably Psychotic"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
+      "title": "SCP-2955-JP",
+      "alternateTitle": "Septette for the Dead CN-Aniki",
+      "rating": 24,
+      "createdAt": "2022-05-05T02:35:21.000Z",
+      "tags": [
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "international",
+        "metamorphic",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
+      "authors": [
+        "indonootoko",
+        "tetsusquared"
       ]
     }
   ]

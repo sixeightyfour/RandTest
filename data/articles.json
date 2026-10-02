@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T20:38:54.202Z",
+  "updatedAt": "2026-10-02T03:02:23.135Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8538",
-      "title": "SCP-8538",
-      "alternateTitle": "The Labyrinthine Sepulcher of Kalantha",
-      "rating": 21,
-      "createdAt": "2025-06-17T00:10:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8548",
+      "title": "SCP-8548",
+      "alternateTitle": "The Best Worst Thing to Ever Happen to Me",
+      "rating": 18,
+      "createdAt": "2026-03-19T19:52:05.000Z",
       "tags": [
-        "ad-astra",
-        "adaptive",
-        "broken-god",
-        "esoteric-class",
-        "extraterrestrial",
-        "humanoid",
-        "inscription",
-        "mind-affecting",
-        "observational",
-        "planet",
-        "robotic",
-        "scp",
-        "space-opera",
-        "thaumaturgy"
+        "alive",
+        "animal",
+        "canine",
+        "euclid",
+        "feline",
+        "phenomenon",
+        "probability",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8538/SoulNebulaGlitched.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-8548-0/Explosion/medium.jpg",
       "authors": [
-        "Azerzia"
+        "Secretarymany"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9440",
-      "title": "SCP-9440",
-      "alternateTitle": "The End",
-      "rating": 23,
-      "createdAt": "2025-09-20T13:12:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9487",
+      "title": "SCP-9487",
+      "alternateTitle": "NoimydnE",
+      "rating": 17,
+      "createdAt": "2026-02-27T09:05:51.000Z",
       "tags": [
-        "9000",
-        "concept",
+        "dream",
+        "empathic",
         "esoteric-class",
-        "euclid",
         "humanoid",
+        "memory-affecting",
+        "mind-affecting",
+        "phenomenon",
         "sapient",
         "scp",
-        "ticonderoga"
+        "sleep",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "LePlante"
+        "OttoBrahestadt"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-140-it",
-      "title": "SCP-140-IT",
-      "alternateTitle": "O.V.R.D.",
-      "rating": 6,
-      "createdAt": "2023-05-25T22:50:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9939",
+      "title": "SCP-9939",
+      "alternateTitle": "Sněžka's Golem",
+      "rating": 2,
+      "createdAt": "2026-02-01T17:29:59.000Z",
       "tags": [
-        "city",
-        "historical",
-        "international",
+        "autonomous",
+        "electromagnetic",
+        "humanoid",
         "keter",
+        "sapient",
         "scp",
-        "teleportation"
+        "self-repairing"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Zeno",
-        "Roberto Turati"
+        "DrSitansh"
       ]
     }
   ]

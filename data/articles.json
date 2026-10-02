@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T03:02:23.135Z",
+  "updatedAt": "2026-10-02T14:17:17.357Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8548",
-      "title": "SCP-8548",
-      "alternateTitle": "The Best Worst Thing to Ever Happen to Me",
-      "rating": 18,
-      "createdAt": "2026-03-19T19:52:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3468",
+      "title": "SCP-3468",
+      "alternateTitle": "Very poor choice of words.",
+      "rating": 20,
+      "createdAt": "2026-01-22T19:58:07.000Z",
       "tags": [
         "alive",
-        "animal",
-        "canine",
+        "dado",
         "euclid",
-        "feline",
-        "phenomenon",
-        "probability",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-8548-0/Explosion/medium.jpg",
-      "authors": [
-        "Secretarymany"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9487",
-      "title": "SCP-9487",
-      "alternateTitle": "NoimydnE",
-      "rating": 17,
-      "createdAt": "2026-02-27T09:05:51.000Z",
-      "tags": [
-        "dream",
-        "empathic",
-        "esoteric-class",
+        "extremity",
         "humanoid",
-        "memory-affecting",
-        "mind-affecting",
-        "phenomenon",
-        "sapient",
-        "scp",
-        "sleep",
-        "uncontained"
+        "magnetic",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "OttoBrahestadt"
+        "Cremo"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9939",
-      "title": "SCP-9939",
-      "alternateTitle": "Sněžka's Golem",
-      "rating": 2,
-      "createdAt": "2026-02-01T17:29:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7414",
+      "title": "SCP-7414",
+      "alternateTitle": "The Legend of Alfhild Lathgertha",
+      "rating": 16,
+      "createdAt": "2024-01-17T06:36:44.000Z",
       "tags": [
-        "autonomous",
-        "electromagnetic",
-        "humanoid",
+        "artifact",
+        "hallucination",
+        "historical",
+        "inscription",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
+      "authors": [
+        "Nils Severin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9185",
+      "title": "SCP-9185",
+      "alternateTitle": "Audiophile",
+      "rating": 24,
+      "createdAt": "2026-04-01T18:52:02.000Z",
+      "tags": [
+        "acoustic",
+        "audio",
+        "ectoentropic",
+        "intangible",
         "keter",
         "sapient",
         "scp",
-        "self-repairing"
+        "transmission",
+        "vibration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrSitansh"
+        "Ektoplasm"
       ]
     }
   ]

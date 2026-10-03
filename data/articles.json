@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:14:14.496Z",
+  "updatedAt": "2026-10-03T02:49:23.409Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9138",
-      "title": "SCP-9138",
-      "alternateTitle": "The Manner of Fishes",
-      "rating": 17,
-      "createdAt": "2026-01-04T00:28:34.000Z",
-      "tags": [
-        "afterlife",
-        "alien",
-        "empathic",
-        "euclid",
-        "extraterrestrial",
-        "phenomenon",
-        "religious",
-        "sapient",
-        "scp",
-        "species",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "whenwerewe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6849",
-      "title": "SCP-6849",
-      "alternateTitle": "Project Aniborg",
-      "rating": 22,
-      "createdAt": "2023-09-19T18:22:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7093",
+      "title": "SCP-7093",
+      "alternateTitle": "Luxuriant Soul, Crescent Moon",
+      "rating": 19,
+      "createdAt": "2022-12-21T02:11:44.000Z",
       "tags": [
         "alive",
-        "anderson",
-        "animal",
-        "cadaver",
-        "esoteric-class",
+        "euclid",
+        "extremity",
         "humanoid",
-        "robotic",
         "sapient",
         "scp",
-        "thaumaturgy"
+        "telekinetic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Reasonably Psychotic"
+        "azurediamond"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
-      "title": "SCP-2955-JP",
-      "alternateTitle": "Septette for the Dead CN-Aniki",
-      "rating": 24,
-      "createdAt": "2022-05-05T02:35:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1329-ru-ex",
+      "title": "SCP-1329-RU-EX",
+      "alternateTitle": "A Little Big Adventure",
+      "rating": 14,
+      "createdAt": "2020-08-02T20:28:10.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "humanoid",
+        "explained",
         "international",
-        "metamorphic",
-        "mind-affecting",
+        "location",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "http://scp-ru.wdfiles.com/local--files/scp-1329-ru-ex/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.gif",
+      "authors": [
+        "Arbelict",
+        "Reherent"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7135",
+      "title": "SCP-7135",
+      "alternateTitle": "The Soul of Cold",
+      "rating": 11,
+      "createdAt": "2023-11-25T12:32:29.000Z",
+      "tags": [
+        "animal",
+        "bird",
+        "cadaver",
+        "euclid",
+        "humanoid",
+        "media",
+        "meteorological",
+        "mobile",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "indonootoko",
-        "tetsusquared"
+        "MRKyrie"
       ]
     }
   ]

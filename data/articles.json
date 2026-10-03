@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T02:49:23.409Z",
+  "updatedAt": "2026-10-03T12:50:12.653Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7093",
-      "title": "SCP-7093",
-      "alternateTitle": "Luxuriant Soul, Crescent Moon",
-      "rating": 19,
-      "createdAt": "2022-12-21T02:11:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8931",
+      "title": "SCP-8931",
+      "alternateTitle": "Bleach.",
+      "rating": 24,
+      "createdAt": "2025-07-06T14:55:42.000Z",
       "tags": [
-        "alive",
+        "biological",
+        "chemical",
+        "classiccon2025",
         "euclid",
-        "extremity",
-        "humanoid",
-        "sapient",
-        "scp",
-        "telekinetic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "azurediamond"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1329-ru-ex",
-      "title": "SCP-1329-RU-EX",
-      "alternateTitle": "A Little Big Adventure",
-      "rating": 14,
-      "createdAt": "2020-08-02T20:28:10.000Z",
-      "tags": [
-        "explained",
-        "international",
-        "location",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "http://scp-ru.wdfiles.com/local--files/scp-1329-ru-ex/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.gif",
-      "authors": [
-        "Arbelict",
-        "Reherent"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7135",
-      "title": "SCP-7135",
-      "alternateTitle": "The Soul of Cold",
-      "rating": 11,
-      "createdAt": "2023-11-25T12:32:29.000Z",
-      "tags": [
-        "animal",
-        "bird",
-        "cadaver",
-        "euclid",
-        "humanoid",
-        "media",
-        "meteorological",
-        "mobile",
-        "sapient",
+        "horror",
+        "memory-affecting",
+        "psychological-horror",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "MRKyrie"
+        "Cathy Autumn"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-301-de",
+      "title": "SCP-301-DE",
+      "alternateTitle": "Spongy Wonderbag",
+      "rating": 8,
+      "createdAt": "2022-11-04T20:50:03.000Z",
+      "tags": [
+        "animal",
+        "aquatic",
+        "biohazard",
+        "biological",
+        "ectoentropic",
+        "international",
+        "reanimation",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Archaeocyatha.png",
+      "authors": [
+        "Karpfisch",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-287-de",
+      "title": "SCP-287-DE",
+      "alternateTitle": "Interwoven Dreams",
+      "rating": 4,
+      "createdAt": "2023-11-23T16:56:02.000Z",
+      "tags": [
+        "airborne",
+        "alive",
+        "animal",
+        "butterfly",
+        "euclid",
+        "insect",
+        "international",
+        "light",
+        "nocturnal",
+        "parasitic",
+        "scp",
+        "species"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Karpfisch",
+        "Karpfisch"
       ]
     }
   ]

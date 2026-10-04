@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:18:37.985Z",
+  "updatedAt": "2026-10-04T13:33:00.860Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7896",
-      "title": "SCP-7896",
-      "alternateTitle": "The Elysian Mirror",
-      "rating": 23,
-      "createdAt": "2023-06-06T04:25:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
+      "title": "SCP-CN-1169",
+      "alternateTitle": "An Impure Fiction Society",
+      "rating": 8,
+      "createdAt": "2023-06-19T16:07:16.000Z",
       "tags": [
-        "empathic",
-        "extradimensional",
-        "knowledge",
-        "neutralized",
-        "portal",
-        "satellite",
+        "esoteric-class",
+        "international",
+        "meta",
+        "metafiction",
+        "narrative",
+        "reality-bending",
         "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7896/Mirror.png",
-      "authors": [
-        "Marceline_Raynes"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7460",
-      "title": "SCP-7460",
-      "alternateTitle": "Emperor Of The Puppetshow",
-      "rating": 23,
-      "createdAt": "2023-10-07T16:47:32.000Z",
-      "tags": [
-        "dream",
-        "keter",
-        "nightfall",
-        "rewritable",
-        "scp",
-        "sleep",
-        "transfiguration",
+        "temporal",
         "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "BitOddInnit"
+        "Ninth BB",
+        "la kanro"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5161",
-      "title": "SCP-5161",
-      "alternateTitle": "Hooked",
-      "rating": 16,
-      "createdAt": "2025-12-13T22:51:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9196",
+      "title": "SCP-9196",
+      "alternateTitle": "Oh brother, My brother",
+      "rating": 19,
+      "createdAt": "2025-12-27T04:07:58.000Z",
       "tags": [
         "alive",
-        "antimemetic",
-        "building",
-        "comedy",
-        "directorate-k",
-        "extradimensional",
+        "bleak",
+        "cognitohazard",
+        "document",
+        "dream",
         "humanoid",
-        "keter",
         "mind-affecting",
-        "phenomenon",
+        "olfactory",
+        "safe",
+        "scp",
+        "sleep",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Onigura"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7134",
+      "title": "SCP-7134",
+      "alternateTitle": "Born 'Neath a Lucky Star",
+      "rating": 13,
+      "createdAt": "2022-08-01T03:23:35.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "animal",
+        "intangible",
+        "keter",
+        "probability",
         "reality-bending",
         "sapient",
-        "scp"
+        "scp",
+        "undervegas"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lille_villa_beau_sejour_rue_gounod.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-7134-1/blackwood_SCP-7000_taxidermy/medium.jpg",
       "authors": [
-        "Ampyrsand"
+        "Pinoccappuccino"
       ]
     }
   ]

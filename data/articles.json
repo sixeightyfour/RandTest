@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T13:33:00.860Z",
+  "updatedAt": "2026-10-04T18:52:55.760Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
-      "title": "SCP-CN-1169",
-      "alternateTitle": "An Impure Fiction Society",
-      "rating": 8,
-      "createdAt": "2023-06-19T16:07:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3842",
+      "title": "SCP-3842",
+      "alternateTitle": "Life-Emitting Diode",
+      "rating": 14,
+      "createdAt": "2018-02-22T02:11:10.000Z",
       "tags": [
-        "esoteric-class",
-        "international",
-        "meta",
-        "metafiction",
-        "narrative",
-        "reality-bending",
-        "scp",
-        "temporal",
-        "uncontained"
+        "ectoentropic",
+        "electrical",
+        "electronic",
+        "light",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ninth BB",
-        "la kanro"
+        "Axollyon"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9196",
-      "title": "SCP-9196",
-      "alternateTitle": "Oh brother, My brother",
-      "rating": 19,
-      "createdAt": "2025-12-27T04:07:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8294",
+      "title": "SCP-8294",
+      "alternateTitle": "Remember What You Lost",
+      "rating": 18,
+      "createdAt": "2026-02-19T18:17:30.000Z",
       "tags": [
-        "alive",
-        "bleak",
+        "antimemetic",
+        "auditory",
         "cognitohazard",
-        "document",
-        "dream",
-        "humanoid",
+        "k-class-scenario",
+        "keter",
         "mind-affecting",
-        "olfactory",
-        "safe",
+        "phenomenon",
+        "reality-bending",
         "scp",
-        "sleep",
         "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/remember-what-you-lost/starsample.png",
       "authors": [
-        "Onigura"
+        "Yorp"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7134",
-      "title": "SCP-7134",
-      "alternateTitle": "Born 'Neath a Lucky Star",
-      "rating": 13,
-      "createdAt": "2022-08-01T03:23:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8234",
+      "title": "SCP-8234",
+      "alternateTitle": "Flame Aflame",
+      "rating": 8,
+      "createdAt": "2025-05-23T14:57:20.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "animal",
+        "amorphous",
+        "extradimensional",
+        "fire",
         "intangible",
         "keter",
-        "probability",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "undervegas"
+        "predatory",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-7134-1/blackwood_SCP-7000_taxidermy/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Pinoccappuccino"
+        "Savanac"
       ]
     }
   ]

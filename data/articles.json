@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:52:42.375Z",
+  "updatedAt": "2026-10-04T03:18:37.985Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-689-ko",
-      "title": "SCP-689-KO",
-      "alternateTitle": "Fangi",
-      "rating": 10,
-      "createdAt": "2024-05-06T21:08:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7896",
+      "title": "SCP-7896",
+      "alternateTitle": "The Elysian Mirror",
+      "rating": 23,
+      "createdAt": "2023-06-06T04:25:22.000Z",
       "tags": [
-        "appliance",
-        "co-authored",
-        "fungus",
-        "international",
-        "parasitic",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-689-ko/fangi.jpg",
-      "authors": [
-        "quilt",
-        "Salamander724",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5617",
-      "title": "SCP-5617",
-      "alternateTitle": "“Soul”",
-      "rating": 6,
-      "createdAt": "2021-07-04T00:50:30.000Z",
-      "tags": [
-        "acoustic",
-        "alive",
-        "animal",
-        "auditory",
-        "bear",
-        "compulsion",
-        "hallucination",
-        "humanoid",
-        "keter",
-        "sapient",
+        "empathic",
+        "extradimensional",
+        "knowledge",
+        "neutralized",
+        "portal",
+        "satellite",
         "scp",
-        "uncontained",
         "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5617/Soulcreepy/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7896/Mirror.png",
       "authors": [
-        "Storytellersoul"
+        "Marceline_Raynes"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7411",
-      "title": "SCP-7411",
-      "alternateTitle": "The Hunt for Red Reality",
-      "rating": 17,
-      "createdAt": "2023-08-30T20:34:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7460",
+      "title": "SCP-7460",
+      "alternateTitle": "Emperor Of The Puppetshow",
+      "rating": 23,
+      "createdAt": "2023-10-07T16:47:32.000Z",
+      "tags": [
+        "dream",
+        "keter",
+        "nightfall",
+        "rewritable",
+        "scp",
+        "sleep",
+        "transfiguration",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "BitOddInnit"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5161",
+      "title": "SCP-5161",
+      "alternateTitle": "Hooked",
+      "rating": 16,
+      "createdAt": "2025-12-13T22:51:04.000Z",
       "tags": [
         "alive",
-        "doctor-scranton",
+        "antimemetic",
+        "building",
+        "comedy",
+        "directorate-k",
         "extradimensional",
         "humanoid",
+        "keter",
+        "mind-affecting",
+        "phenomenon",
         "reality-bending",
-        "remixcon2023",
         "sapient",
-        "scp",
-        "thaumiel"
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dieter_Fellner_at_Visual_Computing_Trends_on_2015-01-29.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lille_villa_beau_sejour_rue_gounod.jpg",
       "authors": [
-        "Doctor Jiqian"
+        "Ampyrsand"
       ]
     }
   ]

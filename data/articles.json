@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:52:55.760Z",
+  "updatedAt": "2026-10-05T02:55:21.210Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,57 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3842",
-      "title": "SCP-3842",
-      "alternateTitle": "Life-Emitting Diode",
-      "rating": 14,
-      "createdAt": "2018-02-22T02:11:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7295",
+      "title": "SCP-7295",
+      "alternateTitle": "The 4th Floor",
+      "rating": 10,
+      "createdAt": "2024-01-03T00:34:04.000Z",
       "tags": [
-        "ectoentropic",
-        "electrical",
-        "electronic",
-        "light",
         "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Axollyon"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8294",
-      "title": "SCP-8294",
-      "alternateTitle": "Remember What You Lost",
-      "rating": 18,
-      "createdAt": "2026-02-19T18:17:30.000Z",
-      "tags": [
-        "antimemetic",
-        "auditory",
-        "cognitohazard",
-        "k-class-scenario",
-        "keter",
-        "mind-affecting",
-        "phenomenon",
-        "reality-bending",
         "scp",
-        "visual"
+        "structure"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/remember-what-you-lost/starsample.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Yorp"
+        "TV_Atlas"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8234",
-      "title": "SCP-8234",
-      "alternateTitle": "Flame Aflame",
-      "rating": 8,
-      "createdAt": "2025-05-23T14:57:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4276",
+      "title": "SCP-4276",
+      "alternateTitle": "Breathe Thy Devastation",
+      "rating": 21,
+      "createdAt": "2023-05-25T06:50:01.000Z",
       "tags": [
-        "amorphous",
-        "extradimensional",
-        "fire",
-        "intangible",
+        "esoteric-class",
+        "mind-affecting",
+        "reanimation",
+        "scp",
+        "structure",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
+      "authors": [
+        "Roufhous"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9678",
+      "title": "SCP-9678",
+      "alternateTitle": "Stochastic field disruption",
+      "rating": 8,
+      "createdAt": "2025-09-29T03:18:54.000Z",
+      "tags": [
+        "9000",
         "keter",
-        "predatory",
+        "phenomenon",
+        "probability",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Savanac"
+        "Dmonist"
       ]
     }
   ]

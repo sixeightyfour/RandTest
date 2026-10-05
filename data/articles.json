@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:55:21.210Z",
+  "updatedAt": "2026-10-05T16:34:05.346Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,57 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7295",
-      "title": "SCP-7295",
-      "alternateTitle": "The 4th Floor",
-      "rating": 10,
-      "createdAt": "2024-01-03T00:34:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7681",
+      "title": "SCP-7681",
+      "alternateTitle": "Illumination à Deux",
+      "rating": 13,
+      "createdAt": "2025-07-30T09:30:42.000Z",
       "tags": [
-        "safe",
+        "body-horror",
+        "compulsion",
+        "esoteric-class",
+        "horror",
+        "knowledge",
         "scp",
-        "structure"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TV_Atlas"
+        "nova_break"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4276",
-      "title": "SCP-4276",
-      "alternateTitle": "Breathe Thy Devastation",
-      "rating": 21,
-      "createdAt": "2023-05-25T06:50:01.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9625",
+      "title": "SCP-9625",
+      "alternateTitle": "When Life Gives You Lemons…",
+      "rating": 16,
+      "createdAt": "2026-01-27T20:24:48.000Z",
       "tags": [
+        "alive",
+        "dumbcon2026-unofficial",
         "esoteric-class",
-        "mind-affecting",
-        "reanimation",
+        "ethics-committee",
+        "euclid",
+        "food",
+        "humanoid",
+        "language",
+        "light",
+        "plant",
+        "probability",
+        "sapient",
         "scp",
-        "structure",
-        "transfiguration"
+        "tree"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4276/Triple-Triple-Spiral-triskelion/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9625/IMG_3374.jpeg",
       "authors": [
-        "Roufhous"
+        "Shirley Sterling"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9678",
-      "title": "SCP-9678",
-      "alternateTitle": "Stochastic field disruption",
-      "rating": 8,
-      "createdAt": "2025-09-29T03:18:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-561-fr",
+      "title": "SCP-561-FR",
+      "alternateTitle": "Xanax from the Past",
+      "rating": 13,
+      "createdAt": "2022-10-29T02:17:13.000Z",
       "tags": [
-        "9000",
-        "keter",
-        "phenomenon",
-        "probability",
-        "science-fiction",
+        "abnormalities",
+        "acoustic",
+        "antimemetic",
+        "euclid",
+        "foundation-made",
+        "insect",
+        "international",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://fondationscp.wdfiles.com/local--files/scp-561-fr/pill.png",
       "authors": [
-        "Dmonist"
+        "Cauchynambour",
+        "Cauchynambour"
       ]
     }
   ]

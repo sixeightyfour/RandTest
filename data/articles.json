@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:34:05.346Z",
+  "updatedAt": "2026-10-06T03:44:53.215Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7681",
-      "title": "SCP-7681",
-      "alternateTitle": "Illumination à Deux",
-      "rating": 13,
-      "createdAt": "2025-07-30T09:30:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-sga-009",
+      "title": "SCP-SGA-009",
+      "alternateTitle": "The Big Yellow One's The Sun!",
+      "rating": 11,
+      "createdAt": "2025-05-21T16:24:07.000Z",
       "tags": [
-        "body-horror",
-        "compulsion",
-        "esoteric-class",
-        "horror",
-        "knowledge",
+        "extraterrestrial",
+        "international",
+        "keter",
+        "sapient",
         "scp",
-        "uncontained"
+        "sun",
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "nova_break"
+        "Anonymous",
+        "MasterTman2"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9625",
-      "title": "SCP-9625",
-      "alternateTitle": "When Life Gives You Lemons…",
-      "rating": 16,
-      "createdAt": "2026-01-27T20:24:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6849",
+      "title": "SCP-6849",
+      "alternateTitle": "Project Aniborg",
+      "rating": 22,
+      "createdAt": "2023-09-19T18:22:17.000Z",
       "tags": [
         "alive",
-        "dumbcon2026-unofficial",
+        "anderson",
+        "animal",
+        "cadaver",
         "esoteric-class",
-        "ethics-committee",
-        "euclid",
-        "food",
         "humanoid",
-        "language",
-        "light",
-        "plant",
-        "probability",
+        "robotic",
         "sapient",
         "scp",
-        "tree"
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9625/IMG_3374.jpeg",
+      "thumbnailUrl": "",
       "authors": [
-        "Shirley Sterling"
+        "Reasonably Psychotic"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-561-fr",
-      "title": "SCP-561-FR",
-      "alternateTitle": "Xanax from the Past",
-      "rating": 13,
-      "createdAt": "2022-10-29T02:17:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
+      "title": "SCP-CN-1256",
+      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
+      "rating": 12,
+      "createdAt": "2022-06-10T20:28:50.000Z",
       "tags": [
-        "abnormalities",
-        "acoustic",
-        "antimemetic",
-        "euclid",
-        "foundation-made",
-        "insect",
+        "game",
         "international",
-        "scp"
+        "meta",
+        "metafiction",
+        "scp",
+        "thaumiel"
       ],
-      "thumbnailUrl": "http://fondationscp.wdfiles.com/local--files/scp-561-fr/pill.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Cauchynambour",
-        "Cauchynambour"
+        "Ninth BB",
+        "tetsusquared"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:52:36.766Z",
+  "updatedAt": "2026-10-07T20:53:15.486Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6684",
-      "title": "SCP-6684",
-      "alternateTitle": "Rebranded",
-      "rating": 22,
-      "createdAt": "2023-06-19T15:51:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9976",
+      "title": "SCP-9976",
+      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
+      "rating": 5,
+      "createdAt": "2025-11-13T17:47:47.000Z",
       "tags": [
-        "artistic",
-        "blood",
-        "building",
-        "canine",
-        "clothing",
-        "ectoentropic",
-        "marshall-carter-and-dark",
-        "safe",
+        "electronic",
+        "extraterrestrial",
+        "keter",
+        "media",
+        "political",
         "sapient",
+        "satellite",
         "scp",
-        "transfiguration"
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
       "authors": [
-        "Fierce fauna"
+        "good_vibrations"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6321",
-      "title": "SCP-6321",
-      "alternateTitle": "The Talking Piano",
-      "rating": 13,
-      "createdAt": "2022-02-04T21:08:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
+      "title": "SCP-CN-1256",
+      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
+      "rating": 12,
+      "createdAt": "2022-06-10T20:28:50.000Z",
       "tags": [
-        "acoustic",
-        "artifact",
-        "autonomous",
+        "game",
+        "international",
+        "meta",
+        "metafiction",
+        "scp",
+        "thaumiel"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Ninth BB",
+        "tetsusquared"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-187-de",
+      "title": "SCP-187-DE",
+      "alternateTitle": "Mathilda",
+      "rating": 10,
+      "createdAt": "2022-09-08T17:16:58.000Z",
+      "tags": [
         "euclid",
-        "inscription",
-        "musical",
+        "humanoid",
+        "intangible",
+        "international",
+        "memetic",
+        "mind-affecting",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-187-de/Matpix.jpg",
       "authors": [
-        "DrMegsMarvelle"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6758",
-      "title": "SCP-6758",
-      "alternateTitle": "Overture",
-      "rating": 20,
-      "createdAt": "2025-02-13T23:47:01.000Z",
-      "tags": [
-        "body-horror",
-        "cognitohazard",
-        "euclid",
-        "homo-sapiens-sidhe",
-        "horror",
-        "memetic",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Captain_Wavzies"
+        "Dr Himy",
+        "Evil Santa"
       ]
     }
   ]

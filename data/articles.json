@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:38:02.507Z",
+  "updatedAt": "2026-10-07T03:12:18.087Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8979",
-      "title": "SCP-8979",
-      "alternateTitle": "The Eazy Experience",
-      "rating": 14,
-      "createdAt": "2024-10-16T17:42:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8218",
+      "title": "SCP-8218",
+      "alternateTitle": "Honorable Combat",
+      "rating": 13,
+      "createdAt": "2026-02-16T15:11:17.000Z",
       "tags": [
-        "blue-blooded-alien",
-        "euclid",
+        "apocalyptic",
+        "esoteric-class",
         "humanoid",
-        "media",
-        "musical",
-        "reanimation",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8979/{$name}/medium.jpg",
-      "authors": [
-        "AgathyrsiVril"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5645",
-      "title": "SCP-5645",
-      "alternateTitle": "The End of Nothing Special",
-      "rating": 15,
-      "createdAt": "2021-03-13T05:52:55.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
-        "humanoid",
-        "safe",
-        "scp"
+        "location",
+        "political",
+        "scp",
+        "transfiguration",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Crashington"
+        "poltatherian"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7513",
-      "title": "SCP-7513",
-      "alternateTitle": "Fuck Aliens!",
-      "rating": 23,
-      "createdAt": "2022-10-23T19:14:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7285",
+      "title": "SCP-7285",
+      "alternateTitle": "A simpler time",
+      "rating": 5,
+      "createdAt": "2023-01-20T15:03:37.000Z",
       "tags": [
         "alive",
-        "euclid",
-        "extraterrestrial",
         "humanoid",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "reality-bending",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
+      "authors": [
+        "guiness11"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7075",
+      "title": "SCP-7075",
+      "alternateTitle": "\"Twins\"",
+      "rating": 7,
+      "createdAt": "2022-07-30T01:42:20.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "humanoid",
+        "safe",
         "sapient",
         "scp",
-        "sexual"
+        "telepathic"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7513/Forrest.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Capriccio Farce"
+        "redredred"
       ]
     }
   ]

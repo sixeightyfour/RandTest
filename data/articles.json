@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T03:12:18.087Z",
+  "updatedAt": "2026-10-07T14:52:36.766Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8218",
-      "title": "SCP-8218",
-      "alternateTitle": "Honorable Combat",
-      "rating": 13,
-      "createdAt": "2026-02-16T15:11:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6684",
+      "title": "SCP-6684",
+      "alternateTitle": "Rebranded",
+      "rating": 22,
+      "createdAt": "2023-06-19T15:51:05.000Z",
       "tags": [
-        "apocalyptic",
-        "esoteric-class",
-        "humanoid",
-        "location",
-        "political",
+        "artistic",
+        "blood",
+        "building",
+        "canine",
+        "clothing",
+        "ectoentropic",
+        "marshall-carter-and-dark",
+        "safe",
+        "sapient",
         "scp",
-        "transfiguration",
-        "uncontained"
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
       "authors": [
-        "poltatherian"
+        "Fierce fauna"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7285",
-      "title": "SCP-7285",
-      "alternateTitle": "A simpler time",
-      "rating": 5,
-      "createdAt": "2023-01-20T15:03:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6321",
+      "title": "SCP-6321",
+      "alternateTitle": "The Talking Piano",
+      "rating": 13,
+      "createdAt": "2022-02-04T21:08:26.000Z",
       "tags": [
-        "alive",
-        "humanoid",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "reality-bending",
-        "safe",
-        "sapient",
+        "acoustic",
+        "artifact",
+        "autonomous",
+        "euclid",
+        "inscription",
+        "musical",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7285/leschool.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "guiness11"
+        "DrMegsMarvelle"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7075",
-      "title": "SCP-7075",
-      "alternateTitle": "\"Twins\"",
-      "rating": 7,
-      "createdAt": "2022-07-30T01:42:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6758",
+      "title": "SCP-6758",
+      "alternateTitle": "Overture",
+      "rating": 20,
+      "createdAt": "2025-02-13T23:47:01.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "humanoid",
-        "safe",
-        "sapient",
+        "body-horror",
+        "cognitohazard",
+        "euclid",
+        "homo-sapiens-sidhe",
+        "horror",
+        "memetic",
         "scp",
-        "telepathic"
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "redredred"
+        "Captain_Wavzies"
       ]
     }
   ]

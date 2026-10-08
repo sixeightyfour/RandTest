@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:28:25.416Z",
+  "updatedAt": "2026-10-08T15:02:29.173Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7917",
-      "title": "SCP-7917",
-      "alternateTitle": "The Worst Distance Between Two People",
-      "rating": 22,
-      "createdAt": "2022-12-07T21:57:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8082",
+      "title": "SCP-8082",
+      "alternateTitle": "The Wild Hunt",
+      "rating": 14,
+      "createdAt": "2024-02-19T04:54:18.000Z",
       "tags": [
-        "cadaver",
-        "ettra",
-        "extraterrestrial",
-        "foundation-personnel",
-        "pending",
-        "planet",
-        "sapient",
+        "8000",
+        "esoteric-class",
+        "foundation-made",
+        "illustrated",
+        "nameless",
         "scp",
-        "teleportation"
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8082/ShoutAndFades.png",
       "authors": [
-        "NDHeckfire"
+        "Nonacherontia"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8275",
-      "title": "SCP-8275",
-      "alternateTitle": "Long Legs",
-      "rating": 20,
-      "createdAt": "2024-08-20T22:50:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9985",
+      "title": "SCP-9985",
+      "alternateTitle": "StallOS",
+      "rating": 13,
+      "createdAt": "2026-01-23T19:11:07.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "arachnid",
-        "biohazard",
-        "euclid",
-        "sapient",
-        "scp",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Grammostola_rosea_subadult_3.jpg",
-      "authors": [
-        "Numberzz"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9170",
-      "title": "SCP-9170",
-      "alternateTitle": "No. 17 Gorse Avenue",
-      "rating": 9,
-      "createdAt": "2025-10-01T23:17:55.000Z",
-      "tags": [
-        "9000",
-        "building",
-        "infohazard",
-        "mathematical",
-        "neurological",
+        "cognitohazard",
+        "computer",
+        "electronic",
+        "reality-bending",
         "safe",
-        "scp"
+        "scp",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TeaAndDigestives"
+        "TheHindSight"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-es-185",
+      "title": "SCP-ES-185",
+      "alternateTitle": "Space Swallow",
+      "rating": 4,
+      "createdAt": "2023-07-26T15:31:56.000Z",
+      "tags": [
+        "foundation-made",
+        "historical",
+        "international",
+        "loop",
+        "mechanical",
+        "media",
+        "military",
+        "safe",
+        "scp",
+        "temporal",
+        "vehicle"
+      ],
+      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
+      "authors": [
+        "Daman_1985",
+        "AlienSpaceBat"
       ]
     }
   ]

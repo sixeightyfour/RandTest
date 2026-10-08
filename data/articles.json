@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:53:15.486Z",
+  "updatedAt": "2026-10-08T03:28:25.416Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9976",
-      "title": "SCP-9976",
-      "alternateTitle": "Kessler Syndrome With Chinese Characteristics",
-      "rating": 5,
-      "createdAt": "2025-11-13T17:47:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7917",
+      "title": "SCP-7917",
+      "alternateTitle": "The Worst Distance Between Two People",
+      "rating": 22,
+      "createdAt": "2022-12-07T21:57:47.000Z",
       "tags": [
-        "electronic",
+        "cadaver",
+        "ettra",
         "extraterrestrial",
-        "keter",
-        "media",
-        "political",
+        "foundation-personnel",
+        "pending",
+        "planet",
         "sapient",
-        "satellite",
         "scp",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S115e07201.jpg/960px-S115e07201.jpg",
-      "authors": [
-        "good_vibrations"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1256",
-      "title": "SCP-CN-1256",
-      "alternateTitle": "SCP Foundation Chinese Branch Chronicle",
-      "rating": 12,
-      "createdAt": "2022-06-10T20:28:50.000Z",
-      "tags": [
-        "game",
-        "international",
-        "meta",
-        "metafiction",
-        "scp",
-        "thaumiel"
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Ninth BB",
-        "tetsusquared"
+        "NDHeckfire"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-187-de",
-      "title": "SCP-187-DE",
-      "alternateTitle": "Mathilda",
-      "rating": 10,
-      "createdAt": "2022-09-08T17:16:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8275",
+      "title": "SCP-8275",
+      "alternateTitle": "Long Legs",
+      "rating": 20,
+      "createdAt": "2024-08-20T22:50:10.000Z",
       "tags": [
+        "alive",
+        "animal",
+        "arachnid",
+        "biohazard",
         "euclid",
-        "humanoid",
-        "intangible",
-        "international",
-        "memetic",
-        "mind-affecting",
         "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Grammostola_rosea_subadult_3.jpg",
+      "authors": [
+        "Numberzz"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9170",
+      "title": "SCP-9170",
+      "alternateTitle": "No. 17 Gorse Avenue",
+      "rating": 9,
+      "createdAt": "2025-10-01T23:17:55.000Z",
+      "tags": [
+        "9000",
+        "building",
+        "infohazard",
+        "mathematical",
+        "neurological",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-187-de/Matpix.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr Himy",
-        "Evil Santa"
+        "TeaAndDigestives"
       ]
     }
   ]

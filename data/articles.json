@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:46:58.027Z",
+  "updatedAt": "2026-10-09T20:23:30.463Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6083",
-      "title": "SCP-6083",
-      "alternateTitle": "A Pitiable Existence",
-      "rating": 12,
-      "createdAt": "2022-01-05T14:40:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9436",
+      "title": "SCP-9436",
+      "alternateTitle": "The Line-Cutting Feline",
+      "rating": 16,
+      "createdAt": "2026-03-25T07:05:24.000Z",
       "tags": [
         "alive",
-        "humanoid",
-        "mind-affecting",
-        "safe",
-        "sapient",
+        "animal",
+        "concept",
+        "euclid",
+        "feline",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scpsandboxcn.wikidot.com/local--files/zsbpc-cat/%E6%A2%85%E7%8B%B8%E7%8C%AB",
       "authors": [
-        "Tracque_"
+        "ZSBPC"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6971",
-      "title": "SCP-6971",
-      "alternateTitle": "Nuclearity",
-      "rating": 17,
-      "createdAt": "2022-02-19T15:55:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7035",
+      "title": "SCP-7035",
+      "alternateTitle": "Wonder Coast",
+      "rating": 18,
+      "createdAt": "2022-11-16T03:27:37.000Z",
       "tags": [
         "alive",
-        "ectoentropic",
-        "electromagnetic",
+        "director-scout",
         "esoteric-class",
-        "ethics-committee",
+        "extradimensional",
         "humanoid",
-        "radioactive",
+        "pentagram",
+        "portal",
         "sapient",
         "scp",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6971/TrojanPlant.jpg",
-      "authors": [
-        "Sirslash47"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6548",
-      "title": "SCP-6548",
-      "alternateTitle": "By the Name of Mine",
-      "rating": 19,
-      "createdAt": "2022-11-09T07:37:42.000Z",
-      "tags": [
-        "antimemetic",
-        "auditory",
-        "esterberg",
-        "homo-sapiens-sidhe",
-        "indestructible",
-        "jewelry",
-        "k-class-scenario",
-        "maria-johnston",
-        "mind-affecting",
-        "nameless",
-        "ninth-world",
-        "safe",
-        "scp"
+        "wonder-world"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "tingfeng1999"
+        "New_to_life"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-106-ko",
+      "title": "SCP-106-KO",
+      "alternateTitle": "Hanging Scroll",
+      "rating": 14,
+      "createdAt": "2022-08-19T09:13:39.000Z",
+      "tags": [
+        "artistic",
+        "extradimensional",
+        "international",
+        "portal",
+        "safe",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-106-ko/A_Scholarly_Outing_LACMA_M.2000.15.27.jpg",
+      "authors": [
+        "Salamander724",
+        "Subervos"
       ]
     }
   ]

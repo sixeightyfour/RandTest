@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:04:47.242Z",
+  "updatedAt": "2026-10-10T19:37:21.622Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4324",
-      "title": "SCP-4324",
-      "alternateTitle": "Saint Torben the Strange",
-      "rating": 11,
-      "createdAt": "2019-01-07T20:33:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8040",
+      "title": "SCP-8040",
+      "alternateTitle": "Diviner's Mug",
+      "rating": 23,
+      "createdAt": "2024-03-13T14:49:58.000Z",
       "tags": [
-        "artistic",
-        "cognitohazard",
-        "memetic",
-        "mind-affecting",
-        "religious",
+        "iris-thompson",
+        "predictive",
         "safe",
         "scp",
-        "visual"
+        "telekinetic",
+        "tool"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4324/2CcAzjM.webp",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8040/cup-with-coffee.jpg",
       "authors": [
-        "jellybeanaime"
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
-      "title": "SCP-CN-1169",
-      "alternateTitle": "An Impure Fiction Society",
-      "rating": 8,
-      "createdAt": "2023-06-19T16:07:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6786",
+      "title": "SCP-6786",
+      "alternateTitle": "VKTM Presents: Invasive Nature",
+      "rating": 19,
+      "createdAt": "2024-10-17T00:37:20.000Z",
       "tags": [
-        "esoteric-class",
-        "international",
-        "meta",
-        "metafiction",
-        "narrative",
-        "reality-bending",
+        "alive",
+        "cognitohazard",
+        "document",
+        "humanoid",
+        "media",
+        "safe",
+        "sapient",
         "scp",
-        "temporal",
-        "uncontained"
+        "vikander-kneed"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6786/VKTM-1.png",
       "authors": [
-        "Ninth BB",
-        "la kanro"
+        "Arclund"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8691",
-      "title": "SCP-8691",
-      "alternateTitle": "WARNING: Smoking can cause a slow and painful death.",
-      "rating": 15,
-      "createdAt": "2025-07-20T22:28:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8983",
+      "title": "SCP-8983",
+      "alternateTitle": "The Voice of Reason",
+      "rating": 9,
+      "createdAt": "2024-11-29T11:37:35.000Z",
       "tags": [
-        "artifact",
-        "chemical",
-        "cognitohazard",
-        "compulsion",
+        "amorphous",
+        "audio",
+        "knowledge",
+        "mimetic",
+        "musical",
         "safe",
-        "scp",
-        "toxic"
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://s3.amazonaws.com/cdn.caseantiques.com/wp-content/uploads/auctions/2015_07_18/843_1-967x1080.jpg",
       "authors": [
-        "lunatunamoona"
+        "SheerC0ld"
       ]
     }
   ]

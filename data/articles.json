@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:14:06.256Z",
+  "updatedAt": "2026-10-10T14:04:47.242Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8294",
-      "title": "SCP-8294",
-      "alternateTitle": "Remember What You Lost",
-      "rating": 18,
-      "createdAt": "2026-02-19T18:17:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4324",
+      "title": "SCP-4324",
+      "alternateTitle": "Saint Torben the Strange",
+      "rating": 11,
+      "createdAt": "2019-01-07T20:33:52.000Z",
       "tags": [
-        "antimemetic",
-        "auditory",
+        "artistic",
         "cognitohazard",
-        "k-class-scenario",
-        "keter",
+        "memetic",
         "mind-affecting",
-        "phenomenon",
-        "reality-bending",
+        "religious",
+        "safe",
         "scp",
         "visual"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/remember-what-you-lost/starsample.png",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4324/2CcAzjM.webp",
       "authors": [
-        "Yorp"
+        "jellybeanaime"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9217",
-      "title": "SCP-9217",
-      "alternateTitle": "MYR Island",
-      "rating": 14,
-      "createdAt": "2026-01-27T04:43:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1169",
+      "title": "SCP-CN-1169",
+      "alternateTitle": "An Impure Fiction Society",
+      "rating": 8,
+      "createdAt": "2023-06-19T16:07:16.000Z",
       "tags": [
-        "alive",
-        "dumbcon2026-unofficial",
-        "electronic",
-        "humanoid",
-        "island",
-        "keter",
-        "sapient",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "http://lspr.wikidot.com/local--files/dumbcon/island.jpg",
-      "authors": [
-        "TopDownUnder"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1500",
-      "title": "SCP-CN-1500",
-      "alternateTitle": "pʰoʃma",
-      "rating": 21,
-      "createdAt": "2022-05-05T02:45:42.000Z",
-      "tags": [
-        "compulsion",
-        "historical",
-        "humanoid",
+        "esoteric-class",
         "international",
-        "language",
-        "location",
-        "mind-affecting",
+        "meta",
+        "metafiction",
+        "narrative",
+        "reality-bending",
+        "scp",
+        "temporal",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Ninth BB",
+        "la kanro"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8691",
+      "title": "SCP-8691",
+      "alternateTitle": "WARNING: Smoking can cause a slow and painful death.",
+      "rating": 15,
+      "createdAt": "2025-07-20T22:28:17.000Z",
+      "tags": [
+        "artifact",
+        "chemical",
+        "cognitohazard",
+        "compulsion",
         "safe",
         "scp",
-        "swarm",
-        "telekinetic",
-        "transfiguration"
+        "toxic"
       ],
-      "thumbnailUrl": "http://scp-wiki-cn.wikidot.com/local--files/scp-cn-1500/eye",
+      "thumbnailUrl": "",
       "authors": [
-        "Hueyacuetzpali",
-        "tetsusquared"
+        "lunatunamoona"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:37:21.622Z",
+  "updatedAt": "2026-10-11T02:46:53.617Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8040",
-      "title": "SCP-8040",
-      "alternateTitle": "Diviner's Mug",
+      "url": "http://scp-wiki.wikidot.com/scp-6429",
+      "title": "SCP-6429",
+      "alternateTitle": "Yeh-Teh",
       "rating": 23,
-      "createdAt": "2024-03-13T14:49:58.000Z",
-      "tags": [
-        "iris-thompson",
-        "predictive",
-        "safe",
-        "scp",
-        "telekinetic",
-        "tool"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8040/cup-with-coffee.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6786",
-      "title": "SCP-6786",
-      "alternateTitle": "VKTM Presents: Invasive Nature",
-      "rating": 19,
-      "createdAt": "2024-10-17T00:37:20.000Z",
+      "createdAt": "2022-05-11T16:26:37.000Z",
       "tags": [
         "alive",
-        "cognitohazard",
-        "document",
+        "cadaver",
         "humanoid",
         "media",
+        "photographic",
+        "reality-bending",
         "safe",
-        "sapient",
         "scp",
-        "vikander-kneed"
+        "species"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6786/VKTM-1.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6429/magnus",
       "authors": [
-        "Arclund"
+        "Bread_Tyrant"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8983",
-      "title": "SCP-8983",
-      "alternateTitle": "The Voice of Reason",
-      "rating": 9,
-      "createdAt": "2024-11-29T11:37:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8240",
+      "title": "SCP-8240",
+      "alternateTitle": "Ad Astra per Commercium",
+      "rating": 17,
+      "createdAt": "2025-03-18T14:04:31.000Z",
       "tags": [
-        "amorphous",
-        "audio",
+        "appliance",
+        "corporate",
+        "electrical",
+        "electronic",
+        "extraterrestrial",
         "knowledge",
-        "mimetic",
-        "musical",
         "safe",
+        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "https://s3.amazonaws.com/cdn.caseantiques.com/wp-content/uploads/auctions/2015_07_18/843_1-967x1080.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8240/Admiral.png",
       "authors": [
-        "SheerC0ld"
+        "D-Barschina"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
+      "title": "SCP-ZH-424",
+      "alternateTitle": "S.P.I.R.I.T.",
+      "rating": 7,
+      "createdAt": "2023-08-09T17:00:06.000Z",
+      "tags": [
+        "electrical",
+        "extradimensional",
+        "ghost",
+        "international",
+        "light",
+        "lorecon2023",
+        "plant",
+        "portal",
+        "safe",
+        "scp",
+        "species",
+        "telepathic"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Edward_Knave",
+        "Edward_Knave"
       ]
     }
   ]

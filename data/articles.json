@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:46:53.617Z",
+  "updatedAt": "2026-10-11T14:28:33.338Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6429",
-      "title": "SCP-6429",
-      "alternateTitle": "Yeh-Teh",
-      "rating": 23,
-      "createdAt": "2022-05-11T16:26:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-953-ko",
+      "title": "SCP-953-KO",
+      "alternateTitle": "Pretending Humanoid",
+      "rating": 16,
+      "createdAt": "2024-04-12T09:05:54.000Z",
       "tags": [
         "alive",
-        "cadaver",
+        "animal",
+        "hostile",
         "humanoid",
-        "media",
-        "photographic",
-        "reality-bending",
-        "safe",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6429/magnus",
-      "authors": [
-        "Bread_Tyrant"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8240",
-      "title": "SCP-8240",
-      "alternateTitle": "Ad Astra per Commercium",
-      "rating": 17,
-      "createdAt": "2025-03-18T14:04:31.000Z",
-      "tags": [
-        "appliance",
-        "corporate",
-        "electrical",
-        "electronic",
-        "extraterrestrial",
-        "knowledge",
-        "safe",
-        "science-fiction",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8240/Admiral.png",
-      "authors": [
-        "D-Barschina"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
-      "title": "SCP-ZH-424",
-      "alternateTitle": "S.P.I.R.I.T.",
-      "rating": 7,
-      "createdAt": "2023-08-09T17:00:06.000Z",
-      "tags": [
-        "electrical",
-        "extradimensional",
-        "ghost",
         "international",
-        "light",
-        "lorecon2023",
-        "plant",
-        "portal",
-        "safe",
-        "scp",
-        "species",
-        "telepathic"
+        "keter",
+        "metamorphic",
+        "mind-affecting",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
+        "thd-glasses",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5163",
+      "title": "SCP-5163",
+      "alternateTitle": "The Cutest Teddy Bear of All Times",
+      "rating": 7,
+      "createdAt": "2025-09-11T22:28:15.000Z",
+      "tags": [
+        "cognitohazard",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "tactile",
+        "toy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
+      "authors": [
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6321",
+      "title": "SCP-6321",
+      "alternateTitle": "The Talking Piano",
+      "rating": 13,
+      "createdAt": "2022-02-04T21:08:26.000Z",
+      "tags": [
+        "acoustic",
+        "artifact",
+        "autonomous",
+        "euclid",
+        "inscription",
+        "musical",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrMegsMarvelle"
       ]
     }
   ]

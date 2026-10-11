@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:28:33.338Z",
+  "updatedAt": "2026-10-11T19:47:46.932Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-953-ko",
-      "title": "SCP-953-KO",
-      "alternateTitle": "Pretending Humanoid",
-      "rating": 16,
-      "createdAt": "2024-04-12T09:05:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7946",
+      "title": "SCP-7946",
+      "alternateTitle": "Jerahmeel",
+      "rating": 23,
+      "createdAt": "2024-02-06T06:55:55.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "hostile",
-        "humanoid",
-        "international",
-        "keter",
-        "metamorphic",
-        "mind-affecting",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "thd-glasses",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5163",
-      "title": "SCP-5163",
-      "alternateTitle": "The Cutest Teddy Bear of All Times",
-      "rating": 7,
-      "createdAt": "2025-09-11T22:28:15.000Z",
-      "tags": [
-        "cognitohazard",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "tactile",
-        "toy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
-      "authors": [
-        "Lucas667"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6321",
-      "title": "SCP-6321",
-      "alternateTitle": "The Talking Piano",
-      "rating": 13,
-      "createdAt": "2022-02-04T21:08:26.000Z",
-      "tags": [
-        "acoustic",
-        "artifact",
-        "autonomous",
+        "cadaver",
         "euclid",
-        "inscription",
-        "musical",
+        "extradimensional",
+        "humanoid",
+        "interactive",
+        "jewelry",
+        "memory-affecting",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "MrMeltingPoint"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-494-arc",
+      "title": "SCP-494-ARC",
+      "alternateTitle": "Communication Torus",
+      "rating": 6,
+      "createdAt": "2010-03-25T19:56:18.000Z",
+      "tags": [
+        "airborne",
+        "archived",
+        "autonomous",
+        "ectoentropic",
+        "euclid",
+        "light",
+        "liquid",
+        "safe",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrMegsMarvelle"
+        "Unknown Author"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9446",
+      "title": "SCP-9446",
+      "alternateTitle": "A Slice In Time",
+      "rating": 14,
+      "createdAt": "2026-03-29T23:59:02.000Z",
+      "tags": [
+        "esoteric-class",
+        "foundation-made",
+        "memory-affecting",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/a-slice-in-time-by-sleepyproto/Still%20image",
+      "authors": [
+        "SleepyProto"
       ]
     }
   ]

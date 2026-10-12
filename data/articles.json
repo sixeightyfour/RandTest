@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T03:10:22.872Z",
+  "updatedAt": "2026-10-12T17:06:55.872Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8464",
-      "title": "SCP-8464",
-      "alternateTitle": "The Glass Slip",
-      "rating": 23,
-      "createdAt": "2025-05-31T05:36:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8508",
+      "title": "SCP-8508",
+      "alternateTitle": "Blood Money",
+      "rating": 18,
+      "createdAt": "2026-02-16T01:48:53.000Z",
       "tags": [
-        "alive",
-        "antimemetic",
-        "clothing",
-        "fantasy",
-        "humanoid",
-        "illustrated",
-        "keter",
-        "lgbtq",
-        "mythological",
-        "observational",
-        "predictive",
-        "probability",
+        "currency",
+        "hallucination",
+        "knowledge",
+        "mind-affecting",
+        "safe",
         "scp",
-        "thaumaturgy"
+        "spatial"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8464/Cinderrella_Portait_SIDE.png",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8508/Money",
       "authors": [
-        "Doctor Zurvan"
+        "nova_break"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6849",
-      "title": "SCP-6849",
-      "alternateTitle": "Project Aniborg",
-      "rating": 22,
-      "createdAt": "2023-09-19T18:22:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7478",
+      "title": "SCP-7478",
+      "alternateTitle": "Scatter",
+      "rating": 14,
+      "createdAt": "2023-09-28T20:03:24.000Z",
       "tags": [
-        "alive",
-        "anderson",
-        "animal",
-        "cadaver",
-        "esoteric-class",
-        "humanoid",
-        "robotic",
-        "sapient",
-        "scp",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Reasonably Psychotic"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4842",
-      "title": "SCP-4842",
-      "alternateTitle": "The Disintegration Loops",
-      "rating": 13,
-      "createdAt": "2019-10-30T21:59:16.000Z",
-      "tags": [
-        "acoustic",
-        "audio",
-        "ectoentropic",
-        "electronic",
-        "euclid",
-        "media",
+        "auditory",
+        "building",
+        "cognitohazard",
+        "memory-affecting",
+        "olfactory",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
       "authors": [
-        "Decibelles"
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9039",
+      "title": "SCP-9039",
+      "alternateTitle": "The Perfect Crime Podcast",
+      "rating": 23,
+      "createdAt": "2025-10-25T20:34:49.000Z",
+      "tags": [
+        "auditory",
+        "cognitohazard",
+        "crime-fiction",
+        "euclid",
+        "media",
+        "online",
+        "parawatch",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9039/{$name}/medium.jpg",
+      "authors": [
+        "realsquirrel"
       ]
     }
   ]

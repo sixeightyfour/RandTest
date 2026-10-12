@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:47:46.932Z",
+  "updatedAt": "2026-10-12T03:10:22.872Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7946",
-      "title": "SCP-7946",
-      "alternateTitle": "Jerahmeel",
+      "url": "http://scp-wiki.wikidot.com/scp-8464",
+      "title": "SCP-8464",
+      "alternateTitle": "The Glass Slip",
       "rating": 23,
-      "createdAt": "2024-02-06T06:55:55.000Z",
+      "createdAt": "2025-05-31T05:36:02.000Z",
       "tags": [
-        "cadaver",
-        "euclid",
-        "extradimensional",
+        "alive",
+        "antimemetic",
+        "clothing",
+        "fantasy",
         "humanoid",
-        "interactive",
-        "jewelry",
-        "memory-affecting",
+        "illustrated",
+        "keter",
+        "lgbtq",
+        "mythological",
+        "observational",
+        "predictive",
+        "probability",
         "scp",
-        "structure"
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8464/Cinderrella_Portait_SIDE.png",
       "authors": [
-        "MrMeltingPoint"
+        "Doctor Zurvan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-494-arc",
-      "title": "SCP-494-ARC",
-      "alternateTitle": "Communication Torus",
-      "rating": 6,
-      "createdAt": "2010-03-25T19:56:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6849",
+      "title": "SCP-6849",
+      "alternateTitle": "Project Aniborg",
+      "rating": 22,
+      "createdAt": "2023-09-19T18:22:17.000Z",
       "tags": [
-        "airborne",
-        "archived",
-        "autonomous",
+        "alive",
+        "anderson",
+        "animal",
+        "cadaver",
+        "esoteric-class",
+        "humanoid",
+        "robotic",
+        "sapient",
+        "scp",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Reasonably Psychotic"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4842",
+      "title": "SCP-4842",
+      "alternateTitle": "The Disintegration Loops",
+      "rating": 13,
+      "createdAt": "2019-10-30T21:59:16.000Z",
+      "tags": [
+        "acoustic",
+        "audio",
         "ectoentropic",
+        "electronic",
         "euclid",
-        "light",
-        "liquid",
-        "safe",
+        "media",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9446",
-      "title": "SCP-9446",
-      "alternateTitle": "A Slice In Time",
-      "rating": 14,
-      "createdAt": "2026-03-29T23:59:02.000Z",
-      "tags": [
-        "esoteric-class",
-        "foundation-made",
-        "memory-affecting",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/a-slice-in-time-by-sleepyproto/Still%20image",
-      "authors": [
-        "SleepyProto"
+        "Decibelles"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T04:26:07.138Z",
+  "updatedAt": "2026-10-13T15:23:32.653Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-021-pt",
-      "title": "SCP-021-PT",
-      "alternateTitle": "Theatre of Crystals",
-      "rating": 18,
-      "createdAt": "2018-11-02T18:50:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9155",
+      "title": "SCP-9155",
+      "alternateTitle": "Cerulean Shower",
+      "rating": 4,
+      "createdAt": "2026-01-25T00:31:30.000Z",
       "tags": [
-        "humanoid",
-        "international",
-        "keter",
-        "performance",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpsandboxbr.wdfiles.com/local--files/slashannemoo/WasserEisbergMeerOzeanAntarktis.png",
-      "authors": [
-        "slashannemoo",
-        "slashannemoo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9869",
-      "title": "SCP-9869",
-      "alternateTitle": "Every Kind of Thing",
-      "rating": 22,
-      "createdAt": "2025-11-15T21:57:44.000Z",
-      "tags": [
-        "alive",
-        "archon",
+        "chemical",
+        "dumbcon2026-unofficial",
+        "euclid",
         "extraterrestrial",
-        "sapient",
-        "science-fiction",
+        "reanimation",
+        "religious",
         "scp",
-        "temporal",
-        "xenofiction"
+        "thaumaturgy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "whenwerewe"
+        "Didelphia Poss"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-185",
-      "title": "SCP-ES-185",
-      "alternateTitle": "Space Swallow",
-      "rating": 4,
-      "createdAt": "2023-07-26T15:31:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5294",
+      "title": "SCP-5294",
+      "alternateTitle": "The Emancipatory Society for Middle-Aged Fathers",
+      "rating": 20,
+      "createdAt": "2021-09-14T09:37:59.000Z",
       "tags": [
-        "foundation-made",
-        "historical",
-        "international",
-        "loop",
-        "mechanical",
-        "media",
-        "military",
+        "alive",
+        "building",
+        "humanoid",
+        "location",
+        "mind-affecting",
+        "reality-bending",
         "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Nils Severin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9193",
+      "title": "SCP-9193",
+      "alternateTitle": "The Red Rabbit",
+      "rating": 8,
+      "createdAt": "2026-03-24T11:47:01.000Z",
+      "tags": [
+        "aquatic",
+        "euclid",
+        "extradimensional",
+        "infohazard",
+        "inscription",
+        "liquid",
+        "magnetic",
+        "memory-affecting",
         "scp",
-        "temporal",
+        "sphere",
         "vehicle"
       ],
-      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9193/TheRedRabbit.png",
       "authors": [
-        "Daman_1985",
-        "AlienSpaceBat"
+        "The Xavier Ledger"
       ]
     }
   ]

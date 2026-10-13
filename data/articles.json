@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:06:55.872Z",
+  "updatedAt": "2026-10-13T04:26:07.138Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8508",
-      "title": "SCP-8508",
-      "alternateTitle": "Blood Money",
+      "url": "http://scp-wiki.wikidot.com/scp-021-pt",
+      "title": "SCP-021-PT",
+      "alternateTitle": "Theatre of Crystals",
       "rating": 18,
-      "createdAt": "2026-02-16T01:48:53.000Z",
+      "createdAt": "2018-11-02T18:50:19.000Z",
       "tags": [
-        "currency",
-        "hallucination",
-        "knowledge",
-        "mind-affecting",
+        "humanoid",
+        "international",
+        "keter",
+        "performance",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scpsandboxbr.wdfiles.com/local--files/slashannemoo/WasserEisbergMeerOzeanAntarktis.png",
+      "authors": [
+        "slashannemoo",
+        "slashannemoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9869",
+      "title": "SCP-9869",
+      "alternateTitle": "Every Kind of Thing",
+      "rating": 22,
+      "createdAt": "2025-11-15T21:57:44.000Z",
+      "tags": [
+        "alive",
+        "archon",
+        "extraterrestrial",
+        "sapient",
+        "science-fiction",
+        "scp",
+        "temporal",
+        "xenofiction"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-es-185",
+      "title": "SCP-ES-185",
+      "alternateTitle": "Space Swallow",
+      "rating": 4,
+      "createdAt": "2023-07-26T15:31:56.000Z",
+      "tags": [
+        "foundation-made",
+        "historical",
+        "international",
+        "loop",
+        "mechanical",
+        "media",
+        "military",
         "safe",
         "scp",
-        "spatial"
+        "temporal",
+        "vehicle"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8508/Money",
+      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
       "authors": [
-        "nova_break"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7478",
-      "title": "SCP-7478",
-      "alternateTitle": "Scatter",
-      "rating": 14,
-      "createdAt": "2023-09-28T20:03:24.000Z",
-      "tags": [
-        "auditory",
-        "building",
-        "cognitohazard",
-        "memory-affecting",
-        "olfactory",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9039",
-      "title": "SCP-9039",
-      "alternateTitle": "The Perfect Crime Podcast",
-      "rating": 23,
-      "createdAt": "2025-10-25T20:34:49.000Z",
-      "tags": [
-        "auditory",
-        "cognitohazard",
-        "crime-fiction",
-        "euclid",
-        "media",
-        "online",
-        "parawatch",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9039/{$name}/medium.jpg",
-      "authors": [
-        "realsquirrel"
+        "Daman_1985",
+        "AlienSpaceBat"
       ]
     }
   ]

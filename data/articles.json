@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:53:37.058Z",
+  "updatedAt": "2026-10-14T02:36:27.730Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8279",
-      "title": "SCP-8279",
-      "alternateTitle": "\"The Screaming\"",
-      "rating": 4,
-      "createdAt": "2025-07-13T03:19:18.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 16,
+      "createdAt": "2022-08-13T02:47:23.000Z",
       "tags": [
-        "apocalyptic",
-        "classiccon2025",
-        "horror",
-        "keter",
-        "memetic",
-        "mind-affecting",
-        "scp",
-        "uncontained"
+        "biological",
+        "building",
+        "euclid",
+        "fifthist",
+        "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
       "authors": [
-        "Zera27"
+        "Quicksilvers"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8769",
-      "title": "SCP-8769",
-      "alternateTitle": "Love Hurts",
-      "rating": 18,
-      "createdAt": "2026-01-29T15:30:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7465",
+      "title": "SCP-7465",
+      "alternateTitle": "\"Superseded Theories of the Solar System\"",
+      "rating": 8,
+      "createdAt": "2022-10-08T22:37:33.000Z",
       "tags": [
-        "horror",
+        "building",
+        "empathic",
+        "euclid",
         "hostile",
-        "keter",
-        "online",
-        "parawatch",
-        "romance",
+        "mind-affecting",
+        "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "CN Productions"
+        "redredred"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3971",
-      "title": "SCP-3971",
-      "alternateTitle": "Utility Closet SB3-117a",
-      "rating": 24,
-      "createdAt": "2018-07-15T17:31:51.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7414",
+      "title": "SCP-7414",
+      "alternateTitle": "The Legend of Alfhild Lathgertha",
+      "rating": 16,
+      "createdAt": "2024-01-17T06:36:44.000Z",
       "tags": [
         "artifact",
-        "extradimensional",
-        "portal",
+        "hallucination",
+        "historical",
+        "inscription",
         "safe",
-        "scp",
-        "teleportation"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-3971/crashed/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
       "authors": [
-        "IsaacTalman"
+        "Nils Severin"
       ]
     }
   ]

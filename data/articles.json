@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T02:36:27.730Z",
+  "updatedAt": "2026-10-14T13:10:13.511Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 16,
-      "createdAt": "2022-08-13T02:47:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4086",
+      "title": "SCP-4086",
+      "alternateTitle": "The Tunnels",
+      "rating": 20,
+      "createdAt": "2019-03-29T05:49:47.000Z",
       "tags": [
-        "biological",
-        "building",
         "euclid",
-        "fifthist",
-        "scp"
+        "extradimensional",
+        "portal",
+        "scp",
+        "structure",
+        "subterranean"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4086/SCP-4086/medium.jpg",
       "authors": [
-        "Quicksilvers"
+        "Researcher Durham"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7465",
-      "title": "SCP-7465",
-      "alternateTitle": "\"Superseded Theories of the Solar System\"",
-      "rating": 8,
-      "createdAt": "2022-10-08T22:37:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7698",
+      "title": "SCP-7698",
+      "alternateTitle": "AMONICE",
+      "rating": 21,
+      "createdAt": "2023-11-27T14:02:38.000Z",
       "tags": [
-        "building",
-        "empathic",
-        "euclid",
-        "hostile",
+        "alive",
+        "biohazard",
+        "cephalopod",
+        "exchange",
+        "humanoid",
+        "keter",
         "mind-affecting",
-        "sapient",
-        "scp"
+        "scp",
+        "self-repairing",
+        "teleportation",
+        "transfiguration",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7698/AMONICE1.png",
       "authors": [
-        "redredred"
+        "Wildman8"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7414",
-      "title": "SCP-7414",
-      "alternateTitle": "The Legend of Alfhild Lathgertha",
-      "rating": 16,
-      "createdAt": "2024-01-17T06:36:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9107",
+      "title": "SCP-9107",
+      "alternateTitle": "Arrival",
+      "rating": 10,
+      "createdAt": "2026-03-20T14:58:57.000Z",
       "tags": [
-        "artifact",
-        "hallucination",
-        "historical",
-        "inscription",
-        "safe",
+        "anomalous-event",
+        "keter",
+        "mind-affecting",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7414/2000px-Bjorketorpsstenarna_3.webp",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9107/blank.png",
       "authors": [
-        "Nils Severin"
+        "UncannyClown"
       ]
     }
   ]

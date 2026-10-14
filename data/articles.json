@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:10:13.511Z",
+  "updatedAt": "2026-10-14T19:49:24.366Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4086",
-      "title": "SCP-4086",
-      "alternateTitle": "The Tunnels",
-      "rating": 20,
-      "createdAt": "2019-03-29T05:49:47.000Z",
-      "tags": [
-        "euclid",
-        "extradimensional",
-        "portal",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4086/SCP-4086/medium.jpg",
-      "authors": [
-        "Researcher Durham"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7698",
-      "title": "SCP-7698",
-      "alternateTitle": "AMONICE",
-      "rating": 21,
-      "createdAt": "2023-11-27T14:02:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7406",
+      "title": "SCP-7406",
+      "alternateTitle": "The Vaporous Pursuer",
+      "rating": 16,
+      "createdAt": "2023-08-20T04:25:45.000Z",
       "tags": [
         "alive",
-        "biohazard",
-        "cephalopod",
-        "exchange",
+        "electromagnetic",
+        "esoteric-class",
+        "gaseous",
+        "global-occult-coalition",
+        "hallucination",
         "humanoid",
-        "keter",
         "mind-affecting",
+        "neurological",
+        "predatory",
         "scp",
-        "self-repairing",
-        "teleportation",
-        "transfiguration",
-        "vehicle"
+        "telepathic",
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7698/AMONICE1.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Wildman8"
+        "Overload Imminent"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9107",
-      "title": "SCP-9107",
-      "alternateTitle": "Arrival",
-      "rating": 10,
-      "createdAt": "2026-03-20T14:58:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3468",
+      "title": "SCP-3468",
+      "alternateTitle": "Very poor choice of words.",
+      "rating": 22,
+      "createdAt": "2026-01-22T19:58:07.000Z",
       "tags": [
-        "anomalous-event",
-        "keter",
-        "mind-affecting",
+        "alive",
+        "dado",
+        "euclid",
+        "extremity",
+        "humanoid",
+        "magnetic",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9107/blank.png",
+      "thumbnailUrl": "",
       "authors": [
-        "UncannyClown"
+        "Cremo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6148",
+      "title": "SCP-6148",
+      "alternateTitle": "The Trees Have Eyes",
+      "rating": 8,
+      "createdAt": "2022-02-01T06:07:56.000Z",
+      "tags": [
+        "alive",
+        "ectoentropic",
+        "euclid",
+        "knowledge",
+        "memory-affecting",
+        "mind-affecting",
+        "narrative",
+        "plant",
+        "scp",
+        "transfiguration",
+        "tree"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Draconocor"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:49:24.366Z",
+  "updatedAt": "2026-10-15T02:16:53.732Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7406",
-      "title": "SCP-7406",
-      "alternateTitle": "The Vaporous Pursuer",
-      "rating": 16,
-      "createdAt": "2023-08-20T04:25:45.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9096",
+      "title": "SCP-9096",
+      "alternateTitle": "The Lunch Thief",
+      "rating": 14,
+      "createdAt": "2025-10-04T00:56:07.000Z",
       "tags": [
-        "alive",
-        "electromagnetic",
-        "esoteric-class",
-        "gaseous",
-        "global-occult-coalition",
-        "hallucination",
-        "humanoid",
-        "mind-affecting",
-        "neurological",
-        "predatory",
-        "scp",
-        "telepathic",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Overload Imminent"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3468",
-      "title": "SCP-3468",
-      "alternateTitle": "Very poor choice of words.",
-      "rating": 22,
-      "createdAt": "2026-01-22T19:58:07.000Z",
-      "tags": [
-        "alive",
-        "dado",
-        "euclid",
-        "extremity",
-        "humanoid",
-        "magnetic",
+        "9000",
+        "keter",
+        "observational",
+        "phenomenon",
+        "predictive",
+        "sarkic",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Cremo"
+        "JeanJacket"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6148",
-      "title": "SCP-6148",
-      "alternateTitle": "The Trees Have Eyes",
-      "rating": 8,
-      "createdAt": "2022-02-01T06:07:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6823",
+      "title": "SCP-6823",
+      "alternateTitle": "Jupiter Protocol",
+      "rating": 23,
+      "createdAt": "2024-03-01T03:42:55.000Z",
       "tags": [
-        "alive",
-        "ectoentropic",
+        "computer",
         "euclid",
-        "knowledge",
-        "memory-affecting",
-        "mind-affecting",
-        "narrative",
-        "plant",
+        "extraterrestrial",
+        "gaseous",
+        "planet",
+        "sapient",
         "scp",
-        "transfiguration",
-        "tree"
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
       "authors": [
-        "Draconocor"
+        "Vwillow"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9072",
+      "title": "SCP-9072",
+      "alternateTitle": "The Spirit of Shrewsbury Prison",
+      "rating": 8,
+      "createdAt": "2026-03-18T13:23:33.000Z",
+      "tags": [
+        "auditory",
+        "esoteric-class",
+        "euclid",
+        "ghost",
+        "hallucination",
+        "humanoid",
+        "mind-affecting",
+        "sapient",
+        "scp",
+        "transmission",
+        "visual"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_main_gate%2C_Shrewsbury_Prison_-_geograph.org.uk_-_6510588.jpg/500px-The_main_gate%2C_Shrewsbury_Prison_-_geograph.org.uk_-_6510588.jpg?_=20240721002148",
+      "authors": [
+        "Barry Bones"
       ]
     }
   ]

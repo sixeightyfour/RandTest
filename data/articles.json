@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:56:34.086Z",
+  "updatedAt": "2026-10-15T19:33:05.194Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-072",
-      "title": "SCP-ES-072",
-      "alternateTitle": "Hortus Ishtar",
+      "url": "http://scp-wiki.wikidot.com/scp-8298",
+      "title": "SCP-8298",
+      "alternateTitle": "We Humbly Extend This Invitation",
+      "rating": 4,
+      "createdAt": "2025-12-16T02:01:13.000Z",
+      "tags": [
+        "autonomous",
+        "computer",
+        "continuity-dept",
+        "electronic",
+        "esoteric-class",
+        "foundation-made",
+        "rewritable",
+        "scp",
+        "telepathic",
+        "transmission"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Zyde"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8635",
+      "title": "SCP-8635",
+      "alternateTitle": "The Helpful Trucker",
       "rating": 11,
-      "createdAt": "2024-11-06T23:36:45.000Z",
+      "createdAt": "2025-05-22T12:57:24.000Z",
       "tags": [
-        "dinosaur",
-        "euclid",
-        "extraterrestrial",
-        "international",
-        "planet",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-072/dino.png",
-      "authors": [
-        "Jacobo Baltimore",
-        "Mechatroniks"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7296",
-      "title": "SCP-7296",
-      "alternateTitle": "Sleep Tight",
-      "rating": 21,
-      "createdAt": "2023-07-15T17:14:34.000Z",
-      "tags": [
-        "artifact",
-        "dream",
-        "ghost",
-        "hallucination",
-        "humanoid",
-        "intangible",
-        "memory-affecting",
-        "safe",
-        "sapient",
-        "scp",
-        "sleep",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Lapiz Moon"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7645",
-      "title": "SCP-7645",
-      "alternateTitle": "The Omniscient Storm",
-      "rating": 2,
-      "createdAt": "2025-03-10T14:01:05.000Z",
-      "tags": [
-        "auditory",
         "compulsion",
-        "hallucination",
-        "knowledge",
-        "meteorological",
-        "phenomenon",
+        "esoteric-class",
+        "humanoid",
         "scp",
-        "ticonderoga"
+        "uncontained",
+        "vehicle"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
       "authors": [
-        "Dr Maynard"
+        "emmalexandria"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
+      "title": "SCP-102-VN",
+      "alternateTitle": "The Thread of Janus",
+      "rating": 24,
+      "createdAt": "2025-05-29T23:54:34.000Z",
+      "tags": [
+        "building",
+        "esoteric-class",
+        "global-occult-coalition",
+        "international",
+        "loop",
+        "meta",
+        "paradox",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
+      "authors": [
+        "Welpermander",
+        "Trackusus",
+        "Welpermander"
       ]
     }
   ]

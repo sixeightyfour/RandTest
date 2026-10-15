@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T02:16:53.732Z",
+  "updatedAt": "2026-10-15T12:56:34.086Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9096",
-      "title": "SCP-9096",
-      "alternateTitle": "The Lunch Thief",
-      "rating": 14,
-      "createdAt": "2025-10-04T00:56:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-072",
+      "title": "SCP-ES-072",
+      "alternateTitle": "Hortus Ishtar",
+      "rating": 11,
+      "createdAt": "2024-11-06T23:36:45.000Z",
       "tags": [
-        "9000",
-        "keter",
-        "observational",
-        "phenomenon",
-        "predictive",
-        "sarkic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "JeanJacket"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6823",
-      "title": "SCP-6823",
-      "alternateTitle": "Jupiter Protocol",
-      "rating": 23,
-      "createdAt": "2024-03-01T03:42:55.000Z",
-      "tags": [
-        "computer",
+        "dinosaur",
         "euclid",
         "extraterrestrial",
-        "gaseous",
+        "international",
         "planet",
-        "sapient",
         "scp",
-        "uncontained"
+        "structure"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
+      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-072/dino.png",
       "authors": [
-        "Vwillow"
+        "Jacobo Baltimore",
+        "Mechatroniks"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9072",
-      "title": "SCP-9072",
-      "alternateTitle": "The Spirit of Shrewsbury Prison",
-      "rating": 8,
-      "createdAt": "2026-03-18T13:23:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7296",
+      "title": "SCP-7296",
+      "alternateTitle": "Sleep Tight",
+      "rating": 21,
+      "createdAt": "2023-07-15T17:14:34.000Z",
       "tags": [
-        "auditory",
-        "esoteric-class",
-        "euclid",
+        "artifact",
+        "dream",
         "ghost",
         "hallucination",
         "humanoid",
-        "mind-affecting",
+        "intangible",
+        "memory-affecting",
+        "safe",
         "sapient",
         "scp",
-        "transmission",
+        "sleep",
         "visual"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_main_gate%2C_Shrewsbury_Prison_-_geograph.org.uk_-_6510588.jpg/500px-The_main_gate%2C_Shrewsbury_Prison_-_geograph.org.uk_-_6510588.jpg?_=20240721002148",
+      "thumbnailUrl": "",
       "authors": [
-        "Barry Bones"
+        "Lapiz Moon"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7645",
+      "title": "SCP-7645",
+      "alternateTitle": "The Omniscient Storm",
+      "rating": 2,
+      "createdAt": "2025-03-10T14:01:05.000Z",
+      "tags": [
+        "auditory",
+        "compulsion",
+        "hallucination",
+        "knowledge",
+        "meteorological",
+        "phenomenon",
+        "scp",
+        "ticonderoga"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Dr Maynard"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:08:01.228Z",
+  "updatedAt": "2026-10-16T12:49:17.471Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7322",
-      "title": "SCP-7322",
-      "alternateTitle": "Rejection",
-      "rating": 14,
-      "createdAt": "2025-02-27T22:16:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7388",
+      "title": "SCP-7388",
+      "alternateTitle": "An Old Cocoon",
+      "rating": 22,
+      "createdAt": "2023-12-29T18:43:45.000Z",
       "tags": [
-        "alive",
-        "bleak",
-        "cognitohazard",
-        "euclid",
-        "humanoid",
-        "meta",
-        "reality-bending",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Flopmind"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5294",
-      "title": "SCP-5294",
-      "alternateTitle": "The Emancipatory Society for Middle-Aged Fathers",
-      "rating": 20,
-      "createdAt": "2021-09-14T09:37:59.000Z",
-      "tags": [
-        "alive",
+        "animal",
+        "art-exchange",
         "building",
-        "humanoid",
-        "location",
-        "mind-affecting",
-        "reality-bending",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nils Severin"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-518-jp",
-      "title": "SCP-518-JP",
-      "alternateTitle": "We, autumn bamboo 　 defending the fatherland 　 even after life",
-      "rating": 21,
-      "createdAt": "2024-12-04T07:36:09.000Z",
-      "tags": [
-        "alive",
+        "butterfly",
         "ectoentropic",
         "euclid",
-        "fantasy",
-        "historical",
-        "international",
-        "military-fiction",
-        "plant",
+        "insect",
+        "sapient",
         "scp",
-        "weapon"
+        "teleportation"
       ],
-      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-518-jp/Tikurin.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7388/WebUpClose.jpg",
       "authors": [
-        "Tenten_518",
-        "Salamander724"
+        "Nickthebrick1"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9032",
+      "title": "SCP-9032",
+      "alternateTitle": "Chronesthesia II",
+      "rating": 7,
+      "createdAt": "2025-10-04T03:58:16.000Z",
+      "tags": [
+        "9000",
+        "euclid",
+        "mind-affecting",
+        "neutralized",
+        "scp",
+        "sensory",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Resolver"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7945",
+      "title": "SCP-7945",
+      "alternateTitle": "Let there be me",
+      "rating": 9,
+      "createdAt": "2023-09-04T13:04:58.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "dream",
+        "infohazard",
+        "k-class-scenario",
+        "mind-affecting",
+        "raisa",
+        "reality-bending",
+        "religious",
+        "reproductive",
+        "reptile",
+        "scp",
+        "species",
+        "thaumiel",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7945/Gecko.jpg",
+      "authors": [
+        "Dr_Lamas"
       ]
     }
   ]

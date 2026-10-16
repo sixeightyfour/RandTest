@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T12:49:17.471Z",
+  "updatedAt": "2026-10-16T19:07:20.703Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,78 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7388",
-      "title": "SCP-7388",
-      "alternateTitle": "An Old Cocoon",
+      "url": "http://scp-wiki.wikidot.com/scp-6849",
+      "title": "SCP-6849",
+      "alternateTitle": "Project Aniborg",
       "rating": 22,
-      "createdAt": "2023-12-29T18:43:45.000Z",
+      "createdAt": "2023-09-19T18:22:17.000Z",
       "tags": [
+        "alive",
+        "anderson",
         "animal",
-        "art-exchange",
-        "building",
-        "butterfly",
-        "ectoentropic",
-        "euclid",
-        "insect",
+        "cadaver",
+        "esoteric-class",
+        "humanoid",
+        "robotic",
         "sapient",
         "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7388/WebUpClose.jpg",
-      "authors": [
-        "Nickthebrick1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9032",
-      "title": "SCP-9032",
-      "alternateTitle": "Chronesthesia II",
-      "rating": 7,
-      "createdAt": "2025-10-04T03:58:16.000Z",
-      "tags": [
-        "9000",
-        "euclid",
-        "mind-affecting",
-        "neutralized",
-        "scp",
-        "sensory",
-        "temporal"
+        "thaumaturgy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Resolver"
+        "Reasonably Psychotic"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7945",
-      "title": "SCP-7945",
-      "alternateTitle": "Let there be me",
-      "rating": 9,
-      "createdAt": "2023-09-04T13:04:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8024",
+      "title": "SCP-8024",
+      "alternateTitle": "Typhon",
+      "rating": 24,
+      "createdAt": "2024-02-19T04:07:20.000Z",
       "tags": [
-        "alive",
-        "animal",
-        "dream",
-        "infohazard",
-        "k-class-scenario",
-        "mind-affecting",
-        "raisa",
+        "8000",
+        "concept",
+        "deity",
+        "electromagnetic",
+        "extradimensional",
+        "fire",
+        "geological",
+        "historical",
+        "hostile",
+        "humanoid",
+        "intangible",
+        "keter",
         "reality-bending",
-        "religious",
-        "reproductive",
-        "reptile",
         "scp",
-        "species",
-        "thaumiel",
-        "transfiguration"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7945/Gecko.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg",
       "authors": [
-        "Dr_Lamas"
+        "Baronjoe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
+      "title": "SCP-011-PT",
+      "alternateTitle": "Victoria stella",
+      "rating": 20,
+      "createdAt": "2018-10-17T06:08:07.000Z",
+      "tags": [
+        "aquatic",
+        "co-authored",
+        "euclid",
+        "international",
+        "location",
+        "memory-affecting",
+        "mind-affecting",
+        "plant",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
+      "authors": [
+        "Silvacrest",
+        "slashannemoo",
+        "slashannemoo"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:33:05.194Z",
+  "updatedAt": "2026-10-16T02:08:01.228Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8298",
-      "title": "SCP-8298",
-      "alternateTitle": "We Humbly Extend This Invitation",
-      "rating": 4,
-      "createdAt": "2025-12-16T02:01:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7322",
+      "title": "SCP-7322",
+      "alternateTitle": "Rejection",
+      "rating": 14,
+      "createdAt": "2025-02-27T22:16:16.000Z",
       "tags": [
-        "autonomous",
-        "computer",
-        "continuity-dept",
-        "electronic",
-        "esoteric-class",
-        "foundation-made",
-        "rewritable",
-        "scp",
-        "telepathic",
-        "transmission"
+        "alive",
+        "bleak",
+        "cognitohazard",
+        "euclid",
+        "humanoid",
+        "meta",
+        "reality-bending",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Zyde"
+        "Flopmind"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8635",
-      "title": "SCP-8635",
-      "alternateTitle": "The Helpful Trucker",
-      "rating": 11,
-      "createdAt": "2025-05-22T12:57:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5294",
+      "title": "SCP-5294",
+      "alternateTitle": "The Emancipatory Society for Middle-Aged Fathers",
+      "rating": 20,
+      "createdAt": "2021-09-14T09:37:59.000Z",
       "tags": [
-        "compulsion",
-        "esoteric-class",
-        "humanoid",
-        "scp",
-        "uncontained",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8635/Interstate_35_map.png",
-      "authors": [
-        "emmalexandria"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-102-vn",
-      "title": "SCP-102-VN",
-      "alternateTitle": "The Thread of Janus",
-      "rating": 24,
-      "createdAt": "2025-05-29T23:54:34.000Z",
-      "tags": [
+        "alive",
         "building",
-        "esoteric-class",
-        "global-occult-coalition",
-        "international",
-        "loop",
-        "meta",
-        "paradox",
-        "scp",
-        "temporal"
+        "humanoid",
+        "location",
+        "mind-affecting",
+        "reality-bending",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "http://khoaigarret.wikidot.com/local--files/ht:imgexcon25/shadow.jpg.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Welpermander",
-        "Trackusus",
-        "Welpermander"
+        "Nils Severin"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-518-jp",
+      "title": "SCP-518-JP",
+      "alternateTitle": "We, autumn bamboo 　 defending the fatherland 　 even after life",
+      "rating": 21,
+      "createdAt": "2024-12-04T07:36:09.000Z",
+      "tags": [
+        "alive",
+        "ectoentropic",
+        "euclid",
+        "fantasy",
+        "historical",
+        "international",
+        "military-fiction",
+        "plant",
+        "scp",
+        "weapon"
+      ],
+      "thumbnailUrl": "http://scp-jp.wdfiles.com/local--files/scp-518-jp/Tikurin.jpg",
+      "authors": [
+        "Tenten_518",
+        "Salamander724"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:07:20.703Z",
+  "updatedAt": "2026-10-17T02:01:41.919Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,78 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6849",
-      "title": "SCP-6849",
-      "alternateTitle": "Project Aniborg",
-      "rating": 22,
-      "createdAt": "2023-09-19T18:22:17.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3685",
+      "title": "SCP-3685",
+      "alternateTitle": "The Fractured Pile",
+      "rating": 23,
+      "createdAt": "2020-07-05T21:39:48.000Z",
       "tags": [
-        "alive",
-        "anderson",
-        "animal",
-        "cadaver",
-        "esoteric-class",
-        "humanoid",
-        "robotic",
-        "sapient",
+        "building",
+        "ectoentropic",
+        "euclid",
+        "metamorphic",
+        "radioactive",
         "scp",
-        "thaumaturgy"
+        "spatial"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3685/s50wide.jpg",
+      "authors": [
+        "Monkatraz"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7312",
+      "title": "SCP-7312",
+      "alternateTitle": "For the Honour, for the Faith",
+      "rating": 18,
+      "createdAt": "2022-08-31T02:53:03.000Z",
+      "tags": [
+        "delta-t",
+        "historical",
+        "narrative",
+        "neutralized",
+        "noosphere",
+        "reality-bending",
+        "religious",
+        "ritual",
+        "scp",
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Reasonably Psychotic"
+        "Errorban"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8024",
-      "title": "SCP-8024",
-      "alternateTitle": "Typhon",
+      "url": "http://scp-wiki.wikidot.com/scp-8656",
+      "title": "SCP-8656",
+      "alternateTitle": "Serving Culinary Pleasures",
       "rating": 24,
-      "createdAt": "2024-02-19T04:07:20.000Z",
+      "createdAt": "2024-11-28T02:34:15.000Z",
       "tags": [
-        "8000",
-        "concept",
-        "deity",
-        "electromagnetic",
+        "ambrose-restaurant",
+        "corporate",
         "extradimensional",
-        "fire",
-        "geological",
-        "historical",
-        "hostile",
+        "food",
+        "foundation-made",
         "humanoid",
-        "intangible",
-        "keter",
-        "reality-bending",
+        "liquid",
+        "portal",
+        "restaurant",
+        "sapient",
         "scp",
-        "teleportation"
+        "temporal",
+        "thaumiel",
+        "the-old-man",
+        "the-sculpture",
+        "tickle-monster",
+        "with-many-voices"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Baronjoe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-011-pt",
-      "title": "SCP-011-PT",
-      "alternateTitle": "Victoria stella",
-      "rating": 20,
-      "createdAt": "2018-10-17T06:08:07.000Z",
-      "tags": [
-        "aquatic",
-        "co-authored",
-        "euclid",
-        "international",
-        "location",
-        "memory-affecting",
-        "mind-affecting",
-        "plant",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-011-pt/Waterlily2.png",
-      "authors": [
-        "Silvacrest",
-        "slashannemoo",
-        "slashannemoo"
+        "TheGhostNobody"
       ]
     }
   ]

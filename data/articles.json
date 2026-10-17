@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T02:01:41.919Z",
+  "updatedAt": "2026-10-17T11:49:11.591Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3685",
-      "title": "SCP-3685",
-      "alternateTitle": "The Fractured Pile",
+      "url": "http://scp-wiki.wikidot.com/scp-9881",
+      "title": "SCP-9881",
+      "alternateTitle": "On the Harmful Effects of Chekhov's Gun",
       "rating": 23,
-      "createdAt": "2020-07-05T21:39:48.000Z",
+      "createdAt": "2026-01-24T06:52:32.000Z",
       "tags": [
-        "building",
-        "ectoentropic",
+        "absurdism",
+        "black-comedy",
+        "bureaucracy",
+        "comedy",
         "euclid",
-        "metamorphic",
-        "radioactive",
-        "scp",
-        "spatial"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3685/s50wide.jpg",
-      "authors": [
-        "Monkatraz"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7312",
-      "title": "SCP-7312",
-      "alternateTitle": "For the Honour, for the Faith",
-      "rating": 18,
-      "createdAt": "2022-08-31T02:53:03.000Z",
-      "tags": [
-        "delta-t",
-        "historical",
+        "military",
+        "mind-affecting",
         "narrative",
-        "neutralized",
-        "noosphere",
-        "reality-bending",
-        "religious",
-        "ritual",
+        "probability",
         "scp",
-        "spatial",
-        "temporal"
+        "weapon"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9881/gun.jpg",
       "authors": [
-        "Errorban"
+        "WaylandLaurencePan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8656",
-      "title": "SCP-8656",
-      "alternateTitle": "Serving Culinary Pleasures",
+      "url": "http://scp-wiki.wikidot.com/scp-9460",
+      "title": "SCP-9460",
+      "alternateTitle": "My Wooden Wings",
       "rating": 24,
-      "createdAt": "2024-11-28T02:34:15.000Z",
+      "createdAt": "2026-03-30T18:45:37.000Z",
       "tags": [
-        "ambrose-restaurant",
-        "corporate",
-        "extradimensional",
-        "food",
-        "foundation-made",
-        "humanoid",
-        "liquid",
-        "portal",
-        "restaurant",
+        "comedy",
+        "euclid",
         "sapient",
         "scp",
-        "temporal",
-        "thaumiel",
-        "the-old-man",
-        "the-sculpture",
-        "tickle-monster",
-        "with-many-voices"
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9460/Replica_catapult.webp",
+      "authors": [
+        "poltatherian"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8244",
+      "title": "SCP-8244",
+      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
+      "rating": 9,
+      "createdAt": "2025-07-09T18:01:19.000Z",
+      "tags": [
+        "classiccon2025",
+        "compulsion",
+        "crime-fiction",
+        "horror",
+        "jewelry",
+        "mind-affecting",
+        "mystery",
+        "safe",
+        "scp",
+        "toy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TheGhostNobody"
+        "Thopter"
       ]
     }
   ]

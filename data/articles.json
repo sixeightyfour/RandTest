@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:49:11.591Z",
+  "updatedAt": "2026-10-17T18:01:36.419Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,61 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9881",
-      "title": "SCP-9881",
-      "alternateTitle": "On the Harmful Effects of Chekhov's Gun",
-      "rating": 23,
-      "createdAt": "2026-01-24T06:52:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6309",
+      "title": "SCP-6309",
+      "alternateTitle": "Erase",
+      "rating": 15,
+      "createdAt": "2022-02-13T01:18:55.000Z",
       "tags": [
-        "absurdism",
-        "black-comedy",
-        "bureaucracy",
-        "comedy",
-        "euclid",
-        "military",
-        "mind-affecting",
-        "narrative",
-        "probability",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9881/gun.jpg",
-      "authors": [
-        "WaylandLaurencePan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9460",
-      "title": "SCP-9460",
-      "alternateTitle": "My Wooden Wings",
-      "rating": 24,
-      "createdAt": "2026-03-30T18:45:37.000Z",
-      "tags": [
-        "comedy",
-        "euclid",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9460/Replica_catapult.webp",
-      "authors": [
-        "poltatherian"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8244",
-      "title": "SCP-8244",
-      "alternateTitle": "Officers at the Door / Can't Be Trusted No More",
-      "rating": 9,
-      "createdAt": "2025-07-09T18:01:19.000Z",
-      "tags": [
-        "classiccon2025",
-        "compulsion",
-        "crime-fiction",
-        "horror",
-        "jewelry",
-        "mind-affecting",
-        "mystery",
-        "safe",
-        "scp",
-        "toy"
+        "meta",
+        "neutralized",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Thopter"
+        "stop1010"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-422-fr",
+      "title": "SCP-422-FR",
+      "alternateTitle": "We all have our little secret",
+      "rating": 6,
+      "createdAt": "2024-07-30T21:38:24.000Z",
+      "tags": [
+        "computer",
+        "international",
+        "keter",
+        "memetic",
+        "scp",
+        "sexual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-422-fr/GRAND_TENTACULAIRE.hrm/medium.jpg",
+      "authors": [
+        "macro_au_micro",
+        "macro_au_micro"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-3822",
+      "title": "SCP-3822",
+      "alternateTitle": "Everywhere Yet Nowhere",
+      "rating": 18,
+      "createdAt": "2022-12-28T19:58:43.000Z",
+      "tags": [
+        "ad-astra",
+        "art-exchange",
+        "ectoentropic",
+        "esoteric-class",
+        "extraterrestrial",
+        "scp",
+        "temporal",
+        "uncontained",
+        "vehicle"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "AvocadoMilk"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:15:18.398Z",
+  "updatedAt": "2026-10-18T18:20:53.938Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8203",
-      "title": "SCP-8203",
-      "alternateTitle": "O Santo Consumo",
-      "rating": 19,
-      "createdAt": "2024-12-28T16:31:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4551",
+      "title": "SCP-4551",
+      "alternateTitle": "Bell for a Funeral…",
+      "rating": 21,
+      "createdAt": "2019-05-27T00:55:02.000Z",
       "tags": [
-        "art-exchange",
-        "compulsion",
-        "euclid",
-        "ghost",
-        "humanoid",
-        "intangible",
-        "phenomenon",
+        "acoustic",
+        "artifact",
+        "hallucination",
+        "historical",
+        "inscription",
+        "memory-affecting",
         "religious",
+        "ritual",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-4551/20190926_154116.jpg",
       "authors": [
-        "Gaffsey"
+        "Amelia Wright"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-560-fr",
-      "title": "SCP-560-FR",
-      "alternateTitle": "Pachydermonimbus",
-      "rating": 12,
-      "createdAt": "2025-07-01T02:08:07.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7059",
+      "title": "SCP-7059",
+      "alternateTitle": "Free Falling",
+      "rating": 6,
+      "createdAt": "2022-11-17T02:55:42.000Z",
       "tags": [
         "airborne",
-        "animal",
-        "cadaver",
-        "esoteric-class",
-        "international",
-        "meteorological",
+        "extradimensional",
+        "location",
+        "safe",
         "scp",
-        "vibration"
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr Benji",
-        "MasterTman2"
+        "Jade_Crusader"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9973",
-      "title": "SCP-9973",
-      "alternateTitle": "Mannequin Camera",
-      "rating": 15,
-      "createdAt": "2026-04-14T20:29:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7051",
+      "title": "SCP-7051",
+      "alternateTitle": "Never Truly Alone",
+      "rating": 18,
+      "createdAt": "2022-11-07T19:56:19.000Z",
       "tags": [
-        "electronic",
-        "euclid",
-        "photographic",
+        "alive",
+        "compulsion",
         "scp",
-        "temporal",
-        "tool"
+        "species",
+        "ticonderoga"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Canon_EOS_400D.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "coldpostchud"
+        "Jade_Crusader"
       ]
     }
   ]

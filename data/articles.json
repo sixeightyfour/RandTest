@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:01:23.705Z",
+  "updatedAt": "2026-10-18T12:15:18.398Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,83 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7627",
-      "title": "SCP-7627",
-      "alternateTitle": "Soviet Rail Gun",
-      "rating": 13,
-      "createdAt": "2025-06-15T08:50:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8203",
+      "title": "SCP-8203",
+      "alternateTitle": "O Santo Consumo",
+      "rating": 19,
+      "createdAt": "2024-12-28T16:31:57.000Z",
       "tags": [
-        "extraterrestrial",
-        "gravity",
-        "gru-division-p",
-        "neutralized",
-        "pentagram",
-        "scp",
-        "weapon"
+        "art-exchange",
+        "compulsion",
+        "euclid",
+        "ghost",
+        "humanoid",
+        "intangible",
+        "phenomenon",
+        "religious",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Nocturned"
+        "Gaffsey"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8026",
-      "title": "SCP-8026",
-      "alternateTitle": "And I'm No Dreamer",
-      "rating": 19,
-      "createdAt": "2024-02-19T04:06:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-560-fr",
+      "title": "SCP-560-FR",
+      "alternateTitle": "Pachydermonimbus",
+      "rating": 12,
+      "createdAt": "2025-07-01T02:08:07.000Z",
       "tags": [
-        "8000",
-        "dream",
-        "mind-affecting",
-        "safe",
+        "airborne",
+        "animal",
+        "cadaver",
+        "esoteric-class",
+        "international",
+        "meteorological",
         "scp",
-        "sleep",
-        "sphere"
+        "vibration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "CowscantgoMoo"
+        "Dr Benji",
+        "MasterTman2"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8939",
-      "title": "SCP-8939",
-      "alternateTitle": "Urban Horror",
-      "rating": 18,
-      "createdAt": "2025-01-17T17:55:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9973",
+      "title": "SCP-9973",
+      "alternateTitle": "Mannequin Camera",
+      "rating": 15,
+      "createdAt": "2026-04-14T20:29:23.000Z",
       "tags": [
-        "acoustic",
-        "alive",
-        "auditory",
-        "bleak",
-        "body-horror",
-        "building",
-        "cosmic-horror",
-        "extradimensional",
-        "horror",
-        "hostile",
-        "humanoid",
-        "illustrated",
-        "location",
-        "meta",
-        "mobile",
-        "murder-monster",
-        "mystery",
-        "online",
-        "parawatch",
-        "pending",
-        "predatory",
-        "sapient",
+        "electronic",
+        "euclid",
+        "photographic",
         "scp",
-        "shadow",
-        "sleep",
-        "transfiguration",
-        "uncontained"
+        "temporal",
+        "tool"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hawthorne_Plaza_Parking_Structure.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Canon_EOS_400D.jpg",
       "authors": [
-        "Doctor Scrappy"
+        "coldpostchud"
       ]
     }
   ]

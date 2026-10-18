@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:01:36.419Z",
+  "updatedAt": "2026-10-18T02:01:23.705Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,83 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6309",
-      "title": "SCP-6309",
-      "alternateTitle": "Erase",
-      "rating": 15,
-      "createdAt": "2022-02-13T01:18:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7627",
+      "title": "SCP-7627",
+      "alternateTitle": "Soviet Rail Gun",
+      "rating": 13,
+      "createdAt": "2025-06-15T08:50:46.000Z",
       "tags": [
-        "meta",
-        "neutralized",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "stop1010"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-422-fr",
-      "title": "SCP-422-FR",
-      "alternateTitle": "We all have our little secret",
-      "rating": 6,
-      "createdAt": "2024-07-30T21:38:24.000Z",
-      "tags": [
-        "computer",
-        "international",
-        "keter",
-        "memetic",
-        "scp",
-        "sexual"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-422-fr/GRAND_TENTACULAIRE.hrm/medium.jpg",
-      "authors": [
-        "macro_au_micro",
-        "macro_au_micro"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3822",
-      "title": "SCP-3822",
-      "alternateTitle": "Everywhere Yet Nowhere",
-      "rating": 18,
-      "createdAt": "2022-12-28T19:58:43.000Z",
-      "tags": [
-        "ad-astra",
-        "art-exchange",
-        "ectoentropic",
-        "esoteric-class",
         "extraterrestrial",
+        "gravity",
+        "gru-division-p",
+        "neutralized",
+        "pentagram",
         "scp",
-        "temporal",
-        "uncontained",
-        "vehicle"
+        "weapon"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AvocadoMilk"
+        "Nocturned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8026",
+      "title": "SCP-8026",
+      "alternateTitle": "And I'm No Dreamer",
+      "rating": 19,
+      "createdAt": "2024-02-19T04:06:34.000Z",
+      "tags": [
+        "8000",
+        "dream",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "sleep",
+        "sphere"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
+      "authors": [
+        "CowscantgoMoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8939",
+      "title": "SCP-8939",
+      "alternateTitle": "Urban Horror",
+      "rating": 18,
+      "createdAt": "2025-01-17T17:55:02.000Z",
+      "tags": [
+        "acoustic",
+        "alive",
+        "auditory",
+        "bleak",
+        "body-horror",
+        "building",
+        "cosmic-horror",
+        "extradimensional",
+        "horror",
+        "hostile",
+        "humanoid",
+        "illustrated",
+        "location",
+        "meta",
+        "mobile",
+        "murder-monster",
+        "mystery",
+        "online",
+        "parawatch",
+        "pending",
+        "predatory",
+        "sapient",
+        "scp",
+        "shadow",
+        "sleep",
+        "transfiguration",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hawthorne_Plaza_Parking_Structure.jpg",
+      "authors": [
+        "Doctor Scrappy"
       ]
     }
   ]

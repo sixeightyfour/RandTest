@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:18:09.642Z",
+  "updatedAt": "2026-10-19T15:06:18.791Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8292",
-      "title": "SCP-8292",
-      "alternateTitle": "A Cure for Stress",
-      "rating": 6,
-      "createdAt": "2025-07-06T08:25:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9217",
+      "title": "SCP-9217",
+      "alternateTitle": "MYR Island",
+      "rating": 14,
+      "createdAt": "2026-01-27T04:43:28.000Z",
       "tags": [
-        "bleak",
-        "body-horror",
-        "classiccon2025",
-        "horror",
-        "keter",
-        "medical",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/medical-vomiting-syndrome/Cloth.jpg",
-      "authors": [
-        "Detective_O 1"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3119",
-      "title": "SCP-3119",
-      "alternateTitle": "Lord of the Dance",
-      "rating": 23,
-      "createdAt": "2017-11-18T13:35:55.000Z",
-      "tags": [
-        "empathic",
-        "euclid",
-        "intangible",
-        "scp",
-        "sensory",
-        "telepathic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "cara_donnelly"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9288",
-      "title": "SCP-9288",
-      "alternateTitle": "\"The Wheel of Fortune\"",
-      "rating": 20,
-      "createdAt": "2026-03-14T07:10:04.000Z",
-      "tags": [
-        "autonomous",
-        "building",
+        "alive",
+        "dumbcon2026-unofficial",
+        "electronic",
         "humanoid",
-        "narrative",
-        "portal",
-        "safe",
+        "island",
+        "keter",
         "sapient",
         "scp",
-        "spatial"
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://lspr.wikidot.com/local--files/dumbcon/island.jpg",
       "authors": [
-        "Epirus"
+        "TopDownUnder"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6071",
+      "title": "SCP-6071",
+      "alternateTitle": "Before Us",
+      "rating": 22,
+      "createdAt": "2021-10-19T20:24:24.000Z",
+      "tags": [
+        "abnormalities",
+        "building",
+        "cognitohazard",
+        "euclid",
+        "foundation-made",
+        "mind-affecting",
+        "polyhedral",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/4129/5072228597_abc9cbd629_b.jpg",
+      "authors": [
+        "extasis"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8241",
+      "title": "SCP-8241",
+      "alternateTitle": "Casta Diva",
+      "rating": 22,
+      "createdAt": "2026-04-08T13:39:18.000Z",
+      "tags": [
+        "acoustic",
+        "apollyon",
+        "esoteric-class",
+        "moon",
+        "musical",
+        "planet",
+        "scp",
+        "structure",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Casta_Diva%22_-_Nell%27Opera_la_Norma_-_Del_Sig.r_M%C2%B0_-_Vincenzo_Bellini._%28Titre_ajout%C3%A9%2C_d%27une_autre_%C3%A9criture%29_%28manuscrit_autographe%29_-_btv1b10861856v_%2808_of_48%29.jpg/960px-thumbnail.jpg?_=20250801203300",
+      "authors": [
+        "MrJanov"
       ]
     }
   ]

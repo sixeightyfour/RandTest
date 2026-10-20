@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:32:36.616Z",
+  "updatedAt": "2026-10-20T13:07:53.745Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-911",
-      "title": "SCP-ZH-911",
-      "alternateTitle": "The Freedom that You Defend",
-      "rating": 4,
-      "createdAt": "2024-11-05T01:09:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7387",
+      "title": "SCP-7387",
+      "alternateTitle": "Dookie",
+      "rating": 22,
+      "createdAt": "2023-11-10T17:25:30.000Z",
       "tags": [
-        "cognitohazard",
-        "euclid",
-        "infohazard",
-        "international",
-        "meta",
-        "mobile",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-zh-911/QaeSnZD.webp",
-      "authors": [
-        "Semibreve",
-        "Edward_Knave"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7235",
-      "title": "SCP-7235",
-      "alternateTitle": "The Knowledge",
-      "rating": 12,
-      "createdAt": "2023-04-22T11:42:06.000Z",
-      "tags": [
-        "compulsion",
-        "keter",
-        "reality-bending",
-        "scp",
-        "spatial",
-        "temporal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Unobtainium235"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6887",
-      "title": "SCP-6887",
-      "alternateTitle": "Remember Us",
-      "rating": 14,
-      "createdAt": "2022-10-25T00:41:51.000Z",
-      "tags": [
-        "artifact",
-        "historical",
-        "portal",
+        "acoustic",
+        "auditory",
+        "mind-affecting",
+        "musical",
         "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
+      "authors": [
+        "IcarusEMBR"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6841",
+      "title": "SCP-6841",
+      "alternateTitle": "Fourth Eye",
+      "rating": 16,
+      "createdAt": "2024-12-06T16:48:54.000Z",
+      "tags": [
+        "esoteric-class",
+        "foundation-made",
+        "meta",
+        "paradox",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DukeRum"
+        "DreadnoughtGalaxy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7214",
+      "title": "SCP-7214",
+      "alternateTitle": "Banality",
+      "rating": 23,
+      "createdAt": "2023-07-14T05:22:04.000Z",
+      "tags": [
+        "acoustic",
+        "electrical",
+        "mind-affecting",
+        "olfactory",
+        "safe",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/7303/26635166454_ee6d68ecce_b.jpg",
+      "authors": [
+        "TheChunk"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T13:18:08.062Z",
+  "updatedAt": "2026-10-21T19:45:24.508Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9869",
-      "title": "SCP-9869",
-      "alternateTitle": "Every Kind of Thing",
-      "rating": 23,
-      "createdAt": "2025-11-15T21:57:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9196",
+      "title": "SCP-9196",
+      "alternateTitle": "Oh brother, My brother",
+      "rating": 19,
+      "createdAt": "2025-12-27T04:07:58.000Z",
       "tags": [
         "alive",
-        "archon",
-        "extraterrestrial",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "temporal",
-        "xenofiction"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "whenwerewe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-300-de",
-      "title": "SCP-300-DE",
-      "alternateTitle": "Ice-Cold Intelligence",
-      "rating": 14,
-      "createdAt": "2022-11-01T18:57:09.000Z",
-      "tags": [
-        "adaptive",
-        "alive",
-        "dinosaur",
-        "international",
-        "keter",
-        "sapient",
-        "scp",
-        "species"
-      ],
-      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-300-de/Steinkeil.jpg",
-      "authors": [
-        "Gramlin",
-        "ThePaperMask"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8685",
-      "title": "SCP-8685",
-      "alternateTitle": "Sign Today To Have Your Grandpa's Organs Harvested!",
-      "rating": 20,
-      "createdAt": "2024-10-21T11:06:17.000Z",
-      "tags": [
-        "biological",
-        "cadaver",
-        "extradimensional",
+        "bleak",
+        "cognitohazard",
+        "document",
+        "dream",
         "humanoid",
-        "keter",
-        "sapient",
+        "mind-affecting",
+        "olfactory",
+        "safe",
         "scp",
-        "uncontained"
+        "sleep",
+        "visual"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Not Noodles"
+        "Onigura"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8838",
+      "title": "SCP-8838",
+      "alternateTitle": "Love Under Lamplight",
+      "rating": 13,
+      "createdAt": "2026-01-28T21:12:09.000Z",
+      "tags": [
+        "appliance",
+        "autonomous",
+        "dumbcon2026-unofficial",
+        "electronic",
+        "foundation-personnel",
+        "heartwarming",
+        "light",
+        "mobile",
+        "romance",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8838/Floor_lamp.JPG",
+      "authors": [
+        "DreadnoughtGalaxy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6071",
+      "title": "SCP-6071",
+      "alternateTitle": "Before Us",
+      "rating": 22,
+      "createdAt": "2021-10-19T20:24:24.000Z",
+      "tags": [
+        "abnormalities",
+        "building",
+        "cognitohazard",
+        "euclid",
+        "foundation-made",
+        "mind-affecting",
+        "polyhedral",
+        "scp",
+        "visual"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/4129/5072228597_abc9cbd629_b.jpg",
+      "authors": [
+        "extasis"
       ]
     }
   ]

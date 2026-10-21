@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:43:18.093Z",
+  "updatedAt": "2026-10-21T02:26:17.630Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-801-ko",
-      "title": "SCP-801-KO",
-      "alternateTitle": "Wasabi",
-      "rating": 11,
-      "createdAt": "2024-03-28T14:04:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-279",
+      "title": "SCP-279",
+      "alternateTitle": "Meandering Man",
+      "rating": 16,
+      "createdAt": "2010-08-27T21:45:56.000Z",
       "tags": [
         "euclid",
-        "infohazard",
-        "international",
-        "scp"
+        "humanoid",
+        "indestructible",
+        "scp",
+        "tactile",
+        "teleportation",
+        "uncontained"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-801-ko/%EB%AF%B8%EC%A7%80%EC%A0%95.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Bangja",
-        "fluxman"
+        "Mimi_42"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8354",
-      "title": "SCP-8354",
-      "alternateTitle": "Something in the Snow",
-      "rating": 12,
-      "createdAt": "2025-02-10T02:16:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8941",
+      "title": "SCP-8941",
+      "alternateTitle": "Left to Wander",
+      "rating": 1,
+      "createdAt": "2025-02-03T21:20:59.000Z",
       "tags": [
-        "abnormalities",
+        "absurdism",
+        "acoustic",
+        "alive",
+        "bleak",
+        "broken-god",
+        "clockwork",
+        "electrical",
+        "historical",
+        "hive-mind",
+        "neurological",
         "safe",
         "scp",
-        "structure",
-        "subterranean"
+        "sleep"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
+      "thumbnailUrl": "",
       "authors": [
-        "CN Productions"
+        "JNColossus"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9041",
-      "title": "SCP-9041",
-      "alternateTitle": "Self-Containment Protocol",
-      "rating": 15,
-      "createdAt": "2025-09-20T15:57:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5294",
+      "title": "SCP-5294",
+      "alternateTitle": "The Emancipatory Society for Middle-Aged Fathers",
+      "rating": 20,
+      "createdAt": "2021-09-14T09:37:59.000Z",
       "tags": [
-        "9000",
-        "dado",
-        "euclid",
-        "hard-to-destroy-reptile",
-        "historical",
-        "knowledge",
-        "language",
-        "plague-doctor",
+        "alive",
+        "building",
+        "humanoid",
+        "location",
+        "mind-affecting",
         "reality-bending",
-        "science-fiction",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9041/along_river.png",
+      "thumbnailUrl": "",
       "authors": [
-        "octiron"
+        "Nils Severin"
       ]
     }
   ]

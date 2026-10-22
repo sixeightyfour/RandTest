@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T19:45:24.508Z",
+  "updatedAt": "2026-10-22T02:21:42.498Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9196",
-      "title": "SCP-9196",
-      "alternateTitle": "Oh brother, My brother",
-      "rating": 19,
-      "createdAt": "2025-12-27T04:07:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6810",
+      "title": "SCP-6810",
+      "alternateTitle": "Dionysus the Olympian",
+      "rating": 18,
+      "createdAt": "2024-01-24T20:37:50.000Z",
       "tags": [
         "alive",
-        "bleak",
-        "cognitohazard",
-        "document",
-        "dream",
+        "daevite",
         "humanoid",
+        "judith-low",
+        "keter",
         "mind-affecting",
-        "olfactory",
+        "neurological",
+        "reality-bending",
+        "religious",
+        "sapient",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nagarjunakonda_Dionysus_Palace_site.jpg",
+      "authors": [
+        "Baronjoe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8481",
+      "title": "SCP-8481",
+      "alternateTitle": "Our Little Box O’ Bones",
+      "rating": 14,
+      "createdAt": "2025-08-15T22:21:43.000Z",
+      "tags": [
+        "biological",
+        "cadaver",
         "safe",
         "scp",
-        "sleep",
-        "visual"
+        "skeletal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Onigura"
+        "mapleshrub"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8838",
-      "title": "SCP-8838",
-      "alternateTitle": "Love Under Lamplight",
-      "rating": 13,
-      "createdAt": "2026-01-28T21:12:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6347",
+      "title": "SCP-6347",
+      "alternateTitle": "Ularburong",
+      "rating": 20,
+      "createdAt": "2022-06-21T00:14:28.000Z",
       "tags": [
-        "appliance",
-        "autonomous",
-        "dumbcon2026-unofficial",
-        "electronic",
-        "foundation-personnel",
-        "heartwarming",
-        "light",
-        "mobile",
-        "romance",
-        "safe",
-        "sapient",
+        "document",
+        "esoteric-class",
+        "meta",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8838/Floor_lamp.JPG",
+      "thumbnailUrl": "",
       "authors": [
-        "DreadnoughtGalaxy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6071",
-      "title": "SCP-6071",
-      "alternateTitle": "Before Us",
-      "rating": 22,
-      "createdAt": "2021-10-19T20:24:24.000Z",
-      "tags": [
-        "abnormalities",
-        "building",
-        "cognitohazard",
-        "euclid",
-        "foundation-made",
-        "mind-affecting",
-        "polyhedral",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/4129/5072228597_abc9cbd629_b.jpg",
-      "authors": [
-        "extasis"
+        "cold_Nights"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T02:21:42.498Z",
+  "updatedAt": "2026-10-22T13:16:47.266Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6810",
-      "title": "SCP-6810",
-      "alternateTitle": "Dionysus the Olympian",
-      "rating": 18,
-      "createdAt": "2024-01-24T20:37:50.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5313",
+      "title": "SCP-5313",
+      "alternateTitle": "town of alma",
+      "rating": 24,
+      "createdAt": "2021-03-03T21:46:41.000Z",
       "tags": [
-        "alive",
-        "daevite",
-        "humanoid",
-        "judith-low",
-        "keter",
-        "mind-affecting",
-        "neurological",
-        "reality-bending",
-        "religious",
-        "sapient",
+        "antimemetic",
+        "biological",
+        "chaos-insurgency",
+        "document",
+        "extradimensional",
+        "location",
+        "portal",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/www-yahoo/Beach_at_Historic_Jamestown_National_Park_-_Stierch.jpg",
+      "authors": [
+        "www-yahoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-066-de",
+      "title": "SCP-066-DE",
+      "alternateTitle": "The little Spellbook",
+      "rating": 19,
+      "createdAt": "2020-07-06T00:15:23.000Z",
+      "tags": [
+        "document",
+        "ectoentropic",
+        "euclid",
+        "international",
+        "mages-academy",
         "scp",
         "transfiguration"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nagarjunakonda_Dionysus_Palace_site.jpg",
+      "thumbnailUrl": "http://scp-wiki-de.wdfiles.com/local--files/scp-066-de/ZauberbuchEinband.jpg",
       "authors": [
-        "Baronjoe"
+        "Dr_Grom",
+        "Dr_Grom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8481",
-      "title": "SCP-8481",
-      "alternateTitle": "Our Little Box O’ Bones",
-      "rating": 14,
-      "createdAt": "2025-08-15T22:21:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3822",
+      "title": "SCP-3822",
+      "alternateTitle": "Everywhere Yet Nowhere",
+      "rating": 18,
+      "createdAt": "2022-12-28T19:58:43.000Z",
       "tags": [
-        "biological",
-        "cadaver",
-        "safe",
-        "scp",
-        "skeletal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "mapleshrub"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6347",
-      "title": "SCP-6347",
-      "alternateTitle": "Ularburong",
-      "rating": 20,
-      "createdAt": "2022-06-21T00:14:28.000Z",
-      "tags": [
-        "document",
+        "ad-astra",
+        "art-exchange",
+        "ectoentropic",
         "esoteric-class",
-        "meta",
-        "scp"
+        "extraterrestrial",
+        "scp",
+        "temporal",
+        "uncontained",
+        "vehicle"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cold_Nights"
+        "AvocadoMilk"
       ]
     }
   ]

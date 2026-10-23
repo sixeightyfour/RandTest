@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T02:27:01.274Z",
+  "updatedAt": "2026-10-23T12:56:24.937Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,59 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8609",
-      "title": "SCP-8609",
-      "alternateTitle": "The Karcist's Apprentice",
+      "url": "http://scp-wiki.wikidot.com/scp-7367",
+      "title": "SCP-7367",
+      "alternateTitle": "The Black Plague",
       "rating": 15,
-      "createdAt": "2026-03-07T13:27:46.000Z",
+      "createdAt": "2025-02-26T23:15:03.000Z",
       "tags": [
-        "body-horror",
-        "broken-god",
-        "daevite",
-        "euclid",
-        "grand-karcist-ion",
-        "horror",
-        "humanoid",
-        "sapient",
+        "historical",
+        "memetic",
+        "religious",
+        "safe",
         "sarkic",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8609/carvings.png",
-      "authors": [
-        "CN Productions"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7338",
-      "title": "SCP-7338",
-      "alternateTitle": "“Hang in there, baby!”",
-      "rating": 16,
-      "createdAt": "2023-06-11T21:44:05.000Z",
-      "tags": [
-        "addictive",
-        "artifact",
-        "empathic",
-        "euclid",
-        "mind-affecting",
-        "observational",
-        "plague-doctor",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Juneybugey1"
+        "Captain_Wavzies"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2800-j",
-      "title": "SCP-2800-J",
-      "alternateTitle": "Corking the Beast in the Desert",
-      "rating": 24,
-      "createdAt": "2024-01-28T17:59:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7525",
+      "title": "SCP-7525",
+      "alternateTitle": "The Last Christmas",
+      "rating": 16,
+      "createdAt": "2022-12-01T22:22:52.000Z",
       "tags": [
-        "children-of-the-night",
-        "joke",
-        "k-class-scenario",
-        "keter",
-        "scp",
-        "subterranean"
+        "antimemetic",
+        "christmas",
+        "cognitohazard",
+        "euclid",
+        "musical",
+        "religious",
+        "science-fiction",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-2800-j/CorkBottle.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Reasonably Psychotic"
+        "sortie"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7740",
+      "title": "SCP-7740",
+      "alternateTitle": "Royal Radio",
+      "rating": 23,
+      "createdAt": "2023-03-11T20:56:23.000Z",
+      "tags": [
+        "esoteric-class",
+        "scp",
+        "transmission"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ESB2109"
       ]
     }
   ]

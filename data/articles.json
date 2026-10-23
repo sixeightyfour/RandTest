@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T12:56:24.937Z",
+  "updatedAt": "2026-10-23T19:37:25.083Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,59 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7367",
-      "title": "SCP-7367",
-      "alternateTitle": "The Black Plague",
-      "rating": 15,
-      "createdAt": "2025-02-26T23:15:03.000Z",
-      "tags": [
-        "historical",
-        "memetic",
-        "religious",
-        "safe",
-        "sarkic",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Captain_Wavzies"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7525",
-      "title": "SCP-7525",
-      "alternateTitle": "The Last Christmas",
-      "rating": 16,
-      "createdAt": "2022-12-01T22:22:52.000Z",
-      "tags": [
-        "antimemetic",
-        "christmas",
-        "cognitohazard",
-        "euclid",
-        "musical",
-        "religious",
-        "science-fiction",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "sortie"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7740",
-      "title": "SCP-7740",
-      "alternateTitle": "Royal Radio",
+      "url": "http://scp-wiki.wikidot.com/scp-7690",
+      "title": "SCP-7690",
+      "alternateTitle": "Baby Bones",
       "rating": 23,
-      "createdAt": "2023-03-11T20:56:23.000Z",
+      "createdAt": "2023-01-16T03:20:37.000Z",
       "tags": [
-        "esoteric-class",
+        "alive",
+        "cadaver",
+        "humanoid",
+        "keter",
+        "reproductive",
         "scp",
-        "transmission"
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
+      "authors": [
+        "MaskedN00B"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6188",
+      "title": "SCP-6188",
+      "alternateTitle": "Joining the Ranks",
+      "rating": 21,
+      "createdAt": "2022-02-07T23:40:18.000Z",
+      "tags": [
+        "building",
+        "ectoentropic",
+        "extradimensional",
+        "immobile",
+        "light",
+        "military",
+        "predatory",
+        "safe",
+        "scp",
+        "teleportation",
+        "vehicle",
+        "weapon"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6188/Cobra_King%252C_first_tank_in_Bastogne.webp",
+      "authors": [
+        "DL_Baryonyx"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8237",
+      "title": "SCP-8237",
+      "alternateTitle": "A Novel Impossibility",
+      "rating": 15,
+      "createdAt": "2025-01-29T22:59:20.000Z",
+      "tags": [
+        "document",
+        "dr-wondertainment",
+        "knowledge",
+        "safe",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ESB2109"
+        "Crystallantern"
       ]
     }
   ]

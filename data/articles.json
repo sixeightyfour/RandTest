@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:37:25.083Z",
+  "updatedAt": "2026-10-24T02:24:57.450Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7690",
-      "title": "SCP-7690",
-      "alternateTitle": "Baby Bones",
-      "rating": 23,
-      "createdAt": "2023-01-16T03:20:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-139-it",
+      "title": "SCP-139-IT",
+      "alternateTitle": "Puppets, What a Passion!",
+      "rating": 11,
+      "createdAt": "2023-05-27T18:20:06.000Z",
       "tags": [
-        "alive",
-        "cadaver",
-        "humanoid",
-        "keter",
-        "reproductive",
-        "scp",
-        "skeletal",
-        "teleportation"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7690/sighting/medium.jpg",
-      "authors": [
-        "MaskedN00B"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6188",
-      "title": "SCP-6188",
-      "alternateTitle": "Joining the Ranks",
-      "rating": 21,
-      "createdAt": "2022-02-07T23:40:18.000Z",
-      "tags": [
-        "building",
+        "alagadda",
+        "autonomous",
         "ectoentropic",
-        "extradimensional",
-        "immobile",
-        "light",
-        "military",
-        "predatory",
-        "safe",
-        "scp",
-        "teleportation",
-        "vehicle",
-        "weapon"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-6188/Cobra_King%252C_first_tank_in_Bastogne.webp",
-      "authors": [
-        "DL_Baryonyx"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8237",
-      "title": "SCP-8237",
-      "alternateTitle": "A Novel Impossibility",
-      "rating": 15,
-      "createdAt": "2025-01-29T22:59:20.000Z",
-      "tags": [
-        "document",
-        "dr-wondertainment",
-        "knowledge",
+        "hanged-king",
+        "international",
+        "performance",
         "safe",
         "scp"
       ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-139-it/800px-Puppet_theater_01.webp",
+      "authors": [
+        "Mainardo",
+        "Roberto Turati"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-186-arc",
+      "title": "SCP-186-ARC",
+      "alternateTitle": "The Craver of Light",
+      "rating": -15,
+      "createdAt": "2008-08-08T22:54:58.000Z",
+      "tags": [
+        "archived",
+        "autonomous",
+        "euclid",
+        "inscription",
+        "light",
+        "rewrite",
+        "scp",
+        "thermal"
+      ],
       "thumbnailUrl": "",
       "authors": [
-        "Crystallantern"
+        "Unknown Author",
+        "Aelanna"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8486",
+      "title": "SCP-8486",
+      "alternateTitle": "Extradimensional Cleaning Toothbrush",
+      "rating": 12,
+      "createdAt": "2025-08-15T09:07:32.000Z",
+      "tags": [
+        "biohazard",
+        "compulsion",
+        "ectoentropic",
+        "euclid",
+        "extradimensional",
+        "indestructible",
+        "scp",
+        "tool"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toothbrush_regurgitated_by_albatross_on_Tern_Island%2C_Hawaii_-_20060614.jpg",
+      "authors": [
+        "Sylvanite"
       ]
     }
   ]

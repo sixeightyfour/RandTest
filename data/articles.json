@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T12:19:08.883Z",
+  "updatedAt": "2026-10-24T18:26:11.754Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8621",
-      "title": "SCP-8621",
-      "alternateTitle": "The Flesh Parasite",
-      "rating": 10,
-      "createdAt": "2025-09-20T22:20:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6116",
+      "title": "SCP-6116",
+      "alternateTitle": "Night at the Museum",
+      "rating": 13,
+      "createdAt": "2021-07-04T03:57:35.000Z",
       "tags": [
-        "alive",
-        "chemical",
-        "dental",
-        "euclid",
-        "extremity",
-        "invertebrate",
-        "neurological",
-        "parasitic",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Mikhail_27_10"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8434",
-      "title": "SCP-8434",
-      "alternateTitle": "The Aramaic Tablet",
-      "rating": 6,
-      "createdAt": "2025-05-19T07:50:18.000Z",
-      "tags": [
-        "document",
-        "historical",
-        "horror",
-        "language",
-        "mystery",
-        "political",
-        "predictive",
+        "auditory",
+        "biohazard",
+        "cognitohazard",
+        "compulsion",
+        "musical",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8434/Jedidiah-Morse",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
       "authors": [
-        "CorpsePrincess"
+        "finnah"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7280",
-      "title": "SCP-7280",
-      "alternateTitle": "The Hollow Trooper",
-      "rating": 18,
-      "createdAt": "2022-09-25T07:24:33.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-185",
+      "title": "SCP-ES-185",
+      "alternateTitle": "Space Swallow",
+      "rating": 4,
+      "createdAt": "2023-07-26T15:31:56.000Z",
       "tags": [
-        "anderson",
-        "euclid",
-        "humanoid",
+        "foundation-made",
+        "historical",
+        "international",
+        "loop",
+        "mechanical",
+        "media",
         "military",
-        "robotic",
+        "safe",
+        "scp",
+        "temporal",
+        "vehicle"
+      ],
+      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
+      "authors": [
+        "Daman_1985",
+        "AlienSpaceBat"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-376-de",
+      "title": "SCP-376-DE",
+      "alternateTitle": "Horseplay (for amateurs)",
+      "rating": 10,
+      "createdAt": "2024-06-30T13:13:20.000Z",
+      "tags": [
+        "alive",
+        "equine",
+        "euclid",
+        "international",
+        "marshall-carter-and-dark",
+        "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
       "authors": [
-        "ChocolateChara"
+        "Gramlin",
+        "Karptisch"
       ]
     }
   ]

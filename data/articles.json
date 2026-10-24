@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T02:24:57.450Z",
+  "updatedAt": "2026-10-24T12:19:08.883Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-139-it",
-      "title": "SCP-139-IT",
-      "alternateTitle": "Puppets, What a Passion!",
-      "rating": 11,
-      "createdAt": "2023-05-27T18:20:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8621",
+      "title": "SCP-8621",
+      "alternateTitle": "The Flesh Parasite",
+      "rating": 10,
+      "createdAt": "2025-09-20T22:20:54.000Z",
       "tags": [
-        "alagadda",
-        "autonomous",
-        "ectoentropic",
-        "hanged-king",
-        "international",
-        "performance",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-139-it/800px-Puppet_theater_01.webp",
-      "authors": [
-        "Mainardo",
-        "Roberto Turati"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-186-arc",
-      "title": "SCP-186-ARC",
-      "alternateTitle": "The Craver of Light",
-      "rating": -15,
-      "createdAt": "2008-08-08T22:54:58.000Z",
-      "tags": [
-        "archived",
-        "autonomous",
+        "alive",
+        "chemical",
+        "dental",
         "euclid",
-        "inscription",
-        "light",
-        "rewrite",
+        "extremity",
+        "invertebrate",
+        "neurological",
+        "parasitic",
         "scp",
-        "thermal"
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author",
-        "Aelanna"
+        "Mikhail_27_10"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8486",
-      "title": "SCP-8486",
-      "alternateTitle": "Extradimensional Cleaning Toothbrush",
-      "rating": 12,
-      "createdAt": "2025-08-15T09:07:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8434",
+      "title": "SCP-8434",
+      "alternateTitle": "The Aramaic Tablet",
+      "rating": 6,
+      "createdAt": "2025-05-19T07:50:18.000Z",
       "tags": [
-        "biohazard",
-        "compulsion",
-        "ectoentropic",
-        "euclid",
-        "extradimensional",
-        "indestructible",
-        "scp",
-        "tool"
+        "document",
+        "historical",
+        "horror",
+        "language",
+        "mystery",
+        "political",
+        "predictive",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toothbrush_regurgitated_by_albatross_on_Tern_Island%2C_Hawaii_-_20060614.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8434/Jedidiah-Morse",
       "authors": [
-        "Sylvanite"
+        "CorpsePrincess"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7280",
+      "title": "SCP-7280",
+      "alternateTitle": "The Hollow Trooper",
+      "rating": 18,
+      "createdAt": "2022-09-25T07:24:33.000Z",
+      "tags": [
+        "anderson",
+        "euclid",
+        "humanoid",
+        "military",
+        "robotic",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ChocolateChara"
       ]
     }
   ]

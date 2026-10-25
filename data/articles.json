@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T12:50:20.805Z",
+  "updatedAt": "2026-10-25T18:36:36.457Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9566",
-      "title": "SCP-9566",
-      "alternateTitle": "MAN OF SAND",
-      "rating": 23,
-      "createdAt": "2026-02-08T13:05:24.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-406-arc",
+      "title": "SCP-406-ARC",
+      "alternateTitle": "Mysterious Life Form",
+      "rating": -13,
+      "createdAt": "2008-07-25T16:46:25.000Z",
       "tags": [
-        "archaeological",
-        "autonomous",
+        "alive",
+        "archived",
+        "contagion",
+        "euclid",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-406-arc/Thehive004wt4.jpg",
+      "authors": [
+        "Dr Gears"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6544",
+      "title": "SCP-6544",
+      "alternateTitle": "四是",
+      "rating": 19,
+      "createdAt": "2022-06-17T10:20:12.000Z",
+      "tags": [
+        "biohazard",
         "historical",
         "humanoid",
         "keter",
-        "religious",
-        "sapient",
         "scp",
-        "self-repairing",
-        "thaumaturgy",
-        "thermal"
+        "subterranean"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "opersup"
+        "Belakey"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3119",
-      "title": "SCP-3119",
-      "alternateTitle": "Lord of the Dance",
-      "rating": 24,
-      "createdAt": "2017-11-18T13:35:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8298",
+      "title": "SCP-8298",
+      "alternateTitle": "We Humbly Extend This Invitation",
+      "rating": 4,
+      "createdAt": "2025-12-16T02:01:13.000Z",
       "tags": [
-        "empathic",
-        "euclid",
-        "intangible",
+        "autonomous",
+        "computer",
+        "continuity-dept",
+        "electronic",
+        "esoteric-class",
+        "foundation-made",
+        "rewritable",
         "scp",
-        "sensory",
-        "telepathic"
+        "telepathic",
+        "transmission"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "cara_donnelly"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7182",
-      "title": "SCP-7182",
-      "alternateTitle": "The Morpheus Field",
-      "rating": 19,
-      "createdAt": "2024-02-27T16:31:17.000Z",
-      "tags": [
-        "keter",
-        "mind-affecting",
-        "oneiroi",
-        "scp",
-        "sleep",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "FreezerMonkey"
+        "Zyde"
       ]
     }
   ]

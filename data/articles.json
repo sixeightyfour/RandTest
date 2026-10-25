@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:26:11.754Z",
+  "updatedAt": "2026-10-25T02:12:56.235Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6116",
-      "title": "SCP-6116",
-      "alternateTitle": "Night at the Museum",
-      "rating": 13,
-      "createdAt": "2021-07-04T03:57:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-278-de",
+      "title": "SCP-278-DE",
+      "alternateTitle": "The Legend of Stephan Crommenigge's Pirate Crew",
+      "rating": 3,
+      "createdAt": "2023-12-10T14:26:50.000Z",
       "tags": [
-        "auditory",
-        "biohazard",
-        "cognitohazard",
-        "compulsion",
-        "musical",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-6116/Lidcombe_Railway_Station.jpeg/medium.jpg",
-      "authors": [
-        "finnah"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-es-185",
-      "title": "SCP-ES-185",
-      "alternateTitle": "Space Swallow",
-      "rating": 4,
-      "createdAt": "2023-07-26T15:31:56.000Z",
-      "tags": [
-        "foundation-made",
-        "historical",
-        "international",
-        "loop",
-        "mechanical",
-        "media",
-        "military",
-        "safe",
-        "scp",
-        "temporal",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
-      "authors": [
-        "Daman_1985",
-        "AlienSpaceBat"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-376-de",
-      "title": "SCP-376-DE",
-      "alternateTitle": "Horseplay (for amateurs)",
-      "rating": 10,
-      "createdAt": "2024-06-30T13:13:20.000Z",
-      "tags": [
-        "alive",
-        "equine",
+        "bird",
         "euclid",
         "international",
-        "marshall-carter-and-dark",
+        "island",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Gramlin",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8287",
+      "title": "SCP-8287",
+      "alternateTitle": "Training Initiative: I am not real",
+      "rating": 22,
+      "createdAt": "2025-10-01T00:36:37.000Z",
+      "tags": [
+        "computer",
+        "meta",
+        "pending",
+        "raisa",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-376-de/Ferdi.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karptisch"
+        "ESB2109"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8919",
+      "title": "SCP-8919",
+      "alternateTitle": "Fishy Business",
+      "rating": 21,
+      "createdAt": "2025-04-01T15:51:47.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "aquatic",
+        "comedy",
+        "euclid",
+        "fish",
+        "reality-bending",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Cremo"
       ]
     }
   ]

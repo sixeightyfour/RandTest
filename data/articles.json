@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T14:39:17.294Z",
+  "updatedAt": "2026-10-26T20:48:07.717Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-1671-j",
-      "title": "SCP-1671-J",
-      "alternateTitle": "An Apple A Day…",
-      "rating": 14,
-      "createdAt": "2025-09-27T17:00:53.000Z",
-      "tags": [
-        "concept",
-        "doctor-clef",
-        "doctor-king",
-        "folklore-dept",
-        "food",
-        "joke",
-        "mind-affecting",
-        "mobile",
-        "neutralized",
-        "scp",
-        "spatial"
-      ],
-      "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/02/01/17/30/apple-256268_1280.jpg",
-      "authors": [
-        "poltatherian"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6646",
-      "title": "SCP-6646",
-      "alternateTitle": "Kilroy Is Here",
-      "rating": 23,
-      "createdAt": "2022-11-24T23:23:57.000Z",
-      "tags": [
-        "keter",
-        "memory-affecting",
-        "pattern-screamer",
-        "sapient",
-        "scp",
-        "self-repairing",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plague_equip_poveglia.png",
-      "authors": [
-        "The DVDman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7434",
-      "title": "SCP-7434",
-      "alternateTitle": "Connoisseur of Comfort",
-      "rating": 18,
-      "createdAt": "2023-05-10T13:51:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-222-th-j",
+      "title": "SCP-222-TH-J",
+      "alternateTitle": "The Troll Cat The Genius Hacker Cat",
+      "rating": 17,
+      "createdAt": "2018-11-09T13:35:24.000Z",
       "tags": [
         "alive",
         "animal",
         "feline",
-        "foundation-personnel",
-        "mind-affecting",
+        "international",
+        "joke",
+        "rewrite",
         "safe",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/collab:heckfire-bluebunny/Lauraine.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "NDHeckfire"
+        "Dr Xu weil geena",
+        "DrSSS",
+        "Bonneneige"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6927",
+      "title": "SCP-6927",
+      "alternateTitle": "Eurydification",
+      "rating": 17,
+      "createdAt": "2024-02-09T22:56:10.000Z",
+      "tags": [
+        "antimemetic",
+        "ghost",
+        "humanoid",
+        "medical",
+        "memory-affecting",
+        "oneiroi",
+        "parasitic",
+        "reanimation",
+        "safe",
+        "sapient",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/SCP%20Reconnected.png",
+      "authors": [
+        "Fierce fauna"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7946",
+      "title": "SCP-7946",
+      "alternateTitle": "Jerahmeel",
+      "rating": 23,
+      "createdAt": "2024-02-06T06:55:55.000Z",
+      "tags": [
+        "cadaver",
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "interactive",
+        "jewelry",
+        "memory-affecting",
+        "scp",
+        "structure"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "MrMeltingPoint"
       ]
     }
   ]

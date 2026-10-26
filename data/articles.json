@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:36:36.457Z",
+  "updatedAt": "2026-10-26T02:12:47.304Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-406-arc",
-      "title": "SCP-406-ARC",
-      "alternateTitle": "Mysterious Life Form",
-      "rating": -13,
-      "createdAt": "2008-07-25T16:46:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7355",
+      "title": "SCP-7355",
+      "alternateTitle": "Room 305 (Surgery)",
+      "rating": 14,
+      "createdAt": "2023-09-14T16:36:08.000Z",
       "tags": [
-        "alive",
-        "archived",
-        "contagion",
+        "building",
+        "ectoentropic",
         "euclid",
+        "medical",
+        "religious",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-406-arc/Thehive004wt4.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Dr Gears"
+        "NielleiN"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6544",
-      "title": "SCP-6544",
-      "alternateTitle": "四是",
-      "rating": 19,
-      "createdAt": "2022-06-17T10:20:12.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7418",
+      "title": "SCP-7418",
+      "alternateTitle": "Nibbles the Mole",
+      "rating": 15,
+      "createdAt": "2023-08-15T18:26:22.000Z",
       "tags": [
-        "biohazard",
-        "historical",
-        "humanoid",
-        "keter",
+        "alive",
+        "animal",
+        "euclid",
         "scp",
         "subterranean"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/korgis-nibbles/SCP%20mole",
       "authors": [
-        "Belakey"
+        "korgis"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8298",
-      "title": "SCP-8298",
-      "alternateTitle": "We Humbly Extend This Invitation",
-      "rating": 4,
-      "createdAt": "2025-12-16T02:01:13.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-079-it",
+      "title": "SCP-079-IT",
+      "alternateTitle": "Locus Amoenus",
+      "rating": 15,
+      "createdAt": "2022-05-04T19:02:43.000Z",
       "tags": [
-        "autonomous",
+        "adaptive",
+        "city",
         "computer",
-        "continuity-dept",
         "electronic",
-        "esoteric-class",
-        "foundation-made",
-        "rewritable",
+        "historical",
+        "international",
+        "online",
+        "reality-bending",
+        "safe",
         "scp",
-        "telepathic",
-        "transmission"
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-079-it/oli.webp",
       "authors": [
-        "Zyde"
+        "ProcastinationTime",
+        "Siddartha Alonne"
       ]
     }
   ]

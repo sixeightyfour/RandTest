@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T13:43:46.603Z",
+  "updatedAt": "2026-10-27T20:18:07.595Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8658",
-      "title": "SCP-8658",
-      "alternateTitle": "Subsurface Memories",
-      "rating": 16,
-      "createdAt": "2026-01-30T21:51:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
+      "title": "SCP-987-ARC",
+      "alternateTitle": "A Window",
+      "rating": -15,
+      "createdAt": "2008-07-26T15:29:02.000Z",
       "tags": [
-        "adaptive",
-        "art-exchange",
-        "autonomous",
+        "archived",
+        "artifact",
+        "cognitohazard",
         "euclid",
-        "knowledge",
-        "location",
-        "orcadia",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Unknown Author"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8819",
+      "title": "SCP-8819",
+      "alternateTitle": "The Beaches Where My Mother Grew Up",
+      "rating": 22,
+      "createdAt": "2025-08-24T02:09:41.000Z",
+      "tags": [
+        "humanoid",
+        "intangible",
+        "lgbtq",
+        "ritual",
+        "safe",
         "sapient",
         "scp",
-        "serpents-hand",
         "thaumaturgy"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/citrusgift/beach.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
       "authors": [
-        "zipzipskins"
+        "hi im stel"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9209",
-      "title": "SCP-9209",
-      "alternateTitle": "The Seraphim",
-      "rating": 23,
-      "createdAt": "2026-04-04T14:55:12.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8892",
+      "title": "SCP-8892",
+      "alternateTitle": "A Field of Poppies",
+      "rating": 6,
+      "createdAt": "2025-01-05T04:58:00.000Z",
       "tags": [
         "alive",
-        "co-authored",
+        "auditory",
+        "euclid",
+        "historical",
         "humanoid",
-        "keter",
-        "reality-bending",
-        "religious",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Its_Wheffle",
-        "JackEater351"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7352",
-      "title": "SCP-7352",
-      "alternateTitle": "Mother Butterfly",
-      "rating": 17,
-      "createdAt": "2024-03-03T02:28:47.000Z",
-      "tags": [
-        "butterfly",
-        "hallucination",
-        "insect",
-        "pending",
+        "location",
+        "memory-affecting",
+        "observational",
+        "plant",
+        "political",
         "scp",
-        "self-repairing"
+        "sensory",
+        "tactile",
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8892/Poppies/medium.jpg",
       "authors": [
-        "PallidAlbumen"
+        "Harry F"
       ]
     }
   ]

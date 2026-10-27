@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T02:49:18.352Z",
+  "updatedAt": "2026-10-27T13:43:46.603Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-157-ko",
-      "title": "SCP-157-KO",
-      "alternateTitle": "No time to go to the toilet",
-      "rating": 17,
-      "createdAt": "2022-11-25T22:47:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8658",
+      "title": "SCP-8658",
+      "alternateTitle": "Subsurface Memories",
+      "rating": 16,
+      "createdAt": "2026-01-30T21:51:21.000Z",
       "tags": [
-        "aquatic",
-        "extremity",
-        "fish",
-        "international",
-        "safe",
+        "adaptive",
+        "art-exchange",
+        "autonomous",
+        "euclid",
+        "knowledge",
+        "location",
+        "orcadia",
+        "sapient",
         "scp",
-        "sexual",
-        "tactile",
-        "teleportation"
+        "serpents-hand",
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-157-ko/guppies-3744199_1920.jpg",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/citrusgift/beach.jpg",
       "authors": [
-        "igangsu",
-        "fluxman"
+        "zipzipskins"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-81299-ex-j",
-      "title": "SCP-81299-EX-J",
-      "alternateTitle": "Biological Time Travel",
-      "rating": 12,
-      "createdAt": "2025-08-29T14:16:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9209",
+      "title": "SCP-9209",
+      "alternateTitle": "The Seraphim",
+      "rating": 23,
+      "createdAt": "2026-04-04T14:55:12.000Z",
       "tags": [
-        "comedy",
-        "euclid",
-        "explained",
-        "joke",
-        "scp",
-        "sleep",
-        "temporal",
-        "thad-xyank",
-        "time-travel"
+        "alive",
+        "co-authored",
+        "humanoid",
+        "keter",
+        "reality-bending",
+        "religious",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "AlienSpaceBat"
+        "Its_Wheffle",
+        "JackEater351"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-689-ko",
-      "title": "SCP-689-KO",
-      "alternateTitle": "Fangi",
-      "rating": 10,
-      "createdAt": "2024-05-06T21:08:31.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7352",
+      "title": "SCP-7352",
+      "alternateTitle": "Mother Butterfly",
+      "rating": 17,
+      "createdAt": "2024-03-03T02:28:47.000Z",
       "tags": [
-        "appliance",
-        "co-authored",
-        "fungus",
-        "international",
-        "parasitic",
-        "safe",
-        "scp"
+        "butterfly",
+        "hallucination",
+        "insect",
+        "pending",
+        "scp",
+        "self-repairing"
       ],
-      "thumbnailUrl": "http://scp-int.wdfiles.com/local--files/scp-689-ko/fangi.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "quilt",
-        "Salamander724",
-        "fluxman"
+        "PallidAlbumen"
       ]
     }
   ]

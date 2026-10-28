@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:18:07.595Z",
+  "updatedAt": "2026-10-28T02:57:10.392Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-987-arc",
-      "title": "SCP-987-ARC",
-      "alternateTitle": "A Window",
-      "rating": -15,
-      "createdAt": "2008-07-26T15:29:02.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7121",
+      "title": "SCP-7121",
+      "alternateTitle": "come, the pale wind's hound",
+      "rating": 7,
+      "createdAt": "2025-08-23T18:27:11.000Z",
       "tags": [
-        "archived",
-        "artifact",
-        "cognitohazard",
-        "euclid",
+        "extradimensional",
+        "keter",
+        "murder-monster",
+        "predatory",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
+      "authors": [
+        "foxgirlknives"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7613",
+      "title": "SCP-7613",
+      "alternateTitle": "Snake < Tail",
+      "rating": 19,
+      "createdAt": "2023-10-15T19:21:02.000Z",
+      "tags": [
+        "compulsion",
+        "concept",
+        "esoteric-class",
+        "mind-affecting",
         "scp",
-        "sensory",
-        "visual"
+        "spatial",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author"
+        "Quicksilvers"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8819",
-      "title": "SCP-8819",
-      "alternateTitle": "The Beaches Where My Mother Grew Up",
-      "rating": 22,
-      "createdAt": "2025-08-24T02:09:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
+      "title": "SCP-CN-1997",
+      "alternateTitle": "When Magic and Science Intersect",
+      "rating": 21,
+      "createdAt": "2022-06-12T00:44:20.000Z",
       "tags": [
-        "humanoid",
-        "intangible",
-        "lgbtq",
-        "ritual",
-        "safe",
-        "sapient",
-        "scp",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8819/galveston.JPG",
-      "authors": [
-        "hi im stel"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8892",
-      "title": "SCP-8892",
-      "alternateTitle": "A Field of Poppies",
-      "rating": 6,
-      "createdAt": "2025-01-05T04:58:00.000Z",
-      "tags": [
-        "alive",
-        "auditory",
+        "broken-god",
+        "city",
+        "deus-ex-machina",
         "euclid",
-        "historical",
-        "humanoid",
-        "location",
-        "memory-affecting",
-        "observational",
-        "plant",
-        "political",
+        "extradimensional",
+        "foundation-made",
+        "hong-shing",
+        "international",
+        "k-class-scenario",
+        "radioactive",
+        "religious",
+        "religious-fiction",
         "scp",
-        "sensory",
-        "tactile",
-        "visual"
+        "thaumaturgy",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8892/Poppies/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
       "authors": [
-        "Harry F"
+        "MScarlet",
+        "tetsusquared"
       ]
     }
   ]

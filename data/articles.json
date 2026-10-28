@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:57:10.392Z",
+  "updatedAt": "2026-10-28T14:40:14.882Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7121",
-      "title": "SCP-7121",
-      "alternateTitle": "come, the pale wind's hound",
-      "rating": 7,
-      "createdAt": "2025-08-23T18:27:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7762",
+      "title": "SCP-7762",
+      "alternateTitle": "Helsing's Angels",
+      "rating": 23,
+      "createdAt": "2025-07-06T16:57:09.000Z",
       "tags": [
-        "extradimensional",
+        "blood",
+        "classiccon2025",
+        "contagion",
+        "fantasy",
+        "horror",
+        "humanoid",
         "keter",
-        "murder-monster",
         "predatory",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7121/houndBWS.png",
-      "authors": [
-        "foxgirlknives"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7613",
-      "title": "SCP-7613",
-      "alternateTitle": "Snake < Tail",
-      "rating": 19,
-      "createdAt": "2023-10-15T19:21:02.000Z",
-      "tags": [
-        "compulsion",
-        "concept",
-        "esoteric-class",
-        "mind-affecting",
         "scp",
-        "spatial",
-        "temporal"
+        "vampire"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Quicksilvers"
+        "kilgrave_lovejoy"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-1997",
-      "title": "SCP-CN-1997",
-      "alternateTitle": "When Magic and Science Intersect",
-      "rating": 21,
-      "createdAt": "2022-06-12T00:44:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1017-ko",
+      "title": "SCP-1017-KO",
+      "alternateTitle": "Teeth Change",
+      "rating": 14,
+      "createdAt": "2022-12-11T14:49:39.000Z",
       "tags": [
-        "broken-god",
-        "city",
-        "deus-ex-machina",
-        "euclid",
-        "extradimensional",
-        "foundation-made",
-        "hong-shing",
+        "dental",
+        "extraterrestrial",
         "international",
-        "k-class-scenario",
-        "radioactive",
-        "religious",
-        "religious-fiction",
-        "scp",
-        "thaumaturgy",
-        "uncontained"
+        "keter",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki-cn.wdfiles.com/local--files/scp-cn-1997/RP.png",
+      "thumbnailUrl": "http://scpkosb.wikidot.com/local--files/draft:sycop-23-5043/Psychodentistry.png",
       "authors": [
-        "MScarlet",
-        "tetsusquared"
+        "Sycop",
+        "fluxman"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9081",
+      "title": "SCP-9081",
+      "alternateTitle": "Smoking Kills",
+      "rating": 15,
+      "createdAt": "2026-03-17T09:41:31.000Z",
+      "tags": [
+        "addictive",
+        "artifact",
+        "factory",
+        "keter",
+        "medical",
+        "reality-bending",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "SimpleRuins"
       ]
     }
   ]

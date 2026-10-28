@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:40:14.882Z",
+  "updatedAt": "2026-10-28T20:40:08.529Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7762",
-      "title": "SCP-7762",
-      "alternateTitle": "Helsing's Angels",
-      "rating": 23,
-      "createdAt": "2025-07-06T16:57:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-184-de",
+      "title": "SCP-184-DE",
+      "alternateTitle": "Arachnophilia",
+      "rating": 10,
+      "createdAt": "2022-05-26T20:41:39.000Z",
       "tags": [
-        "blood",
-        "classiccon2025",
-        "contagion",
-        "fantasy",
-        "horror",
-        "humanoid",
-        "keter",
-        "predatory",
-        "scp",
-        "vampire"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "kilgrave_lovejoy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1017-ko",
-      "title": "SCP-1017-KO",
-      "alternateTitle": "Teeth Change",
-      "rating": 14,
-      "createdAt": "2022-12-11T14:49:39.000Z",
-      "tags": [
-        "dental",
-        "extraterrestrial",
+        "arachnid",
+        "clothing",
+        "empathic",
         "international",
-        "keter",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpkosb.wikidot.com/local--files/draft:sycop-23-5043/Psychodentistry.png",
-      "authors": [
-        "Sycop",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9081",
-      "title": "SCP-9081",
-      "alternateTitle": "Smoking Kills",
-      "rating": 15,
-      "createdAt": "2026-03-17T09:41:31.000Z",
-      "tags": [
-        "addictive",
-        "artifact",
-        "factory",
-        "keter",
-        "medical",
-        "reality-bending",
-        "scp"
+        "safe",
+        "scp",
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "SimpleRuins"
+        "Zesc",
+        "Zesc"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8840",
+      "title": "SCP-8840",
+      "alternateTitle": "First Day on the Job",
+      "rating": 20,
+      "createdAt": "2025-01-26T03:01:36.000Z",
+      "tags": [
+        "adaptive",
+        "chaos-insurgency",
+        "computer",
+        "knowledge",
+        "online",
+        "pending",
+        "scp",
+        "slice-of-life"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
+      "authors": [
+        "Mister_Toasty"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
+      "title": "SCP-2955-JP",
+      "alternateTitle": "Septette for the Dead CN-Aniki",
+      "rating": 24,
+      "createdAt": "2022-05-05T02:35:21.000Z",
+      "tags": [
+        "euclid",
+        "extradimensional",
+        "humanoid",
+        "international",
+        "metamorphic",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
+      "authors": [
+        "indonootoko",
+        "tetsusquared"
       ]
     }
   ]

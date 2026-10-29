@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:40:08.529Z",
+  "updatedAt": "2026-10-29T03:23:07.181Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-184-de",
-      "title": "SCP-184-DE",
-      "alternateTitle": "Arachnophilia",
-      "rating": 10,
-      "createdAt": "2022-05-26T20:41:39.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6684",
+      "title": "SCP-6684",
+      "alternateTitle": "Rebranded",
+      "rating": 22,
+      "createdAt": "2023-06-19T15:51:05.000Z",
       "tags": [
-        "arachnid",
+        "artistic",
+        "blood",
+        "building",
+        "canine",
         "clothing",
-        "empathic",
-        "international",
+        "ectoentropic",
+        "marshall-carter-and-dark",
         "safe",
+        "sapient",
         "scp",
         "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
       "authors": [
-        "Zesc",
-        "Zesc"
+        "Fierce fauna"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8840",
-      "title": "SCP-8840",
-      "alternateTitle": "First Day on the Job",
-      "rating": 20,
-      "createdAt": "2025-01-26T03:01:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5961",
+      "title": "SCP-5961",
+      "alternateTitle": "Under Pressure",
+      "rating": 17,
+      "createdAt": "2022-02-06T09:03:59.000Z",
       "tags": [
-        "adaptive",
-        "chaos-insurgency",
-        "computer",
-        "knowledge",
-        "online",
-        "pending",
+        "aquatic",
+        "biohazard",
+        "co-authored",
+        "electromagnetic",
+        "fish",
+        "keter",
         "scp",
-        "slice-of-life"
+        "transfiguration",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bathyscaphe_Trieste.jpg/2000px-Bathyscaphe_Trieste.jpg",
       "authors": [
-        "Mister_Toasty"
+        "Abrethe",
+        "AvocadoMilk"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2955-jp",
-      "title": "SCP-2955-JP",
-      "alternateTitle": "Septette for the Dead CN-Aniki",
-      "rating": 24,
-      "createdAt": "2022-05-05T02:35:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8150",
+      "title": "SCP-8150",
+      "alternateTitle": "Dust Mother",
+      "rating": 16,
+      "createdAt": "2024-03-14T14:25:46.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "humanoid",
-        "international",
-        "metamorphic",
-        "mind-affecting",
-        "scp"
+        "alive",
+        "amorphous",
+        "esoteric-class",
+        "meteorological",
+        "phenomenon",
+        "predatory",
+        "scp",
+        "species"
       ],
-      "thumbnailUrl": "http://scp-jp-storage.wdfiles.com/local--files/file%3A3461191-12-f1cs/d-4505.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8150/dust1/medium.jpg",
       "authors": [
-        "indonootoko",
-        "tetsusquared"
+        "Gayboydove"
       ]
     }
   ]

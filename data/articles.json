@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T14:44:36.037Z",
+  "updatedAt": "2026-10-29T20:43:45.358Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9197",
-      "title": "SCP-9197",
-      "alternateTitle": "What The Eye Doesn't See, The Heart Doesn't Feel",
-      "rating": 15,
-      "createdAt": "2026-03-07T20:20:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7740",
+      "title": "SCP-7740",
+      "alternateTitle": "Royal Radio",
+      "rating": 23,
+      "createdAt": "2023-03-11T20:56:23.000Z",
       "tags": [
-        "cognitohazard",
-        "ethics-committee",
-        "euclid",
-        "horror",
-        "k-class-scenario",
-        "memetic",
-        "mind-affecting",
-        "observational",
-        "psychological-horror",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "aninhameow"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7863",
-      "title": "SCP-7863",
-      "alternateTitle": "A Creation of the Bloody God",
-      "rating": 6,
-      "createdAt": "2024-02-18T23:02:00.000Z",
-      "tags": [
-        "alive",
-        "blood",
         "esoteric-class",
-        "humanoid",
-        "reality-bending",
-        "sapient",
-        "scarlet-king",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Joseph Fuid"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9537",
-      "title": "SCP-9537",
-      "alternateTitle": "The Party That America Forgot",
-      "rating": 16,
-      "createdAt": "2026-01-06T20:15:34.000Z",
-      "tags": [
-        "autonomous",
-        "computer",
-        "electronic",
-        "humanoid",
-        "marshall-carter-and-dark",
-        "memetic",
-        "mind-affecting",
-        "online",
-        "political",
-        "safe",
         "scp",
         "transmission"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/fragment:scp-9537-0/Old_computer_lab.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Highway karma"
+        "ESB2109"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8609",
+      "title": "SCP-8609",
+      "alternateTitle": "The Karcist's Apprentice",
+      "rating": 15,
+      "createdAt": "2026-03-07T13:27:46.000Z",
+      "tags": [
+        "body-horror",
+        "broken-god",
+        "daevite",
+        "euclid",
+        "grand-karcist-ion",
+        "horror",
+        "humanoid",
+        "sapient",
+        "sarkic",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8609/carvings.png",
+      "authors": [
+        "CN Productions"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-044-de-j",
+      "title": "SCP-044-DE-J",
+      "alternateTitle": "This damn schnapps",
+      "rating": 19,
+      "createdAt": "2022-07-27T16:39:25.000Z",
+      "tags": [
+        "apollyon",
+        "food",
+        "international",
+        "joke",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Gramlin",
+        "Karpfisch"
       ]
     }
   ]

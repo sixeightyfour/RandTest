@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:23:07.181Z",
+  "updatedAt": "2026-10-29T14:44:36.037Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6684",
-      "title": "SCP-6684",
-      "alternateTitle": "Rebranded",
-      "rating": 22,
-      "createdAt": "2023-06-19T15:51:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9197",
+      "title": "SCP-9197",
+      "alternateTitle": "What The Eye Doesn't See, The Heart Doesn't Feel",
+      "rating": 15,
+      "createdAt": "2026-03-07T20:20:11.000Z",
       "tags": [
-        "artistic",
-        "blood",
-        "building",
-        "canine",
-        "clothing",
-        "ectoentropic",
-        "marshall-carter-and-dark",
-        "safe",
-        "sapient",
+        "cognitohazard",
+        "ethics-committee",
+        "euclid",
+        "horror",
+        "k-class-scenario",
+        "memetic",
+        "mind-affecting",
+        "observational",
+        "psychological-horror",
         "scp",
-        "transfiguration"
+        "visual"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/fierce-fauna-0/Title%20Block%20One",
+      "thumbnailUrl": "",
       "authors": [
-        "Fierce fauna"
+        "aninhameow"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5961",
-      "title": "SCP-5961",
-      "alternateTitle": "Under Pressure",
-      "rating": 17,
-      "createdAt": "2022-02-06T09:03:59.000Z",
-      "tags": [
-        "aquatic",
-        "biohazard",
-        "co-authored",
-        "electromagnetic",
-        "fish",
-        "keter",
-        "scp",
-        "transfiguration",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bathyscaphe_Trieste.jpg/2000px-Bathyscaphe_Trieste.jpg",
-      "authors": [
-        "Abrethe",
-        "AvocadoMilk"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8150",
-      "title": "SCP-8150",
-      "alternateTitle": "Dust Mother",
-      "rating": 16,
-      "createdAt": "2024-03-14T14:25:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7863",
+      "title": "SCP-7863",
+      "alternateTitle": "A Creation of the Bloody God",
+      "rating": 6,
+      "createdAt": "2024-02-18T23:02:00.000Z",
       "tags": [
         "alive",
-        "amorphous",
+        "blood",
         "esoteric-class",
-        "meteorological",
-        "phenomenon",
-        "predatory",
+        "humanoid",
+        "reality-bending",
+        "sapient",
+        "scarlet-king",
         "scp",
-        "species"
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8150/dust1/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Gayboydove"
+        "Joseph Fuid"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9537",
+      "title": "SCP-9537",
+      "alternateTitle": "The Party That America Forgot",
+      "rating": 16,
+      "createdAt": "2026-01-06T20:15:34.000Z",
+      "tags": [
+        "autonomous",
+        "computer",
+        "electronic",
+        "humanoid",
+        "marshall-carter-and-dark",
+        "memetic",
+        "mind-affecting",
+        "online",
+        "political",
+        "safe",
+        "scp",
+        "transmission"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/fragment:scp-9537-0/Old_computer_lab.jpg",
+      "authors": [
+        "Highway karma"
       ]
     }
   ]

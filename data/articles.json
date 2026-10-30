@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:24:53.490Z",
+  "updatedAt": "2026-10-30T14:40:37.413Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9027",
-      "title": "SCP-9027",
-      "alternateTitle": "The Beginning Of The End",
-      "rating": 14,
-      "createdAt": "2025-09-26T12:27:53.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8202",
+      "title": "SCP-8202",
+      "alternateTitle": "Enemies from Within",
+      "rating": 18,
+      "createdAt": "2024-08-15T06:53:43.000Z",
       "tags": [
-        "9000",
-        "apocalyptic",
-        "bleak",
-        "cognitohazard",
-        "keter",
-        "memetic",
-        "mind-affecting",
-        "mystery",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Lucas667"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9702",
-      "title": "SCP-9702",
-      "alternateTitle": "What Water Wants",
-      "rating": 11,
-      "createdAt": "2026-02-18T02:56:52.000Z",
-      "tags": [
-        "aquatic",
-        "keter",
-        "meteorological",
-        "mobile",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DJYou"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-356",
-      "title": "SCP-USA64-356",
-      "alternateTitle": "Figures on the Shore",
-      "rating": 21,
-      "createdAt": "2025-01-09T13:49:50.000Z",
-      "tags": [
-        "art-exchange",
-        "bleak",
-        "compulsion",
-        "esoteric-class",
-        "horror",
+        "airborne",
+        "biological",
+        "cadaver",
+        "extraterrestrial",
         "humanoid",
-        "mind-affecting",
-        "nocturnal",
+        "reptile",
+        "safe",
         "scp",
-        "self-replicating",
-        "teleportation"
+        "spatial",
+        "vehicle"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-356/dbtw.png",
+      "thumbnailUrl": "",
       "authors": [
-        "SynthPanda_"
+        "Delta_Nine"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4791",
+      "title": "SCP-4791",
+      "alternateTitle": "Stirrin’ Slowly Cross the Sky, I Said Goodbye",
+      "rating": 23,
+      "createdAt": "2022-04-02T14:45:26.000Z",
+      "tags": [
+        "airborne",
+        "document",
+        "euclid",
+        "mobile",
+        "rewritable",
+        "scp",
+        "toy",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Jack Waltz"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7988",
+      "title": "SCP-7988",
+      "alternateTitle": "Mood/luck displacement factors",
+      "rating": 16,
+      "createdAt": "2022-12-06T14:48:00.000Z",
+      "tags": [
+        "empathic",
+        "esoteric-class",
+        "probability",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "guiness11"
       ]
     }
   ]

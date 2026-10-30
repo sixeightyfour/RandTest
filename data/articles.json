@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:40:37.413Z",
+  "updatedAt": "2026-10-30T20:15:09.189Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8202",
-      "title": "SCP-8202",
-      "alternateTitle": "Enemies from Within",
-      "rating": 18,
-      "createdAt": "2024-08-15T06:53:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4787",
+      "title": "SCP-4787",
+      "alternateTitle": "The Things He Wished He'd Known",
+      "rating": 21,
+      "createdAt": "2019-09-13T16:33:25.000Z",
       "tags": [
-        "airborne",
-        "biological",
-        "cadaver",
-        "extraterrestrial",
-        "humanoid",
-        "reptile",
-        "safe",
-        "scp",
-        "spatial",
-        "vehicle"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Delta_Nine"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4791",
-      "title": "SCP-4791",
-      "alternateTitle": "Stirrin’ Slowly Cross the Sky, I Said Goodbye",
-      "rating": 23,
-      "createdAt": "2022-04-02T14:45:26.000Z",
-      "tags": [
-        "airborne",
-        "document",
-        "euclid",
-        "mobile",
-        "rewritable",
-        "scp",
-        "toy",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Jack Waltz"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7988",
-      "title": "SCP-7988",
-      "alternateTitle": "Mood/luck displacement factors",
-      "rating": 16,
-      "createdAt": "2022-12-06T14:48:00.000Z",
-      "tags": [
-        "empathic",
         "esoteric-class",
-        "probability",
+        "location",
+        "memory-affecting",
+        "meta",
         "scp",
-        "uncontained"
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "guiness11"
+        "Mew-ltiverse"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8631",
+      "title": "SCP-8631",
+      "alternateTitle": "Pumpkin Jack",
+      "rating": 17,
+      "createdAt": "2025-10-31T13:37:44.000Z",
+      "tags": [
+        "autonomous",
+        "euclid",
+        "halloween",
+        "heartwarming",
+        "humanoid",
+        "intangible",
+        "light",
+        "sapient",
+        "scp",
+        "sculpture"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DappledDaspletosaur"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9366",
+      "title": "SCP-9366",
+      "alternateTitle": "Is Dr. Reynolds In?",
+      "rating": 9,
+      "createdAt": "2026-04-10T16:22:58.000Z",
+      "tags": [
+        "building",
+        "humanoid",
+        "medical",
+        "polyhedral",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://live.staticflickr.com/4261/35346009611_6fb470d881_b.jpg",
+      "authors": [
+        "sebsolfish"
       ]
     }
   ]

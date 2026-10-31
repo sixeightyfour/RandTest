@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:59:52.169Z",
+  "updatedAt": "2026-10-31T19:37:36.154Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
-      "title": "SCP-ZH-424",
-      "alternateTitle": "S.P.I.R.I.T.",
-      "rating": 7,
-      "createdAt": "2023-08-09T17:00:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5924",
+      "title": "SCP-5924",
+      "alternateTitle": "Professional Attachment",
+      "rating": 21,
+      "createdAt": "2020-10-26T23:29:55.000Z",
       "tags": [
-        "electrical",
-        "extradimensional",
-        "ghost",
-        "international",
-        "light",
-        "lorecon2023",
-        "plant",
-        "portal",
-        "safe",
-        "scp",
-        "species",
-        "telepathic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8150",
-      "title": "SCP-8150",
-      "alternateTitle": "Dust Mother",
-      "rating": 16,
-      "createdAt": "2024-03-14T14:25:46.000Z",
-      "tags": [
-        "alive",
         "amorphous",
-        "esoteric-class",
-        "meteorological",
-        "phenomenon",
-        "predatory",
-        "scp",
-        "species"
+        "biological",
+        "mind-affecting",
+        "safe",
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8150/dust1/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
       "authors": [
-        "Gayboydove"
+        "Blightknell"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3273",
-      "title": "SCP-3273",
-      "alternateTitle": "Self-Performed Brain Editing Manual",
-      "rating": 18,
-      "createdAt": "2018-03-30T23:15:21.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9610",
+      "title": "SCP-9610",
+      "alternateTitle": "Afternolife",
+      "rating": 20,
+      "createdAt": "2025-09-21T06:59:32.000Z",
       "tags": [
-        "addictive",
-        "artifact",
-        "chemical",
+        "9000",
+        "afterlife",
+        "extradimensional",
+        "fantasy",
+        "ghost",
         "keter",
-        "medical",
-        "neurological",
-        "scp",
-        "sensory"
+        "mind-affecting",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Blibby_Blobfish"
+        "Hufor"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4787",
+      "title": "SCP-4787",
+      "alternateTitle": "The Things He Wished He'd Known",
+      "rating": 21,
+      "createdAt": "2019-09-13T16:33:25.000Z",
+      "tags": [
+        "esoteric-class",
+        "location",
+        "memory-affecting",
+        "meta",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Mew-ltiverse"
       ]
     }
   ]

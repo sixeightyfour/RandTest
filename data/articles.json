@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:37:36.154Z",
+  "updatedAt": "2026-11-01T03:05:36.654Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5924",
-      "title": "SCP-5924",
-      "alternateTitle": "Professional Attachment",
-      "rating": 21,
-      "createdAt": "2020-10-26T23:29:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7189",
+      "title": "SCP-7189",
+      "alternateTitle": "To Die, Perhaps to Live Again",
+      "rating": 13,
+      "createdAt": "2023-09-01T04:01:00.000Z",
       "tags": [
-        "amorphous",
+        "animal",
         "biological",
+        "bird",
+        "invertebrate",
+        "keter",
+        "plant",
+        "predatory",
+        "reanimation",
+        "remixcon2023",
+        "reptile",
+        "sapient",
+        "scp",
+        "skeletal",
+        "teleportation"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Plilt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5163",
+      "title": "SCP-5163",
+      "alternateTitle": "The Cutest Teddy Bear of All Times",
+      "rating": 6,
+      "createdAt": "2025-09-11T22:28:15.000Z",
+      "tags": [
+        "cognitohazard",
         "mind-affecting",
         "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
-      "authors": [
-        "Blightknell"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9610",
-      "title": "SCP-9610",
-      "alternateTitle": "Afternolife",
-      "rating": 20,
-      "createdAt": "2025-09-21T06:59:32.000Z",
-      "tags": [
-        "9000",
-        "afterlife",
-        "extradimensional",
-        "fantasy",
-        "ghost",
-        "keter",
-        "mind-affecting",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Hufor"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4787",
-      "title": "SCP-4787",
-      "alternateTitle": "The Things He Wished He'd Known",
-      "rating": 21,
-      "createdAt": "2019-09-13T16:33:25.000Z",
-      "tags": [
-        "esoteric-class",
-        "location",
-        "memory-affecting",
-        "meta",
         "scp",
-        "transfiguration"
+        "tactile",
+        "toy"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
+      "authors": [
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7807",
+      "title": "SCP-7807",
+      "alternateTitle": "Operation Noble Arms",
+      "rating": 4,
+      "createdAt": "2023-12-29T23:51:41.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "bird",
+        "esoteric-class",
+        "ethics-committee",
+        "euclid",
+        "hostile",
+        "predatory",
+        "scp",
+        "species"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mew-ltiverse"
+        "ESB2109"
       ]
     }
   ]

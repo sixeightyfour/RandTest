@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:05:36.654Z",
+  "updatedAt": "2026-11-01T14:36:32.148Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7189",
-      "title": "SCP-7189",
-      "alternateTitle": "To Die, Perhaps to Live Again",
-      "rating": 13,
-      "createdAt": "2023-09-01T04:01:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7895",
+      "title": "SCP-7895",
+      "alternateTitle": "Dreaming of Our Hometown",
+      "rating": 22,
+      "createdAt": "2023-02-26T22:55:20.000Z",
       "tags": [
-        "animal",
-        "biological",
-        "bird",
-        "invertebrate",
+        "city",
+        "dream",
         "keter",
-        "plant",
-        "predatory",
-        "reanimation",
-        "remixcon2023",
-        "reptile",
-        "sapient",
+        "memetic",
+        "memory-affecting",
         "scp",
-        "skeletal",
-        "teleportation"
+        "sleep"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7895/runes.jpg",
       "authors": [
-        "Plilt"
+        "Reverend Fox"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5163",
-      "title": "SCP-5163",
-      "alternateTitle": "The Cutest Teddy Bear of All Times",
-      "rating": 6,
-      "createdAt": "2025-09-11T22:28:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7478",
+      "title": "SCP-7478",
+      "alternateTitle": "Scatter",
+      "rating": 14,
+      "createdAt": "2023-09-28T20:03:24.000Z",
       "tags": [
+        "auditory",
+        "building",
         "cognitohazard",
-        "mind-affecting",
+        "memory-affecting",
+        "olfactory",
         "safe",
-        "scp",
-        "tactile",
-        "toy"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5163/Teddybear.jpeg/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
       "authors": [
-        "Lucas667"
+        "Quicksilvers"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7807",
-      "title": "SCP-7807",
-      "alternateTitle": "Operation Noble Arms",
-      "rating": 4,
-      "createdAt": "2023-12-29T23:51:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7848",
+      "title": "SCP-7848",
+      "alternateTitle": "Boxer Mantis Hivemind",
+      "rating": 16,
+      "createdAt": "2024-01-01T03:50:29.000Z",
       "tags": [
         "alive",
         "animal",
-        "bird",
-        "esoteric-class",
-        "ethics-committee",
         "euclid",
-        "hostile",
-        "predatory",
+        "hive-mind",
+        "humanoid",
+        "insect",
+        "sapient",
         "scp",
-        "species"
+        "swarm"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "ESB2109"
+        "DrDapper"
       ]
     }
   ]

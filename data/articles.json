@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T03:16:06.276Z",
+  "updatedAt": "2026-11-02T17:32:36.895Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9745",
-      "title": "SCP-9745",
-      "alternateTitle": "Leftist Cows Left Us",
-      "rating": 17,
-      "createdAt": "2026-01-23T00:46:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4324",
+      "title": "SCP-4324",
+      "alternateTitle": "Saint Torben the Strange",
+      "rating": 11,
+      "createdAt": "2019-01-07T20:33:52.000Z",
       "tags": [
-        "bovine",
-        "dumbcon2026-unofficial",
-        "food",
-        "historical",
+        "artistic",
+        "cognitohazard",
+        "memetic",
         "mind-affecting",
-        "neutralized",
-        "political",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9745/Holstein_Friesian_cattle_in_snow_8.jpg",
-      "authors": [
-        "Mooys"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6083",
-      "title": "SCP-6083",
-      "alternateTitle": "A Pitiable Existence",
-      "rating": 12,
-      "createdAt": "2022-01-05T14:40:40.000Z",
-      "tags": [
-        "alive",
-        "humanoid",
-        "mind-affecting",
+        "religious",
         "safe",
-        "sapient",
-        "scp"
+        "scp",
+        "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4324/2CcAzjM.webp",
       "authors": [
-        "Tracque_"
+        "jellybeanaime"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 4,
-      "createdAt": "2019-09-18T20:05:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9487",
+      "title": "SCP-9487",
+      "alternateTitle": "NoimydnE",
+      "rating": 17,
+      "createdAt": "2026-02-27T09:05:51.000Z",
       "tags": [
-        "action",
-        "artifact",
-        "bleak",
-        "cain",
-        "neutralized",
+        "dream",
+        "empathic",
+        "esoteric-class",
+        "humanoid",
+        "memory-affecting",
+        "mind-affecting",
+        "phenomenon",
+        "sapient",
         "scp",
-        "temporal",
-        "time-travel"
+        "sleep",
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Kaether"
+        "OttoBrahestadt"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7167",
+      "title": "SCP-7167",
+      "alternateTitle": "The Carcinogenic Metropolis",
+      "rating": 17,
+      "createdAt": "2023-12-29T19:28:43.000Z",
+      "tags": [
+        "auditory",
+        "city",
+        "cognitohazard",
+        "euclid",
+        "mind-affecting",
+        "scp",
+        "self-replicating"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
+      "authors": [
+        "Mr Mcguffin"
       ]
     }
   ]

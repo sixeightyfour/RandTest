@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T17:32:36.895Z",
+  "updatedAt": "2026-11-03T04:29:37.498Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,56 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4324",
-      "title": "SCP-4324",
-      "alternateTitle": "Saint Torben the Strange",
-      "rating": 11,
-      "createdAt": "2019-01-07T20:33:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-1035",
+      "title": "SCP-1035",
+      "alternateTitle": "Decomposition Mitten",
+      "rating": 15,
+      "createdAt": "2011-11-20T16:32:24.000Z",
       "tags": [
-        "artistic",
-        "cognitohazard",
-        "memetic",
-        "mind-affecting",
-        "religious",
+        "biohazard",
+        "clothing",
+        "contagion",
         "safe",
-        "scp",
-        "visual"
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-4324/2CcAzjM.webp",
+      "thumbnailUrl": "",
       "authors": [
-        "jellybeanaime"
+        "ed_montague"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9487",
-      "title": "SCP-9487",
-      "alternateTitle": "NoimydnE",
+      "url": "http://scp-wiki.wikidot.com/scp-9485",
+      "title": "SCP-9485",
+      "alternateTitle": "Born too early; too late; or not at all",
       "rating": 17,
-      "createdAt": "2026-02-27T09:05:51.000Z",
+      "createdAt": "2026-03-18T17:56:15.000Z",
       "tags": [
-        "dream",
-        "empathic",
+        "biological",
         "esoteric-class",
-        "humanoid",
-        "memory-affecting",
-        "mind-affecting",
-        "phenomenon",
-        "sapient",
+        "extraterrestrial",
+        "moon",
         "scp",
-        "sleep",
-        "uncontained"
+        "ticonderoga"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9485/Tethys.png",
       "authors": [
         "OttoBrahestadt"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7167",
-      "title": "SCP-7167",
-      "alternateTitle": "The Carcinogenic Metropolis",
-      "rating": 17,
-      "createdAt": "2023-12-29T19:28:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8506",
+      "title": "SCP-8506",
+      "alternateTitle": "Empirical Stairway",
+      "rating": 13,
+      "createdAt": "2025-07-05T22:24:09.000Z",
       "tags": [
-        "auditory",
-        "city",
-        "cognitohazard",
-        "euclid",
-        "mind-affecting",
-        "scp",
-        "self-replicating"
+        "extradimensional",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-7167/SCP-7167DronePhoto.jpeg/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Mr Mcguffin"
+        "Unidentifiedgoober"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:49:40.092Z",
+  "updatedAt": "2026-11-04T15:50:53.898Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9959",
-      "title": "SCP-9959",
-      "alternateTitle": "A Biosphere",
-      "rating": 7,
-      "createdAt": "2026-03-28T22:00:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9001-j",
+      "title": "SCP-9001-J",
+      "alternateTitle": "IT'S OVER ████!!",
+      "rating": 11,
+      "createdAt": "2025-10-15T17:08:47.000Z",
+      "tags": [
+        "auditory",
+        "cognitohazard",
+        "euclid",
+        "joke",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Lucas667"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8437",
+      "title": "SCP-8437",
+      "alternateTitle": "If a Tree Falls in the Forest…",
+      "rating": 21,
+      "createdAt": "2026-03-14T01:19:28.000Z",
       "tags": [
         "alive",
-        "bacteria",
-        "esoteric-class",
-        "geological",
+        "bleak",
+        "euclid",
+        "humanoid",
+        "memory-affecting",
+        "observational",
         "sapient",
-        "scp",
-        "subterranean"
+        "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/biosphere/Screenshot%202026-03-21%20211833.png",
+      "thumbnailUrl": "",
       "authors": [
-        "DrSitansh"
+        "Mister_Toasty"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-456",
-      "title": "SCP-456",
-      "alternateTitle": "Soporific Bedbugs",
-      "rating": 17,
-      "createdAt": "2010-10-15T05:09:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4625",
+      "title": "SCP-4625",
+      "alternateTitle": "Oizys' Hope",
+      "rating": 24,
+      "createdAt": "2020-03-27T09:36:49.000Z",
       "tags": [
-        "alive",
-        "insect",
-        "neurological",
-        "safe",
-        "scp",
-        "species"
+        "euclid",
+        "humanoid",
+        "obskura",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "eric_h"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8354",
-      "title": "SCP-8354",
-      "alternateTitle": "Something in the Snow",
-      "rating": 12,
-      "createdAt": "2025-02-10T02:16:23.000Z",
-      "tags": [
-        "abnormalities",
-        "safe",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
-      "authors": [
-        "CN Productions"
+        "IronDruid"
       ]
     }
   ]

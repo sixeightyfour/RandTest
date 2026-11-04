@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:20:55.755Z",
+  "updatedAt": "2026-11-04T03:49:40.092Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6631",
-      "title": "SCP-6631",
-      "alternateTitle": "The Korto Stone",
+      "url": "http://scp-wiki.wikidot.com/scp-9959",
+      "title": "SCP-9959",
+      "alternateTitle": "A Biosphere",
       "rating": 7,
-      "createdAt": "2022-06-24T05:15:48.000Z",
-      "tags": [
-        "airborne",
-        "cadaver",
-        "cognitohazard",
-        "hive-mind",
-        "humanoid",
-        "keter",
-        "light",
-        "mind-affecting",
-        "observational",
-        "scp",
-        "skeletal",
-        "swarm",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Strange Matter"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3981",
-      "title": "SCP-3981",
-      "alternateTitle": "A Story of Change",
-      "rating": 11,
-      "createdAt": "2023-01-03T06:15:08.000Z",
+      "createdAt": "2026-03-28T22:00:15.000Z",
       "tags": [
         "alive",
-        "animal",
-        "euclid",
+        "bacteria",
+        "esoteric-class",
+        "geological",
         "sapient",
-        "scp"
+        "scp",
+        "subterranean"
       ],
-      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/ghostbox/tenorman.jpg",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/biosphere/Screenshot%202026-03-21%20211833.png",
       "authors": [
-        "DrIrrelevance"
+        "DrSitansh"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-3822",
-      "title": "SCP-3822",
-      "alternateTitle": "Everywhere Yet Nowhere",
-      "rating": 18,
-      "createdAt": "2022-12-28T19:58:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-456",
+      "title": "SCP-456",
+      "alternateTitle": "Soporific Bedbugs",
+      "rating": 17,
+      "createdAt": "2010-10-15T05:09:16.000Z",
       "tags": [
-        "ad-astra",
-        "art-exchange",
-        "ectoentropic",
-        "esoteric-class",
-        "extraterrestrial",
+        "alive",
+        "insect",
+        "neurological",
+        "safe",
         "scp",
-        "temporal",
-        "uncontained",
-        "vehicle"
+        "species"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-456/bug.jpg",
       "authors": [
-        "AvocadoMilk"
+        "eric_h"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8354",
+      "title": "SCP-8354",
+      "alternateTitle": "Something in the Snow",
+      "rating": 12,
+      "createdAt": "2025-02-10T02:16:23.000Z",
+      "tags": [
+        "abnormalities",
+        "safe",
+        "scp",
+        "structure",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8354/forest.png",
+      "authors": [
+        "CN Productions"
       ]
     }
   ]

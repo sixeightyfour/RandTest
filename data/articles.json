@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:36:59.882Z",
+  "updatedAt": "2026-11-05T04:07:49.123Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,61 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9869",
-      "title": "SCP-9869",
-      "alternateTitle": "Every Kind of Thing",
-      "rating": 23,
-      "createdAt": "2025-11-15T21:57:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9165",
+      "title": "SCP-9165",
+      "alternateTitle": "Indrid Cold",
+      "rating": 6,
+      "createdAt": "2026-03-28T02:26:04.000Z",
       "tags": [
         "alive",
-        "archon",
         "extraterrestrial",
+        "humanoid",
+        "keter",
         "sapient",
-        "science-fiction",
         "scp",
-        "temporal",
-        "xenofiction"
+        "telepathic",
+        "teleportation"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/indrid-cold/Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg",
       "authors": [
-        "whenwerewe"
+        "DrSitansh"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7229",
-      "title": "SCP-7229",
-      "alternateTitle": "Telepathic Macaques",
-      "rating": 16,
-      "createdAt": "2025-09-07T19:47:20.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7434",
+      "title": "SCP-7434",
+      "alternateTitle": "Connoisseur of Comfort",
+      "rating": 18,
+      "createdAt": "2023-05-10T13:51:10.000Z",
       "tags": [
-        "euclid",
-        "ijamea",
-        "joicl",
-        "marshall-carter-and-dark",
-        "primate",
-        "prometheus",
+        "alive",
+        "animal",
+        "feline",
+        "foundation-personnel",
+        "mind-affecting",
+        "safe",
         "sapient",
-        "scp",
-        "telepathic"
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Masasumi_Satori.jpg",
+      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/collab:heckfire-bluebunny/Lauraine.jpg",
       "authors": [
-        "Baronjoe"
+        "NDHeckfire"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8527",
-      "title": "SCP-8527",
-      "alternateTitle": "Ashes of Asbest",
-      "rating": 8,
-      "createdAt": "2025-09-22T05:13:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8139",
+      "title": "SCP-8139",
+      "alternateTitle": "Benson?",
+      "rating": 9,
+      "createdAt": "2024-11-03T20:50:01.000Z",
       "tags": [
+        "artifact",
         "euclid",
+        "fish",
+        "gaseous",
+        "memetic",
+        "mind-affecting",
+        "religious",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Foolish Bird Dodo"
+        "Gzilla1954"
       ]
     }
   ]

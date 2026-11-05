@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:07:49.123Z",
+  "updatedAt": "2026-11-05T15:54:09.597Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9165",
-      "title": "SCP-9165",
-      "alternateTitle": "Indrid Cold",
-      "rating": 6,
-      "createdAt": "2026-03-28T02:26:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
+      "title": "Eberstrom's Proposal-ARC",
+      "alternateTitle": "for SCP-001 - Site-19",
+      "rating": -119,
+      "createdAt": "2008-07-27T10:05:05.000Z",
       "tags": [
-        "alive",
-        "extraterrestrial",
-        "humanoid",
-        "keter",
-        "sapient",
-        "scp",
-        "telepathic",
-        "teleportation"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/indrid-cold/Supposed_UFO%2C_Passaic%2C_New_Jersey.jpg",
-      "authors": [
-        "DrSitansh"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7434",
-      "title": "SCP-7434",
-      "alternateTitle": "Connoisseur of Comfort",
-      "rating": 18,
-      "createdAt": "2023-05-10T13:51:10.000Z",
-      "tags": [
-        "alive",
-        "animal",
-        "feline",
-        "foundation-personnel",
-        "mind-affecting",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scpdsandbox.wikidot.com/local--files/collab:heckfire-bluebunny/Lauraine.jpg",
-      "authors": [
-        "NDHeckfire"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8139",
-      "title": "SCP-8139",
-      "alternateTitle": "Benson?",
-      "rating": 9,
-      "createdAt": "2024-11-03T20:50:01.000Z",
-      "tags": [
-        "artifact",
+        "001-proposal",
+        "archived",
         "euclid",
-        "fish",
-        "gaseous",
-        "memetic",
-        "mind-affecting",
-        "religious",
-        "scp"
+        "location",
+        "scp",
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gzilla1954"
+        "Eberstrom"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7468",
+      "title": "SCP-7468",
+      "alternateTitle": "Request, may this unit remove and study your internal organs?",
+      "rating": 9,
+      "createdAt": "2025-04-23T16:04:00.000Z",
+      "tags": [
+        "acoustic",
+        "autonomous",
+        "euclid",
+        "medical",
+        "sapient",
+        "scp",
+        "sphere",
+        "tool",
+        "vibration",
+        "weapon"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Captain_Wavzies"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8555",
+      "title": "SCP-8555",
+      "alternateTitle": "Kaleidoscope",
+      "rating": 15,
+      "createdAt": "2024-02-16T19:41:52.000Z",
+      "tags": [
+        "8000",
+        "extradimensional",
+        "mind-affecting",
+        "portal",
+        "reality-bending",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/kaleidoscope/kaleidoscope.png",
+      "authors": [
+        "Resolver"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:54:09.597Z",
+  "updatedAt": "2026-11-05T21:40:24.714Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/eberstrom-s-proposal-arc",
-      "title": "Eberstrom's Proposal-ARC",
-      "alternateTitle": "for SCP-001 - Site-19",
-      "rating": -119,
-      "createdAt": "2008-07-27T10:05:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8628",
+      "title": "SCP-8628",
+      "alternateTitle": "Damned Yankee",
+      "rating": 19,
+      "createdAt": "2026-03-11T21:12:04.000Z",
       "tags": [
-        "001-proposal",
-        "archived",
-        "euclid",
-        "location",
-        "scp",
-        "teleportation"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Eberstrom"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7468",
-      "title": "SCP-7468",
-      "alternateTitle": "Request, may this unit remove and study your internal organs?",
-      "rating": 9,
-      "createdAt": "2025-04-23T16:04:00.000Z",
-      "tags": [
-        "acoustic",
+        "alternate-history",
         "autonomous",
-        "euclid",
-        "medical",
-        "sapient",
-        "scp",
-        "sphere",
-        "tool",
-        "vibration",
-        "weapon"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Captain_Wavzies"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8555",
-      "title": "SCP-8555",
-      "alternateTitle": "Kaleidoscope",
-      "rating": 15,
-      "createdAt": "2024-02-16T19:41:52.000Z",
-      "tags": [
-        "8000",
-        "extradimensional",
-        "mind-affecting",
-        "portal",
-        "reality-bending",
+        "bleak",
+        "document",
+        "military-fiction",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/kaleidoscope/kaleidoscope.png",
+      "thumbnailUrl": "",
       "authors": [
-        "Resolver"
+        "Seekr1527"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8423",
+      "title": "SCP-8423",
+      "alternateTitle": "The Genius Plague",
+      "rating": 11,
+      "createdAt": "2024-06-07T12:11:11.000Z",
+      "tags": [
+        "biohazard",
+        "contagion",
+        "euclid",
+        "fungus",
+        "mind-affecting",
+        "neurological",
+        "parasitic",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox.wikidot.com/local--files/wiki:scp-8422/8423-Map.png",
+      "authors": [
+        "DocMart"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7989",
+      "title": "SCP-7989",
+      "alternateTitle": "Enjoy Yourself, You’ve Earned It",
+      "rating": 12,
+      "createdAt": "2021-10-31T17:52:44.000Z",
+      "tags": [
+        "ectoentropic",
+        "esoteric-class",
+        "in-rewrite",
+        "nightmarefest",
+        "safe",
+        "scp",
+        "the-administrator",
+        "tool"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7989/kill-agent.jpg",
+      "authors": [
+        "Jack Waltz"
       ]
     }
   ]

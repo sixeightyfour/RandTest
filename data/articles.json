@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:04:14.095Z",
+  "updatedAt": "2026-11-06T15:27:39.881Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,60 +8,79 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9460",
-      "title": "SCP-9460",
-      "alternateTitle": "My Wooden Wings",
-      "rating": 24,
-      "createdAt": "2026-03-30T18:45:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-344-de",
+      "title": "SCP-344-DE",
+      "alternateTitle": "Struck by Lightning",
+      "rating": 9,
+      "createdAt": "2025-12-30T18:39:27.000Z",
       "tags": [
-        "comedy",
+        "electrical",
+        "electromagnetic",
+        "ghost",
+        "humanoid",
+        "intangible",
+        "international",
+        "jewelry",
+        "keter",
+        "light",
+        "sapient",
+        "scp",
+        "teleportation"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Einer von Rabe",
+        "Einer von Rabe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8324",
+      "title": "SCP-8324",
+      "alternateTitle": "Vicarious Sacrifice",
+      "rating": 22,
+      "createdAt": "2026-03-24T16:06:58.000Z",
+      "tags": [
+        "chaos-insurgency",
+        "cognitohazard",
+        "computer",
+        "foundation-made",
+        "global-occult-coalition",
+        "hard-to-destroy-reptile",
+        "media",
+        "memetic",
+        "scp",
+        "thaumiel",
+        "the-old-man"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8324/8324-redacted_2.jpg",
+      "authors": [
+        "Marineris"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7927",
+      "title": "SCP-7927",
+      "alternateTitle": "Generational Hate",
+      "rating": 18,
+      "createdAt": "2024-12-09T04:00:24.000Z",
+      "tags": [
+        "7th-occult-war",
+        "action",
+        "document",
         "euclid",
-        "sapient",
+        "fantasy",
+        "historical",
+        "military-fiction",
+        "obskura",
+        "pentagram",
+        "ritual",
         "scp",
-        "vehicle"
+        "serpents-hand",
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9460/Replica_catapult.webp",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
       "authors": [
-        "poltatherian"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5924",
-      "title": "SCP-5924",
-      "alternateTitle": "Professional Attachment",
-      "rating": 21,
-      "createdAt": "2020-10-26T23:29:55.000Z",
-      "tags": [
-        "amorphous",
-        "biological",
-        "mind-affecting",
-        "safe",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
-      "authors": [
-        "Blightknell"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
-      "title": "SCP-1319-J",
-      "alternateTitle": "Move Britannia",
-      "rating": 20,
-      "createdAt": "2025-03-08T01:49:19.000Z",
-      "tags": [
-        "geological",
-        "island",
-        "joke",
-        "mobile",
-        "neutralized",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
-      "authors": [
-        "JohnDoeMD"
+        "USOdysseus"
       ]
     }
   ]

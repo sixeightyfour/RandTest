@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:40:24.714Z",
+  "updatedAt": "2026-11-06T04:04:14.095Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8628",
-      "title": "SCP-8628",
-      "alternateTitle": "Damned Yankee",
-      "rating": 19,
-      "createdAt": "2026-03-11T21:12:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9460",
+      "title": "SCP-9460",
+      "alternateTitle": "My Wooden Wings",
+      "rating": 24,
+      "createdAt": "2026-03-30T18:45:37.000Z",
       "tags": [
-        "alternate-history",
-        "autonomous",
-        "bleak",
-        "document",
-        "military-fiction",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Seekr1527"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8423",
-      "title": "SCP-8423",
-      "alternateTitle": "The Genius Plague",
-      "rating": 11,
-      "createdAt": "2024-06-07T12:11:11.000Z",
-      "tags": [
-        "biohazard",
-        "contagion",
+        "comedy",
         "euclid",
-        "fungus",
-        "mind-affecting",
-        "neurological",
-        "parasitic",
-        "scp"
+        "sapient",
+        "scp",
+        "vehicle"
       ],
-      "thumbnailUrl": "http://scp-sandbox.wikidot.com/local--files/wiki:scp-8422/8423-Map.png",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-9460/Replica_catapult.webp",
       "authors": [
-        "DocMart"
+        "poltatherian"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7989",
-      "title": "SCP-7989",
-      "alternateTitle": "Enjoy Yourself, You’ve Earned It",
-      "rating": 12,
-      "createdAt": "2021-10-31T17:52:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5924",
+      "title": "SCP-5924",
+      "alternateTitle": "Professional Attachment",
+      "rating": 21,
+      "createdAt": "2020-10-26T23:29:55.000Z",
       "tags": [
-        "ectoentropic",
-        "esoteric-class",
-        "in-rewrite",
-        "nightmarefest",
+        "amorphous",
+        "biological",
+        "mind-affecting",
         "safe",
-        "scp",
-        "the-administrator",
-        "tool"
+        "sapient",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7989/kill-agent.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-5924/building.jpg",
       "authors": [
-        "Jack Waltz"
+        "Blightknell"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-1319-j",
+      "title": "SCP-1319-J",
+      "alternateTitle": "Move Britannia",
+      "rating": 20,
+      "createdAt": "2025-03-08T01:49:19.000Z",
+      "tags": [
+        "geological",
+        "island",
+        "joke",
+        "mobile",
+        "neutralized",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-1319-j/britainmove",
+      "authors": [
+        "JohnDoeMD"
       ]
     }
   ]

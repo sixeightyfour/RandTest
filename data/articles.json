@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:27:39.881Z",
+  "updatedAt": "2026-11-06T21:09:33.227Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,79 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-344-de",
-      "title": "SCP-344-DE",
-      "alternateTitle": "Struck by Lightning",
+      "url": "http://scp-wiki.wikidot.com/scp-8625",
+      "title": "SCP-8625",
+      "alternateTitle": "A Little Peek",
       "rating": 9,
-      "createdAt": "2025-12-30T18:39:27.000Z",
+      "createdAt": "2025-07-08T02:43:49.000Z",
       "tags": [
+        "appliance",
+        "classiccon2025",
+        "ectoentropic",
         "electrical",
-        "electromagnetic",
-        "ghost",
-        "humanoid",
-        "intangible",
-        "international",
-        "jewelry",
-        "keter",
-        "light",
+        "mystery",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://file.garden/Z5stae9b0gezaMdm/microwave_oven.jpg",
+      "authors": [
+        "Larntech"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-4571",
+      "title": "SCP-4571",
+      "alternateTitle": "Curious Creature of the Cold Red Desert",
+      "rating": 15,
+      "createdAt": "2019-02-20T00:08:29.000Z",
+      "tags": [
+        "biological",
+        "euclid",
+        "extraterrestrial",
+        "feline",
+        "gravity",
+        "plant",
         "sapient",
-        "scp",
-        "teleportation"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Einer von Rabe",
-        "Einer von Rabe"
+        "Ylcomsaw"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8324",
-      "title": "SCP-8324",
-      "alternateTitle": "Vicarious Sacrifice",
-      "rating": 22,
-      "createdAt": "2026-03-24T16:06:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8374",
+      "title": "SCP-8374",
+      "alternateTitle": "Perfection Changes You",
+      "rating": 13,
+      "createdAt": "2025-08-10T20:20:00.000Z",
       "tags": [
-        "chaos-insurgency",
-        "cognitohazard",
-        "computer",
-        "foundation-made",
-        "global-occult-coalition",
-        "hard-to-destroy-reptile",
-        "media",
-        "memetic",
-        "scp",
-        "thaumiel",
-        "the-old-man"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8324/8324-redacted_2.jpg",
-      "authors": [
-        "Marineris"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7927",
-      "title": "SCP-7927",
-      "alternateTitle": "Generational Hate",
-      "rating": 18,
-      "createdAt": "2024-12-09T04:00:24.000Z",
-      "tags": [
-        "7th-occult-war",
-        "action",
+        "body-horror",
         "document",
-        "euclid",
-        "fantasy",
-        "historical",
-        "military-fiction",
-        "obskura",
-        "pentagram",
-        "ritual",
+        "horror",
+        "mind-affecting",
+        "religious",
+        "religious-fiction",
+        "safe",
         "scp",
-        "serpents-hand",
-        "thaumaturgy"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/General_George_S_Patton.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "USOdysseus"
+        "Fernlom"
       ]
     }
   ]

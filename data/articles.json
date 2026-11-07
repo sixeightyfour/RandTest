@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:09:33.227Z",
+  "updatedAt": "2026-11-07T03:39:50.228Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8625",
-      "title": "SCP-8625",
-      "alternateTitle": "A Little Peek",
-      "rating": 9,
-      "createdAt": "2025-07-08T02:43:49.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9038",
+      "title": "SCP-9038",
+      "alternateTitle": "Universe Ectopia",
+      "rating": 16,
+      "createdAt": "2026-01-11T21:25:36.000Z",
       "tags": [
-        "appliance",
-        "classiccon2025",
-        "ectoentropic",
-        "electrical",
-        "mystery",
-        "safe",
-        "scp"
+        "foundation-made",
+        "intangible",
+        "scp",
+        "structure",
+        "telekinetic",
+        "thaumaturgy",
+        "thaumiel"
       ],
-      "thumbnailUrl": "https://file.garden/Z5stae9b0gezaMdm/microwave_oven.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ecto/structure.jpg",
       "authors": [
-        "Larntech"
+        "Dr Talcite"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4571",
-      "title": "SCP-4571",
-      "alternateTitle": "Curious Creature of the Cold Red Desert",
-      "rating": 15,
-      "createdAt": "2019-02-20T00:08:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9366",
+      "title": "SCP-9366",
+      "alternateTitle": "Is Dr. Reynolds In?",
+      "rating": 9,
+      "createdAt": "2026-04-10T16:22:58.000Z",
       "tags": [
-        "biological",
-        "euclid",
-        "extraterrestrial",
-        "feline",
-        "gravity",
-        "plant",
+        "building",
+        "humanoid",
+        "medical",
+        "polyhedral",
+        "safe",
         "sapient",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://live.staticflickr.com/4261/35346009611_6fb470d881_b.jpg",
       "authors": [
-        "Ylcomsaw"
+        "sebsolfish"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8374",
-      "title": "SCP-8374",
-      "alternateTitle": "Perfection Changes You",
-      "rating": 13,
-      "createdAt": "2025-08-10T20:20:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-013-arc",
+      "title": "SCP-013-ARC",
+      "alternateTitle": "The All and Nothing",
+      "rating": -26,
+      "createdAt": "2008-07-25T14:35:43.000Z",
       "tags": [
-        "body-horror",
-        "document",
-        "horror",
-        "mind-affecting",
+        "archived",
+        "autonomous",
+        "euclid",
+        "hallucination",
         "religious",
-        "religious-fiction",
-        "safe",
+        "rewrite",
         "scp",
-        "transfiguration"
+        "sphere",
+        "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fernlom"
+        "Unknown Author",
+        "floridapologia",
+        "Quikngruvn"
       ]
     }
   ]

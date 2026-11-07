@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:29:39.189Z",
+  "updatedAt": "2026-11-07T19:42:59.312Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8915",
-      "title": "SCP-8915",
-      "alternateTitle": "The Universe Has a Double-Edged Sword to Gift You",
-      "rating": 21,
-      "createdAt": "2025-06-03T13:29:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7476",
+      "title": "SCP-7476",
+      "alternateTitle": "Peeking Ruins the Magic…",
+      "rating": 15,
+      "createdAt": "2024-02-18T01:29:40.000Z",
       "tags": [
-        "ethics-committee",
-        "horror",
-        "mystery",
-        "neutralized",
-        "psychological-horror",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "visual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "arhanandic"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9138",
-      "title": "SCP-9138",
-      "alternateTitle": "The Manner of Fishes",
-      "rating": 17,
-      "createdAt": "2026-01-04T00:28:34.000Z",
-      "tags": [
-        "afterlife",
-        "alien",
-        "empathic",
-        "euclid",
-        "extraterrestrial",
+        "adaptive",
+        "ectoentropic",
+        "mobile",
+        "observational",
         "phenomenon",
-        "religious",
-        "sapient",
-        "scp",
-        "species",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "whenwerewe"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
-      "title": "SCP-ZH-424",
-      "alternateTitle": "S.P.I.R.I.T.",
-      "rating": 7,
-      "createdAt": "2023-08-09T17:00:06.000Z",
-      "tags": [
-        "electrical",
-        "extradimensional",
-        "ghost",
-        "international",
-        "light",
-        "lorecon2023",
-        "plant",
-        "portal",
         "safe",
         "scp",
-        "species",
-        "telepathic"
+        "spatial"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
+        "twotruegucks"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6155",
+      "title": "SCP-6155",
+      "alternateTitle": "Blood Related",
+      "rating": 22,
+      "createdAt": "2021-12-08T02:56:17.000Z",
+      "tags": [
+        "alive",
+        "auditory",
+        "cadaver",
+        "hallucination",
+        "humanoid",
+        "safe",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Aleph-Null"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8768",
+      "title": "SCP-8768",
+      "alternateTitle": "Thirty Minutes or its Free",
+      "rating": 11,
+      "createdAt": "2026-04-23T23:57:56.000Z",
+      "tags": [
+        "comedy",
+        "currency",
+        "document",
+        "exchange",
+        "food",
+        "reality-bending",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8768/aloUR3s.webp",
+      "authors": [
+        "Aisuku"
       ]
     }
   ]

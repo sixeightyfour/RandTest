@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:39:50.228Z",
+  "updatedAt": "2026-11-07T14:29:39.189Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9038",
-      "title": "SCP-9038",
-      "alternateTitle": "Universe Ectopia",
-      "rating": 16,
-      "createdAt": "2026-01-11T21:25:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8915",
+      "title": "SCP-8915",
+      "alternateTitle": "The Universe Has a Double-Edged Sword to Gift You",
+      "rating": 21,
+      "createdAt": "2025-06-03T13:29:52.000Z",
       "tags": [
-        "foundation-made",
-        "intangible",
-        "scp",
-        "structure",
-        "telekinetic",
-        "thaumaturgy",
-        "thaumiel"
-      ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/ecto/structure.jpg",
-      "authors": [
-        "Dr Talcite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9366",
-      "title": "SCP-9366",
-      "alternateTitle": "Is Dr. Reynolds In?",
-      "rating": 9,
-      "createdAt": "2026-04-10T16:22:58.000Z",
-      "tags": [
-        "building",
-        "humanoid",
-        "medical",
-        "polyhedral",
-        "safe",
+        "ethics-committee",
+        "horror",
+        "mystery",
+        "neutralized",
+        "psychological-horror",
+        "reality-bending",
         "sapient",
-        "scp"
+        "scp",
+        "visual"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/4261/35346009611_6fb470d881_b.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "sebsolfish"
+        "arhanandic"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-013-arc",
-      "title": "SCP-013-ARC",
-      "alternateTitle": "The All and Nothing",
-      "rating": -26,
-      "createdAt": "2008-07-25T14:35:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9138",
+      "title": "SCP-9138",
+      "alternateTitle": "The Manner of Fishes",
+      "rating": 17,
+      "createdAt": "2026-01-04T00:28:34.000Z",
       "tags": [
-        "archived",
-        "autonomous",
+        "afterlife",
+        "alien",
+        "empathic",
         "euclid",
-        "hallucination",
+        "extraterrestrial",
+        "phenomenon",
         "religious",
-        "rewrite",
+        "sapient",
         "scp",
-        "sphere",
+        "species",
+        "thaumaturgy"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "whenwerewe"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
+      "title": "SCP-ZH-424",
+      "alternateTitle": "S.P.I.R.I.T.",
+      "rating": 7,
+      "createdAt": "2023-08-09T17:00:06.000Z",
+      "tags": [
+        "electrical",
+        "extradimensional",
+        "ghost",
+        "international",
+        "light",
+        "lorecon2023",
+        "plant",
+        "portal",
+        "safe",
+        "scp",
+        "species",
         "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Unknown Author",
-        "floridapologia",
-        "Quikngruvn"
+        "Edward_Knave",
+        "Edward_Knave"
       ]
     }
   ]

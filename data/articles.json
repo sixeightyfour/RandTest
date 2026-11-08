@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:37:45.958Z",
+  "updatedAt": "2026-11-08T20:02:10.911Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,86 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9360",
-      "title": "SCP-9360",
-      "alternateTitle": "Thin Air Predators",
-      "rating": 6,
-      "createdAt": "2026-03-08T20:50:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8184",
+      "title": "SCP-8184",
+      "alternateTitle": "Backpedal: A Pseudogenesis Production",
+      "rating": 0,
+      "createdAt": "2024-11-28T03:20:34.000Z",
       "tags": [
-        "bird",
-        "chemical",
+        "bittersweet",
+        "cognitohazard",
+        "compulsion",
+        "esoteric-class",
+        "exchange",
+        "hallucination",
+        "immobile",
+        "indestructible",
         "keter",
-        "predatory",
-        "scp",
-        "toxic"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Barry Bones"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-703-ko",
-      "title": "SCP-703-KO",
-      "alternateTitle": "★★RÉSUMÉ WRITING SERVICE★★",
-      "rating": 14,
-      "createdAt": "2024-05-16T09:52:57.000Z",
-      "tags": [
-        "document",
-        "infohazard",
-        "international",
-        "keter",
-        "narrative",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Kaestine",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9041",
-      "title": "SCP-9041",
-      "alternateTitle": "Self-Containment Protocol",
-      "rating": 15,
-      "createdAt": "2025-09-20T15:57:59.000Z",
-      "tags": [
-        "9000",
-        "dado",
-        "euclid",
-        "hard-to-destroy-reptile",
-        "historical",
         "knowledge",
-        "language",
-        "plague-doctor",
-        "reality-bending",
-        "science-fiction",
+        "memetic",
+        "performance",
+        "pseudogenesis",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8184/theshow.jpg",
+      "authors": [
+        "winkwonkboi"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9328",
+      "title": "SCP-9328",
+      "alternateTitle": "i am invited to the forest",
+      "rating": 14,
+      "createdAt": "2026-04-10T21:55:30.000Z",
+      "tags": [
+        "alive",
+        "amorphous",
+        "cadaver",
+        "cognitohazard",
+        "forest",
+        "hostile",
+        "humanoid",
+        "keter",
+        "lgbtq",
+        "mimetic",
+        "mobile",
+        "reanimation",
+        "scp",
+        "spatial",
+        "surrealism",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/unobtainium235-2/heading_home_to_talk_with_them_again.png",
+      "authors": [
+        "Unobtainium235"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7665",
+      "title": "SCP-7665",
+      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
+      "rating": 20,
+      "createdAt": "2023-08-25T10:45:44.000Z",
+      "tags": [
+        "appliance",
+        "building",
+        "co-authored",
+        "fantasy",
+        "forest",
+        "horror",
+        "infohazard",
+        "mystery",
+        "nameless",
+        "remixcon2023",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9041/along_river.png",
+      "thumbnailUrl": "",
       "authors": [
-        "octiron"
+        "Civil Western",
+        "Spacestealth"
       ]
     }
   ]

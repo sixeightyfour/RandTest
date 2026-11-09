@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:34:12.400Z",
+  "updatedAt": "2026-11-09T17:57:07.444Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7174",
-      "title": "SCP-7174",
-      "alternateTitle": "The Faith to Connect People",
-      "rating": 13,
-      "createdAt": "2023-01-04T19:25:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-366-de",
+      "title": "SCP-366-DE",
+      "alternateTitle": "The Gingerbread Golem from Nuremberg",
+      "rating": 8,
+      "createdAt": "2025-01-04T14:45:30.000Z",
       "tags": [
-        "coldpostcon",
-        "computer",
-        "foundation-made",
-        "portal",
+        "autonomous",
+        "document",
+        "food",
+        "humanoid",
+        "international",
+        "religious",
+        "ritual",
         "safe",
-        "scp",
-        "spatial",
-        "tactical-theology",
-        "transmission"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
-      "authors": [
-        "Rigen"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8189",
-      "title": "SCP-8189",
-      "alternateTitle": "The Well of Life",
-      "rating": 13,
-      "createdAt": "2024-11-22T23:33:06.000Z",
-      "tags": [
-        "biohazard",
-        "ectoentropic",
-        "extraterrestrial",
-        "memory-affecting",
-        "mind-affecting",
-        "planet",
-        "scp",
-        "ticonderoga",
-        "transfiguration",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
-      "authors": [
-        "CrimsonCatGuy"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7546",
-      "title": "SCP-7546",
-      "alternateTitle": "Escapism",
-      "rating": 18,
-      "createdAt": "2025-07-10T11:50:04.000Z",
-      "tags": [
-        "classiccon2025",
-        "electronic",
-        "game",
-        "horror",
-        "safe",
-        "sapient",
-        "scp",
-        "toy"
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "mspufferfish"
+        "Gramlin",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9973",
+      "title": "SCP-9973",
+      "alternateTitle": "Mannequin Camera",
+      "rating": 15,
+      "createdAt": "2026-04-14T20:29:23.000Z",
+      "tags": [
+        "electronic",
+        "euclid",
+        "photographic",
+        "scp",
+        "temporal",
+        "tool"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Canon_EOS_400D.jpg",
+      "authors": [
+        "coldpostchud"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5183",
+      "title": "SCP-5183",
+      "alternateTitle": "Under the Surface",
+      "rating": 16,
+      "createdAt": "2020-08-16T22:45:26.000Z",
+      "tags": [
+        "cognitohazard",
+        "metamorphic",
+        "mind-affecting",
+        "observational",
+        "safe",
+        "scp",
+        "sensory",
+        "visual"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Flopmind"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:02:10.911Z",
+  "updatedAt": "2026-11-09T03:34:12.400Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,86 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8184",
-      "title": "SCP-8184",
-      "alternateTitle": "Backpedal: A Pseudogenesis Production",
-      "rating": 0,
-      "createdAt": "2024-11-28T03:20:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7174",
+      "title": "SCP-7174",
+      "alternateTitle": "The Faith to Connect People",
+      "rating": 13,
+      "createdAt": "2023-01-04T19:25:25.000Z",
       "tags": [
-        "bittersweet",
-        "cognitohazard",
-        "compulsion",
-        "esoteric-class",
-        "exchange",
-        "hallucination",
-        "immobile",
-        "indestructible",
-        "keter",
-        "knowledge",
-        "memetic",
-        "performance",
-        "pseudogenesis",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8184/theshow.jpg",
-      "authors": [
-        "winkwonkboi"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9328",
-      "title": "SCP-9328",
-      "alternateTitle": "i am invited to the forest",
-      "rating": 14,
-      "createdAt": "2026-04-10T21:55:30.000Z",
-      "tags": [
-        "alive",
-        "amorphous",
-        "cadaver",
-        "cognitohazard",
-        "forest",
-        "hostile",
-        "humanoid",
-        "keter",
-        "lgbtq",
-        "mimetic",
-        "mobile",
-        "reanimation",
+        "coldpostcon",
+        "computer",
+        "foundation-made",
+        "portal",
+        "safe",
         "scp",
         "spatial",
-        "surrealism",
-        "visual"
+        "tactical-theology",
+        "transmission"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/unobtainium235-2/heading_home_to_talk_with_them_again.png",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7174/Wpvg_chart_views.png",
       "authors": [
-        "Unobtainium235"
+        "Rigen"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7665",
-      "title": "SCP-7665",
-      "alternateTitle": "See Evil, Hear Evil, Speak No Evil",
-      "rating": 20,
-      "createdAt": "2023-08-25T10:45:44.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8189",
+      "title": "SCP-8189",
+      "alternateTitle": "The Well of Life",
+      "rating": 13,
+      "createdAt": "2024-11-22T23:33:06.000Z",
       "tags": [
-        "appliance",
-        "building",
-        "co-authored",
-        "fantasy",
-        "forest",
+        "biohazard",
+        "ectoentropic",
+        "extraterrestrial",
+        "memory-affecting",
+        "mind-affecting",
+        "planet",
+        "scp",
+        "ticonderoga",
+        "transfiguration",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8189/Well.png",
+      "authors": [
+        "CrimsonCatGuy"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7546",
+      "title": "SCP-7546",
+      "alternateTitle": "Escapism",
+      "rating": 18,
+      "createdAt": "2025-07-10T11:50:04.000Z",
+      "tags": [
+        "classiccon2025",
+        "electronic",
+        "game",
         "horror",
-        "infohazard",
-        "mystery",
-        "nameless",
-        "remixcon2023",
         "safe",
-        "scp"
+        "sapient",
+        "scp",
+        "toy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Civil Western",
-        "Spacestealth"
+        "mspufferfish"
       ]
     }
   ]

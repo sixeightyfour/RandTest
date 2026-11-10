@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T15:55:41.427Z",
+  "updatedAt": "2026-11-10T21:33:02.102Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8045",
-      "title": "SCP-8045",
-      "alternateTitle": "The Midnight Sun and The Static God",
-      "rating": 21,
-      "createdAt": "2025-09-27T09:30:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9747",
+      "title": "SCP-9747",
+      "alternateTitle": "Secure Continere Praeservare",
+      "rating": 20,
+      "createdAt": "2025-10-04T02:29:19.000Z",
       "tags": [
-        "acoustic",
-        "apocalyptic",
-        "bleak",
-        "cognitohazard",
+        "9000",
+        "anafabula",
+        "apollyon",
+        "artificial-intelligence",
+        "autonomous",
+        "co-authored",
+        "electronic",
         "foundation-made",
-        "keter",
-        "knowledge",
-        "media",
-        "meta",
-        "metafiction",
-        "mind-affecting",
-        "scp"
+        "narrative",
+        "reality-bending",
+        "sapient",
+        "science-fiction",
+        "scp",
+        "spatial",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8045/Manifestation%20Instance.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg/960px-Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg?20230914190957",
       "authors": [
-        "CRAt26"
+        "Cakoh",
+        "Lordmafika"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6243",
-      "title": "SCP-6243",
-      "alternateTitle": "Frau Holle",
-      "rating": 16,
-      "createdAt": "2022-04-17T09:38:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-3458",
+      "title": "SCP-3458",
+      "alternateTitle": "Bad Sectors",
+      "rating": 19,
+      "createdAt": "2018-06-23T12:44:27.000Z",
+      "tags": [
+        "computer",
+        "knowledge",
+        "media",
+        "memory-affecting",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Kachompsky"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9984",
+      "title": "SCP-9984",
+      "alternateTitle": "Containment Protocol",
+      "rating": 15,
+      "createdAt": "2026-01-06T21:42:37.000Z",
       "tags": [
         "alive",
-        "ectoentropic",
+        "bleak",
+        "bureaucracy",
+        "chaos-insurgency",
         "euclid",
-        "extradimensional",
+        "horror",
         "humanoid",
         "sapient",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Evolie"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8351",
-      "title": "SCP-8351",
-      "alternateTitle": "Zoophobia",
-      "rating": 6,
-      "createdAt": "2026-02-02T01:49:38.000Z",
-      "tags": [
-        "animal",
-        "cadaver",
-        "euclid",
-        "horror",
-        "hostile",
-        "indestructible",
-        "inscription",
-        "portal",
-        "scp",
-        "self-repairing",
-        "spatial",
-        "uncontained"
-      ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8351/2532268472_717751dd92_c.jpg",
-      "authors": [
-        "NovusExodus"
+        "demolitionderpy"
       ]
     }
   ]

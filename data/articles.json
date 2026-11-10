@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:07:13.583Z",
+  "updatedAt": "2026-11-10T15:55:41.427Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,72 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
-      "title": "SCP-ZH-424",
-      "alternateTitle": "S.P.I.R.I.T.",
-      "rating": 7,
-      "createdAt": "2023-08-09T17:00:06.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8045",
+      "title": "SCP-8045",
+      "alternateTitle": "The Midnight Sun and The Static God",
+      "rating": 21,
+      "createdAt": "2025-09-27T09:30:43.000Z",
       "tags": [
-        "electrical",
+        "acoustic",
+        "apocalyptic",
+        "bleak",
+        "cognitohazard",
+        "foundation-made",
+        "keter",
+        "knowledge",
+        "media",
+        "meta",
+        "metafiction",
+        "mind-affecting",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8045/Manifestation%20Instance.png",
+      "authors": [
+        "CRAt26"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6243",
+      "title": "SCP-6243",
+      "alternateTitle": "Frau Holle",
+      "rating": 16,
+      "createdAt": "2022-04-17T09:38:59.000Z",
+      "tags": [
+        "alive",
+        "ectoentropic",
+        "euclid",
         "extradimensional",
-        "ghost",
-        "international",
-        "light",
-        "lorecon2023",
-        "plant",
-        "portal",
-        "safe",
-        "scp",
-        "species",
-        "telepathic"
+        "humanoid",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Edward_Knave",
-        "Edward_Knave"
+        "Evolie"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8840",
-      "title": "SCP-8840",
-      "alternateTitle": "First Day on the Job",
-      "rating": 20,
-      "createdAt": "2025-01-26T03:01:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8351",
+      "title": "SCP-8351",
+      "alternateTitle": "Zoophobia",
+      "rating": 6,
+      "createdAt": "2026-02-02T01:49:38.000Z",
       "tags": [
-        "adaptive",
-        "chaos-insurgency",
-        "computer",
-        "knowledge",
-        "online",
-        "pending",
+        "animal",
+        "cadaver",
+        "euclid",
+        "horror",
+        "hostile",
+        "indestructible",
+        "inscription",
+        "portal",
         "scp",
-        "slice-of-life"
+        "self-repairing",
+        "spatial",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-8351/2532268472_717751dd92_c.jpg",
       "authors": [
-        "Mister_Toasty"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9098",
-      "title": "SCP-9098",
-      "alternateTitle": "Tears In The Rain",
-      "rating": 24,
-      "createdAt": "2025-10-27T02:58:32.000Z",
-      "tags": [
-        "artistic",
-        "cognitohazard",
-        "dream",
-        "neutralized",
-        "parawatch",
-        "scp",
-        "transmission",
-        "unusual-incidents-unit",
-        "visual"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9098/archived.png",
-      "authors": [
-        "SleepyProto"
+        "NovusExodus"
       ]
     }
   ]

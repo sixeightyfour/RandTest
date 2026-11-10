@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T17:57:07.444Z",
+  "updatedAt": "2026-11-10T05:07:13.583Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,72 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-366-de",
-      "title": "SCP-366-DE",
-      "alternateTitle": "The Gingerbread Golem from Nuremberg",
-      "rating": 8,
-      "createdAt": "2025-01-04T14:45:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-424",
+      "title": "SCP-ZH-424",
+      "alternateTitle": "S.P.I.R.I.T.",
+      "rating": 7,
+      "createdAt": "2023-08-09T17:00:06.000Z",
       "tags": [
-        "autonomous",
-        "document",
-        "food",
-        "humanoid",
+        "electrical",
+        "extradimensional",
+        "ghost",
         "international",
-        "religious",
-        "ritual",
+        "light",
+        "lorecon2023",
+        "plant",
+        "portal",
         "safe",
-        "scp"
+        "scp",
+        "species",
+        "telepathic"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Gramlin",
-        "Karpfisch"
+        "Edward_Knave",
+        "Edward_Knave"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9973",
-      "title": "SCP-9973",
-      "alternateTitle": "Mannequin Camera",
-      "rating": 15,
-      "createdAt": "2026-04-14T20:29:23.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8840",
+      "title": "SCP-8840",
+      "alternateTitle": "First Day on the Job",
+      "rating": 20,
+      "createdAt": "2025-01-26T03:01:36.000Z",
       "tags": [
-        "electronic",
-        "euclid",
-        "photographic",
+        "adaptive",
+        "chaos-insurgency",
+        "computer",
+        "knowledge",
+        "online",
+        "pending",
         "scp",
-        "temporal",
-        "tool"
+        "slice-of-life"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Canon_EOS_400D.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8840/150818-F-AK347-003-edit.jpg",
       "authors": [
-        "coldpostchud"
+        "Mister_Toasty"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5183",
-      "title": "SCP-5183",
-      "alternateTitle": "Under the Surface",
-      "rating": 16,
-      "createdAt": "2020-08-16T22:45:26.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9098",
+      "title": "SCP-9098",
+      "alternateTitle": "Tears In The Rain",
+      "rating": 24,
+      "createdAt": "2025-10-27T02:58:32.000Z",
       "tags": [
+        "artistic",
         "cognitohazard",
-        "metamorphic",
-        "mind-affecting",
-        "observational",
-        "safe",
+        "dream",
+        "neutralized",
+        "parawatch",
         "scp",
-        "sensory",
+        "transmission",
+        "unusual-incidents-unit",
         "visual"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9098/archived.png",
       "authors": [
-        "Flopmind"
+        "SleepyProto"
       ]
     }
   ]

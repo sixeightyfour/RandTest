@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:40:35.486Z",
+  "updatedAt": "2026-11-11T15:41:42.409Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,74 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-296",
-      "title": "SCP-ES-296",
-      "alternateTitle": "The Path From Which We Come From",
-      "rating": 17,
-      "createdAt": "2022-11-19T22:00:34.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9037",
+      "title": "SCP-9037",
+      "alternateTitle": "Theseus' Goose",
+      "rating": 7,
+      "createdAt": "2025-09-21T21:00:36.000Z",
       "tags": [
-        "building",
-        "class-of-76",
+        "9000",
+        "absurdism",
+        "alive",
+        "animal",
+        "bird",
+        "co-authored",
         "cognitohazard",
-        "international",
-        "keter",
-        "location",
+        "extradimensional",
+        "infohazard",
         "memetic",
-        "meta",
-        "mind-affecting",
+        "safe",
+        "science-fiction",
         "scp"
       ],
-      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-es-296/theater.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
       "authors": [
-        "extasis",
-        "Agente Shuffle"
+        "Anythingpig",
+        "idi0cy",
+        "RatseerOfRattesse"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8370",
-      "title": "SCP-8370",
-      "alternateTitle": "Fangs for That",
-      "rating": 9,
-      "createdAt": "2025-06-03T15:22:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
+      "title": "SCP-PL-393",
+      "alternateTitle": "Evidence of the Moon's Presence",
+      "rating": 11,
+      "createdAt": "2023-10-05T17:19:57.000Z",
       "tags": [
-        "animal",
-        "extradimensional",
-        "humanoid",
+        "ad-astra",
+        "artistic",
+        "international",
+        "keter",
         "mind-affecting",
-        "probability",
-        "safe",
-        "sapient",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "galaxy1220"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6176",
-      "title": "SCP-6176",
-      "alternateTitle": "The Alternance",
-      "rating": 20,
-      "createdAt": "2022-04-20T16:27:53.000Z",
-      "tags": [
-        "concept",
-        "euclid",
-        "metamorphic",
+        "moon",
         "observational",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/bread-tyrant-authorpage/distorted_doctor_care",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
       "authors": [
-        "Bread_Tyrant"
+        "KubKac",
+        "KubKac"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8392",
+      "title": "SCP-8392",
+      "alternateTitle": "Together again, and again, and again…",
+      "rating": 24,
+      "createdAt": "2025-09-11T14:47:28.000Z",
+      "tags": [
+        "bleak",
+        "electromagnetic",
+        "humanoid",
+        "meteorological",
+        "safe",
+        "sapient",
+        "scp",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
+      "authors": [
+        "Tiamat Elsen"
       ]
     }
   ]

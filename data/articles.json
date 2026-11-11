@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:41:42.409Z",
+  "updatedAt": "2026-11-11T22:21:47.524Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,74 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9037",
-      "title": "SCP-9037",
-      "alternateTitle": "Theseus' Goose",
-      "rating": 7,
-      "createdAt": "2025-09-21T21:00:36.000Z",
-      "tags": [
-        "9000",
-        "absurdism",
-        "alive",
-        "animal",
-        "bird",
-        "co-authored",
-        "cognitohazard",
-        "extradimensional",
-        "infohazard",
-        "memetic",
-        "safe",
-        "science-fiction",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9037/Up_2_21_t1_B6.svg",
-      "authors": [
-        "Anythingpig",
-        "idi0cy",
-        "RatseerOfRattesse"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-393",
-      "title": "SCP-PL-393",
-      "alternateTitle": "Evidence of the Moon's Presence",
+      "url": "http://scp-wiki.wikidot.com/scp-es-072",
+      "title": "SCP-ES-072",
+      "alternateTitle": "Hortus Ishtar",
       "rating": 11,
-      "createdAt": "2023-10-05T17:19:57.000Z",
+      "createdAt": "2024-11-06T23:36:45.000Z",
       "tags": [
-        "ad-astra",
-        "artistic",
+        "dinosaur",
+        "euclid",
+        "extraterrestrial",
         "international",
-        "keter",
-        "mind-affecting",
-        "moon",
-        "observational",
-        "scp"
+        "planet",
+        "scp",
+        "structure"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg",
+      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-072/dino.png",
       "authors": [
-        "KubKac",
-        "KubKac"
+        "Jacobo Baltimore",
+        "Mechatroniks"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8392",
-      "title": "SCP-8392",
-      "alternateTitle": "Together again, and again, and again…",
+      "url": "http://scp-wiki.wikidot.com/scp-5189",
+      "title": "SCP-5189",
+      "alternateTitle": "Siren Kelp",
       "rating": 24,
-      "createdAt": "2025-09-11T14:47:28.000Z",
+      "createdAt": "2021-03-22T18:47:15.000Z",
       "tags": [
-        "bleak",
-        "electromagnetic",
-        "humanoid",
-        "meteorological",
-        "safe",
-        "sapient",
+        "alive",
+        "aquatic",
+        "fish",
+        "jam-con2021",
+        "keter",
+        "plant",
+        "predatory",
         "scp",
+        "shark"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5189/Kelp1/medium.jpg",
+      "authors": [
+        "DrDromeus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6657",
+      "title": "SCP-6657",
+      "alternateTitle": "Photonic Crystals",
+      "rating": 12,
+      "createdAt": "2024-05-22T12:59:57.000Z",
+      "tags": [
+        "electromagnetic",
+        "light",
+        "radioactive",
+        "safe",
+        "scp",
+        "tool",
         "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8392/Acharachle.jpg",
+      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
       "authors": [
-        "Tiamat Elsen"
+        "Dr Talcite"
       ]
     }
   ]

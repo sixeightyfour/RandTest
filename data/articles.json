@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:33:02.102Z",
+  "updatedAt": "2026-11-11T03:40:35.486Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9747",
-      "title": "SCP-9747",
-      "alternateTitle": "Secure Continere Praeservare",
-      "rating": 20,
-      "createdAt": "2025-10-04T02:29:19.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-296",
+      "title": "SCP-ES-296",
+      "alternateTitle": "The Path From Which We Come From",
+      "rating": 17,
+      "createdAt": "2022-11-19T22:00:34.000Z",
       "tags": [
-        "9000",
-        "anafabula",
-        "apollyon",
-        "artificial-intelligence",
-        "autonomous",
-        "co-authored",
-        "electronic",
-        "foundation-made",
-        "narrative",
-        "reality-bending",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "spatial",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg/960px-Amiga_4000T_motherboard%2C_revision_4%2C_back_side.jpg?20230914190957",
-      "authors": [
-        "Cakoh",
-        "Lordmafika"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3458",
-      "title": "SCP-3458",
-      "alternateTitle": "Bad Sectors",
-      "rating": 19,
-      "createdAt": "2018-06-23T12:44:27.000Z",
-      "tags": [
-        "computer",
-        "knowledge",
-        "media",
-        "memory-affecting",
-        "safe",
+        "building",
+        "class-of-76",
+        "cognitohazard",
+        "international",
+        "keter",
+        "location",
+        "memetic",
+        "meta",
+        "mind-affecting",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://scp-wiki.wikidot.com/local--files/scp-es-296/theater.png",
       "authors": [
-        "Kachompsky"
+        "extasis",
+        "Agente Shuffle"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9984",
-      "title": "SCP-9984",
-      "alternateTitle": "Containment Protocol",
-      "rating": 15,
-      "createdAt": "2026-01-06T21:42:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8370",
+      "title": "SCP-8370",
+      "alternateTitle": "Fangs for That",
+      "rating": 9,
+      "createdAt": "2025-06-03T15:22:05.000Z",
       "tags": [
-        "alive",
-        "bleak",
-        "bureaucracy",
-        "chaos-insurgency",
-        "euclid",
-        "horror",
+        "animal",
+        "extradimensional",
         "humanoid",
+        "mind-affecting",
+        "probability",
+        "safe",
         "sapient",
-        "scp"
+        "scp",
+        "temporal"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "demolitionderpy"
+        "galaxy1220"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6176",
+      "title": "SCP-6176",
+      "alternateTitle": "The Alternance",
+      "rating": 20,
+      "createdAt": "2022-04-20T16:27:53.000Z",
+      "tags": [
+        "concept",
+        "euclid",
+        "metamorphic",
+        "observational",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/bread-tyrant-authorpage/distorted_doctor_care",
+      "authors": [
+        "Bread_Tyrant"
       ]
     }
   ]

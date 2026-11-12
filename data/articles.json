@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:21:47.524Z",
+  "updatedAt": "2026-11-12T04:48:56.694Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,76 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-072",
-      "title": "SCP-ES-072",
-      "alternateTitle": "Hortus Ishtar",
-      "rating": 11,
-      "createdAt": "2024-11-06T23:36:45.000Z",
-      "tags": [
-        "dinosaur",
-        "euclid",
-        "extraterrestrial",
-        "international",
-        "planet",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://lafundacionscp.wdfiles.com/local--files/scp-es-072/dino.png",
-      "authors": [
-        "Jacobo Baltimore",
-        "Mechatroniks"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5189",
-      "title": "SCP-5189",
-      "alternateTitle": "Siren Kelp",
-      "rating": 24,
-      "createdAt": "2021-03-22T18:47:15.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7536",
+      "title": "SCP-7536",
+      "alternateTitle": "Ill Omen",
+      "rating": 22,
+      "createdAt": "2025-04-25T18:54:11.000Z",
       "tags": [
         "alive",
-        "aquatic",
-        "fish",
-        "jam-con2021",
-        "keter",
-        "plant",
-        "predatory",
-        "scp",
-        "shark"
+        "animal",
+        "archon",
+        "bird",
+        "cognitohazard",
+        "observational",
+        "predictive",
+        "probability",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-5189/Kelp1/medium.jpg",
+      "thumbnailUrl": "https://live.staticflickr.com/254/445996477_21c49c43d7_b.jpg",
       "authors": [
-        "DrDromeus"
+        "8bitbreadbox"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6657",
-      "title": "SCP-6657",
-      "alternateTitle": "Photonic Crystals",
-      "rating": 12,
-      "createdAt": "2024-05-22T12:59:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9519",
+      "title": "SCP-9519",
+      "alternateTitle": "Black Kombucha.",
+      "rating": 21,
+      "createdAt": "2026-05-10T01:04:12.000Z",
       "tags": [
-        "electromagnetic",
-        "light",
-        "radioactive",
-        "safe",
+        "addictive",
+        "biohazard",
+        "chemical",
+        "cognitohazard",
+        "esoteric-class",
+        "fungus",
+        "gustatory",
+        "liquid",
+        "mind-affecting",
+        "olfactory",
         "scp",
-        "tool",
+        "series-0",
+        "species",
         "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wikidot.com/local--files/asteroid/spectroscopes.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bacteria_yeast_and_fungi_02.jpg/330px-Bacteria_yeast_and_fungi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
       "authors": [
-        "Dr Talcite"
+        "Sylvanite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-zh-176",
+      "title": "SCP-ZH-176",
+      "alternateTitle": "The Great Retreat of the Gulls",
+      "rating": 12,
+      "createdAt": "2023-09-17T10:17:16.000Z",
+      "tags": [
+        "document",
+        "foundation-made",
+        "global-occult-coalition",
+        "international",
+        "keter",
+        "meta",
+        "metafiction",
+        "narrative",
+        "pataphysics-dept",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ting129",
+        "Kikunai"
       ]
     }
   ]

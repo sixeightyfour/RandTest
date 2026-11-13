@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:25:33.650Z",
+  "updatedAt": "2026-11-13T03:59:23.581Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,70 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8219",
-      "title": "SCP-8219",
-      "alternateTitle": "LEAF me alone",
-      "rating": 10,
-      "createdAt": "2025-08-20T11:04:58.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6392",
+      "title": "SCP-6392",
+      "alternateTitle": "Somebody You May Know",
+      "rating": 24,
+      "createdAt": "2024-11-06T00:13:27.000Z",
       "tags": [
-        "absurdism",
-        "bureaucracy",
-        "explained",
-        "keter",
-        "parasitic",
-        "sapient",
+        "asci",
+        "esoteric-class",
+        "mystery",
+        "nobody",
+        "raisa",
         "scp",
-        "telepathic"
+        "the-administrator"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
       "authors": [
-        "poltatherian"
+        "Mechatroniks"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-149-ko",
-      "title": "SCP-149-KO",
-      "alternateTitle": "CC BY-NC-ND",
-      "rating": 15,
-      "createdAt": "2022-05-12T23:51:48.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9505",
+      "title": "SCP-9505",
+      "alternateTitle": "Joint Vigil",
+      "rating": 20,
+      "createdAt": "2026-01-29T15:27:49.000Z",
       "tags": [
-        "are-we-cool-yet",
-        "artistic",
-        "cognitohazard",
-        "international",
-        "light",
-        "ocular",
-        "safe",
-        "scp",
-        "sensory",
-        "visual"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-149-ko/scp4.png",
-      "authors": [
-        "dem42",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9219",
-      "title": "SCP-9219",
-      "alternateTitle": "Mundane Incident",
-      "rating": 13,
-      "createdAt": "2025-12-09T16:17:14.000Z",
-      "tags": [
-        "anomalous-event",
-        "fire",
+        "animal",
+        "artifact",
+        "bird",
+        "cadaver",
+        "electromagnetic",
+        "euclid",
         "humanoid",
-        "neutralized",
-        "reality-bending",
         "sapient",
         "scp",
-        "spatial",
-        "thermal"
+        "teleportation",
+        "transfiguration"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9505/Masked_Woman_MET_DP804947.jpg",
       "authors": [
-        "Nylo"
+        "feathersnake"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-sga-171",
+      "title": "SCP-SGA-171",
+      "alternateTitle": "Cowboys and Chaos",
+      "rating": 13,
+      "createdAt": "2025-02-24T15:26:23.000Z",
+      "tags": [
+        "animal",
+        "autonomous",
+        "broken-god",
+        "clockwork",
+        "equine",
+        "euclid",
+        "international",
+        "mobile",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-sga-171/Texas%20Map.jpg",
+      "authors": [
+        "Anonymous",
+        "MasterTman2"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:59:23.581Z",
+  "updatedAt": "2026-11-13T15:46:08.540Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6392",
-      "title": "SCP-6392",
-      "alternateTitle": "Somebody You May Know",
-      "rating": 24,
-      "createdAt": "2024-11-06T00:13:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-1357",
+      "title": "SCP-CN-1357",
+      "alternateTitle": "Online Wayback Machine",
+      "rating": 8,
+      "createdAt": "2024-06-10T17:44:04.000Z",
       "tags": [
-        "asci",
-        "esoteric-class",
-        "mystery",
-        "nobody",
-        "raisa",
-        "scp",
-        "the-administrator"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
-      "authors": [
-        "Mechatroniks"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9505",
-      "title": "SCP-9505",
-      "alternateTitle": "Joint Vigil",
-      "rating": 20,
-      "createdAt": "2026-01-29T15:27:49.000Z",
-      "tags": [
-        "animal",
-        "artifact",
-        "bird",
-        "cadaver",
-        "electromagnetic",
-        "euclid",
-        "humanoid",
-        "sapient",
-        "scp",
-        "teleportation",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9505/Masked_Woman_MET_DP804947.jpg",
-      "authors": [
-        "feathersnake"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-sga-171",
-      "title": "SCP-SGA-171",
-      "alternateTitle": "Cowboys and Chaos",
-      "rating": 13,
-      "createdAt": "2025-02-24T15:26:23.000Z",
-      "tags": [
-        "animal",
-        "autonomous",
-        "broken-god",
-        "clockwork",
-        "equine",
-        "euclid",
+        "appliance",
+        "electronic",
         "international",
-        "mobile",
+        "online",
+        "safe",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Dr Talcite",
+        "Dr Talcite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-086-j",
+      "title": "SCP-086-J",
+      "alternateTitle": "So, like, you know That One Thing?",
+      "rating": 6,
+      "createdAt": "2025-06-12T09:50:46.000Z",
+      "tags": [
+        "esoteric-class",
+        "infohazard",
+        "joke",
+        "meta",
+        "mind-affecting",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-sga-171/Texas%20Map.jpg",
+      "thumbnailUrl": "https://ik.imagekit.io/Foogle/IMG_0352.jpeg?updatedAt=1749718932716",
       "authors": [
-        "Anonymous",
-        "MasterTman2"
+        "JustSomePancakeChef"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8379",
+      "title": "SCP-8379",
+      "alternateTitle": "Another Miserable Day at the Office",
+      "rating": 12,
+      "createdAt": "2025-07-13T03:42:03.000Z",
+      "tags": [
+        "bleak",
+        "classiccon2025",
+        "esoteric-class",
+        "fire-suppression-dept",
+        "horror",
+        "mind-affecting",
+        "phenomenon",
+        "science-fiction",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8379/fsd.jpg",
+      "authors": [
+        "Logarithmika"
       ]
     }
   ]

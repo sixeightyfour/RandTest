@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:37:01.829Z",
+  "updatedAt": "2026-11-14T20:13:51.066Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8460",
-      "title": "SCP-8460",
-      "alternateTitle": "Bielefeld Thought-Contagion, BL-F13 for short",
-      "rating": 14,
-      "createdAt": "2025-03-14T20:50:14.000Z",
-      "tags": [
-        "cognitohazard",
-        "esoteric-class",
-        "foundation-made",
-        "memetic",
-        "memory-affecting",
-        "mind-affecting",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8460/Cmglee_Cambridge_Reality_Checkpoint_Dinky_Door.jpg",
-      "authors": [
-        "Mark Unread"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8095",
-      "title": "SCP-8095",
-      "alternateTitle": "Calling out Valentine Grahmly",
-      "rating": 20,
-      "createdAt": "2024-06-18T14:25:20.000Z",
-      "tags": [
-        "artificial-intelligence",
-        "illustrated",
-        "neutralized",
-        "online",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/reaction-video:the-foundation-censored-me/Valentine",
-      "authors": [
-        "DianaBerry"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7651",
-      "title": "SCP-7651",
-      "alternateTitle": "Serenity Pond",
-      "rating": 10,
-      "createdAt": "2023-08-31T21:39:42.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-198-it",
+      "title": "SCP-198-IT",
+      "alternateTitle": "The Duck with Balls",
+      "rating": 6,
+      "createdAt": "2025-06-18T12:04:06.000Z",
       "tags": [
         "animal",
-        "antimemetic",
         "aquatic",
         "bird",
-        "empathic",
-        "location",
-        "mind-affecting",
-        "neurological",
-        "pentagram",
-        "remixcon2023",
-        "safe",
-        "scp"
+        "euclid",
+        "hostile",
+        "international",
+        "scp",
+        "sexual"
       ],
-      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
+      "thumbnailUrl": "",
       "authors": [
-        "New_to_life"
+        "DeKoder",
+        "DeKoder"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8613",
+      "title": "SCP-8613",
+      "alternateTitle": "Don’t Take Me to the Impound",
+      "rating": 13,
+      "createdAt": "2026-03-22T02:24:22.000Z",
+      "tags": [
+        "autonomous",
+        "euclid",
+        "sapient",
+        "scp",
+        "vehicle"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/2002_Pontiac_Firebird_Trans_Am_WS6.JPG",
+      "authors": [
+        "Daedaelus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7848",
+      "title": "SCP-7848",
+      "alternateTitle": "Boxer Mantis Hivemind",
+      "rating": 16,
+      "createdAt": "2024-01-01T03:50:29.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "euclid",
+        "hive-mind",
+        "humanoid",
+        "insect",
+        "sapient",
+        "scp",
+        "swarm"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DrDapper"
       ]
     }
   ]

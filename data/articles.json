@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:58:06.630Z",
+  "updatedAt": "2026-11-14T14:37:01.829Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7478",
-      "title": "SCP-7478",
-      "alternateTitle": "Scatter",
+      "url": "http://scp-wiki.wikidot.com/scp-8460",
+      "title": "SCP-8460",
+      "alternateTitle": "Bielefeld Thought-Contagion, BL-F13 for short",
       "rating": 14,
-      "createdAt": "2023-09-28T20:03:24.000Z",
+      "createdAt": "2025-03-14T20:50:14.000Z",
       "tags": [
-        "auditory",
-        "building",
         "cognitohazard",
+        "esoteric-class",
+        "foundation-made",
+        "memetic",
         "memory-affecting",
-        "olfactory",
-        "safe",
-        "scp"
+        "mind-affecting",
+        "scp",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8460/Cmglee_Cambridge_Reality_Checkpoint_Dinky_Door.jpg",
       "authors": [
-        "Quicksilvers"
+        "Mark Unread"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5892",
-      "title": "SCP-5892",
-      "alternateTitle": "A Loyal Friend Indeed",
-      "rating": 11,
-      "createdAt": "2021-06-05T22:53:57.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8095",
+      "title": "SCP-8095",
+      "alternateTitle": "Calling out Valentine Grahmly",
+      "rating": 20,
+      "createdAt": "2024-06-18T14:25:20.000Z",
       "tags": [
-        "alive",
+        "artificial-intelligence",
+        "illustrated",
+        "neutralized",
+        "online",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wikidot.com/local--files/reaction-video:the-foundation-censored-me/Valentine",
+      "authors": [
+        "DianaBerry"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7651",
+      "title": "SCP-7651",
+      "alternateTitle": "Serenity Pond",
+      "rating": 10,
+      "createdAt": "2023-08-31T21:39:42.000Z",
+      "tags": [
         "animal",
-        "artifact",
-        "canine",
-        "photographic",
-        "reality-bending",
+        "antimemetic",
+        "aquatic",
+        "bird",
+        "empathic",
+        "location",
+        "mind-affecting",
+        "neurological",
+        "pentagram",
+        "remixcon2023",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "thumbnailUrl": "https://scp-sandbox-3.wdfiles.com/local--files/new-to-life/fishpond2.png",
       "authors": [
-        "Harry F"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7534",
-      "title": "SCP-7534",
-      "alternateTitle": "Unrazor",
-      "rating": 22,
-      "createdAt": "2026-01-28T06:47:57.000Z",
-      "tags": [
-        "appliance",
-        "dumbcon2026-unofficial",
-        "ectoentropic",
-        "electronic",
-        "euclid",
-        "lgbtq",
-        "parawatch",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Hikarinu"
+        "New_to_life"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:43:11.223Z",
+  "updatedAt": "2026-11-14T03:58:06.630Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9665",
-      "title": "SCP-9665",
-      "alternateTitle": "Elevator Ambience.",
-      "rating": 21,
-      "createdAt": "2026-04-23T17:11:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7478",
+      "title": "SCP-7478",
+      "alternateTitle": "Scatter",
+      "rating": 14,
+      "createdAt": "2023-09-28T20:03:24.000Z",
       "tags": [
-        "artistic",
+        "auditory",
         "building",
-        "city",
-        "esoteric-class",
-        "humanoid",
-        "sapient",
-        "scp",
-        "series-0",
-        "timjc2026-unofficial"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9665/elevators.jpg",
-      "authors": [
-        "BlazingPie"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-655-fr",
-      "title": "SCP-655-FR",
-      "alternateTitle": "I was isekai'ed against my will: now, it's up to me to save the world!",
-      "rating": 12,
-      "createdAt": "2025-02-08T02:48:34.000Z",
-      "tags": [
-        "biohazard",
-        "esoteric-class",
-        "hallucination",
-        "international",
-        "library",
-        "microscopic",
-        "narrative",
-        "neurological",
-        "parasitic",
-        "scp",
-        "uncontained"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-655-fr/siphonophore.jpg",
-      "authors": [
-        "DrCendres",
-        "MasterTman2"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-458-ko",
-      "title": "SCP-458-KO",
-      "alternateTitle": "News of the Day",
-      "rating": 4,
-      "createdAt": "2022-10-21T12:17:53.000Z",
-      "tags": [
-        "electrical",
-        "international",
-        "polyhedral",
+        "cognitohazard",
+        "memory-affecting",
+        "olfactory",
         "safe",
-        "scp",
-        "temporal"
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7478/hallway.jpg",
+      "authors": [
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5892",
+      "title": "SCP-5892",
+      "alternateTitle": "A Loyal Friend Indeed",
+      "rating": 11,
+      "createdAt": "2021-06-05T22:53:57.000Z",
+      "tags": [
+        "alive",
+        "animal",
+        "artifact",
+        "canine",
+        "photographic",
+        "reality-bending",
+        "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://nationalpurebreddogday.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-20-at-9.53.13-PM-e1450730061529.png",
+      "authors": [
+        "Harry F"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7534",
+      "title": "SCP-7534",
+      "alternateTitle": "Unrazor",
+      "rating": 22,
+      "createdAt": "2026-01-28T06:47:57.000Z",
+      "tags": [
+        "appliance",
+        "dumbcon2026-unofficial",
+        "ectoentropic",
+        "electronic",
+        "euclid",
+        "lgbtq",
+        "parawatch",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Anchor",
-        "Subervos"
+        "Hikarinu"
       ]
     }
   ]

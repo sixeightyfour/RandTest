@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T15:05:04.298Z",
+  "updatedAt": "2026-11-15T20:39:44.487Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,71 +8,60 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
-      "title": "SCP-400-ARC",
-      "alternateTitle": "A Telephone Box",
-      "rating": 21,
-      "createdAt": "2008-07-30T20:28:40.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8750",
+      "title": "SCP-8750",
+      "alternateTitle": "Echoes of a Broken Family",
+      "rating": 15,
+      "createdAt": "2024-04-30T04:57:27.000Z",
       "tags": [
-        "appliance",
-        "archived",
-        "auditory",
-        "euclid",
-        "knowledge",
+        "cadaver",
+        "ghost",
+        "neutralized",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrTVague"
+        "HunterDog"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8516",
-      "title": "SCP-8516",
-      "alternateTitle": "Kuleshov's Curios",
-      "rating": 10,
-      "createdAt": "2025-09-29T23:08:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7280",
+      "title": "SCP-7280",
+      "alternateTitle": "The Hollow Trooper",
+      "rating": 18,
+      "createdAt": "2022-09-25T07:24:33.000Z",
       "tags": [
-        "chemical",
-        "clockwork",
-        "cognitohazard",
-        "compulsion",
-        "media",
-        "safe",
+        "anderson",
+        "euclid",
+        "humanoid",
+        "military",
+        "robotic",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "ChocolateChara"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8685",
+      "title": "SCP-8685",
+      "alternateTitle": "Sign Today To Have Your Grandpa's Organs Harvested!",
+      "rating": 20,
+      "createdAt": "2024-10-21T11:06:17.000Z",
+      "tags": [
+        "biological",
+        "cadaver",
+        "extradimensional",
+        "humanoid",
+        "keter",
+        "sapient",
         "scp",
-        "sculpture",
-        "toy",
-        "visual"
+        "uncontained"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Zodfather"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7350",
-      "title": "SCP-7350",
-      "alternateTitle": "Kancra Bodas",
-      "rating": 9,
-      "createdAt": "2022-08-01T03:37:29.000Z",
-      "tags": [
-        "7000",
-        "alive",
-        "animal",
-        "aquatic",
-        "co-authored",
-        "euclid",
-        "fish",
-        "gustatory",
-        "historical",
-        "probability",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7350/800px-Tor_douron_160811-61549_ffi.JPG",
-      "authors": [
-        "Enachia",
-        "nahyesq",
-        "PhoenixOfHope"
+        "Not Noodles"
       ]
     }
   ]

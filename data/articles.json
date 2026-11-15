@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:42:36.040Z",
+  "updatedAt": "2026-11-15T15:05:04.298Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,71 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6395",
-      "title": "SCP-6395",
-      "alternateTitle": "Thoughts are Overrated",
-      "rating": 20,
-      "createdAt": "2022-04-18T21:12:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-400-arc",
+      "title": "SCP-400-ARC",
+      "alternateTitle": "A Telephone Box",
+      "rating": 21,
+      "createdAt": "2008-07-30T20:28:40.000Z",
       "tags": [
-        "alive",
+        "appliance",
+        "archived",
+        "auditory",
         "euclid",
-        "hive-mind",
-        "humanoid",
-        "mind-affecting",
-        "sapient",
+        "knowledge",
         "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
-      "authors": [
-        "Ruskied"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8786",
-      "title": "SCP-8786",
-      "alternateTitle": "The Sin In Your Spine",
-      "rating": 23,
-      "createdAt": "2025-08-12T21:44:50.000Z",
-      "tags": [
-        "alive",
-        "bittersweet",
-        "euclid",
-        "horror",
-        "humanoid",
-        "lgbtq",
-        "parasitic",
-        "scp",
-        "self-repairing",
-        "telekinetic",
-        "worm"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "voidXout"
+        "DrTVague"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8099",
-      "title": "SCP-8099",
-      "alternateTitle": "Fantasi",
-      "rating": 17,
-      "createdAt": "2024-02-13T19:28:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8516",
+      "title": "SCP-8516",
+      "alternateTitle": "Kuleshov's Curios",
+      "rating": 10,
+      "createdAt": "2025-09-29T23:08:36.000Z",
       "tags": [
-        "8000",
-        "alive",
-        "extradimensional",
-        "humanoid",
-        "keter",
-        "reality-bending",
-        "sapient",
+        "chemical",
+        "clockwork",
+        "cognitohazard",
+        "compulsion",
+        "media",
+        "safe",
         "scp",
-        "uncontained"
+        "sculpture",
+        "toy",
+        "visual"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg/1600px-August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg?20210713191833",
+      "thumbnailUrl": "",
       "authors": [
-        "Nils Severin"
+        "Zodfather"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7350",
+      "title": "SCP-7350",
+      "alternateTitle": "Kancra Bodas",
+      "rating": 9,
+      "createdAt": "2022-08-01T03:37:29.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "animal",
+        "aquatic",
+        "co-authored",
+        "euclid",
+        "fish",
+        "gustatory",
+        "historical",
+        "probability",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-7350/800px-Tor_douron_160811-61549_ffi.JPG",
+      "authors": [
+        "Enachia",
+        "nahyesq",
+        "PhoenixOfHope"
       ]
     }
   ]

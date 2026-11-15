@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:13:51.066Z",
+  "updatedAt": "2026-11-15T03:42:36.040Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-198-it",
-      "title": "SCP-198-IT",
-      "alternateTitle": "The Duck with Balls",
-      "rating": 6,
-      "createdAt": "2025-06-18T12:04:06.000Z",
-      "tags": [
-        "animal",
-        "aquatic",
-        "bird",
-        "euclid",
-        "hostile",
-        "international",
-        "scp",
-        "sexual"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DeKoder",
-        "DeKoder"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8613",
-      "title": "SCP-8613",
-      "alternateTitle": "Don’t Take Me to the Impound",
-      "rating": 13,
-      "createdAt": "2026-03-22T02:24:22.000Z",
-      "tags": [
-        "autonomous",
-        "euclid",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/2002_Pontiac_Firebird_Trans_Am_WS6.JPG",
-      "authors": [
-        "Daedaelus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7848",
-      "title": "SCP-7848",
-      "alternateTitle": "Boxer Mantis Hivemind",
-      "rating": 16,
-      "createdAt": "2024-01-01T03:50:29.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6395",
+      "title": "SCP-6395",
+      "alternateTitle": "Thoughts are Overrated",
+      "rating": 20,
+      "createdAt": "2022-04-18T21:12:52.000Z",
       "tags": [
         "alive",
-        "animal",
         "euclid",
         "hive-mind",
         "humanoid",
-        "insect",
+        "mind-affecting",
         "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria-Ardino-01.jpg",
+      "authors": [
+        "Ruskied"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8786",
+      "title": "SCP-8786",
+      "alternateTitle": "The Sin In Your Spine",
+      "rating": 23,
+      "createdAt": "2025-08-12T21:44:50.000Z",
+      "tags": [
+        "alive",
+        "bittersweet",
+        "euclid",
+        "horror",
+        "humanoid",
+        "lgbtq",
+        "parasitic",
         "scp",
-        "swarm"
+        "self-repairing",
+        "telekinetic",
+        "worm"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DrDapper"
+        "voidXout"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8099",
+      "title": "SCP-8099",
+      "alternateTitle": "Fantasi",
+      "rating": 17,
+      "createdAt": "2024-02-13T19:28:59.000Z",
+      "tags": [
+        "8000",
+        "alive",
+        "extradimensional",
+        "humanoid",
+        "keter",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "uncontained"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg/1600px-August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg?20210713191833",
+      "authors": [
+        "Nils Severin"
       ]
     }
   ]

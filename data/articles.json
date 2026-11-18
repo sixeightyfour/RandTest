@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T17:11:15.308Z",
+  "updatedAt": "2026-11-18T05:01:35.573Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,79 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9408",
-      "title": "SCP-9408",
-      "alternateTitle": "CORPSEBALL: MONOMYTH",
-      "rating": 21,
-      "createdAt": "2025-09-30T17:12:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9245-j",
+      "title": "SCP-9245-J",
+      "alternateTitle": "The Gold Hoarder's Curse",
+      "rating": 24,
+      "createdAt": "2026-04-15T20:38:23.000Z",
       "tags": [
-        "9000",
-        "absurdism",
-        "apollyon",
-        "cadaver",
-        "comedy",
-        "game",
-        "meta",
-        "narrative",
-        "phenomenon",
+        "addictive",
+        "alive",
+        "archon",
+        "chemical",
+        "esoteric-class",
+        "foundation-made",
+        "foundation-personnel",
+        "global-occult-coalition",
+        "hard-to-destroy-reptile",
+        "hostile",
+        "humanoid",
+        "joke",
+        "k-class-scenario",
+        "liquid",
+        "memetic",
+        "mind-affecting",
+        "neurological",
+        "online",
         "scp",
-        "sport"
+        "sexual",
+        "shy-guy",
+        "the-old-man",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-9245-j/bottle.png",
+      "authors": [
+        "Jamz9245"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8119",
+      "title": "SCP-8119",
+      "alternateTitle": "Lies Behind the Lens",
+      "rating": 22,
+      "createdAt": "2024-08-19T19:16:09.000Z",
+      "tags": [
+        "are-we-cool-yet",
+        "doctor-kondraki",
+        "photographic",
+        "safe",
+        "scp",
+        "telepathic",
+        "tool",
+        "visual"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8119/Nikon_F_Cameras.webp",
+      "authors": [
+        "ClaudeHinton"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6083",
+      "title": "SCP-6083",
+      "alternateTitle": "A Pitiable Existence",
+      "rating": 12,
+      "createdAt": "2022-01-05T14:40:40.000Z",
+      "tags": [
+        "alive",
+        "humanoid",
+        "mind-affecting",
+        "safe",
+        "sapient",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "DoctorLilithSophia"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7552",
-      "title": "SCP-7552",
-      "alternateTitle": "Depth Perception",
-      "rating": 10,
-      "createdAt": "2023-07-24T23:32:14.000Z",
-      "tags": [
-        "artifact",
-        "compulsion",
-        "electromagnetic",
-        "safe",
-        "scp",
-        "sphere",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "https://live.staticflickr.com/2/3802854_212e09ef5d.jpg",
-      "authors": [
-        "jwellhoner"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8223",
-      "title": "SCP-8223",
-      "alternateTitle": "The Serpent of the Strait",
-      "rating": 21,
-      "createdAt": "2025-08-10T00:33:06.000Z",
-      "tags": [
-        "acoustic",
-        "animal",
-        "aquatic",
-        "bleak",
-        "keter",
-        "meteorological",
-        "scp",
-        "snake",
-        "vibration"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-8223/StraitSerpent/medium.jpg",
-      "authors": [
-        "P4TR1CK07"
+        "Tracque_"
       ]
     }
   ]

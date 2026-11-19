@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:57:06.110Z",
+  "updatedAt": "2026-11-19T16:55:37.206Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,70 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8621",
-      "title": "SCP-8621",
-      "alternateTitle": "The Flesh Parasite",
-      "rating": 10,
-      "createdAt": "2025-09-20T22:20:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4086",
+      "title": "SCP-4086",
+      "alternateTitle": "The Tunnels",
+      "rating": 18,
+      "createdAt": "2019-03-29T05:49:47.000Z",
       "tags": [
-        "alive",
-        "chemical",
-        "dental",
         "euclid",
-        "extremity",
-        "invertebrate",
-        "neurological",
-        "parasitic",
+        "extradimensional",
+        "portal",
         "scp",
-        "transfiguration"
+        "structure",
+        "subterranean"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4086/SCP-4086/medium.jpg",
+      "authors": [
+        "Researcher Durham"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-2674",
+      "title": "SCP-2674",
+      "alternateTitle": "An Ancient, Submerged Burial Ground",
+      "rating": 17,
+      "createdAt": "2017-05-11T22:55:18.000Z",
+      "tags": [
+        "aquatic",
+        "biological",
+        "geological",
+        "humanoid",
+        "keter",
+        "portal",
+        "sapient",
+        "sarkic",
+        "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mikhail_27_10"
+        "Shio"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8486",
-      "title": "SCP-8486",
-      "alternateTitle": "Extradimensional Cleaning Toothbrush",
-      "rating": 11,
-      "createdAt": "2025-08-15T09:07:32.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
+      "title": "SCP-2014-UA-EX",
+      "alternateTitle": "SCP-2014-RU",
+      "rating": 10,
+      "createdAt": "2022-05-06T18:05:10.000Z",
       "tags": [
-        "biohazard",
-        "compulsion",
-        "ectoentropic",
+        "artifact",
+        "chemical",
         "euclid",
-        "extradimensional",
-        "indestructible",
-        "scp",
-        "tool"
+        "explained",
+        "historical",
+        "international",
+        "ritual",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toothbrush_regurgitated_by_albatross_on_Tern_Island%2C_Hawaii_-_20060614.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
       "authors": [
-        "Sylvanite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-3793",
-      "title": "SCP-3793",
-      "alternateTitle": "Spectral Punk Drive-By",
-      "rating": 14,
-      "createdAt": "2018-07-27T03:16:05.000Z",
-      "tags": [
-        "acoustic",
-        "ectoentropic",
-        "humanoid",
-        "intangible",
-        "media",
-        "musical",
-        "safe",
-        "sapient",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-3793/picture1.jpg",
-      "authors": [
-        "Xhasqve_Onizpjan"
+        "Comrade Xander",
+        "Comrade Xander"
       ]
     }
   ]

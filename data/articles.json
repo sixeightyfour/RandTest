@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:55:37.206Z",
+  "updatedAt": "2026-11-20T04:47:46.018Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,66 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4086",
-      "title": "SCP-4086",
-      "alternateTitle": "The Tunnels",
-      "rating": 18,
-      "createdAt": "2019-03-29T05:49:47.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-344-de",
+      "title": "SCP-344-DE",
+      "alternateTitle": "Struck by Lightning",
+      "rating": 9,
+      "createdAt": "2025-12-30T18:39:27.000Z",
       "tags": [
-        "euclid",
-        "extradimensional",
-        "portal",
-        "scp",
-        "structure",
-        "subterranean"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-4086/SCP-4086/medium.jpg",
-      "authors": [
-        "Researcher Durham"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-2674",
-      "title": "SCP-2674",
-      "alternateTitle": "An Ancient, Submerged Burial Ground",
-      "rating": 17,
-      "createdAt": "2017-05-11T22:55:18.000Z",
-      "tags": [
-        "aquatic",
-        "biological",
-        "geological",
+        "electrical",
+        "electromagnetic",
+        "ghost",
         "humanoid",
+        "intangible",
+        "international",
+        "jewelry",
         "keter",
-        "portal",
+        "light",
         "sapient",
-        "sarkic",
-        "scp"
+        "scp",
+        "teleportation"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Shio"
+        "Einer von Rabe",
+        "Einer von Rabe"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-2014-ua-ex",
-      "title": "SCP-2014-UA-EX",
-      "alternateTitle": "SCP-2014-RU",
-      "rating": 10,
-      "createdAt": "2022-05-06T18:05:10.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7708",
+      "title": "SCP-7708",
+      "alternateTitle": "Autopilot",
+      "rating": 8,
+      "createdAt": "2023-01-06T03:41:16.000Z",
       "tags": [
-        "artifact",
-        "chemical",
-        "euclid",
-        "explained",
-        "historical",
-        "international",
-        "ritual",
-        "scp"
+        "artistic",
+        "autonomous",
+        "coldpostcon",
+        "safe",
+        "scp",
+        "tool"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-2014-ua-ex/SCP-2014/medium.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7708/pencil-mugshot.jpg",
       "authors": [
-        "Comrade Xander",
-        "Comrade Xander"
+        "DoubleDenial"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9262",
+      "title": "SCP-9262",
+      "alternateTitle": "STARGATE",
+      "rating": 12,
+      "createdAt": "2026-02-15T23:36:37.000Z",
+      "tags": [
+        "computer",
+        "electrical",
+        "knowledge",
+        "media",
+        "mind-affecting",
+        "safe",
+        "scp",
+        "temporal"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9262/bigcomputer.jpeg/medium.jpg",
+      "authors": [
+        "Waspus"
       ]
     }
   ]

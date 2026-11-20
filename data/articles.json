@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:47:46.018Z",
+  "updatedAt": "2026-11-20T16:29:09.998Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,75 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-344-de",
-      "title": "SCP-344-DE",
-      "alternateTitle": "Struck by Lightning",
-      "rating": 9,
-      "createdAt": "2025-12-30T18:39:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7761",
+      "title": "SCP-7761 - Elena Rustfeld's Last Stand",
+      "alternateTitle": "Consumer Capitalist",
+      "rating": 13,
+      "createdAt": "2023-01-07T13:35:09.000Z",
       "tags": [
-        "electrical",
-        "electromagnetic",
-        "ghost",
+        "alive",
+        "autonomous",
+        "bird",
+        "building",
+        "co-authored",
+        "compulsion",
+        "corporate",
+        "currency",
+        "euclid",
         "humanoid",
-        "intangible",
-        "international",
-        "jewelry",
-        "keter",
-        "light",
+        "mind-affecting",
+        "parasitic",
         "sapient",
         "scp",
-        "teleportation"
+        "spring-cleaning24"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Einer von Rabe",
-        "Einer von Rabe"
+        "FleshMaddAvalon",
+        "Nonacherontia"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7708",
-      "title": "SCP-7708",
-      "alternateTitle": "Autopilot",
-      "rating": 8,
-      "createdAt": "2023-01-06T03:41:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-zh-9288-ex",
+      "title": "SCP-ZH-9288-EX",
+      "alternateTitle": "You are completely aware that you will never meet the person sitting next to you listening to your story ever again.",
+      "rating": 15,
+      "createdAt": "2022-09-02T07:19:25.000Z",
       "tags": [
-        "artistic",
-        "autonomous",
-        "coldpostcon",
-        "safe",
+        "collaboration",
+        "esoteric-class",
+        "ethics-committee",
+        "explained",
+        "international",
+        "memory-affecting",
         "scp",
-        "tool"
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7708/pencil-mugshot.jpg",
+      "thumbnailUrl": "http://scp-sandbox-zh.wdfiles.com/local--files/railway/1SbxuocjyAsNaZOlaYhIaw.jpg",
       "authors": [
-        "DoubleDenial"
+        "Unihedron",
+        "Mang Gwan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9262",
-      "title": "SCP-9262",
-      "alternateTitle": "STARGATE",
-      "rating": 12,
-      "createdAt": "2026-02-15T23:36:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-184-de",
+      "title": "SCP-184-DE",
+      "alternateTitle": "Arachnophilia",
+      "rating": 10,
+      "createdAt": "2022-05-26T20:41:39.000Z",
       "tags": [
-        "computer",
-        "electrical",
-        "knowledge",
-        "media",
-        "mind-affecting",
+        "arachnid",
+        "clothing",
+        "empathic",
+        "international",
         "safe",
         "scp",
-        "temporal"
+        "transfiguration"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9262/bigcomputer.jpeg/medium.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Waspus"
+        "Zesc",
+        "Zesc"
       ]
     }
   ]

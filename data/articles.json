@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:42:24.809Z",
+  "updatedAt": "2026-11-21T15:45:11.096Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,80 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9702",
-      "title": "SCP-9702",
-      "alternateTitle": "What Water Wants",
-      "rating": 11,
-      "createdAt": "2026-02-18T02:56:52.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9229",
+      "title": "SCP-9229",
+      "alternateTitle": "O Sancta Simplicitas!",
+      "rating": 12,
+      "createdAt": "2025-10-04T01:06:28.000Z",
       "tags": [
-        "aquatic",
-        "keter",
-        "meteorological",
-        "mobile",
-        "phenomenon",
-        "scp"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "DJYou"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6561",
-      "title": "SCP-6561",
-      "alternateTitle": "There Is Nothing Between Light and Dark.",
-      "rating": 23,
-      "createdAt": "2021-11-06T00:00:21.000Z",
-      "tags": [
-        "concept",
-        "keter",
-        "memory-affecting",
-        "mind-affecting",
-        "neutralized",
+        "9000",
+        "abnormalities",
+        "apocalyptic",
+        "artifact",
+        "biohazard",
+        "body-horror",
+        "co-authored",
+        "euclid",
+        "explained",
+        "extraterrestrial",
+        "horror",
+        "language",
+        "mechanical",
+        "moon",
+        "pattern-screamer",
         "reality-bending",
-        "scp"
+        "science-fiction",
+        "scp",
+        "structure"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
       "authors": [
-        "D L"
+        "BlackMonday",
+        "Rendi"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8982",
-      "title": "SCP-8982",
-      "alternateTitle": "A Seer's Stupor",
-      "rating": 24,
-      "createdAt": "2025-08-29T22:31:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9262",
+      "title": "SCP-9262",
+      "alternateTitle": "STARGATE",
+      "rating": 12,
+      "createdAt": "2026-02-15T23:36:37.000Z",
       "tags": [
-        "alive",
-        "foundation-personnel",
-        "humanoid",
-        "predictive",
-        "sapient",
+        "computer",
+        "electrical",
+        "knowledge",
+        "media",
+        "mind-affecting",
+        "safe",
         "scp",
-        "thaumiel"
+        "temporal"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8982/homme-age-.jpg",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9262/bigcomputer.jpeg/medium.jpg",
       "authors": [
-        "Mystical AWB"
+        "Waspus"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8664",
+      "title": "SCP-8664",
+      "alternateTitle": "fast cat pill by dado",
+      "rating": 16,
+      "createdAt": "2026-05-10T04:23:52.000Z",
+      "tags": [
+        "artifact",
+        "canine",
+        "chemical",
+        "comedy",
+        "dado",
+        "feline",
+        "safe",
+        "scp",
+        "sportscon2026",
+        "transfiguration"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8664/dog.jpg",
+      "authors": [
+        "XHAWK77X"
       ]
     }
   ]

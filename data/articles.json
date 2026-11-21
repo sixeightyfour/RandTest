@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:29:09.998Z",
+  "updatedAt": "2026-11-21T04:42:24.809Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,75 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7761",
-      "title": "SCP-7761 - Elena Rustfeld's Last Stand",
-      "alternateTitle": "Consumer Capitalist",
-      "rating": 13,
-      "createdAt": "2023-01-07T13:35:09.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9702",
+      "title": "SCP-9702",
+      "alternateTitle": "What Water Wants",
+      "rating": 11,
+      "createdAt": "2026-02-18T02:56:52.000Z",
+      "tags": [
+        "aquatic",
+        "keter",
+        "meteorological",
+        "mobile",
+        "phenomenon",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "DJYou"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6561",
+      "title": "SCP-6561",
+      "alternateTitle": "There Is Nothing Between Light and Dark.",
+      "rating": 23,
+      "createdAt": "2021-11-06T00:00:21.000Z",
+      "tags": [
+        "concept",
+        "keter",
+        "memory-affecting",
+        "mind-affecting",
+        "neutralized",
+        "reality-bending",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "D L"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8982",
+      "title": "SCP-8982",
+      "alternateTitle": "A Seer's Stupor",
+      "rating": 24,
+      "createdAt": "2025-08-29T22:31:25.000Z",
       "tags": [
         "alive",
-        "autonomous",
-        "bird",
-        "building",
-        "co-authored",
-        "compulsion",
-        "corporate",
-        "currency",
-        "euclid",
+        "foundation-personnel",
         "humanoid",
-        "mind-affecting",
-        "parasitic",
+        "predictive",
         "sapient",
         "scp",
-        "spring-cleaning24"
+        "thaumiel"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8982/homme-age-.jpg",
       "authors": [
-        "FleshMaddAvalon",
-        "Nonacherontia"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-zh-9288-ex",
-      "title": "SCP-ZH-9288-EX",
-      "alternateTitle": "You are completely aware that you will never meet the person sitting next to you listening to your story ever again.",
-      "rating": 15,
-      "createdAt": "2022-09-02T07:19:25.000Z",
-      "tags": [
-        "collaboration",
-        "esoteric-class",
-        "ethics-committee",
-        "explained",
-        "international",
-        "memory-affecting",
-        "scp",
-        "vehicle"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-zh.wdfiles.com/local--files/railway/1SbxuocjyAsNaZOlaYhIaw.jpg",
-      "authors": [
-        "Unihedron",
-        "Mang Gwan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-184-de",
-      "title": "SCP-184-DE",
-      "alternateTitle": "Arachnophilia",
-      "rating": 10,
-      "createdAt": "2022-05-26T20:41:39.000Z",
-      "tags": [
-        "arachnid",
-        "clothing",
-        "empathic",
-        "international",
-        "safe",
-        "scp",
-        "transfiguration"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Zesc",
-        "Zesc"
+        "Mystical AWB"
       ]
     }
   ]

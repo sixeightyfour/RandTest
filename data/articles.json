@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:45:11.096Z",
+  "updatedAt": "2026-11-21T21:17:36.677Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,80 +8,64 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9229",
-      "title": "SCP-9229",
-      "alternateTitle": "O Sancta Simplicitas!",
-      "rating": 12,
-      "createdAt": "2025-10-04T01:06:28.000Z",
-      "tags": [
-        "9000",
-        "abnormalities",
-        "apocalyptic",
-        "artifact",
-        "biohazard",
-        "body-horror",
-        "co-authored",
-        "euclid",
-        "explained",
-        "extraterrestrial",
-        "horror",
-        "language",
-        "mechanical",
-        "moon",
-        "pattern-screamer",
-        "reality-bending",
-        "science-fiction",
-        "scp",
-        "structure"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/fragment:scp-9229-0/Iapetus_Voyager2_flyby_sequence.jpg",
-      "authors": [
-        "BlackMonday",
-        "Rendi"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-9262",
-      "title": "SCP-9262",
-      "alternateTitle": "STARGATE",
-      "rating": 12,
-      "createdAt": "2026-02-15T23:36:37.000Z",
-      "tags": [
-        "computer",
-        "electrical",
-        "knowledge",
-        "media",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "temporal"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/scp-9262/bigcomputer.jpeg/medium.jpg",
-      "authors": [
-        "Waspus"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8664",
-      "title": "SCP-8664",
-      "alternateTitle": "fast cat pill by dado",
+      "url": "http://scp-wiki.wikidot.com/scp-8912",
+      "title": "SCP-8912",
+      "alternateTitle": "You Can't Take The Country Out Of Me",
       "rating": 16,
-      "createdAt": "2026-05-10T04:23:52.000Z",
+      "createdAt": "2025-04-04T17:11:54.000Z",
+      "tags": [
+        "alive",
+        "city",
+        "competitive-eschatology",
+        "humanoid",
+        "keter",
+        "memetic",
+        "reality-bending",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8912/757px-Town_of_Monte_Cristo%2C_Sauk_River_and_Hartford_Eastern_Railroad_bridge_trestle%2C_Washington%2C_ca_1920_%28WASTATE_650%29.jpeg",
+      "authors": [
+        "JanitorCakeworth"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7627",
+      "title": "SCP-7627",
+      "alternateTitle": "Soviet Rail Gun",
+      "rating": 15,
+      "createdAt": "2025-06-15T08:50:46.000Z",
+      "tags": [
+        "extraterrestrial",
+        "gravity",
+        "gru-division-p",
+        "neutralized",
+        "pentagram",
+        "scp",
+        "weapon"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Nocturned"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-pl-078",
+      "title": "SCP-PL-078",
+      "alternateTitle": "Earrings of Instant Meetup",
+      "rating": 20,
+      "createdAt": "2018-10-16T06:15:44.000Z",
       "tags": [
         "artifact",
-        "canine",
-        "chemical",
-        "comedy",
-        "dado",
-        "feline",
+        "international",
         "safe",
         "scp",
-        "sportscon2026",
-        "transfiguration"
+        "teleportation"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8664/dog.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "XHAWK77X"
+        "ZeroStrider",
+        "ZeroStrider"
       ]
     }
   ]

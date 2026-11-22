@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:46:39.759Z",
+  "updatedAt": "2026-11-22T21:23:44.954Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,69 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7368",
-      "title": "SCP-7368",
-      "alternateTitle": "A Story of Time, Love and Opium",
-      "rating": 10,
-      "createdAt": "2024-02-12T19:31:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8330",
+      "title": "SCP-8330",
+      "alternateTitle": "Salivatory Slugs",
+      "rating": 23,
+      "createdAt": "2025-07-06T04:31:22.000Z",
       "tags": [
-        "cadaver",
-        "children-of-the-night",
-        "mystery",
-        "neutralized",
-        "religious",
-        "religious-fiction",
-        "sapient",
-        "science-fiction",
-        "scp",
-        "temporal",
-        "thad-xyank",
-        "time-travel"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
-      "authors": [
-        "alanthechair"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8236",
-      "title": "SCP-8236",
-      "alternateTitle": "Empathokinetic Mood Ring",
-      "rating": 9,
-      "createdAt": "2026-05-08T05:20:16.000Z",
-      "tags": [
-        "empathic",
-        "jewelry",
-        "mind-affecting",
-        "safe",
+        "alive",
+        "body-horror",
+        "classiccon2025",
+        "extremity",
+        "horror",
+        "humanoid",
+        "keter",
+        "mobile",
         "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Moodring2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-      "authors": [
-        "Sylvanite"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-5386",
-      "title": "SCP-5386",
-      "alternateTitle": "[PENDING APPROVAL BY ETHICS COMMITTEE]",
-      "rating": 20,
-      "createdAt": "2021-03-24T00:07:33.000Z",
-      "tags": [
-        "cognitohazard",
-        "esoteric-class",
-        "ethics-committee",
-        "jam-con2021",
-        "memetic",
-        "memory-affecting",
-        "scp",
-        "sleep"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "margssentif"
+        "Ayers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8437",
+      "title": "SCP-8437",
+      "alternateTitle": "If a Tree Falls in the Forest…",
+      "rating": 21,
+      "createdAt": "2026-03-14T01:19:28.000Z",
+      "tags": [
+        "alive",
+        "bleak",
+        "euclid",
+        "humanoid",
+        "memory-affecting",
+        "observational",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Mister_Toasty"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7134",
+      "title": "SCP-7134",
+      "alternateTitle": "Born 'Neath a Lucky Star",
+      "rating": 14,
+      "createdAt": "2022-08-01T03:23:35.000Z",
+      "tags": [
+        "7000",
+        "alive",
+        "animal",
+        "intangible",
+        "keter",
+        "probability",
+        "reality-bending",
+        "sapient",
+        "scp",
+        "undervegas"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-7134-1/blackwood_SCP-7000_taxidermy/medium.jpg",
+      "authors": [
+        "Pinoccappuccino"
       ]
     }
   ]

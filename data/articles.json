@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T03:57:17.407Z",
+  "updatedAt": "2026-11-22T15:46:39.759Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8026",
-      "title": "SCP-8026",
-      "alternateTitle": "And I'm No Dreamer",
-      "rating": 19,
-      "createdAt": "2024-02-19T04:06:34.000Z",
-      "tags": [
-        "8000",
-        "dream",
-        "mind-affecting",
-        "safe",
-        "scp",
-        "sleep",
-        "sphere"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
-      "authors": [
-        "CowscantgoMoo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8551",
-      "title": "SCP-8551",
-      "alternateTitle": "32. SCPology",
-      "rating": 13,
-      "createdAt": "2025-07-04T20:12:25.000Z",
-      "tags": [
-        "memetic",
-        "safe",
-        "scp",
-        "serpents-hand"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
-      "authors": [
-        "Drleevezan"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-081-ua",
-      "title": "SCP-081-UA",
-      "alternateTitle": "Vanka-Vstanka",
-      "rating": 16,
-      "createdAt": "2022-09-18T07:51:25.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7368",
+      "title": "SCP-7368",
+      "alternateTitle": "A Story of Time, Love and Opium",
+      "rating": 10,
+      "createdAt": "2024-02-12T19:31:55.000Z",
       "tags": [
         "cadaver",
-        "chemical",
-        "entropic",
-        "esoteric-class",
-        "international",
-        "radioactive",
-        "reanimation",
+        "children-of-the-night",
+        "mystery",
+        "neutralized",
+        "religious",
+        "religious-fiction",
+        "sapient",
+        "science-fiction",
+        "scp",
+        "temporal",
+        "thad-xyank",
+        "time-travel"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7368/thebinding.jpg",
+      "authors": [
+        "alanthechair"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8236",
+      "title": "SCP-8236",
+      "alternateTitle": "Empathokinetic Mood Ring",
+      "rating": 9,
+      "createdAt": "2026-05-08T05:20:16.000Z",
+      "tags": [
+        "empathic",
+        "jewelry",
+        "mind-affecting",
+        "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-081-ua/Deadbody_v002.0000.png",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Moodring2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "authors": [
-        "Comrade Xander",
-        "Comrade Xander"
+        "Sylvanite"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-5386",
+      "title": "SCP-5386",
+      "alternateTitle": "[PENDING APPROVAL BY ETHICS COMMITTEE]",
+      "rating": 20,
+      "createdAt": "2021-03-24T00:07:33.000Z",
+      "tags": [
+        "cognitohazard",
+        "esoteric-class",
+        "ethics-committee",
+        "jam-con2021",
+        "memetic",
+        "memory-affecting",
+        "scp",
+        "sleep"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "margssentif"
       ]
     }
   ]

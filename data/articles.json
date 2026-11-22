@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:17:36.677Z",
+  "updatedAt": "2026-11-22T03:57:17.407Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,64 +8,62 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8912",
-      "title": "SCP-8912",
-      "alternateTitle": "You Can't Take The Country Out Of Me",
-      "rating": 16,
-      "createdAt": "2025-04-04T17:11:54.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8026",
+      "title": "SCP-8026",
+      "alternateTitle": "And I'm No Dreamer",
+      "rating": 19,
+      "createdAt": "2024-02-19T04:06:34.000Z",
       "tags": [
-        "alive",
-        "city",
-        "competitive-eschatology",
-        "humanoid",
-        "keter",
-        "memetic",
-        "reality-bending",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8912/757px-Town_of_Monte_Cristo%2C_Sauk_River_and_Hartford_Eastern_Railroad_bridge_trestle%2C_Washington%2C_ca_1920_%28WASTATE_650%29.jpeg",
-      "authors": [
-        "JanitorCakeworth"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7627",
-      "title": "SCP-7627",
-      "alternateTitle": "Soviet Rail Gun",
-      "rating": 15,
-      "createdAt": "2025-06-15T08:50:46.000Z",
-      "tags": [
-        "extraterrestrial",
-        "gravity",
-        "gru-division-p",
-        "neutralized",
-        "pentagram",
-        "scp",
-        "weapon"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Nocturned"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-pl-078",
-      "title": "SCP-PL-078",
-      "alternateTitle": "Earrings of Instant Meetup",
-      "rating": 20,
-      "createdAt": "2018-10-16T06:15:44.000Z",
-      "tags": [
-        "artifact",
-        "international",
+        "8000",
+        "dream",
+        "mind-affecting",
         "safe",
         "scp",
-        "teleportation"
+        "sleep",
+        "sphere"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8026/crystal_ball.jpg",
       "authors": [
-        "ZeroStrider",
-        "ZeroStrider"
+        "CowscantgoMoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8551",
+      "title": "SCP-8551",
+      "alternateTitle": "32. SCPology",
+      "rating": 13,
+      "createdAt": "2025-07-04T20:12:25.000Z",
+      "tags": [
+        "memetic",
+        "safe",
+        "scp",
+        "serpents-hand"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-8551/rvYqFGw.png",
+      "authors": [
+        "Drleevezan"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-081-ua",
+      "title": "SCP-081-UA",
+      "alternateTitle": "Vanka-Vstanka",
+      "rating": 16,
+      "createdAt": "2022-09-18T07:51:25.000Z",
+      "tags": [
+        "cadaver",
+        "chemical",
+        "entropic",
+        "esoteric-class",
+        "international",
+        "radioactive",
+        "reanimation",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-081-ua/Deadbody_v002.0000.png",
+      "authors": [
+        "Comrade Xander",
+        "Comrade Xander"
       ]
     }
   ]

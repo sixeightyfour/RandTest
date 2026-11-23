@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T04:38:46.239Z",
+  "updatedAt": "2026-11-23T19:38:09.579Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,57 +8,63 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-151-it",
-      "title": "SCP-151-IT",
-      "alternateTitle": "The Ideal Panettone",
-      "rating": 7,
-      "createdAt": "2023-05-06T17:51:05.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6104",
+      "title": "SCP-6104",
+      "alternateTitle": "Ice Skating… to the DEATH!!!",
+      "rating": 24,
+      "createdAt": "2021-10-23T18:32:11.000Z",
       "tags": [
-        "concept",
-        "international",
-        "pending",
-        "scp"
+        "appliance",
+        "electronic",
+        "game",
+        "safe",
+        "scp",
+        "sport"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%C3%80tom_de_Thomson.png",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6104/Hockey_rink_without_text.jpg",
       "authors": [
-        "Ximon",
-        "Roberto Turati"
+        "dton"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8135",
-      "title": "SCP-8135",
-      "alternateTitle": "A Musical Mystery",
-      "rating": 7,
-      "createdAt": "2025-04-21T02:38:46.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4791",
+      "title": "SCP-4791",
+      "alternateTitle": "Stirrin’ Slowly Cross the Sky, I Said Goodbye",
+      "rating": 23,
+      "createdAt": "2022-04-02T14:45:26.000Z",
       "tags": [
-        "cadaver",
-        "keter",
-        "musical",
-        "scp"
+        "airborne",
+        "document",
+        "euclid",
+        "mobile",
+        "rewritable",
+        "scp",
+        "toy",
+        "uncontained"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8135/Leaning_Tombstones.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "MasterTman2"
+        "Jack Waltz"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7387",
-      "title": "SCP-7387",
-      "alternateTitle": "Dookie",
-      "rating": 22,
-      "createdAt": "2023-11-10T17:25:30.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-9170",
+      "title": "SCP-9170",
+      "alternateTitle": "No. 17 Gorse Avenue",
+      "rating": 10,
+      "createdAt": "2025-10-01T23:17:55.000Z",
       "tags": [
-        "acoustic",
-        "auditory",
-        "mind-affecting",
-        "musical",
+        "9000",
+        "building",
+        "infohazard",
+        "mathematical",
+        "neurological",
         "safe",
         "scp"
       ],
-      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "IcarusEMBR"
+        "TeaAndDigestives"
       ]
     }
   ]

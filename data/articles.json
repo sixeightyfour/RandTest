@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:23:44.954Z",
+  "updatedAt": "2026-11-23T04:38:46.239Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,69 +8,57 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8330",
-      "title": "SCP-8330",
-      "alternateTitle": "Salivatory Slugs",
-      "rating": 23,
-      "createdAt": "2025-07-06T04:31:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-151-it",
+      "title": "SCP-151-IT",
+      "alternateTitle": "The Ideal Panettone",
+      "rating": 7,
+      "createdAt": "2023-05-06T17:51:05.000Z",
       "tags": [
-        "alive",
-        "body-horror",
-        "classiccon2025",
-        "extremity",
-        "horror",
-        "humanoid",
-        "keter",
-        "mobile",
+        "concept",
+        "international",
+        "pending",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%C3%80tom_de_Thomson.png",
       "authors": [
-        "Ayers"
+        "Ximon",
+        "Roberto Turati"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8437",
-      "title": "SCP-8437",
-      "alternateTitle": "If a Tree Falls in the Forest…",
-      "rating": 21,
-      "createdAt": "2026-03-14T01:19:28.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8135",
+      "title": "SCP-8135",
+      "alternateTitle": "A Musical Mystery",
+      "rating": 7,
+      "createdAt": "2025-04-21T02:38:46.000Z",
       "tags": [
-        "alive",
-        "bleak",
-        "euclid",
-        "humanoid",
-        "memory-affecting",
-        "observational",
-        "sapient",
+        "cadaver",
+        "keter",
+        "musical",
         "scp"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-8135/Leaning_Tombstones.jpg",
       "authors": [
-        "Mister_Toasty"
+        "MasterTman2"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7134",
-      "title": "SCP-7134",
-      "alternateTitle": "Born 'Neath a Lucky Star",
-      "rating": 14,
-      "createdAt": "2022-08-01T03:23:35.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7387",
+      "title": "SCP-7387",
+      "alternateTitle": "Dookie",
+      "rating": 22,
+      "createdAt": "2023-11-10T17:25:30.000Z",
       "tags": [
-        "7000",
-        "alive",
-        "animal",
-        "intangible",
-        "keter",
-        "probability",
-        "reality-bending",
-        "sapient",
-        "scp",
-        "undervegas"
+        "acoustic",
+        "auditory",
+        "mind-affecting",
+        "musical",
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-7134-1/blackwood_SCP-7000_taxidermy/medium.jpg",
+      "thumbnailUrl": "https://live.staticflickr.com/3096/3218524073_9e81805fc9_c_d.jpg",
       "authors": [
-        "Pinoccappuccino"
+        "IcarusEMBR"
       ]
     }
   ]

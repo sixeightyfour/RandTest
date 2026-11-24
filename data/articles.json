@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:38:09.579Z",
+  "updatedAt": "2026-11-24T07:30:28.990Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,63 +8,65 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6104",
-      "title": "SCP-6104",
-      "alternateTitle": "Ice Skating… to the DEATH!!!",
-      "rating": 24,
-      "createdAt": "2021-10-23T18:32:11.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-4678",
+      "title": "SCP-4678",
+      "alternateTitle": "A Time and Place for Regret",
+      "rating": 4,
+      "createdAt": "2019-09-18T20:05:38.000Z",
       "tags": [
-        "appliance",
-        "electronic",
-        "game",
-        "safe",
+        "action",
+        "artifact",
+        "bleak",
+        "cain",
+        "neutralized",
         "scp",
-        "sport"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6104/Hockey_rink_without_text.jpg",
-      "authors": [
-        "dton"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-4791",
-      "title": "SCP-4791",
-      "alternateTitle": "Stirrin’ Slowly Cross the Sky, I Said Goodbye",
-      "rating": 23,
-      "createdAt": "2022-04-02T14:45:26.000Z",
-      "tags": [
-        "airborne",
-        "document",
-        "euclid",
-        "mobile",
-        "rewritable",
-        "scp",
-        "toy",
-        "uncontained"
+        "temporal",
+        "time-travel"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Jack Waltz"
+        "Kaether"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-9170",
-      "title": "SCP-9170",
-      "alternateTitle": "No. 17 Gorse Avenue",
-      "rating": 10,
-      "createdAt": "2025-10-01T23:17:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-6583",
+      "title": "SCP-6583",
+      "alternateTitle": "Usurped",
+      "rating": 16,
+      "createdAt": "2022-08-13T02:47:23.000Z",
       "tags": [
-        "9000",
+        "biological",
         "building",
-        "infohazard",
-        "mathematical",
-        "neurological",
+        "euclid",
+        "fifthist",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
+      "authors": [
+        "Quicksilvers"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7456",
+      "title": "SCP-7456",
+      "alternateTitle": "A Bunch of Morons",
+      "rating": 15,
+      "createdAt": "2024-12-16T19:38:22.000Z",
+      "tags": [
+        "alive",
+        "artificial-intelligence",
+        "building",
+        "cognitohazard",
+        "extraterrestrial",
+        "humanoid",
         "safe",
+        "sapient",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "TeaAndDigestives"
+        "Captain_Wavzies"
       ]
     }
   ]

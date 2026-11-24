@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:30:28.990Z",
+  "updatedAt": "2026-11-24T19:11:29.888Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,65 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-4678",
-      "title": "SCP-4678",
-      "alternateTitle": "A Time and Place for Regret",
-      "rating": 4,
-      "createdAt": "2019-09-18T20:05:38.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8099",
+      "title": "SCP-8099",
+      "alternateTitle": "Fantasi",
+      "rating": 17,
+      "createdAt": "2024-02-13T19:28:59.000Z",
       "tags": [
-        "action",
-        "artifact",
-        "bleak",
-        "cain",
-        "neutralized",
+        "8000",
+        "alive",
+        "extradimensional",
+        "humanoid",
+        "keter",
+        "reality-bending",
+        "sapient",
         "scp",
-        "temporal",
-        "time-travel"
+        "uncontained"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg/1600px-August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg?20210713191833",
       "authors": [
-        "Kaether"
+        "Nils Severin"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6583",
-      "title": "SCP-6583",
-      "alternateTitle": "Usurped",
-      "rating": 16,
-      "createdAt": "2022-08-13T02:47:23.000Z",
-      "tags": [
-        "biological",
-        "building",
-        "euclid",
-        "fifthist",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-6583/house.jpg",
-      "authors": [
-        "Quicksilvers"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7456",
-      "title": "SCP-7456",
-      "alternateTitle": "A Bunch of Morons",
-      "rating": 15,
-      "createdAt": "2024-12-16T19:38:22.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5467",
+      "title": "SCP-5467",
+      "alternateTitle": "An Uncommon Clairvoyant [PENDING]",
+      "rating": 17,
+      "createdAt": "2021-10-10T16:23:04.000Z",
       "tags": [
         "alive",
-        "artificial-intelligence",
-        "building",
-        "cognitohazard",
-        "extraterrestrial",
+        "euclid",
+        "extradimensional",
+        "future",
         "humanoid",
-        "safe",
+        "indestructible",
         "sapient",
-        "science-fiction",
-        "scp"
+        "scp",
+        "spatial"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Captain_Wavzies"
+        "Dr_Recoil"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6392",
+      "title": "SCP-6392",
+      "alternateTitle": "Somebody You May Know",
+      "rating": 24,
+      "createdAt": "2024-11-06T00:13:27.000Z",
+      "tags": [
+        "asci",
+        "esoteric-class",
+        "mystery",
+        "nobody",
+        "raisa",
+        "scp",
+        "the-administrator"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
+      "authors": [
+        "Mechatroniks"
       ]
     }
   ]

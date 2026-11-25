@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:11:29.888Z",
+  "updatedAt": "2026-11-25T05:59:21.062Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,67 +8,67 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8099",
-      "title": "SCP-8099",
-      "alternateTitle": "Fantasi",
-      "rating": 17,
-      "createdAt": "2024-02-13T19:28:59.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-cn-980",
+      "title": "SCP-CN-980",
+      "alternateTitle": "J",
+      "rating": 3,
+      "createdAt": "2023-09-07T22:48:55.000Z",
       "tags": [
-        "8000",
-        "alive",
-        "extradimensional",
-        "humanoid",
-        "keter",
+        "concept",
+        "foundation-made",
+        "historical",
+        "international",
+        "mechanical",
+        "meta",
+        "narrative",
         "reality-bending",
-        "sapient",
-        "scp",
-        "uncontained"
+        "safe",
+        "scp"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg/1600px-August_Malmstr%C3%B6m_-_Barn_lekande_vid_%C3%A5n.jpg?20210713191833",
+      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/boynextdoor/4",
       "authors": [
-        "Nils Severin"
+        "Veleafer",
+        "tetsusquared"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5467",
-      "title": "SCP-5467",
-      "alternateTitle": "An Uncommon Clairvoyant [PENDING]",
-      "rating": 17,
-      "createdAt": "2021-10-10T16:23:04.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-7675",
+      "title": "SCP-7675",
+      "alternateTitle": "An Instigator",
+      "rating": 10,
+      "createdAt": "2023-10-18T19:01:22.000Z",
       "tags": [
-        "alive",
-        "euclid",
-        "extradimensional",
-        "future",
-        "humanoid",
-        "indestructible",
-        "sapient",
+        "artifact",
+        "empathic",
+        "safe",
         "scp",
-        "spatial"
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Dr_Recoil"
+        "good_vibrations"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-6392",
-      "title": "SCP-6392",
-      "alternateTitle": "Somebody You May Know",
-      "rating": 24,
-      "createdAt": "2024-11-06T00:13:27.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8241",
+      "title": "SCP-8241",
+      "alternateTitle": "Casta Diva",
+      "rating": 22,
+      "createdAt": "2026-04-08T13:39:18.000Z",
       "tags": [
-        "asci",
+        "acoustic",
+        "apollyon",
         "esoteric-class",
-        "mystery",
-        "nobody",
-        "raisa",
+        "moon",
+        "musical",
+        "planet",
         "scp",
-        "the-administrator"
+        "structure",
+        "thaumaturgy"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Germ%C3%A1n_Riesco%285%29.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Casta_Diva%22_-_Nell%27Opera_la_Norma_-_Del_Sig.r_M%C2%B0_-_Vincenzo_Bellini._%28Titre_ajout%C3%A9%2C_d%27une_autre_%C3%A9criture%29_%28manuscrit_autographe%29_-_btv1b10861856v_%2808_of_48%29.jpg/960px-thumbnail.jpg?_=20250801203300",
       "authors": [
-        "Mechatroniks"
+        "MrJanov"
       ]
     }
   ]

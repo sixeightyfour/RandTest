@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:59:21.062Z",
+  "updatedAt": "2026-11-25T18:15:52.578Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,27 +8,44 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-cn-980",
-      "title": "SCP-CN-980",
-      "alternateTitle": "J",
-      "rating": 3,
-      "createdAt": "2023-09-07T22:48:55.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-621-ex",
+      "title": "SCP-621-EX",
+      "alternateTitle": "A Stranger in the Casket",
+      "rating": 8,
+      "createdAt": "2025-09-06T23:34:14.000Z",
       "tags": [
-        "concept",
-        "foundation-made",
-        "historical",
-        "international",
-        "mechanical",
-        "meta",
-        "narrative",
-        "reality-bending",
-        "safe",
+        "bleak",
+        "explained",
         "scp"
       ],
-      "thumbnailUrl": "http://scpsandboxcn.wdfiles.com/local--files/boynextdoor/4",
+      "thumbnailUrl": "",
       "authors": [
-        "Veleafer",
-        "tetsusquared"
+        "Mister_Toasty"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8569",
+      "title": "SCP-8569",
+      "alternateTitle": "All The Holy Lands Before You",
+      "rating": 16,
+      "createdAt": "2026-02-27T18:40:37.000Z",
+      "tags": [
+        "building",
+        "extradimensional",
+        "foundation-made",
+        "k-class-scenario",
+        "keter",
+        "phenomenon",
+        "portal",
+        "religious",
+        "scp",
+        "spatial",
+        "tactical-theology",
+        "yossarian-leiner"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pseudo_Kleinian_OpenCL_214854124_25K.jpg/640px-Pseudo_Kleinian_OpenCL_214854124_25K.jpg",
+      "authors": [
+        "poltatherian"
       ]
     },
     {
@@ -47,28 +64,6 @@
       "thumbnailUrl": "",
       "authors": [
         "good_vibrations"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8241",
-      "title": "SCP-8241",
-      "alternateTitle": "Casta Diva",
-      "rating": 22,
-      "createdAt": "2026-04-08T13:39:18.000Z",
-      "tags": [
-        "acoustic",
-        "apollyon",
-        "esoteric-class",
-        "moon",
-        "musical",
-        "planet",
-        "scp",
-        "structure",
-        "thaumaturgy"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Casta_Diva%22_-_Nell%27Opera_la_Norma_-_Del_Sig.r_M%C2%B0_-_Vincenzo_Bellini._%28Titre_ajout%C3%A9%2C_d%27une_autre_%C3%A9criture%29_%28manuscrit_autographe%29_-_btv1b10861856v_%2808_of_48%29.jpg/960px-thumbnail.jpg?_=20250801203300",
-      "authors": [
-        "MrJanov"
       ]
     }
   ]

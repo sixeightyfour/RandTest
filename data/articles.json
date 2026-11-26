@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:52:28.379Z",
+  "updatedAt": "2026-11-26T17:57:34.497Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,77 +8,73 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8681",
-      "title": "SCP-8681",
-      "alternateTitle": "Review Request on the PHLOX Highway",
-      "rating": 11,
-      "createdAt": "2025-05-26T05:54:16.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-5313",
+      "title": "SCP-5313",
+      "alternateTitle": "town of alma",
+      "rating": 23,
+      "createdAt": "2021-03-03T21:46:41.000Z",
       "tags": [
-        "bureaucracy",
-        "corporate",
-        "euclid",
+        "antimemetic",
+        "biological",
+        "chaos-insurgency",
+        "document",
         "extradimensional",
-        "foundation-made",
-        "intcanoncon2025",
-        "science-fiction",
+        "location",
+        "portal",
+        "safe",
         "scp"
+      ],
+      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/www-yahoo/Beach_at_Historic_Jamestown_National_Park_-_Stierch.jpg",
+      "authors": [
+        "www-yahoo"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8374",
+      "title": "SCP-8374",
+      "alternateTitle": "Perfection Changes You",
+      "rating": 13,
+      "createdAt": "2025-08-10T20:20:00.000Z",
+      "tags": [
+        "body-horror",
+        "document",
+        "horror",
+        "mind-affecting",
+        "religious",
+        "religious-fiction",
+        "safe",
+        "scp",
+        "transfiguration"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mang Gwan"
+        "Fernlom"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-15625-ko-j",
-      "title": "SCP-15625-KO-J",
-      "alternateTitle": "Mx Let Me Out",
-      "rating": 12,
-      "createdAt": "2024-05-22T10:10:57.000Z",
-      "tags": [
-        "alive",
-        "dr-wondertainment",
-        "extradimensional",
-        "humanoid",
-        "international",
-        "joke",
-        "mister",
-        "safe",
-        "sapient",
-        "scp",
-        "wonder-world"
-      ],
-      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-15625-ko-j/15625drw.png",
-      "authors": [
-        "Crssk",
-        "fluxman"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-148-de",
-      "title": "SCP-148-DE",
-      "alternateTitle": "Blue Slime [Level 25]",
-      "rating": 10,
-      "createdAt": "2022-07-23T04:57:00.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-079-it",
+      "title": "SCP-079-IT",
+      "alternateTitle": "Locus Amoenus",
+      "rating": 15,
+      "createdAt": "2022-05-04T19:02:43.000Z",
       "tags": [
         "adaptive",
-        "amorphous",
-        "autonomous",
-        "biological",
-        "ectoentropic",
-        "euclid",
-        "humanoid",
+        "city",
+        "computer",
+        "electronic",
+        "historical",
         "international",
-        "liquid",
-        "metamorphic",
-        "mimetic",
-        "sapient",
+        "online",
+        "reality-bending",
+        "safe",
         "scp",
-        "tactile"
+        "spatial",
+        "temporal"
       ],
-      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
+      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-079-it/oli.webp",
       "authors": [
-        "Einer von Rabe",
-        "Einer von Rabe"
+        "ProcastinationTime",
+        "Siddartha Alonne"
       ]
     }
   ]

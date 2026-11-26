@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:15:52.578Z",
+  "updatedAt": "2026-11-26T05:52:28.379Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,62 +8,77 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-621-ex",
-      "title": "SCP-621-EX",
-      "alternateTitle": "A Stranger in the Casket",
-      "rating": 8,
-      "createdAt": "2025-09-06T23:34:14.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8681",
+      "title": "SCP-8681",
+      "alternateTitle": "Review Request on the PHLOX Highway",
+      "rating": 11,
+      "createdAt": "2025-05-26T05:54:16.000Z",
       "tags": [
-        "bleak",
-        "explained",
+        "bureaucracy",
+        "corporate",
+        "euclid",
+        "extradimensional",
+        "foundation-made",
+        "intcanoncon2025",
+        "science-fiction",
         "scp"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Mister_Toasty"
+        "Mang Gwan"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-8569",
-      "title": "SCP-8569",
-      "alternateTitle": "All The Holy Lands Before You",
-      "rating": 16,
-      "createdAt": "2026-02-27T18:40:37.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-15625-ko-j",
+      "title": "SCP-15625-KO-J",
+      "alternateTitle": "Mx Let Me Out",
+      "rating": 12,
+      "createdAt": "2024-05-22T10:10:57.000Z",
       "tags": [
-        "building",
+        "alive",
+        "dr-wondertainment",
         "extradimensional",
-        "foundation-made",
-        "k-class-scenario",
-        "keter",
-        "phenomenon",
-        "portal",
-        "religious",
+        "humanoid",
+        "international",
+        "joke",
+        "mister",
+        "safe",
+        "sapient",
         "scp",
-        "spatial",
-        "tactical-theology",
-        "yossarian-leiner"
+        "wonder-world"
       ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pseudo_Kleinian_OpenCL_214854124_25K.jpg/640px-Pseudo_Kleinian_OpenCL_214854124_25K.jpg",
+      "thumbnailUrl": "http://scpko.wdfiles.com/local--files/scp-15625-ko-j/15625drw.png",
       "authors": [
-        "poltatherian"
+        "Crssk",
+        "fluxman"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-7675",
-      "title": "SCP-7675",
-      "alternateTitle": "An Instigator",
+      "url": "http://scp-wiki.wikidot.com/scp-148-de",
+      "title": "SCP-148-DE",
+      "alternateTitle": "Blue Slime [Level 25]",
       "rating": 10,
-      "createdAt": "2023-10-18T19:01:22.000Z",
+      "createdAt": "2022-07-23T04:57:00.000Z",
       "tags": [
-        "artifact",
-        "empathic",
-        "safe",
+        "adaptive",
+        "amorphous",
+        "autonomous",
+        "biological",
+        "ectoentropic",
+        "euclid",
+        "humanoid",
+        "international",
+        "liquid",
+        "metamorphic",
+        "mimetic",
+        "sapient",
         "scp",
-        "transfiguration"
+        "tactile"
       ],
-      "thumbnailUrl": "",
+      "thumbnailUrl": "http://c2.peakpx.com/wallpaper/493/559/609/gel-blue-damp-moisture-wet-product-wallpaper-preview.jpg",
       "authors": [
-        "good_vibrations"
+        "Einer von Rabe",
+        "Einer von Rabe"
       ]
     }
   ]

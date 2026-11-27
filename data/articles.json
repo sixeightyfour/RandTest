@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:57:34.497Z",
+  "updatedAt": "2026-11-27T05:46:09.385Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,73 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-5313",
-      "title": "SCP-5313",
-      "alternateTitle": "town of alma",
-      "rating": 23,
-      "createdAt": "2021-03-03T21:46:41.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-067-tl",
+      "title": "SCP-067-TL",
+      "alternateTitle": "Kendama and the Earth's Axis - The Original",
+      "rating": 3,
+      "createdAt": "2024-05-20T06:02:36.000Z",
       "tags": [
-        "antimemetic",
-        "biological",
-        "chaos-insurgency",
-        "document",
-        "extradimensional",
-        "location",
-        "portal",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "http://scp-sandbox-3.wdfiles.com/local--files/www-yahoo/Beach_at_Historic_Jamestown_National_Park_-_Stierch.jpg",
-      "authors": [
-        "www-yahoo"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8374",
-      "title": "SCP-8374",
-      "alternateTitle": "Perfection Changes You",
-      "rating": 13,
-      "createdAt": "2025-08-10T20:20:00.000Z",
-      "tags": [
-        "body-horror",
-        "document",
-        "horror",
-        "mind-affecting",
-        "religious",
-        "religious-fiction",
+        "electromagnetic",
+        "international",
+        "planet",
         "safe",
         "scp",
-        "transfiguration"
+        "toy"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Fernlom"
+        "Joejose",
+        "eyesor"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-079-it",
-      "title": "SCP-079-IT",
-      "alternateTitle": "Locus Amoenus",
-      "rating": 15,
-      "createdAt": "2022-05-04T19:02:43.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-es-185",
+      "title": "SCP-ES-185",
+      "alternateTitle": "Space Swallow",
+      "rating": 4,
+      "createdAt": "2023-07-26T15:31:56.000Z",
       "tags": [
-        "adaptive",
-        "city",
-        "computer",
-        "electronic",
+        "foundation-made",
         "historical",
         "international",
-        "online",
-        "reality-bending",
+        "loop",
+        "mechanical",
+        "media",
+        "military",
         "safe",
         "scp",
-        "spatial",
-        "temporal"
+        "temporal",
+        "vehicle"
       ],
-      "thumbnailUrl": "https://scp-wiki.wikidot.com/local--files/scp-079-it/oli.webp",
+      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
       "authors": [
-        "ProcastinationTime",
-        "Siddartha Alonne"
+        "Daman_1985",
+        "AlienSpaceBat"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-7060",
+      "title": "SCP-7060",
+      "alternateTitle": "A Place of No Fortune",
+      "rating": 14,
+      "createdAt": "2022-07-31T23:12:01.000Z",
+      "tags": [
+        "7000",
+        "city",
+        "euclid",
+        "humanoid",
+        "probability",
+        "sapient",
+        "scp"
+      ],
+      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7060/Site900B.jpg",
+      "authors": [
+        "FluffyDog00"
       ]
     }
   ]

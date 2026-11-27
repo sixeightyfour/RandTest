@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:46:09.385Z",
+  "updatedAt": "2026-11-27T17:42:57.341Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,68 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-067-tl",
-      "title": "SCP-067-TL",
-      "alternateTitle": "Kendama and the Earth's Axis - The Original",
-      "rating": 3,
-      "createdAt": "2024-05-20T06:02:36.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-301-de",
+      "title": "SCP-301-DE",
+      "alternateTitle": "Spongy Wonderbag",
+      "rating": 8,
+      "createdAt": "2022-11-04T20:50:03.000Z",
       "tags": [
-        "electromagnetic",
+        "animal",
+        "aquatic",
+        "biohazard",
+        "biological",
+        "ectoentropic",
         "international",
-        "planet",
+        "reanimation",
         "safe",
+        "scp"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Archaeocyatha.png",
+      "authors": [
+        "Karpfisch",
+        "Karpfisch"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-6539",
+      "title": "SCP-6539",
+      "alternateTitle": "Penumbra",
+      "rating": 12,
+      "createdAt": "2025-02-05T23:52:53.000Z",
+      "tags": [
+        "amorphous",
+        "euclid",
+        "humanoid",
+        "intangible",
         "scp",
-        "toy"
+        "self-replicating"
       ],
       "thumbnailUrl": "",
       "authors": [
-        "Joejose",
-        "eyesor"
+        "Captain_Wavzies"
       ]
     },
     {
-      "url": "http://scp-wiki.wikidot.com/scp-es-185",
-      "title": "SCP-ES-185",
-      "alternateTitle": "Space Swallow",
-      "rating": 4,
-      "createdAt": "2023-07-26T15:31:56.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8202",
+      "title": "SCP-8202",
+      "alternateTitle": "Enemies from Within",
+      "rating": 18,
+      "createdAt": "2024-08-15T06:53:43.000Z",
       "tags": [
-        "foundation-made",
-        "historical",
-        "international",
-        "loop",
-        "mechanical",
-        "media",
-        "military",
+        "airborne",
+        "biological",
+        "cadaver",
+        "extraterrestrial",
+        "humanoid",
+        "reptile",
         "safe",
         "scp",
-        "temporal",
+        "spatial",
         "vehicle"
       ],
-      "thumbnailUrl": "http://lafundacionscp.wdfiles.com/local--files/scp-es-185/Logo.jpg",
+      "thumbnailUrl": "",
       "authors": [
-        "Daman_1985",
-        "AlienSpaceBat"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-7060",
-      "title": "SCP-7060",
-      "alternateTitle": "A Place of No Fortune",
-      "rating": 14,
-      "createdAt": "2022-07-31T23:12:01.000Z",
-      "tags": [
-        "7000",
-        "city",
-        "euclid",
-        "humanoid",
-        "probability",
-        "sapient",
-        "scp"
-      ],
-      "thumbnailUrl": "https://scp-wiki.wdfiles.com/local--files/scp-7060/Site900B.jpg",
-      "authors": [
-        "FluffyDog00"
+        "Delta_Nine"
       ]
     }
   ]

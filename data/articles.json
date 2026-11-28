@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:42:57.341Z",
+  "updatedAt": "2026-11-28T05:26:35.408Z",
   "criteria": {
     "tag": "scp",
     "ratingBelow": 25,
@@ -8,68 +8,66 @@
   },
   "articles": [
     {
-      "url": "http://scp-wiki.wikidot.com/scp-301-de",
-      "title": "SCP-301-DE",
-      "alternateTitle": "Spongy Wonderbag",
-      "rating": 8,
-      "createdAt": "2022-11-04T20:50:03.000Z",
+      "url": "http://scp-wiki.wikidot.com/scp-8167",
+      "title": "SCP-8167",
+      "alternateTitle": "Hot Wheels",
+      "rating": 3,
+      "createdAt": "2025-06-16T02:39:54.000Z",
       "tags": [
-        "animal",
-        "aquatic",
-        "biohazard",
-        "biological",
-        "ectoentropic",
-        "international",
-        "reanimation",
-        "safe",
-        "scp"
-      ],
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Archaeocyatha.png",
-      "authors": [
-        "Karpfisch",
-        "Karpfisch"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-6539",
-      "title": "SCP-6539",
-      "alternateTitle": "Penumbra",
-      "rating": 12,
-      "createdAt": "2025-02-05T23:52:53.000Z",
-      "tags": [
-        "amorphous",
-        "euclid",
-        "humanoid",
-        "intangible",
-        "scp",
-        "self-replicating"
-      ],
-      "thumbnailUrl": "",
-      "authors": [
-        "Captain_Wavzies"
-      ]
-    },
-    {
-      "url": "http://scp-wiki.wikidot.com/scp-8202",
-      "title": "SCP-8202",
-      "alternateTitle": "Enemies from Within",
-      "rating": 18,
-      "createdAt": "2024-08-15T06:53:43.000Z",
-      "tags": [
-        "airborne",
-        "biological",
-        "cadaver",
-        "extraterrestrial",
-        "humanoid",
-        "reptile",
+        "abnormalities",
+        "director-bold",
+        "mind-affecting",
         "safe",
         "scp",
-        "spatial",
+        "sleep",
+        "toy",
         "vehicle"
       ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hot_wheels.jpg/960px-Hot_wheels.jpg?20210121155335",
+      "authors": [
+        "Solios"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-8396",
+      "title": "SCP-8396",
+      "alternateTitle": "Uncertainly Existing Object",
+      "rating": 15,
+      "createdAt": "2025-10-19T08:37:19.000Z",
+      "tags": [
+        "esoteric-class",
+        "infohazard",
+        "k-class-scenario",
+        "language",
+        "reality-bending",
+        "scp",
+        "structure"
+      ],
       "thumbnailUrl": "",
       "authors": [
-        "Delta_Nine"
+        "MrOnionBread"
+      ]
+    },
+    {
+      "url": "http://scp-wiki.wikidot.com/scp-9975",
+      "title": "SCP-9975",
+      "alternateTitle": "THE SCP FOUNDATION EXPERIENCE",
+      "rating": 11,
+      "createdAt": "2026-04-20T11:29:26.000Z",
+      "tags": [
+        "bleak",
+        "building",
+        "compulsion",
+        "document",
+        "foundation-made",
+        "foundation-personnel",
+        "game",
+        "neutralized",
+        "scp"
+      ],
+      "thumbnailUrl": "",
+      "authors": [
+        "Shapey"
       ]
     }
   ]
